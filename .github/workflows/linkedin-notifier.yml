@@ -41,6 +41,16 @@ jobs:
           RUN_ONCE: "1"
         run: node linkedin-notifier.js
 
+      - name: Send manual-run test ping
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GROUP_ID: ${{ secrets.GROUP_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\":\"${GROUP_ID}\",\"text\":\"GitHub Actions check: LinkedIn notifier workflow ran successfully.\"}" > /dev/null
+
       - name: Persist seen state
         run: |
           git config user.name "github-actions[bot]"
