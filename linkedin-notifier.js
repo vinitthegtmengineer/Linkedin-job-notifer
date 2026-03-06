@@ -230,6 +230,23 @@ async function fetchLinkedinJobs() {
 
 // --- RSS Feeds ---
 
+// Extract the real LinkedIn URL from a Google News RSS item.
+// Google News wraps the original URL in a redirect; the real URL is in the
+// item content HTML as an <a href="..."> pointing to linkedin.com.
+function extractLinkedinUrl(item) {
+  // Try content / summary HTML first — Google News embeds the source href there
+  const html = item.content || item.summary || item["content:encoded"] || "";
+  const match = html.match(/href="(https?:\/\/(?:www\.)?linkedin\.com[^"]+)"/i);
+  if (match) return match[1].split("?")[0];
+
+  // Fallback: use the item link if it already points to linkedin.com
+  const link = item.link || item.guid || "";
+  if (/linkedin\.com/i.test(link)) return link.split("?")[0];
+
+  // Nothing useful — return empty so we skip this item
+  return "";
+}
+
 async function fetchRssFeeds() {
   const feedUrls = DEFAULT_RSS_FEEDS;
   const results = await Promise.allSettled(feedUrls.map((url) => parser.parseURL(url)));
@@ -239,7 +256,11 @@ async function fetchRssFeeds() {
     const result = results[i];
     if (result.status === "fulfilled") {
       const feedItems = result.value.items || [];
-      feedItems.forEach((item) => items.push({ ...item, sourceFeed: feedUrls[i] }));
+      for (const item of feedItems) {
+        const linkedinUrl = extractLinkedinUrl(item);
+        if (!linkedinUrl) continue; // skip if we can't get a real LinkedIn URL
+        items.push({ ...item, link: linkedinUrl, sourceFeed: feedUrls[i] });
+      }
       console.log(`RSS OK: ${feedItems.length} items`);
     } else {
       console.log(`RSS failed: ${result.reason?.message}`);
