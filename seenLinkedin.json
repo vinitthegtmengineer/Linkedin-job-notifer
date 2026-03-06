@@ -113,7 +113,11 @@
     "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-va-masters-vamasters-com-4380457348": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-golden-fleece-films-4381970463": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371129634": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-the-creators-entertainment-4381976384": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-the-creators-entertainment-4381976384": 1,
+    "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4380243634": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-5%c3%a0sec-4380285075": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-codecelix-4380282042": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-video-editor-at-your-social-recipe-4381658547": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -128,7 +132,7 @@
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
