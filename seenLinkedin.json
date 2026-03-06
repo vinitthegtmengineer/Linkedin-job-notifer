@@ -204,7 +204,9 @@
     "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382158014": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-virgin-power-and-engineering-pvt-ltd-4381034946": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-the-branding-people-4381056316": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1,
+    "https://www.linkedin.com/jobs/view/medical-claims-entry-operator-at-moda-health-4382145688": 1,
+    "https://www.linkedin.com/jobs/view/client-operations-engineer-growth-expert-at-growthx-ai-4382146780": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -230,7 +232,7 @@
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 20,
     "sentToday": 20,
     "lastSummaryDate": ""
