@@ -234,7 +234,8 @@
     "https://www.linkedin.com/jobs/view/azure-cloud-engineer-ops-support-at-leidos-4380811397": 1,
     "https://www.linkedin.com/jobs/view/principal-gtm-strategy-and-integration-contract-at-earned-4381059797": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382156177": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4381074559": 1
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4381074559": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165876": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -263,7 +264,7 @@
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 23,
     "sentToday": 23,
     "lastSummaryDate": ""
