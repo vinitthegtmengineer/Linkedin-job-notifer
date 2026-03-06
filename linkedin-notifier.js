@@ -9,48 +9,49 @@ const parser = new Parser();
 const STATE_FILE = path.join(__dirname, "seenLinkedin.json");
 const KEYWORDS_FILE = path.join(__dirname, "linkedin-keywords.json");
 
-const DEFAULT_POLL_SECONDS = 60;
-const MAX_SEEN = 1000;
-const DEFAULT_MAX_ALERTS_PER_CYCLE = 10;
-const DEFAULT_MAX_POST_AGE_HOURS = 24;
+const DEFAULT_POLL_SECONDS = 600;
+const MAX_SEEN = 2000;
+const DEFAULT_MAX_ALERTS_PER_CYCLE = 5;
+const DEFAULT_MAX_POST_AGE_HOURS = 48;
 
-const ROLE_QUERY_GROUPS = [
-  "%22campaign+manager%22",
+// Google News RSS query groups for LinkedIn posts
+const RSS_QUERY_GROUPS = [
   "(%22clay.com%22+OR+%22clay+gtm%22+OR+%22clay+automation%22+OR+%22clay+workflows%22+OR+%22clay+operator%22+OR+%22clay+specialist%22+OR+%22clay+consultant%22+OR+%22clay+expert%22+OR+%22clay+builder%22)",
-  "(%22revenue+operations+manager%22+OR+%22revops+engineer%22+OR+%22growth+operations+manager%22+OR+%22outbound+operations+manager%22+OR+%22marketing+operations+manager%22)",
-  "(%22gtm+engineer%22+OR+%22go+to+market+engineer%22+OR+%22revenue+operations+engineer%22+OR+%22growth+operations+engineer%22)"
+  "(%22gtm+engineer%22+OR+%22go+to+market+engineer%22+OR+%22revenue+operations+engineer%22+OR+%22growth+operations+engineer%22)",
+  "(%22campaign+executive%22+OR+%22campaign+manager%22+OR+%22marketing+operations%22)"
 ];
 
+// LinkedIn jobs API search queries
 const JOB_SEARCH_QUERIES = [
-  "campaign manager",
   "clay operator",
   "clay specialist",
   "clay consultant",
   "clay expert",
   "clay builder",
-  "revenue operations manager",
-  "revops engineer",
-  "growth operations manager",
-  "outbound operations manager",
-  "marketing operations manager",
   "gtm engineer",
   "go to market engineer",
   "revenue operations engineer",
-  "growth operations engineer"
+  "growth operations engineer",
+  "gtm",
+  "campaign executive",
+  "campaign manager",
+  "marketing operations"
 ];
 
-const DEFAULT_FEEDS = ROLE_QUERY_GROUPS.map((roleQuery) =>
-  `https://news.google.com/rss/search?q=site:linkedin.com/posts+(hiring+OR+job+opening)+(%22remote%22)+${roleQuery}+when:1d&hl=en-IN&gl=IN&ceid=IN:en`
+const DEFAULT_RSS_FEEDS = RSS_QUERY_GROUPS.map(
+  (q) => `https://news.google.com/rss/search?q=site:linkedin.com/posts+(hiring+OR+%22looking+for%22+OR+%22we+are+hiring%22)+${q}+when:1d&hl=en&gl=US&ceid=US:en`
 );
 
 const LINKEDIN_JOB_SEARCH_BASE =
   "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search";
 
+// --- Helpers ---
+
 function cleanText(text) {
   return (text || "")
     .replace(/<[^>]+>/g, " ")
     .replace(/&amp;/g, "&")
-    .replace(/&quot;/g, "\"")
+    .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&nbsp;/g, " ")
     .replace(/\s+/g, " ")
@@ -61,6 +62,113 @@ function extractFirst(input, regex) {
   const m = input.match(regex);
   return m ? cleanText(m[1]) : "";
 }
+
+function normalize(text) {
+  return (text || "").toLowerCase().replace(/\s+/g, " ").trim();
+}
+
+// Strip seniority/noise prefixes for title dedup
+function stripNoise(title) {
+  return normalize(title)
+    .replace(/^(sr\.?|senior|lead|principal|staff|junior|jr\.?|associate|remote)\s+/g, "")
+    .replace(/\s*[\-–|]\s*remote\s*$/g, "")
+    .replace(/\s*\(remote\)\s*$/g, "")
+    .trim();
+}
+
+// Normalise a LinkedIn URL to strip tracking params and country subdomains
+function urlKey(link) {
+  if (!link) return "";
+  // Strip query string (refId, trackingId change each request)
+  let url = link.split("?")[0];
+  // Normalise country subdomains: pk.linkedin.com -> www.linkedin.com
+  url = url.replace(/^https?:\/\/[a-z]{2}\.linkedin\.com/i, "https://www.linkedin.com");
+  return url.toLowerCase();
+}
+
+// Title+company key for secondary dedup
+function titleKey(item) {
+  const t = stripNoise(item.title || "");
+  const c = normalize((item.company || "").split(/\s*[\|·]\s*/)[0]);
+  return `${t}|||${c}`;
+}
+
+// --- State ---
+
+function readState() {
+  try {
+    if (!fs.existsSync(STATE_FILE)) {
+      return { seen: {}, sentTitles: {}, stats: {} };
+    }
+    const raw = JSON.parse(fs.readFileSync(STATE_FILE, "utf8"));
+    // Support legacy array format
+    let seen = raw.seen;
+    if (Array.isArray(seen)) {
+      seen = {};
+      for (const k of raw.seen) seen[k] = 1;
+    }
+    return {
+      seen: (seen && typeof seen === "object") ? seen : {},
+      sentTitles: (raw.sentTitles && typeof raw.sentTitles === "object" && !Array.isArray(raw.sentTitles)) ? raw.sentTitles : {},
+      stats: (raw.stats && typeof raw.stats === "object") ? raw.stats : {}
+    };
+  } catch (err) {
+    console.log("Failed to read state:", err.message);
+    return { seen: {}, sentTitles: {}, stats: {} };
+  }
+}
+
+function trimSeen(seen) {
+  const keys = Object.keys(seen);
+  if (keys.length <= MAX_SEEN) return seen;
+  const trimmed = {};
+  for (const k of keys.slice(-MAX_SEEN)) trimmed[k] = seen[k];
+  return trimmed;
+}
+
+function writeState(state) {
+  fs.writeFileSync(
+    STATE_FILE,
+    JSON.stringify(
+      {
+        seen: trimSeen(state.seen || {}),
+        sentTitles: state.sentTitles || {},
+        stats: state.stats || {}
+      },
+      null,
+      2
+    )
+  );
+}
+
+// --- Stats ---
+
+function getLocalDateKey() {
+  const now = new Date();
+  return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+}
+
+function rollStatsDate(stats) {
+  const today = getLocalDateKey();
+  if (stats.date !== today) {
+    return { date: today, cyclesToday: 0, matchedToday: 0, sentToday: 0, lastSummaryDate: stats.lastSummaryDate || "" };
+  }
+  return stats;
+}
+
+// --- Keywords ---
+
+function getKeywords() {
+  try {
+    const keywords = JSON.parse(fs.readFileSync(KEYWORDS_FILE, "utf8"));
+    if (!Array.isArray(keywords) || keywords.length === 0) throw new Error("Empty keywords");
+    return keywords.map(normalize).filter(Boolean);
+  } catch (err) {
+    throw new Error("linkedin-keywords.json is empty or invalid: " + err.message);
+  }
+}
+
+// --- LinkedIn Jobs API ---
 
 function parseLinkedinJobCards(html, query) {
   const cards = html.split(/<li(?=\s|>)/i).slice(1);
@@ -79,27 +187,22 @@ function parseLinkedinJobCards(html, query) {
 
     items.push({
       title: title || "LinkedIn Job",
+      company: company || "",
       link: href,
       contentSnippet: [company, location, timeText].filter(Boolean).join(" | "),
-      content: [company, location, timeText].filter(Boolean).join(" "),
-      pubDate: datetime || "",
-      isoDate: datetime || "",
-      sourceFeed: `linkedin-jobs-api:${query}`
+      pubDate: datetime || new Date().toISOString(),
+      isoDate: datetime || new Date().toISOString(),
+      sourceFeed: `linkedin-jobs:${query}`
     });
   }
 
   return items;
 }
 
-async function fetchLinkedinJobSearchItems() {
-  const queries = (process.env.JOB_SEARCH_QUERIES || "")
-    .split(",")
-    .map((q) => q.trim())
-    .filter(Boolean);
-  const finalQueries = queries.length ? queries : JOB_SEARCH_QUERIES;
+async function fetchLinkedinJobs() {
   const allItems = [];
 
-  for (const query of finalQueries) {
+  for (const query of JOB_SEARCH_QUERIES) {
     try {
       const url =
         `${LINKEDIN_JOB_SEARCH_BASE}?keywords=${encodeURIComponent(query)}` +
@@ -108,248 +211,130 @@ async function fetchLinkedinJobSearchItems() {
 
       const res = await axios.get(url, {
         timeout: 20000,
-        headers: { "User-Agent": "Mozilla/5.0" }
+        headers: {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "Accept-Language": "en-US,en;q=0.9"
+        }
       });
 
       const items = parseLinkedinJobCards(res.data || "", query);
       allItems.push(...items);
-      console.log(`LinkedIn jobs OK: ${items.length} from query "${query}"`);
+      console.log(`LinkedIn jobs [${query}]: ${items.length} results`);
     } catch (err) {
-      console.log(`LinkedIn jobs failed for "${query}": ${err.message}`);
+      console.log(`LinkedIn jobs failed [${query}]: ${err.message}`);
     }
   }
 
   return allItems;
 }
 
-function readJson(filePath, fallback) {
-  try {
-    if (!fs.existsSync(filePath)) return fallback;
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (err) {
-    console.log(`Failed to read ${path.basename(filePath)}: ${err.message}`);
-    return fallback;
-  }
-}
+// --- RSS Feeds ---
 
-function writeJson(filePath, value) {
-  fs.writeFileSync(filePath, JSON.stringify(value, null, 2));
-}
+async function fetchRssFeeds() {
+  const feedUrls = DEFAULT_RSS_FEEDS;
+  const results = await Promise.allSettled(feedUrls.map((url) => parser.parseURL(url)));
+  const items = [];
 
-function normalize(text) {
-  return (text || "").toLowerCase().replace(/\s+/g, " ").trim();
-}
-
-function getKeywords() {
-  const keywords = readJson(KEYWORDS_FILE, []);
-  if (!Array.isArray(keywords) || keywords.length === 0) {
-    throw new Error("linkedin-keywords.json is empty or invalid");
-  }
-  return keywords.map(normalize).filter(Boolean);
-}
-
-function getFeedUrls() {
-  const fromEnv = (process.env.LINKEDIN_FEEDS || "")
-    .split(",")
-    .map((s) => s.trim())
-    .filter(Boolean);
-  return fromEnv.length ? fromEnv : DEFAULT_FEEDS;
-}
-
-function parseBoolean(value, fallback) {
-  if (value === undefined) return fallback;
-  const v = String(value).trim().toLowerCase();
-  if (["1", "true", "yes", "on"].includes(v)) return true;
-  if (["0", "false", "no", "off"].includes(v)) return false;
-  return fallback;
-}
-
-function readState() {
-  const data = readJson(STATE_FILE, { bootstrapped: false, seen: [] });
-  const stats = data.stats && typeof data.stats === "object" ? data.stats : {};
-  return {
-    bootstrapped: Boolean(data.bootstrapped),
-    seen: Array.isArray(data.seen) ? data.seen : [],
-    stats: {
-      date: typeof stats.date === "string" ? stats.date : "",
-      cyclesToday: Number(stats.cyclesToday || 0),
-      matchedToday: Number(stats.matchedToday || 0),
-      sentToday: Number(stats.sentToday || 0),
-      lastSummaryDate: typeof stats.lastSummaryDate === "string" ? stats.lastSummaryDate : ""
+  for (let i = 0; i < results.length; i++) {
+    const result = results[i];
+    if (result.status === "fulfilled") {
+      const feedItems = result.value.items || [];
+      feedItems.forEach((item) => items.push({ ...item, sourceFeed: feedUrls[i] }));
+      console.log(`RSS OK: ${feedItems.length} items`);
+    } else {
+      console.log(`RSS failed: ${result.reason?.message}`);
     }
-  };
-}
-
-function trimSeen(seen) {
-  return seen.length > MAX_SEEN ? seen.slice(-MAX_SEEN) : seen;
-}
-
-function writeState(state) {
-  writeJson(STATE_FILE, {
-    bootstrapped: Boolean(state.bootstrapped),
-    seen: trimSeen(state.seen || []),
-    stats: state.stats || {}
-  });
-}
-
-function getLocalDateKey() {
-  const now = new Date();
-  const y = now.getFullYear();
-  const m = String(now.getMonth() + 1).padStart(2, "0");
-  const d = String(now.getDate()).padStart(2, "0");
-  return `${y}-${m}-${d}`;
-}
-
-function rollStatsDate(stats) {
-  const today = getLocalDateKey();
-  if (stats.date !== today) {
-    return {
-      ...stats,
-      date: today,
-      cyclesToday: 0,
-      matchedToday: 0,
-      sentToday: 0
-    };
   }
-  return stats;
+
+  return items;
 }
 
-function getItemKey(item) {
-  return item.guid || item.link;
-}
+// --- Matching ---
 
-function getItemText(item) {
-  return normalize([item.title, item.contentSnippet, item.content].filter(Boolean).join(" "));
-}
-
-function getPublishedDate(item) {
-  const raw = item.isoDate || item.pubDate;
-  if (!raw) return null;
-  const d = new Date(raw);
-  if (Number.isNaN(d.getTime())) return null;
-  return d;
+function matchesKeywords(item, keywords) {
+  const text = normalize(
+    [item.title, item.contentSnippet, item.content].filter(Boolean).join(" ")
+  );
+  return keywords.filter((k) => text.includes(k));
 }
 
 function isWithinAge(item, maxAgeHours) {
-  const publishedDate = getPublishedDate(item);
-  if (!publishedDate) return false;
-  const ageMs = Date.now() - publishedDate.getTime();
-  return ageMs >= 0 && ageMs <= maxAgeHours * 60 * 60 * 1000;
+  const raw = item.isoDate || item.pubDate;
+  if (!raw) return true; // allow if no date
+  const d = new Date(raw);
+  if (isNaN(d.getTime())) return true; // allow if unparseable
+  const ageMs = Date.now() - d.getTime();
+  return ageMs >= 0 && ageMs <= maxAgeHours * 3600 * 1000;
 }
 
-function isRemote(itemText) {
-  const remoteTerms = [
-    "remote",
-    "work from home",
-    "wfh",
-    "anywhere",
-    "distributed"
-  ];
-  return remoteTerms.some((term) => itemText.includes(term));
-}
-
-function detectType(itemText, link) {
-  const l = (link || "").toLowerCase();
-  if (l.includes("/jobs/")) return "job";
-  if (l.includes("/posts/") || l.includes("/feed/update")) return "post";
-  if (itemText.includes("hiring")) return "hiring-post";
-  return "linkedin-item";
-}
-
-function getMatchedKeywords(itemText, keywords) {
-  return keywords.filter((k) => itemText.includes(k));
-}
-
-function isMatch(item, keywords, options) {
-  const text = getItemText(item);
-  const matchedKeywords = getMatchedKeywords(text, keywords);
-
-  if (matchedKeywords.length === 0) return { ok: false, text, matchedKeywords };
-  if (options.requireRemote && !isRemote(text)) return { ok: false, text, matchedKeywords };
-  if (!isWithinAge(item, options.maxPostAgeHours)) return { ok: false, text, matchedKeywords };
-
-  return { ok: true, text, matchedKeywords };
-}
-
-function formatMessage(item, matchedKeywords, itemType) {
-  const title = item.title || "LinkedIn Opportunity";
-  const summary = (item.contentSnippet || item.content || "").replace(/\s+/g, " ").trim().slice(0, 250);
-  const published = item.pubDate || item.isoDate || "Unknown time";
-
-  return [
-    "LinkedIn Hiring Alert",
-    "",
-    `Type: ${itemType}`,
-    `Title: ${title}`,
-    summary ? `Summary: ${summary}` : null,
-    `Matched: ${matchedKeywords.join(", ")}`,
-    `Published: ${published}`,
-    `Link: ${item.link}`
-  ].filter(Boolean).join("\n");
-}
+// --- Telegram ---
 
 async function sendTelegram(message) {
-  if (process.env.DRY_RUN === "1") return true;
+  if (process.env.DRY_RUN === "1") {
+    console.log("DRY_RUN:", message.slice(0, 100));
+    return true;
+  }
 
   const token = (process.env.BOT_TOKEN || "").trim();
   const groupId = (process.env.GROUP_ID || "").trim();
 
-  if (!token || !groupId) {
-    throw new Error("BOT_TOKEN or GROUP_ID missing in .env");
-  }
+  if (!token || !groupId) throw new Error("BOT_TOKEN or GROUP_ID missing");
 
   const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
+  for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      await axios.post(url, {
-        chat_id: groupId,
-        text: message,
-        disable_web_page_preview: true
-      }, { timeout: 15000 });
+      await axios.post(url, { chat_id: groupId, text: message, disable_web_page_preview: true }, { timeout: 15000 });
       return true;
     } catch (err) {
       const retryAfter = err.response?.data?.parameters?.retry_after;
       if (err.response?.status === 429 && retryAfter) {
         await new Promise((r) => setTimeout(r, (retryAfter + 1) * 1000));
       } else if (attempt === 3) {
-        console.log("Telegram send failed:", err.response?.data || err.message);
+        console.log("Telegram failed:", err.response?.data || err.message);
         return false;
+      } else {
+        await new Promise((r) => setTimeout(r, 2000));
       }
     }
   }
-
   return false;
 }
 
-async function maybeSendStartupPing() {
-  const enabled = parseBoolean(process.env.STARTUP_PING, true);
-  if (!enabled || process.env.DRY_RUN === "1") return;
-  const text =
-    process.env.STARTUP_PING_TEXT ||
-    "LinkedIn notifier is live. Monitoring remote LinkedIn jobs/posts with your keyword filters.";
-  await sendTelegram(text);
+function formatMessage(item, matchedKeywords) {
+  const title = item.title || "LinkedIn Opportunity";
+  const company = item.company || "";
+  const summary = (item.contentSnippet || "").replace(/\s+/g, " ").trim().slice(0, 200);
+  const type = (item.link || "").includes("/jobs/") ? "Job" : "Post";
+
+  return [
+    "LinkedIn Hiring Alert",
+    "",
+    `Type: ${type}`,
+    `Title: ${title}`,
+    company ? `Company: ${company}` : null,
+    summary ? `Details: ${summary}` : null,
+    `Keywords: ${matchedKeywords.join(", ")}`,
+    `Link: ${item.link}`
+  ].filter(Boolean).join("\n");
 }
 
-async function maybeSendDailySummary(state) {
-  const enabled = parseBoolean(process.env.DAILY_SUMMARY, true);
-  if (!enabled || process.env.DRY_RUN === "1") return;
+// --- Daily Summary ---
 
+async function maybeSendDailySummary(state) {
+  if (process.env.DAILY_SUMMARY !== "1") return;
   const hour = Number(process.env.SUMMARY_HOUR || 22);
-  const minute = Number(process.env.SUMMARY_MINUTE || 0);
   const now = new Date();
   const today = getLocalDateKey();
-
   if (state.stats.lastSummaryDate === today) return;
   if (now.getHours() < hour) return;
-  if (now.getHours() === hour && now.getMinutes() < minute) return;
 
   const msg = [
     "LinkedIn Daily Summary",
     `Date: ${today}`,
-    `Cycles run: ${state.stats.cyclesToday}`,
-    `Matched items: ${state.stats.matchedToday}`,
-    `Alerts sent: ${state.stats.sentToday}`
+    `Cycles: ${state.stats.cyclesToday || 0}`,
+    `Matched: ${state.stats.matchedToday || 0}`,
+    `Sent: ${state.stats.sentToday || 0}`
   ].join("\n");
 
   const ok = await sendTelegram(msg);
@@ -359,130 +344,122 @@ async function maybeSendDailySummary(state) {
   }
 }
 
-async function fetchFeedItems(feedUrls) {
-  const results = await Promise.allSettled(feedUrls.map((url) => parser.parseURL(url)));
-  const items = [];
-
-  for (let i = 0; i < results.length; i += 1) {
-    const result = results[i];
-    const source = feedUrls[i];
-
-    if (result.status === "fulfilled") {
-      const feedItems = result.value.items || [];
-      feedItems.forEach((item) => items.push({ ...item, sourceFeed: source }));
-      console.log(`Feed OK: ${feedItems.length} from ${source}`);
-    } else {
-      console.log(`Feed failed: ${source} -> ${result.reason?.message || result.reason}`);
-    }
-  }
-
-  return items;
-}
+// --- Main cycle ---
 
 async function runCycle() {
   const keywords = getKeywords();
-  const feeds = getFeedUrls();
-  const state = readState();
-  state.stats = rollStatsDate(state.stats);
-  const seenSet = new Set(state.seen);
-  const requireRemote = parseBoolean(process.env.REQUIRE_REMOTE, true);
   const maxPostAgeHours = Number(process.env.MAX_POST_AGE_HOURS || DEFAULT_MAX_POST_AGE_HOURS) || DEFAULT_MAX_POST_AGE_HOURS;
   const maxAlertsPerCycle = Number(process.env.MAX_ALERTS_PER_CYCLE || DEFAULT_MAX_ALERTS_PER_CYCLE) || DEFAULT_MAX_ALERTS_PER_CYCLE;
 
-  console.log(`Checking feeds at ${new Date().toISOString()} | remote=${requireRemote} | maxAgeHours=${maxPostAgeHours}`);
+  const state = readState();
+  state.stats = rollStatsDate(state.stats);
 
-  const [rssItems, linkedinJobItems] = await Promise.all([
-    fetchFeedItems(feeds),
-    fetchLinkedinJobSearchItems()
+  console.log(`\n=== Cycle at ${new Date().toISOString()} ===`);
+
+  // Fetch all items in parallel
+  const [rssItems, jobItems] = await Promise.all([
+    fetchRssFeeds(),
+    fetchLinkedinJobs()
   ]);
-  const items = [...rssItems, ...linkedinJobItems];
-  const sorted = items
-    .filter((item) => item.link)
-    .sort((a, b) => new Date(b.pubDate || b.isoDate || 0) - new Date(a.pubDate || a.isoDate || 0));
 
-  if (!state.bootstrapped) {
-    const keys = [...new Set(sorted.map(getItemKey).filter(Boolean))];
-    writeState({ bootstrapped: true, seen: keys });
-    console.log(`Bootstrapped with ${keys.length} existing items. Alerts start next cycle.`);
+  const allItems = [...rssItems, ...jobItems];
+  console.log(`Total raw items: ${allItems.length}`);
+
+  // Dedup by URL key into a Map (same job from multiple queries = 1 entry)
+  const uniqueByUrl = new Map();
+  for (const item of allItems) {
+    const uk = urlKey(item.link);
+    if (uk && !uniqueByUrl.has(uk)) {
+      uniqueByUrl.set(uk, item);
+    }
+  }
+  console.log(`Unique by URL: ${uniqueByUrl.size}`);
+
+  let sent = 0;
+  let skippedSeen = 0;
+  let skippedKeyword = 0;
+  let skippedAge = 0;
+  let skippedTitle = 0;
+
+  for (const [uk, item] of uniqueByUrl) {
+    if (sent >= maxAlertsPerCycle) break;
+
+    // Skip if URL already seen
+    if (state.seen[uk]) {
+      skippedSeen++;
+      continue;
+    }
+
+    // Age check
+    if (!isWithinAge(item, maxPostAgeHours)) {
+      skippedAge++;
+      state.seen[uk] = 1;
+      continue;
+    }
+
+    // Keyword match
+    const matched = matchesKeywords(item, keywords);
+    if (matched.length === 0) {
+      skippedKeyword++;
+      state.seen[uk] = 1; // mark as seen so we don't re-check
+      continue;
+    }
+
+    // Title+company dedup (catches Sr./Senior/Lead variants)
+    const tk = titleKey(item);
+    if (state.sentTitles[tk]) {
+      skippedTitle++;
+      state.seen[uk] = 1;
+      console.log(`Skip duplicate title: "${item.title}"`);
+      continue;
+    }
+
+    // Send alert
+    const message = formatMessage(item, matched);
+    const ok = await sendTelegram(message);
+
+    if (ok) {
+      state.seen[uk] = 1;
+      state.sentTitles[tk] = new Date().toISOString();
+      state.stats.sentToday = (state.stats.sentToday || 0) + 1;
+      sent++;
+      writeState(state); // write after every send (crash-safe)
+      console.log(`SENT [${sent}]: ${item.title}`);
+      await new Promise((r) => setTimeout(r, 1200));
+    }
+  }
+
+  state.stats.cyclesToday = (state.stats.cyclesToday || 0) + 1;
+  state.stats.matchedToday = (state.stats.matchedToday || 0) + sent;
+  writeState(state);
+
+  console.log(`Done: sent=${sent}, skipped(seen=${skippedSeen}, keyword=${skippedKeyword}, age=${skippedAge}, titleDup=${skippedTitle})`);
+
+  await maybeSendDailySummary(state);
+}
+
+// --- Entry point ---
+
+async function start() {
+  console.log("LinkedIn notifier starting...");
+
+  if (process.env.RUN_ONCE === "1") {
+    await runCycle();
     return;
   }
 
-  let sent = 0;
-  const newSeen = [...state.seen];
-  const stats = {
-    total: sorted.length,
-    seen: 0,
-    keywordMiss: 0,
-    remoteMiss: 0,
-    ageMiss: 0,
-    matched: 0
-  };
+  const pollSeconds = Number(process.env.LINKEDIN_POLL_SECONDS || DEFAULT_POLL_SECONDS) || DEFAULT_POLL_SECONDS;
 
-  for (const item of sorted) {
-    const key = getItemKey(item);
-    if (!key || seenSet.has(key)) {
-      stats.seen += 1;
-      continue;
-    }
-    const matchResult = isMatch(item, keywords, { requireRemote, maxPostAgeHours });
-    if (!matchResult.ok) {
-      const text = matchResult.text || "";
-      if (matchResult.matchedKeywords.length === 0) {
-        stats.keywordMiss += 1;
-      } else if (requireRemote && !isRemote(text)) {
-        stats.remoteMiss += 1;
-      } else {
-        stats.ageMiss += 1;
-      }
-      continue;
-    }
-    stats.matched += 1;
-
-    const itemType = detectType(matchResult.text, item.link);
-    const message = formatMessage(item, matchResult.matchedKeywords, itemType);
-
-    if (process.env.DRY_RUN === "1") {
-      console.log(`DRY_RUN alert [${itemType}]:`, item.title);
-      sent += 1;
-      seenSet.add(key);
-      newSeen.push(key);
-      if (sent >= maxAlertsPerCycle) break;
-      continue;
-    }
-
-    const ok = await sendTelegram(message);
-    if (ok) {
-      sent += 1;
-      seenSet.add(key);
-      newSeen.push(key);
-      if (sent >= maxAlertsPerCycle) break;
-    }
-
-    await new Promise((r) => setTimeout(r, 1200));
+  if (process.env.STARTUP_PING === "1") {
+    await sendTelegram("LinkedIn notifier is live. Monitoring for jobs matching your keywords.");
   }
 
-  state.stats.cyclesToday += 1;
-  state.stats.matchedToday += stats.matched;
-  state.stats.sentToday += sent;
-
-  writeState({ bootstrapped: true, seen: newSeen, stats: state.stats });
-  await maybeSendDailySummary({ bootstrapped: true, seen: newSeen, stats: state.stats });
-  console.log(
-    `Cycle stats: total=${stats.total}, seen=${stats.seen}, keywordMiss=${stats.keywordMiss}, remoteMiss=${stats.remoteMiss}, ageMiss=${stats.ageMiss}, matched=${stats.matched}, sent=${sent}`
-  );
-  console.log(sent ? `Sent ${sent} alert(s).` : "No new matched alerts.");
-}
-
-async function start() {
-  const pollSeconds = Number(process.env.LINKEDIN_POLL_SECONDS || DEFAULT_POLL_SECONDS) || DEFAULT_POLL_SECONDS;
-  await maybeSendStartupPing();
   await runCycle();
-  if (process.env.RUN_ONCE === "1") return;
   setInterval(() => runCycle().catch((e) => console.log("Cycle error:", e.message)), pollSeconds * 1000);
-  console.log(`Notifier running. Poll every ${pollSeconds}s.`);
+  console.log(`Polling every ${pollSeconds}s.`);
 }
 
 start().catch((err) => {
-  console.error("Startup error:", err.message);
+  console.error("Fatal:", err.message);
   process.exit(1);
 });

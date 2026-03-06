@@ -2,7 +2,7 @@ name: LinkedIn Notifier (Free 24/7)
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,24 +32,13 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           GROUP_ID: ${{ secrets.GROUP_ID }}
-          LINKEDIN_POLL_SECONDS: "60"
           MAX_ALERTS_PER_CYCLE: "5"
           MAX_POST_AGE_HOURS: "24"
-          REQUIRE_REMOTE: "1"
+          REQUIRE_REMOTE: "0"
           STARTUP_PING: "0"
           DAILY_SUMMARY: "0"
           RUN_ONCE: "1"
         run: node linkedin-notifier.js
-
-      - name: Send manual-run test ping
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          GROUP_ID: ${{ secrets.GROUP_ID }}
-        run: |
-          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-            -H "Content-Type: application/json" \
-            -d "{\"chat_id\":\"${GROUP_ID}\",\"text\":\"GitHub Actions check: LinkedIn notifier workflow ran successfully.\"}" > /dev/null
 
       - name: Persist seen state
         run: |
