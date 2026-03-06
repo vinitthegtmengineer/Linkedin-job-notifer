@@ -167,7 +167,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-iii-at-the-fountain-group-4382125004": 1,
     "https://www.linkedin.com/jobs/view/chief-growth-officer-at-gogenesisai-4381049016": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-vibe-trader-4380467739": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-associate-at-omada-health-4380282948": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-associate-at-omada-health-4380282948": 1,
+    "https://www.linkedin.com/jobs/view/product-operator-to-drive-ai-first-product-execution-at-toptal-4382113863": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-snowflake-power-bi-at-fusion-consulting-4343018557": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -190,7 +192,7 @@
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
