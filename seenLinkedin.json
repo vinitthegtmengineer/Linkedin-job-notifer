@@ -162,7 +162,12 @@
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380289486": 1,
     "https://www.linkedin.com/jobs/view/vice-president-gtm-strategy-operations-at-smartsheet-4321364275": 1,
     "https://www.linkedin.com/jobs/view/facebook-ads-manager-at-azzallure-diamonds-4380290356": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4381699052": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4381699052": 1,
+    "https://www.linkedin.com/jobs/view/venezuela-consultor-para-la-elaboraci%c3%b3n-de-la-estrategia-de-abordaje-de-la-desnutrici%c3%b3n-remoto-at-reliefweb-4382125161": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-iii-at-the-fountain-group-4382125004": 1,
+    "https://www.linkedin.com/jobs/view/chief-growth-officer-at-gogenesisai-4381049016": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-vibe-trader-4380467739": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-associate-at-omada-health-4380282948": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -180,13 +185,14 @@
     "vice president of marketing operations|||ample finance group": "2026-03-06T15:23:04.827Z",
     "head of go to market engineering|||aicro": "2026-03-06T16:47:42.643Z",
     "gtm engineer|||hubspot": "2026-03-06T16:47:44.210Z",
-    "vice president, gtm strategy & operations|||smartsheet": "2026-03-06T16:47:45.750Z"
+    "vice president, gtm strategy & operations|||smartsheet": "2026-03-06T16:47:45.750Z",
+    "marketing operations associate|||omada health": "2026-03-06T17:06:30.864Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 14,
-    "matchedToday": 16,
-    "sentToday": 16,
+    "cyclesToday": 15,
+    "matchedToday": 17,
+    "sentToday": 17,
     "lastSummaryDate": ""
   }
 }
