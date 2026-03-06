@@ -347,6 +347,8 @@ function formatMessage(item, matchedKeywords) {
   const company = item.company || "";
   const summary = (item.contentSnippet || "").replace(/\s+/g, " ").trim().slice(0, 200);
   const type = (item.link || "").includes("/jobs/") ? "Job" : "Post";
+  // Always use clean URL (no tracking params, normalised to www.linkedin.com)
+  const cleanLink = urlKey(item.link);
 
   return [
     "LinkedIn Hiring Alert",
@@ -356,7 +358,7 @@ function formatMessage(item, matchedKeywords) {
     company ? `Company: ${company}` : null,
     summary ? `Details: ${summary}` : null,
     `Keywords: ${matchedKeywords.join(", ")}`,
-    `Link: ${item.link}`
+    `Link: ${cleanLink}`
   ].filter(Boolean).join("\n");
 }
 
