@@ -197,7 +197,14 @@
     "https://www.linkedin.com/jobs/view/manager-loyalty-crm-at-potbelly-sandwich-works-4308118250": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-evalueserve-4381064089": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-executive-molecular-at-streck-4381058251": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380291920": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380291920": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-casper-studios-4381059333": 1,
+    "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-fello-4381994084": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382155090": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382158014": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-virgin-power-and-engineering-pvt-ltd-4381034946": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-the-branding-people-4381056316": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -217,13 +224,15 @@
     "gtm engineer|||hubspot": "2026-03-06T16:47:44.210Z",
     "vice president, gtm strategy & operations|||smartsheet": "2026-03-06T16:47:45.750Z",
     "marketing operations associate|||omada health": "2026-03-06T17:06:30.864Z",
-    "campaign manager|||kyra": "2026-03-06T18:48:03.317Z"
+    "campaign manager|||kyra": "2026-03-06T18:48:03.317Z",
+    "gtm engineer|||casper studios": "2026-03-06T19:25:17.483Z",
+    "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 21,
-    "matchedToday": 18,
-    "sentToday": 18,
+    "cyclesToday": 22,
+    "matchedToday": 20,
+    "sentToday": 20,
     "lastSummaryDate": ""
   }
 }
