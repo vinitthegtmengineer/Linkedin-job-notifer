@@ -137,7 +137,18 @@
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-5%c3%a0sec-4380280721": 1,
     "https://www.linkedin.com/jobs/view/senior-property-engineer-wildfire-expert-at-allianz-commercial-4381675568": 1,
     "https://www.linkedin.com/jobs/view/operational-technology-network-engineer-at-valvoline-inc-4381637726": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372122798": 1
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372122798": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-operator-at-finmile-4381012979": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381991505": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382104493": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382107341": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382100636": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382114123": 1,
+    "https://www.linkedin.com/jobs/view/storage-operations-engineer-multiple-openings-at-vultr-4365381301": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-at-nexos-ai-4381994235": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-social-media-high-growth-lifestyle-brand-at-the-talent-magnet-4381987094": 1,
+    "https://www.linkedin.com/jobs/view/marketing-programs-lead-at-jobgether-4381686548": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-operations-at-ample-finance-group-4380650748": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -149,13 +160,16 @@
     "director of gtm revenue operations|||lensa": "2026-03-06T12:15:50.306Z",
     "sales operations manager - gtm|||backblaze": "2026-03-06T12:15:51.813Z",
     "head of gtm strategy|||xbow": "2026-03-06T13:03:16.201Z",
-    "partnerships, community & gtm|||sprinto": "2026-03-06T13:59:50.061Z"
+    "partnerships, community & gtm|||sprinto": "2026-03-06T13:59:50.061Z",
+    "founding gtm operator|||finmile": "2026-03-06T15:23:01.840Z",
+    "gtm engineer|||captivateiq": "2026-03-06T15:23:03.342Z",
+    "vice president of marketing operations|||ample finance group": "2026-03-06T15:23:04.827Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 9,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 10,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
