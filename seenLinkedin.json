@@ -230,7 +230,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380819178": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382167746": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382174416": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382164925": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382164925": 1,
+    "https://www.linkedin.com/jobs/view/azure-cloud-engineer-ops-support-at-leidos-4380811397": 1,
+    "https://www.linkedin.com/jobs/view/principal-gtm-strategy-and-integration-contract-at-earned-4381059797": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -254,13 +256,14 @@
     "gtm engineer|||casper studios": "2026-03-06T19:25:17.483Z",
     "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z",
     "marketing operations program manager|||stripe": "2026-03-06T20:51:16.142Z",
-    "director, gtm operations|||smartsheet": "2026-03-06T21:10:35.172Z"
+    "director, gtm operations|||smartsheet": "2026-03-06T21:10:35.172Z",
+    "principal, gtm strategy and integration (contract)|||earned": "2026-03-06T21:32:35.954Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 28,
-    "matchedToday": 22,
-    "sentToday": 22,
+    "cyclesToday": 29,
+    "matchedToday": 23,
+    "sentToday": 23,
     "lastSummaryDate": ""
   }
 }
