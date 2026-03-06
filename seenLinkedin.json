@@ -211,7 +211,9 @@
     "https://www.linkedin.com/jobs/view/marketing-director-at-above-4382163217": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4381069244": 1,
     "https://www.linkedin.com/jobs/view/body-builder-manager-at-man-truck-bus-uk-4382155701": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-jobgether-4381691388": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-jobgether-4381691388": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-creative-operations-and-delivery-at-levels-4381074364": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -233,13 +235,14 @@
     "marketing operations associate|||omada health": "2026-03-06T17:06:30.864Z",
     "campaign manager|||kyra": "2026-03-06T18:48:03.317Z",
     "gtm engineer|||casper studios": "2026-03-06T19:25:17.483Z",
-    "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z"
+    "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z",
+    "marketing operations program manager|||stripe": "2026-03-06T20:51:16.142Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 26,
-    "matchedToday": 20,
-    "sentToday": 20,
+    "cyclesToday": 27,
+    "matchedToday": 21,
+    "sentToday": 21,
     "lastSummaryDate": ""
   }
 }
