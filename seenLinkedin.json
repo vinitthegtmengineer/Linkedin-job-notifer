@@ -213,7 +213,24 @@
     "https://www.linkedin.com/jobs/view/body-builder-manager-at-man-truck-bus-uk-4382155701": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-jobgether-4381691388": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-creative-operations-and-delivery-at-levels-4381074364": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1,
+    "https://www.linkedin.com/jobs/view/marketing-ai-operations-manager-at-hatch-4381059869": 1,
+    "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-usaf-cloud-one-at-leidos-4380808597": 1,
+    "https://www.linkedin.com/jobs/view/director-ai-plg-at-workspan-4381941405": 1,
+    "https://www.linkedin.com/jobs/view/mssp-partner-manager-south-eastern-europe-at-group-ib-4380279273": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-phantom-4363420024": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-eap-strategy-operations-at-headspace-4354226760": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-opportunity-remote-at-jobgether-4381676958": 1,
+    "https://www.linkedin.com/jobs/view/remote-sales-director-position-at-jobgether-4381690431": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-trident-search-4376754917": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-smartsheet-4381034492": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-at-huzzle-com-4381999996": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382181115": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165894": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380819178": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382167746": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382174416": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382164925": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -236,13 +253,14 @@
     "campaign manager|||kyra": "2026-03-06T18:48:03.317Z",
     "gtm engineer|||casper studios": "2026-03-06T19:25:17.483Z",
     "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z",
-    "marketing operations program manager|||stripe": "2026-03-06T20:51:16.142Z"
+    "marketing operations program manager|||stripe": "2026-03-06T20:51:16.142Z",
+    "director, gtm operations|||smartsheet": "2026-03-06T21:10:35.172Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 27,
-    "matchedToday": 21,
-    "sentToday": 21,
+    "cyclesToday": 28,
+    "matchedToday": 22,
+    "sentToday": 22,
     "lastSummaryDate": ""
   }
 }
