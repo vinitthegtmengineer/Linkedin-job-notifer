@@ -243,7 +243,11 @@
     "https://www.linkedin.com/jobs/view/abm-campaign-manager-remote-at-zestyai-4382300182": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-element-technologies-4380821360": 1,
     "https://www.linkedin.com/jobs/view/abm-campaign-manager-remote-at-zestyai-4382302062": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-the-touring-co-4381062791": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-the-touring-co-4381062791": 1,
+    "https://www.linkedin.com/jobs/view/ghl-operator-56214464402-at-somewhere-4372796486": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4381072760": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-remote-at-paynearme-4376611021": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -270,13 +274,14 @@
     "director, gtm operations|||smartsheet": "2026-03-06T21:10:35.172Z",
     "principal, gtm strategy and integration (contract)|||earned": "2026-03-06T21:32:35.954Z",
     "gtm lead|||inworld ai": "2026-03-06T22:53:13.407Z",
-    "abm campaign manager|||zestyai": "2026-03-06T22:53:14.927Z"
+    "abm campaign manager|||zestyai": "2026-03-06T22:53:14.927Z",
+    "gtm enablement manager|||zenity": "2026-03-06T23:25:27.501Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 35,
-    "matchedToday": 25,
-    "sentToday": 25,
+    "cyclesToday": 36,
+    "matchedToday": 26,
+    "sentToday": 26,
     "lastSummaryDate": ""
   }
 }
