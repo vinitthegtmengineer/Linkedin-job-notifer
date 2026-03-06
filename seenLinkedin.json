@@ -235,7 +235,12 @@
     "https://www.linkedin.com/jobs/view/principal-gtm-strategy-and-integration-contract-at-earned-4381059797": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382156177": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4381074559": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165876": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165876": 1,
+    "https://www.linkedin.com/jobs/view/growth-ai-operator-at-bitso-4382186767": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-coforge-4381028171": 1,
+    "https://www.linkedin.com/jobs/view/abm-campaign-manager-remote-at-zestyai-4382190535": 1,
+    "https://www.linkedin.com/jobs/view/abm-campaign-manager-remote-at-zestyai-4382300182": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -260,13 +265,15 @@
     "gtm ai engineer|||fello": "2026-03-06T19:25:18.951Z",
     "marketing operations program manager|||stripe": "2026-03-06T20:51:16.142Z",
     "director, gtm operations|||smartsheet": "2026-03-06T21:10:35.172Z",
-    "principal, gtm strategy and integration (contract)|||earned": "2026-03-06T21:32:35.954Z"
+    "principal, gtm strategy and integration (contract)|||earned": "2026-03-06T21:32:35.954Z",
+    "gtm lead|||inworld ai": "2026-03-06T22:53:13.407Z",
+    "abm campaign manager|||zestyai": "2026-03-06T22:53:14.927Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 33,
-    "matchedToday": 23,
-    "sentToday": 23,
+    "cyclesToday": 34,
+    "matchedToday": 25,
+    "sentToday": 25,
     "lastSummaryDate": ""
   }
 }
