@@ -154,7 +154,15 @@
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-sprinto-4280850157": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-luxury-presence-4371170334": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-fidenda-4380291420": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-weekday-yc-w21-4380280361": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-weekday-yc-w21-4380280361": 1,
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-engineering-at-aicro-4382115524": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4381032348": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4382124005": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-hubspot-4382116507": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380289486": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-strategy-operations-at-smartsheet-4321364275": 1,
+    "https://www.linkedin.com/jobs/view/facebook-ads-manager-at-azzallure-diamonds-4380290356": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4381699052": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -169,13 +177,16 @@
     "partnerships, community & gtm|||sprinto": "2026-03-06T13:59:50.061Z",
     "founding gtm operator|||finmile": "2026-03-06T15:23:01.840Z",
     "gtm engineer|||captivateiq": "2026-03-06T15:23:03.342Z",
-    "vice president of marketing operations|||ample finance group": "2026-03-06T15:23:04.827Z"
+    "vice president of marketing operations|||ample finance group": "2026-03-06T15:23:04.827Z",
+    "head of go to market engineering|||aicro": "2026-03-06T16:47:42.643Z",
+    "gtm engineer|||hubspot": "2026-03-06T16:47:44.210Z",
+    "vice president, gtm strategy & operations|||smartsheet": "2026-03-06T16:47:45.750Z"
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 13,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 14,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
