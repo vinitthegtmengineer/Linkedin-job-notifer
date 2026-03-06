@@ -38,9 +38,18 @@ const JOB_SEARCH_QUERIES = [
   "marketing operations"
 ];
 
+// Only fetch LinkedIn POSTS that contain explicit hiring phrases alongside the role keywords
 const DEFAULT_RSS_FEEDS = RSS_QUERY_GROUPS.map(
-  (q) => `https://news.google.com/rss/search?q=site:linkedin.com/posts+(hiring+OR+%22looking+for%22+OR+%22we+are+hiring%22)+${q}+when:1d&hl=en&gl=US&ceid=US:en`
+  (q) => `https://news.google.com/rss/search?q=site:linkedin.com/posts+(%22we+are+hiring%22+OR+%22we%27re+hiring%22+OR+%22now+hiring%22+OR+%22job+opening%22+OR+%22open+role%22+OR+%22open+position%22+OR+%22apply+now%22+OR+%22join+our+team%22)+${q}+when:1d&hl=en&gl=US&ceid=US:en`
 );
+
+// Hiring intent words — RSS items must contain at least one of these to be sent
+const HIRING_INTENT = [
+  "we are hiring", "we're hiring", "now hiring", "job opening", "open role",
+  "open position", "apply now", "join our team", "looking to hire",
+  "seeking a", "seeking an", "we need a", "we need an", "hiring a", "hiring an",
+  "recruiting", "job opportunity", "career opportunity"
+];
 
 const LINKEDIN_JOB_SEARCH_BASE =
   "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search";
@@ -259,6 +268,17 @@ async function fetchRssFeeds() {
       for (const item of feedItems) {
         const linkedinUrl = extractLinkedinUrl(item);
         if (!linkedinUrl) continue; // skip if we can't get a real LinkedIn URL
+
+        // Only keep posts that contain actual hiring intent
+        const itemText = normalize(
+          [item.title, item.contentSnippet, item.content, item.summary].filter(Boolean).join(" ")
+        );
+        const hasHiringIntent = HIRING_INTENT.some((phrase) => itemText.includes(phrase));
+        if (!hasHiringIntent) {
+          console.log(`RSS skip (no hiring intent): ${(item.title || "").slice(0, 60)}`);
+          continue;
+        }
+
         items.push({ ...item, link: linkedinUrl, sourceFeed: feedUrls[i] });
       }
       console.log(`RSS OK: ${feedItems.length} items`);
