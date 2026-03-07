@@ -333,7 +333,13 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-connectwise-4377936940": 1,
     "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302898": 1,
     "https://www.linkedin.com/jobs/view/gtm-systems-ai-engineer-at-confluent-4372755792": 1,
-    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-knit-4353817192": 1
+    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-knit-4353817192": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381975987": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-fine-4382167141": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-emma-of-torre-ai-4381992091": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-4382345548": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-copywriter-saas-at-soontra-4382320818": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-prosana-4381035128": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -373,7 +379,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
