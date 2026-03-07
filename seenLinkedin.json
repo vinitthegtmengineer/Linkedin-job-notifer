@@ -420,7 +420,14 @@
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603220": 1,
     "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-ai-customer-operations-at-monzo-bank-4371780375": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-superintendent-europe-at-comaea-consulting-4381348235": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ops-ai-automation-manager-at-courser-4372013537": 1
+    "https://www.linkedin.com/jobs/view/marketing-ops-ai-automation-manager-at-courser-4372013537": 1,
+    "https://www.linkedin.com/jobs/view/collections-sme-sr-consultant-at-bridgeforce-4382176915": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4382389209": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4365441619": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4382383320": 1,
+    "https://www.linkedin.com/jobs/view/sage-intacct-consultant-remote-at-jobgether-4382304611": 1,
+    "https://www.linkedin.com/jobs/view/senior-private-equity-consultant-remote-at-mercor-4382186782": 1,
+    "https://www.linkedin.com/jobs/view/wordpress-consultant-at-jobs-via-dice-4381341533": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -465,7 +472,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 73,
+    "cyclesToday": 74,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
