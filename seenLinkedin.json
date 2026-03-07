@@ -359,7 +359,9 @@
     "https://www.linkedin.com/jobs/view/veterin%c3%a4r-diagnostik-berater-bielefeld-m-w-d-at-idexx-4319029500": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-replit-lovable-bolt-expert-at-sasq-4380892977": 1,
     "https://www.linkedin.com/jobs/view/wordpress-developer-builder-at-surmarketing-4381088271": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1,
+    "https://www.linkedin.com/jobs/view/3d-mapping-operator-4381331837": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-manager-at-magma-consultancy-4382604004": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -396,13 +398,14 @@
     "gtm lead|||crossing hurdles": "2026-03-07T11:37:10.592Z",
     "marketing operations manager|||connectwise": "2026-03-07T11:37:12.119Z",
     "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z",
-    "director, gtm operations|||genedx": "2026-03-07T13:03:18.853Z"
+    "director, gtm operations|||genedx": "2026-03-07T13:03:18.853Z",
+    "go-to-market (gtm) manager|||magma consultancy": "2026-03-07T14:31:32.994Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 40,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 41,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
