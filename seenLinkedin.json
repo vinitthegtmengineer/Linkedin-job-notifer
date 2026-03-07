@@ -272,7 +272,13 @@
     "https://www.linkedin.com/jobs/view/remote-data-engineering-specialist-at-jobgether-4382312482": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-at-uplers-4381975328": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382142754": 1,
-    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4382335368": 1
+    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4382335368": 1,
+    "https://www.linkedin.com/jobs/view/rov-operator-iii-at-technipfmc-4382335782": 1,
+    "https://www.linkedin.com/jobs/view/%e9%ab%98%e7%ba%a7%e6%99%ba%e8%bd%a6%e8%81%94%e9%a1%be%e9%97%ae-senior-auto-expert-consultant-%e5%8d%8e%e5%8d%97-at-%e9%a9%ac%e7%9f%b3%e6%b2%b9%e6%b6%a6%e6%bb%91%e6%b2%b9-%e5%b1%b1%e4%b8%9c-%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4380838398": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
+    "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-at-leidos-4380827582": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-influx-search-4381009342": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-26-00681-at-akraya-inc-4382175540": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -300,13 +306,14 @@
     "principal, gtm strategy and integration (contract)|||earned": "2026-03-06T21:32:35.954Z",
     "gtm lead|||inworld ai": "2026-03-06T22:53:13.407Z",
     "abm campaign manager|||zestyai": "2026-03-06T22:53:14.927Z",
-    "gtm enablement manager|||zenity": "2026-03-06T23:25:27.501Z"
+    "gtm enablement manager|||zenity": "2026-03-06T23:25:27.501Z",
+    "gtm systems engineer|||wrapbook": "2026-03-07T03:04:25.009Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 3,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 4,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
