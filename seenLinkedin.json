@@ -405,7 +405,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381357956": 1,
     "https://www.linkedin.com/jobs/view/cold-email-specialist-outbound-infrastructure-operator-at-ai-acquisition-4381206850": 1,
     "https://www.linkedin.com/jobs/view/senior-founding-engineer-us-freight-tech-stealth-at-t3ra-logistics-4381071444": 1,
-    "https://www.linkedin.com/jobs/view/staff-endpoint-lifecycle-operations-engineer-at-ge-aerospace-4382363388": 1
+    "https://www.linkedin.com/jobs/view/staff-endpoint-lifecycle-operations-engineer-at-ge-aerospace-4382363388": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-centrisys-cnp-4381087133": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-production-engineering-at-figma-4239984026": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -450,7 +452,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 64,
+    "cyclesToday": 65,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
