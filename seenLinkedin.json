@@ -319,7 +319,9 @@
     "https://www.linkedin.com/jobs/view/principal-marketing-program-manager-at-samsara-4364540476": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4381354307": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381990531": 1,
-    "https://www.linkedin.com/jobs/view/senior-al-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1
+    "https://www.linkedin.com/jobs/view/senior-al-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311751462": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4382100038": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -355,7 +357,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
