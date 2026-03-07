@@ -415,7 +415,12 @@
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-activation-operations-at-jobgether-4382315219": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-ramp-talent-4382310266": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381370988": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381370988": 1,
+    "https://www.linkedin.com/jobs/view/chemistry-phd-consultant-%2473-29-hr-remote-at-crossing-hurdles-4372065421": 1,
+    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603220": 1,
+    "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-ai-customer-operations-at-monzo-bank-4371780375": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-superintendent-europe-at-comaea-consulting-4381348235": 1,
+    "https://www.linkedin.com/jobs/view/marketing-ops-ai-automation-manager-at-courser-4372013537": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -460,7 +465,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 72,
+    "cyclesToday": 73,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
