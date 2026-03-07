@@ -283,7 +283,13 @@
     "https://www.linkedin.com/jobs/view/operator-specialist-food-brokerage-sales-business-development-at-acxion-foodservice-4363131610": 1,
     "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-4-aalto-4380850292": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-beautiful-ai-4382353379": 1,
-    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1
+    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1,
+    "https://www.linkedin.com/jobs/view/banking-and-capital-markets-marketing-director-at-chainlink-labs-4343122447": 1,
+    "https://www.linkedin.com/jobs/view/banking-and-capital-markets-marketing-director-at-chainlink-labs-4343172297": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-project-manager-at-sensiba-llp-4381301171": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-cro-at-attentive-4372121441": 1,
+    "https://www.linkedin.com/jobs/view/gbs-marketing-business-development-executive-le-at-gartner-4001513964": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380826452": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -319,7 +325,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
