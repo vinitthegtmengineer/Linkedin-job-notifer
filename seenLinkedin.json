@@ -414,7 +414,8 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-customer-marketing-integrated-campaigns-at-jobgether-4382318044": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-activation-operations-at-jobgether-4382315219": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-ramp-talent-4382310266": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381370988": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -459,7 +460,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 69,
+    "cyclesToday": 70,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
