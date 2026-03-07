@@ -394,7 +394,8 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-bpo-remote-at-jobgether-4382319039": 1,
     "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-trillium-digital-services-4382132519": 1,
     "https://www.linkedin.com/jobs/view/ingeniero-de-operaciones-at-aliaxis-latam-4381056716": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-jobs-via-dice-4381302722": 1
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-jobs-via-dice-4381302722": 1,
+    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382608051": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -438,7 +439,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 56,
+    "cyclesToday": 57,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
