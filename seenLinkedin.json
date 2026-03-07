@@ -389,7 +389,12 @@
     "https://www.linkedin.com/jobs/view/martech-consultant-at-builden-partners-4382128196": 1,
     "https://www.linkedin.com/jobs/view/process-mechanical-engineer-at-jedson-engineering-4323573155": 1,
     "https://www.linkedin.com/jobs/view/senior-enablement-manager-at-airbnb-4372779162": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382171477": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382171477": 1,
+    "https://www.linkedin.com/jobs/view/actuarary-consultant-with-acas-at-okaya-infocom-4382174559": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-bpo-remote-at-jobgether-4382319039": 1,
+    "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-trillium-digital-services-4382132519": 1,
+    "https://www.linkedin.com/jobs/view/ingeniero-de-operaciones-at-aliaxis-latam-4381056716": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-jobs-via-dice-4381302722": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -433,7 +438,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 55,
+    "cyclesToday": 56,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
