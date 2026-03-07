@@ -375,7 +375,12 @@
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382397439": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-processos-home-office-embarque-eventual-at-capco-4372746711": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-at-caspian-digital-solutions-4381369419": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382398392": 1
+    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382398392": 1,
+    "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382164202": 1,
+    "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382152714": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-position-data-engineering-etl-background-at-hireon-4381348749": 1,
+    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388824": 1,
+    "https://www.linkedin.com/jobs/view/performance-advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-deloitte-legal-telles-4380844751": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -413,13 +418,14 @@
     "marketing operations manager|||connectwise": "2026-03-07T11:37:12.119Z",
     "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z",
     "director, gtm operations|||genedx": "2026-03-07T13:03:18.853Z",
-    "go-to-market (gtm) manager|||magma consultancy": "2026-03-07T14:31:32.994Z"
+    "go-to-market (gtm) manager|||magma consultancy": "2026-03-07T14:31:32.994Z",
+    "performance advertising campaign manager – google advertisements & facebook advertisements|||deloitte legal telles": "2026-03-07T16:11:25.133Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 47,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 48,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
