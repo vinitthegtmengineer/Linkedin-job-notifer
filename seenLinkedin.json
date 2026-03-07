@@ -248,7 +248,8 @@
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4381072760": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-remote-at-paynearme-4376611021": 1,
-    "https://www.linkedin.com/jobs/view/freelance-e-commerce-email-marketing-executive-at-seventh-4382198399": 1
+    "https://www.linkedin.com/jobs/view/freelance-e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
+    "https://www.linkedin.com/jobs/view/onboarding-consultant-menu-at-toast-4382313119": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -280,7 +281,7 @@
   },
   "stats": {
     "date": "2026-03-06",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 26,
     "sentToday": 26,
     "lastSummaryDate": ""
