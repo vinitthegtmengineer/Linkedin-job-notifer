@@ -361,7 +361,8 @@
     "https://www.linkedin.com/jobs/view/wordpress-developer-builder-at-surmarketing-4381088271": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1,
     "https://www.linkedin.com/jobs/view/3d-mapping-operator-4381331837": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-manager-at-magma-consultancy-4382604004": 1
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-manager-at-magma-consultancy-4382604004": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382172512": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -403,7 +404,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
