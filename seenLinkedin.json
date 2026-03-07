@@ -278,7 +278,8 @@
     "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
     "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-at-leidos-4380827582": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-influx-search-4381009342": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-26-00681-at-akraya-inc-4382175540": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-26-00681-at-akraya-inc-4382175540": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -311,7 +312,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
