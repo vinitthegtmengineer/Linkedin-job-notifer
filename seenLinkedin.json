@@ -427,7 +427,9 @@
     "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4382383320": 1,
     "https://www.linkedin.com/jobs/view/sage-intacct-consultant-remote-at-jobgether-4382304611": 1,
     "https://www.linkedin.com/jobs/view/senior-private-equity-consultant-remote-at-mercor-4382186782": 1,
-    "https://www.linkedin.com/jobs/view/wordpress-consultant-at-jobs-via-dice-4381341533": 1
+    "https://www.linkedin.com/jobs/view/wordpress-consultant-at-jobs-via-dice-4381341533": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-consultant-flexible-performance-based-at-livehappy-initiative-4382616623": 1,
+    "https://www.linkedin.com/jobs/view/remote-projektpartner-homeoffice-consultant-at-remote-sisterhood-4382391804": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -472,7 +474,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 74,
+    "cyclesToday": 75,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
