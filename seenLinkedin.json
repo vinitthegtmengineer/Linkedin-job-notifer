@@ -312,7 +312,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-mike-echo-4380851492": 1,
     "https://www.linkedin.com/jobs/view/netsuite-zonebilling-consultant-at-elsdon-group-4382121119": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381992519": 1,
-    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302899": 1
+    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302899": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-career-development-program-at-burgeon-palms-4380895636": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4381201313": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4380892791": 1,
+    "https://www.linkedin.com/jobs/view/principal-marketing-program-manager-at-samsara-4364540476": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -348,7 +352,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
