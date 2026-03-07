@@ -281,7 +281,9 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-26-00681-at-akraya-inc-4382175540": 1,
     "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
     "https://www.linkedin.com/jobs/view/operator-specialist-food-brokerage-sales-business-development-at-acxion-foodservice-4363131610": 1,
-    "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-4-aalto-4380850292": 1
+    "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-4-aalto-4380850292": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-beautiful-ai-4382353379": 1,
+    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -311,13 +313,15 @@
     "abm campaign manager|||zestyai": "2026-03-06T22:53:14.927Z",
     "gtm enablement manager|||zenity": "2026-03-06T23:25:27.501Z",
     "gtm systems engineer|||wrapbook": "2026-03-07T03:04:25.009Z",
-    "gtm engineer|||4. aalto": "2026-03-07T04:52:02.798Z"
+    "gtm engineer|||4. aalto": "2026-03-07T04:52:02.798Z",
+    "gtm engineer|||beautiful.ai": "2026-03-07T05:19:24.042Z",
+    "director, new products gtm|||kindred": "2026-03-07T05:19:25.511Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 7,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 8,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
