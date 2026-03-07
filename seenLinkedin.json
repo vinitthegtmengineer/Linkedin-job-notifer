@@ -340,7 +340,18 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-4382345548": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-copywriter-saas-at-soontra-4382320818": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-prosana-4381035128": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-kfc-south-asia-at-kfc-4364443145": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-kfc-south-asia-at-kfc-4364443145": 1,
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-execution-at-emma-of-torre-ai-4382382601": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381991506": 1,
+    "https://www.linkedin.com/jobs/view/senior-electron-supabase-engineer-32958-at-stealth-startup-4380279651": 1,
+    "https://www.linkedin.com/jobs/view/dairy-engineer-4382162798": 1,
+    "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4372058748": 1,
+    "https://www.linkedin.com/jobs/view/endpoint-engineer-at-go-interactive-4380281862": 1,
+    "https://www.linkedin.com/jobs/view/especialista-i-%e2%80%93-engenheiro-de-ia-at-todos-empreendimentos-4380811637": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-cobol-s%c3%aanior-at-runtalent-4382125871": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -376,13 +387,14 @@
     "head of gtm|||crossing hurdles": "2026-03-07T11:37:09.067Z",
     "gtm lead|||crossing hurdles": "2026-03-07T11:37:10.592Z",
     "marketing operations manager|||connectwise": "2026-03-07T11:37:12.119Z",
-    "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z"
+    "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z",
+    "director, gtm operations|||genedx": "2026-03-07T13:03:18.853Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 35,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 36,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
