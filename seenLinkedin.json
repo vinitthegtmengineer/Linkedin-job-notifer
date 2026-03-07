@@ -380,7 +380,8 @@
     "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382152714": 1,
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-position-data-engineering-etl-background-at-hireon-4381348749": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388824": 1,
-    "https://www.linkedin.com/jobs/view/performance-advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-deloitte-legal-telles-4380844751": 1
+    "https://www.linkedin.com/jobs/view/performance-advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-deloitte-legal-telles-4380844751": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382166772": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -423,7 +424,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 48,
+    "cyclesToday": 49,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
