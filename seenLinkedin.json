@@ -316,7 +316,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-career-development-program-at-burgeon-palms-4380895636": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4381201313": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4380892791": 1,
-    "https://www.linkedin.com/jobs/view/principal-marketing-program-manager-at-samsara-4364540476": 1
+    "https://www.linkedin.com/jobs/view/principal-marketing-program-manager-at-samsara-4364540476": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4381354307": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381990531": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -352,7 +354,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
