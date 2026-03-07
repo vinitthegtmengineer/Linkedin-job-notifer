@@ -331,7 +331,9 @@
     "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-swana-region-4380884971": 1,
     "https://www.linkedin.com/jobs/view/consultant-12-months-home-based-digital-paid-media-eu-division-of-private-fundraising-and-partnerships-pfp-at-unicef-mk-4381053490": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-connectwise-4377936940": 1,
-    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302898": 1
+    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302898": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-ai-engineer-at-confluent-4372755792": 1,
+    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-knit-4353817192": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -366,13 +368,14 @@
     "director, new products gtm|||kindred": "2026-03-07T05:19:25.511Z",
     "head of gtm|||crossing hurdles": "2026-03-07T11:37:09.067Z",
     "gtm lead|||crossing hurdles": "2026-03-07T11:37:10.592Z",
-    "marketing operations manager|||connectwise": "2026-03-07T11:37:12.119Z"
+    "marketing operations manager|||connectwise": "2026-03-07T11:37:12.119Z",
+    "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 31,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 32,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
