@@ -381,7 +381,8 @@
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-position-data-engineering-etl-background-at-hireon-4381348749": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388824": 1,
     "https://www.linkedin.com/jobs/view/performance-advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-deloitte-legal-telles-4380844751": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382166772": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382166772": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4382305636": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -420,13 +421,14 @@
     "gtm systems & ai engineer|||confluent": "2026-03-07T11:47:49.485Z",
     "director, gtm operations|||genedx": "2026-03-07T13:03:18.853Z",
     "go-to-market (gtm) manager|||magma consultancy": "2026-03-07T14:31:32.994Z",
-    "performance advertising campaign manager – google advertisements & facebook advertisements|||deloitte legal telles": "2026-03-07T16:11:25.133Z"
+    "performance advertising campaign manager – google advertisements & facebook advertisements|||deloitte legal telles": "2026-03-07T16:11:25.133Z",
+    "marketing operations manager|||jobgether": "2026-03-07T16:59:52.996Z"
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 50,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 51,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
