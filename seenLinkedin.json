@@ -351,7 +351,11 @@
     "https://www.linkedin.com/jobs/view/engenheiro-cobol-s%c3%aanior-at-runtalent-4382125871": 1,
     "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1
+    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1,
+    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382378765": 1,
+    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382379762": 1,
+    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382379765": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-bw-packaging-4362158336": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -392,7 +396,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
