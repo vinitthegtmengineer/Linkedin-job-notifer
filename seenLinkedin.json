@@ -309,7 +309,10 @@
     "https://www.linkedin.com/jobs/view/conversation-bot-engineer-dialogflow-cx-at-quantiphi-4374599422": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-at-uplers-4381978303": 1,
     "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4382333764": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-mike-echo-4380851492": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-mike-echo-4380851492": 1,
+    "https://www.linkedin.com/jobs/view/netsuite-zonebilling-consultant-at-elsdon-group-4382121119": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381992519": 1,
+    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302899": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -345,7 +348,7 @@
   },
   "stats": {
     "date": "2026-03-07",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
