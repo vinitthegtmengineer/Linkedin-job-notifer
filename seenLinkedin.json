@@ -552,7 +552,8 @@
     "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4382654228": 1,
     "https://www.linkedin.com/jobs/view/channel-partner-manager-reseller-regional-at-ramp-4302029738": 1,
     "https://www.linkedin.com/jobs/view/director-global-sales-strategy-operations-united-kingdom-remote-at-grafana-labs-4337642070": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382622740": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382622740": 1,
+    "https://www.linkedin.com/jobs/view/motor-engineer-at-freedom-assessors-4382681097": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -601,7 +602,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
