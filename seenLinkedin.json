@@ -639,7 +639,8 @@
     "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4382687179": 1,
     "https://www.linkedin.com/jobs/view/kdb-engineer-at-talisman-4377510558": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-trainee-at-auclux-4382677764": 1,
-    "https://www.linkedin.com/jobs/view/crisis-coordination-social-media-operator-4382689432": 1
+    "https://www.linkedin.com/jobs/view/crisis-coordination-social-media-operator-4382689432": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324757915": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -693,7 +694,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
