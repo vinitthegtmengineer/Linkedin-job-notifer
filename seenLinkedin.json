@@ -512,7 +512,11 @@
     "https://www.linkedin.com/jobs/view/front-end-engineer-ii-ads-engineering-at-best-buy-4381375853": 1,
     "https://www.linkedin.com/jobs/view/data-engineering-recruiting-analytics-specialist-at-internset-4381256481": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382633309": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382626516": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382626516": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-sage-300-cre-at-baker-tilly-us-4309508064": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-programs-at-samsara-4354299293": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-programs-at-samsara-4355344657": 1,
+    "https://www.linkedin.com/jobs/view/account-based-marketing-manager-at-samsara-4324734185": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -556,13 +560,14 @@
     "director of marketing operations & reporting|||arrowhead programs": "2026-03-07T19:08:03.474Z",
     "marketing operations manager, campaign ops|||jobgether": "2026-03-08T01:26:27.119Z",
     "marketing operations specialist|||jobgether": "2026-03-08T02:20:50.141Z",
-    "staff engineer,adobe campaign manager|||nagarro": "2026-03-08T03:23:18.175Z"
+    "staff engineer,adobe campaign manager|||nagarro": "2026-03-08T03:23:18.175Z",
+    "manager, gtm programs|||samsara": "2026-03-08T10:12:26.168Z"
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 22,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 23,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
