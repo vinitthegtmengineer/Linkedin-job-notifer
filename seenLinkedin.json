@@ -631,7 +631,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382633297": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-ops-engineer-at-calix-4347161569": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382639007": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382625547": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382625547": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-global-human-resources-inc-4381516986": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-supervisor-208217-at-aquent-4382672810": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -684,7 +686,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
