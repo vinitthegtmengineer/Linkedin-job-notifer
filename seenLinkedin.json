@@ -645,7 +645,8 @@
     "https://www.linkedin.com/jobs/view/junior-performance-marketing-manager-campaign-setter-tz-20h-woche-at-drink-paint-inspyr-gmbh-4381249802": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381267585": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-cloudzone-one-4382685835": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-laetitia-launay-ei-4382687767": 1
+    "https://www.linkedin.com/jobs/view/consultant-at-laetitia-launay-ei-4382687767": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382668218": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -699,7 +700,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 64,
+    "cyclesToday": 65,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
