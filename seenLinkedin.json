@@ -493,7 +493,10 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-generalist-at-rapidfort-4382618151": 1,
     "https://www.linkedin.com/jobs/view/creative-director-at-revive-4382356828": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382385989": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-replicant-4336935127": 1
+    "https://www.linkedin.com/jobs/view/director-demand-generation-at-replicant-4336935127": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-clearance-required-at-jobs-via-dice-4380049507": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-success-director-at-sentinelone-4365606899": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-mill-adventure-4381253252": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -541,7 +544,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
