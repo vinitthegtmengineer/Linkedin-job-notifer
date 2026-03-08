@@ -553,7 +553,8 @@
     "https://www.linkedin.com/jobs/view/channel-partner-manager-reseller-regional-at-ramp-4302029738": 1,
     "https://www.linkedin.com/jobs/view/director-global-sales-strategy-operations-united-kingdom-remote-at-grafana-labs-4337642070": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382622740": 1,
-    "https://www.linkedin.com/jobs/view/motor-engineer-at-freedom-assessors-4382681097": 1
+    "https://www.linkedin.com/jobs/view/motor-engineer-at-freedom-assessors-4382681097": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-fastspring-4355423402": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -598,13 +599,14 @@
     "marketing operations manager, campaign ops|||jobgether": "2026-03-08T01:26:27.119Z",
     "marketing operations specialist|||jobgether": "2026-03-08T02:20:50.141Z",
     "staff engineer,adobe campaign manager|||nagarro": "2026-03-08T03:23:18.175Z",
-    "manager, gtm programs|||samsara": "2026-03-08T10:12:26.168Z"
+    "manager, gtm programs|||samsara": "2026-03-08T10:12:26.168Z",
+    "marketing campaign manager|||fastspring": "2026-03-08T13:01:51.378Z"
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 32,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 33,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
