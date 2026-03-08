@@ -554,7 +554,12 @@
     "https://www.linkedin.com/jobs/view/director-global-sales-strategy-operations-united-kingdom-remote-at-grafana-labs-4337642070": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382622740": 1,
     "https://www.linkedin.com/jobs/view/motor-engineer-at-freedom-assessors-4382681097": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-fastspring-4355423402": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-fastspring-4355423402": 1,
+    "https://www.linkedin.com/jobs/view/home-based-booking-consultant-at-hope%e2%80%99s-global-getaways-4381522265": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-journey-wh-4381518596": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-grand-hotel-4382661449": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381251992": 1,
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -604,7 +609,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
