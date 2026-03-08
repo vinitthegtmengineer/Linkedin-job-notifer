@@ -477,7 +477,10 @@
     "https://www.linkedin.com/jobs/view/solutions-marketing-manager-at-ensono-4372952002": 1,
     "https://www.linkedin.com/jobs/view/senior-staff-engineer-adobe-campaign-manager-at-nagarro-4381394384": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-mena-at-forte-4381398188": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-jobgether-4382634314": 1
+    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-jobgether-4382634314": 1,
+    "https://www.linkedin.com/jobs/view/founding-team-%e2%80%94-ai-engineering-marketing-equity-based-to-start-at-orionq-4381384570": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bee-happy-translation-services-4382642395": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382617949": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -525,7 +528,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
