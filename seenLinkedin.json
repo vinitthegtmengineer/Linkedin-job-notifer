@@ -559,7 +559,11 @@
     "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-journey-wh-4381518596": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-grand-hotel-4382661449": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381251992": 1,
-    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1,
+    "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4373201378": 1,
+    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4375692900": 1,
+    "https://www.linkedin.com/jobs/view/podcast-marketing-sr-director-remote-at-jobgether-4382634358": 1,
+    "https://www.linkedin.com/jobs/view/senior-affiliate-campaign-manager-%e2%80%93-mobile-apps-at-medialinks-4381244962": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -605,13 +609,15 @@
     "marketing operations specialist|||jobgether": "2026-03-08T02:20:50.141Z",
     "staff engineer,adobe campaign manager|||nagarro": "2026-03-08T03:23:18.175Z",
     "manager, gtm programs|||samsara": "2026-03-08T10:12:26.168Z",
-    "marketing campaign manager|||fastspring": "2026-03-08T13:01:51.378Z"
+    "marketing campaign manager|||fastspring": "2026-03-08T13:01:51.378Z",
+    "online campaign manager|||tribal recruitment - the uk's leading digital & r2r recruiters": "2026-03-08T13:47:27.886Z",
+    "affiliate campaign manager – mobile apps|||medialinks": "2026-03-08T13:47:29.451Z"
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 34,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 35,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
