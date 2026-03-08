@@ -648,7 +648,9 @@
     "https://www.linkedin.com/jobs/view/consultant-at-laetitia-launay-ei-4382687767": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382668218": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-fetchjobs-co-4381528610": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4382698160": 1
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4382698160": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-japan-at-dataiku-4310280705": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-architect-engineer-degree-required-at-pinnacle-method-consulting-4381514313": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -702,7 +704,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 68,
+    "cyclesToday": 69,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
