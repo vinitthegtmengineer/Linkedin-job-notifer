@@ -447,7 +447,13 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380852461": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4382622732": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-direct-mail-digital-b2c-at-point-4381092053": 1,
-    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381321909": 1
+    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381321909": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-campaign-ops-at-jobgether-4382620812": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-digital-optimisation-conversion-at-mygwork-lgbtq%2b-business-community-4381207785": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-executive-at-jobgether-4382617985": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-letsinfluence-io-influencer-marketing-agency-4381339421": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-brightside-marketing-4382605254": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-website-manager-at-curio-lifestyle-4381359120": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -488,13 +494,14 @@
     "go-to-market (gtm) manager|||magma consultancy": "2026-03-07T14:31:32.994Z",
     "performance advertising campaign manager – google advertisements & facebook advertisements|||deloitte legal telles": "2026-03-07T16:11:25.133Z",
     "marketing operations manager|||jobgether": "2026-03-07T16:59:52.996Z",
-    "director of marketing operations & reporting|||arrowhead programs": "2026-03-07T19:08:03.474Z"
+    "director of marketing operations & reporting|||arrowhead programs": "2026-03-07T19:08:03.474Z",
+    "marketing operations manager, campaign ops|||jobgether": "2026-03-08T01:26:27.119Z"
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 1,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 2,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
