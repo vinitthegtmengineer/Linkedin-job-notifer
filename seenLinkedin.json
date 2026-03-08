@@ -462,7 +462,22 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-forte-4381370999": 1,
     "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-outsystems-4372787579": 1,
     "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381326547": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382621762": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382621762": 1,
+    "https://www.linkedin.com/jobs/view/ai-agent-engineer-internal-operations-at-punt-4381386700": 1,
+    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382639341": 1,
+    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382627809": 1,
+    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382638354": 1,
+    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382628753": 1,
+    "https://www.linkedin.com/jobs/view/sr-sales-operations-manager-gtm-at-pinnacle-method-consulting-4378436013": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-audio-marketing-remote-at-jobgether-4382625580": 1,
+    "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4372987779": 1,
+    "https://www.linkedin.com/jobs/view/remote-director-of-podcast-marketing-at-jobgether-4382627534": 1,
+    "https://www.linkedin.com/jobs/view/podcast-marketing-senior-advisor-remote-at-jobgether-4382637122": 1,
+    "https://www.linkedin.com/jobs/view/remote-senior-director-of-podcast-strategies-at-jobgether-4382629422": 1,
+    "https://www.linkedin.com/jobs/view/solutions-marketing-manager-at-ensono-4372952002": 1,
+    "https://www.linkedin.com/jobs/view/senior-staff-engineer-adobe-campaign-manager-at-nagarro-4381394384": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-mena-at-forte-4381398188": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-jobgether-4382634314": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -505,13 +520,14 @@
     "marketing operations manager|||jobgether": "2026-03-07T16:59:52.996Z",
     "director of marketing operations & reporting|||arrowhead programs": "2026-03-07T19:08:03.474Z",
     "marketing operations manager, campaign ops|||jobgether": "2026-03-08T01:26:27.119Z",
-    "marketing operations specialist|||jobgether": "2026-03-08T02:20:50.141Z"
+    "marketing operations specialist|||jobgether": "2026-03-08T02:20:50.141Z",
+    "staff engineer,adobe campaign manager|||nagarro": "2026-03-08T03:23:18.175Z"
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 3,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 4,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
