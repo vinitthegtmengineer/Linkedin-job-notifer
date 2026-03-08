@@ -593,7 +593,8 @@
     "https://www.linkedin.com/jobs/view/golang-engineer-at-wiser-technology-4381255885": 1,
     "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4372047841": 1,
     "https://www.linkedin.com/jobs/view/manager-partner-customer-success-at-vanta-4327230632": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-bossjob-4381522394": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bossjob-4381522394": 1,
+    "https://www.linkedin.com/jobs/view/open-source-engineer-remote-at-crossing-hurdles-4372073483": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -645,7 +646,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
