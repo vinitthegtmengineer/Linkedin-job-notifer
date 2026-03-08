@@ -624,7 +624,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382636103": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382627505": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382623753": 1,
-    "https://www.linkedin.com/jobs/view/head-of-var-si-logitech-for-business-l4b-north-america-at-logitech-4373234513": 1
+    "https://www.linkedin.com/jobs/view/head-of-var-si-logitech-for-business-l4b-north-america-at-logitech-4373234513": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4381526326": 1,
+    "https://www.linkedin.com/jobs/view/acumatica-consultant-at-chapman-tate-associates-4357590845": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -677,7 +679,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
