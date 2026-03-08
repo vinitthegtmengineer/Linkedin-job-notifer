@@ -483,7 +483,15 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382617949": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382387936": 1,
     "https://www.linkedin.com/jobs/view/revenue-strategy-and-operations-manager-at-jobgether-4382616934": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-candy-gang-4381249442": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-candy-gang-4381249442": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-operations-manager-at-mercor-4382389779": 1,
+    "https://www.linkedin.com/jobs/view/retail-business-analyst-at-mercor-4382389781": 1,
+    "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-swana-region-4380898437": 1,
+    "https://www.linkedin.com/jobs/view/localization-operations-specialist-at-whatnot-4364436415": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382626508": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-operations-at-fanatics-4380852462": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-generalist-at-rapidfort-4382618151": 1,
+    "https://www.linkedin.com/jobs/view/creative-director-at-revive-4382356828": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -531,7 +539,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
