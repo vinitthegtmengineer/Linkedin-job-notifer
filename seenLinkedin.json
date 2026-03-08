@@ -496,7 +496,8 @@
     "https://www.linkedin.com/jobs/view/director-demand-generation-at-replicant-4336935127": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-clearance-required-at-jobs-via-dice-4380049507": 1,
     "https://www.linkedin.com/jobs/view/strategic-partnerships-success-director-at-sentinelone-4365606899": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-mill-adventure-4381253252": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-mill-adventure-4381253252": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-at-chegg-inc-4381374107": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -544,7 +545,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
