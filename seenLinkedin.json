@@ -651,7 +651,8 @@
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4382698160": 1,
     "https://www.linkedin.com/jobs/view/technical-support-engineer-japan-at-dataiku-4310280705": 1,
     "https://www.linkedin.com/jobs/view/project-manager-architect-engineer-degree-required-at-pinnacle-method-consulting-4381514313": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-founder-at-pinzak-4381528569": 1
+    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-founder-at-pinzak-4381528569": 1,
+    "https://www.linkedin.com/jobs/view/manager-of-campaigns-at-new-roots-institute-4381275126": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -705,7 +706,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 71,
+    "cyclesToday": 72,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
