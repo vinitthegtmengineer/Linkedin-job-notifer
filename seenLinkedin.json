@@ -635,7 +635,9 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-global-human-resources-inc-4381516986": 1,
     "https://www.linkedin.com/jobs/view/digital-media-supervisor-208217-at-aquent-4382672810": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-global-human-resources-inc-4381535172": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4382688178": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4382688178": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4382687179": 1,
+    "https://www.linkedin.com/jobs/view/kdb-engineer-at-talisman-4377510558": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -688,7 +690,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
