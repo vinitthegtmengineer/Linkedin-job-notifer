@@ -866,7 +866,9 @@
     "https://www.linkedin.com/jobs/view/integration-engineer-supply-chain-operations-26-00692-at-akraya-inc-4383345185": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-jobgether-4383330925": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383327856": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383345144": 1
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383345144": 1,
+    "https://www.linkedin.com/jobs/view/ai-performance-engineering-at-v2-infra-tech-4381892267": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383337411": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -941,7 +943,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 21,
     "sentToday": 21,
     "lastSummaryDate": ""
