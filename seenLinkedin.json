@@ -767,7 +767,10 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-gostudy-international-4381598000": 1,
     "https://www.linkedin.com/jobs/view/study-abroad-consultant-at-l-two-languages-4381257648": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4382956685": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4381915656": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4381915656": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-mlsa-peshawar-4381717383": 1,
+    "https://www.linkedin.com/jobs/view/qa-operations-engineer-at-superplay-4382951885": 1,
+    "https://www.linkedin.com/jobs/view/online-campaign-manager-google-ads-4381299781": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -828,13 +831,14 @@
     "campaign manager, advertising traffic|||remotehunter": "2026-03-09T07:56:37.080Z",
     "campaign manager, marketing|||strada": "2026-03-09T08:23:11.745Z",
     "campaign manager, music partnerships|||low battery": "2026-03-09T09:30:51.217Z",
-    "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z"
+    "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z",
+    "online campaign manager (google ads)|||encora inc": "2026-03-09T11:53:09.611Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 21,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 22,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
