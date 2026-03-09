@@ -756,7 +756,9 @@
     "https://www.linkedin.com/jobs/view/daml-consultant-at-ampstek-4381585443": 1,
     "https://www.linkedin.com/jobs/view/sales-agronomist-iii-dekalb-asgrow-at-bayer-4375822776": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%8c%9f-sc-cleared-consultant-engineers-%e2%80%93-high-impact-gov-defence-projects-london-huge-growth-progression-%f0%9f%8c%9f-at-areti-group-b-corp%e2%84%a2-4382939823": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-product-marketing-market-activation%e2%80%af-at-unit4-4382940541": 1
+    "https://www.linkedin.com/jobs/view/senior-director-product-marketing-market-activation%e2%80%af-at-unit4-4382940541": 1,
+    "https://www.linkedin.com/jobs/view/senior-observability-engineer-at-teksystems-4382958263": 1,
+    "https://www.linkedin.com/jobs/view/marketing-resource-manager-at-regex-seo-4382946698": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -821,7 +823,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
