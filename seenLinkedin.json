@@ -908,7 +908,9 @@
     "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-outreach-4374308135": 1,
     "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382223005": 1,
     "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-%e2%80%93-ai-platform-and-operations-at-advocate-4383387283": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-canals-4383372006": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-canals-4383372006": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-strategic-growth-at-forefront-4383393269": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-alphasense-4383372846": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -985,13 +987,14 @@
     "marketing operations manager|||material security": "2026-03-09T19:53:36.753Z",
     "gtm engineer|||platform engineering": "2026-03-09T19:53:38.279Z",
     "gtm enablement manager|||outreach": "2026-03-09T21:12:08.937Z",
-    "marketing operations manager|||canals": "2026-03-09T21:33:04.117Z"
+    "marketing operations manager|||canals": "2026-03-09T21:33:04.117Z",
+    "marketing operations specialist|||alphasense": "2026-03-09T21:51:07.952Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 45,
-    "matchedToday": 27,
-    "sentToday": 27,
+    "cyclesToday": 46,
+    "matchedToday": 28,
+    "sentToday": 28,
     "lastSummaryDate": ""
   }
 }
