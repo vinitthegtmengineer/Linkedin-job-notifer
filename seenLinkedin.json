@@ -718,7 +718,10 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382920938": 1,
     "https://www.linkedin.com/jobs/view/gtm-client-success-manager-at-tyfone-inc-4381554790": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382928767": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382931626": 1
+    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382931626": 1,
+    "https://www.linkedin.com/jobs/view/remote-notion-system-builder-%7e24m-brand-amapress-at-pickdi-4379176313": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-aibusinessflows-4381296182": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-remotehunter-4381566808": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -774,13 +777,15 @@
     "ai gtm engineer|||second talent": "2026-03-09T06:03:28.284Z",
     "marketing operations process manager|||coursera": "2026-03-09T06:03:29.832Z",
     "founding gtm leader|||glover labs": "2026-03-09T07:33:18.435Z",
-    "gtm client success manager|||tyfone, inc.": "2026-03-09T07:33:19.902Z"
+    "gtm client success manager|||tyfone, inc.": "2026-03-09T07:33:19.902Z",
+    "gtm engineer|||aibusinessflows": "2026-03-09T07:56:35.478Z",
+    "campaign manager, advertising traffic|||remotehunter": "2026-03-09T07:56:37.080Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 11,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 12,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
