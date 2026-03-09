@@ -711,7 +711,14 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-creative-visuals-4381552706": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-retention-creator-partnerships-at-bodily-4382914910": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-performance-marketing-at-maker-lab-4382922809": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-performance-marketing-at-maker-lab-4382940062": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-performance-marketing-at-maker-lab-4382940062": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-multi-country-google-ads-operator-4381290369": 1,
+    "https://www.linkedin.com/jobs/view/berater-in-hochschulmarketing-full-cycle-sales-m-w-d-at-mygermanuniversity-4381565582": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382929698": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382920938": 1,
+    "https://www.linkedin.com/jobs/view/gtm-client-success-manager-at-tyfone-inc-4381554790": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382928767": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382931626": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -765,13 +772,15 @@
     "paid social campaign manager|||jobgether": "2026-03-09T00:48:41.775Z",
     "campaign manager|||jobgether": "2026-03-09T00:48:43.263Z",
     "ai gtm engineer|||second talent": "2026-03-09T06:03:28.284Z",
-    "marketing operations process manager|||coursera": "2026-03-09T06:03:29.832Z"
+    "marketing operations process manager|||coursera": "2026-03-09T06:03:29.832Z",
+    "founding gtm leader|||glover labs": "2026-03-09T07:33:18.435Z",
+    "gtm client success manager|||tyfone, inc.": "2026-03-09T07:33:19.902Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 10,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 11,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
