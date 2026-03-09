@@ -782,7 +782,17 @@
     "https://www.linkedin.com/jobs/view/channel-sales-manager-at-cyberforce-global-4382964039": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823509": 1,
     "https://www.linkedin.com/jobs/view/creative-operations-resource-planning-lead-at-who-gives-a-crap-4382943423": 1,
-    "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381828357": 1
+    "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381828357": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-operator-ai-first-at-revup-payments-4382965120": 1,
+    "https://www.linkedin.com/jobs/view/head-of-gtm-outbound-at-listlab-4381722419": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-seneca-resources-4382972879": 1,
+    "https://www.linkedin.com/jobs/view/siem-engineer-at-apexon-4381722510": 1,
+    "https://www.linkedin.com/jobs/view/ingeniero-de-operaciones-voip-nivel-medio-at-singlecomm-4382978726": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-events-executive-at-tech-she-can-4382962339": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-atherton-stone-4381711635": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-specialist-kentuckiana-south-at-phathom-pharmaceuticals-4378881206": 1,
+    "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381820608": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823518": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -845,13 +855,14 @@
     "campaign manager, music partnerships|||low battery": "2026-03-09T09:30:51.217Z",
     "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z",
     "online campaign manager (google ads)|||encora inc": "2026-03-09T11:53:09.611Z",
-    "marketing operations process manager (delhi ncr)|||coursera": "2026-03-09T12:17:31.773Z"
+    "marketing operations process manager (delhi ncr)|||coursera": "2026-03-09T12:17:31.773Z",
+    "head of gtm (outbound)|||listlab": "2026-03-09T13:41:24.663Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 25,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 26,
+    "matchedToday": 14,
+    "sentToday": 14,
     "lastSummaryDate": ""
   }
 }
