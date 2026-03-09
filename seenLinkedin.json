@@ -898,7 +898,9 @@
     "https://www.linkedin.com/jobs/view/agent-builder-forward-deployed-engineer-at-ecosistemas-4383365434": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383373039": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383357525": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-levels-4382208233": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-levels-4382208233": 1,
+    "https://www.linkedin.com/jobs/view/creator-campaign-operations-manager-at-influu-4382206321": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-artisan-talent-4381061410": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -977,7 +979,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 25,
     "sentToday": 25,
     "lastSummaryDate": ""
