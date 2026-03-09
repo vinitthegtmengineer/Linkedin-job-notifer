@@ -918,7 +918,9 @@
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383399185": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383402060": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383401129": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-on-valorant-esports-at-rosewood-creative-4383380707": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-on-valorant-esports-at-rosewood-creative-4383380707": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-mena-content-marketing-specialist-at-forte-4382222016": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-valorant-esports-at-rosewood-creative-4383380707": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1000,7 +1002,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 28,
     "sentToday": 28,
     "lastSummaryDate": ""
