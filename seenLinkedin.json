@@ -838,7 +838,14 @@
     "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-gtm-talent-llc-4331570110": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-graho-4381733950": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-operations-specialist-at-vyntelligence-4371439921": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-arcadia-search-ltd%c2%ae-4383310730": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-arcadia-search-ltd%c2%ae-4383310730": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-gcl-products-at-solmax-4381748321": 1,
+    "https://www.linkedin.com/jobs/view/senior-experimentation-program-culture-builder-at-the-initial-4382999958": 1,
+    "https://www.linkedin.com/jobs/view/operations-applications-engineer-at-ags-american-gaming-systems-4381868011": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-ii-lge-display-direct-view-dvled-remote-us-central-region-preferred-at-lg-electronics-north-america-4302229274": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-lead-at-qualitylogic-4382917830": 1,
+    "https://www.linkedin.com/jobs/view/managing-director-client-lead-gtm-commercial-strategy-at-human-agency-4383322421": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-american-forests-4381845966": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -905,13 +912,15 @@
     "head of gtm (outbound)|||listlab": "2026-03-09T13:41:24.663Z",
     "lemlist campaign manager – freelance | remote | start immediately|||optiloop.io": "2026-03-09T15:04:39.339Z",
     "chief revenue officer|||gtm talent llc": "2026-03-09T16:32:24.930Z",
-    "marketing operations manager|||arcadia search ltd®": "2026-03-09T16:32:26.452Z"
+    "marketing operations manager|||arcadia search ltd®": "2026-03-09T16:32:26.452Z",
+    "go-to-market gtm lead|||qualitylogic": "2026-03-09T17:02:04.062Z",
+    "managing director (client lead), gtm & commercial strategy|||human agency": "2026-03-09T17:02:05.549Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 32,
-    "matchedToday": 17,
-    "sentToday": 17,
+    "cyclesToday": 33,
+    "matchedToday": 19,
+    "sentToday": 19,
     "lastSummaryDate": ""
   }
 }
