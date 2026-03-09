@@ -694,7 +694,9 @@
     "https://www.linkedin.com/jobs/view/senior-kafka-engineer-at-r%c3%aave-4381005466": 1,
     "https://www.linkedin.com/jobs/view/technical-project-manager-customer-engineering-at-kavia-ai-4382699788": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-legal-practice-4382912915": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-retention-creator-partnerships-at-bodily-4382930294": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-retention-creator-partnerships-at-bodily-4382930294": 1,
+    "https://www.linkedin.com/jobs/view/detective-consultant-remote-position-at-mercor-4382924302": 1,
+    "https://www.linkedin.com/jobs/view/daml-developer-distributed-ledger-engineer-at-amazure-technologies-pvt-ltd-4382930322": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -750,7 +752,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
