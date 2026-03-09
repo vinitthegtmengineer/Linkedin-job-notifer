@@ -777,7 +777,12 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-threatspike-4375406976": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-llm-systems-production-ai-b2b-contract-at-staff-up-ltd-4381713600": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-social-media-influencer-marketing-at-the-talent-magnet-4382965329": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-demand-at-remotehunter-4381574263": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-demand-at-remotehunter-4381574263": 1,
+    "https://www.linkedin.com/jobs/view/gtm-automation-specialist-remote-at-drop-zero-digital-4382676619": 1,
+    "https://www.linkedin.com/jobs/view/channel-sales-manager-at-cyberforce-global-4382964039": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823509": 1,
+    "https://www.linkedin.com/jobs/view/creative-operations-resource-planning-lead-at-who-gives-a-crap-4382943423": 1,
+    "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381828357": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -844,7 +849,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
