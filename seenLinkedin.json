@@ -770,7 +770,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4381915656": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-mlsa-peshawar-4381717383": 1,
     "https://www.linkedin.com/jobs/view/qa-operations-engineer-at-superplay-4382951885": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-google-ads-4381299781": 1
+    "https://www.linkedin.com/jobs/view/online-campaign-manager-google-ads-4381299781": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-production-engineering-at-figma-4239981549": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-process-manager-delhi-ncr-at-coursera-4381550784": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -832,13 +834,14 @@
     "campaign manager, marketing|||strada": "2026-03-09T08:23:11.745Z",
     "campaign manager, music partnerships|||low battery": "2026-03-09T09:30:51.217Z",
     "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z",
-    "online campaign manager (google ads)|||encora inc": "2026-03-09T11:53:09.611Z"
+    "online campaign manager (google ads)|||encora inc": "2026-03-09T11:53:09.611Z",
+    "marketing operations process manager (delhi ncr)|||coursera": "2026-03-09T12:17:31.773Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 22,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 23,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
