@@ -868,7 +868,10 @@
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383327856": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383345144": 1,
     "https://www.linkedin.com/jobs/view/ai-performance-engineering-at-v2-infra-tech-4381892267": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383337411": 1
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383337411": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-%24130k%e2%80%93%24200k-%2b-equity-ai-%c3%97-supply-chain-partner-role-via-coffeespace-san-francisco-us-at-coffeespace-4382181273": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-american-air-museum-in-britain-4383350315": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-fci-london-4381734541": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -939,13 +942,14 @@
     "go-to-market gtm lead|||qualitylogic": "2026-03-09T17:02:04.062Z",
     "managing director (client lead), gtm & commercial strategy|||human agency": "2026-03-09T17:02:05.549Z",
     "gtm engineer|||buildkite": "2026-03-09T17:28:45.088Z",
-    "gtm enablement manager|||jobgether": "2026-03-09T18:21:19.336Z"
+    "gtm enablement manager|||jobgether": "2026-03-09T18:21:19.336Z",
+    "campaign manager|||american air museum in britain": "2026-03-09T19:12:45.304Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 37,
-    "matchedToday": 21,
-    "sentToday": 21,
+    "cyclesToday": 38,
+    "matchedToday": 22,
+    "sentToday": 22,
     "lastSummaryDate": ""
   }
 }
