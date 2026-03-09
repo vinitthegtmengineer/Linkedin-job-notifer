@@ -740,7 +740,19 @@
     "https://www.linkedin.com/jobs/view/consultancy-at-cifor-icraf-4382953149": 1,
     "https://www.linkedin.com/jobs/view/social-media-builder-part-time-israel-at-bitget-4370503008": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-passive-4381583408": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381294654": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381294654": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-kastech-software-solutions-group-4381573634": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-at-hitachi-digital-4381574617": 1,
+    "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-timely-recruit-ltd-4382939715": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-cyberforce-global-4382952212": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4381574320": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ringnexa-4381554863": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-opportunity-%e2%80%93-grassroots-congressional-campaign-ga-07-4382685505": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-music-partnerships-at-low-battery-4382927269": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-manager-m-w-d-accounts-mit-gro%c3%9fen-google-ads-budgets-at-searchperts-deutschland-gmbh-4381274337": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-dach-hyper-growth-pre-ipo-b2b-data-marketing-saas-%e2%82%ac180-220k-ote-%2b-esops-at-pack-gtm-saas-sales-recruitment-in-germany-4375835443": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-essway-4381546658": 1,
+    "https://www.linkedin.com/jobs/view/remote-senior-campaign-manager-at-jobgether-4382910259": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -799,13 +811,15 @@
     "gtm client success manager|||tyfone, inc.": "2026-03-09T07:33:19.902Z",
     "gtm engineer|||aibusinessflows": "2026-03-09T07:56:35.478Z",
     "campaign manager, advertising traffic|||remotehunter": "2026-03-09T07:56:37.080Z",
-    "campaign manager, marketing|||strada": "2026-03-09T08:23:11.745Z"
+    "campaign manager, marketing|||strada": "2026-03-09T08:23:11.745Z",
+    "campaign manager, music partnerships|||low battery": "2026-03-09T09:30:51.217Z",
+    "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 15,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 16,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
