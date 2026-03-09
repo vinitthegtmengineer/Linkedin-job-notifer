@@ -921,7 +921,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-on-valorant-esports-at-rosewood-creative-4383380707": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-mena-content-marketing-specialist-at-forte-4382222016": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-valorant-esports-at-rosewood-creative-4383380707": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-coordinator-at-futuresight-4381778707": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-coordinator-at-futuresight-4381778707": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-oak-rocket-4381792085": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1003,7 +1004,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 28,
     "sentToday": 28,
     "lastSummaryDate": ""
