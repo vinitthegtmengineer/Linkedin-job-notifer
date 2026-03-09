@@ -807,7 +807,12 @@
     "https://www.linkedin.com/jobs/view/senior-ecommerce-engineer-malaysia-at-restive-4383303201": 1,
     "https://www.linkedin.com/jobs/view/aws-operations-engineer-at-bridgephase-4381722854": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382977493": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manger-at-microsoft-4381729573": 1
+    "https://www.linkedin.com/jobs/view/marketing-manger-at-microsoft-4381729573": 1,
+    "https://www.linkedin.com/jobs/view/lemlist-campaign-manager-%e2%80%93-freelance-remote-start-immediately-at-optiloop-io-4382993634": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-talent-software-services-3837820275": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-support-engineer-at-bruntwork-4381720882": 1,
+    "https://www.linkedin.com/jobs/view/group-marketing-executive-at-harcourt-developments-4383300088": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382984233": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -871,13 +876,14 @@
     "senior campaign manager|||jobgether": "2026-03-09T09:30:52.740Z",
     "online campaign manager (google ads)|||encora inc": "2026-03-09T11:53:09.611Z",
     "marketing operations process manager (delhi ncr)|||coursera": "2026-03-09T12:17:31.773Z",
-    "head of gtm (outbound)|||listlab": "2026-03-09T13:41:24.663Z"
+    "head of gtm (outbound)|||listlab": "2026-03-09T13:41:24.663Z",
+    "lemlist campaign manager – freelance | remote | start immediately|||optiloop.io": "2026-03-09T15:04:39.339Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 28,
-    "matchedToday": 14,
-    "sentToday": 14,
+    "cyclesToday": 29,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
