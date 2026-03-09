@@ -876,7 +876,15 @@
     "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-nature-s-way-4381760179": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-at-hardscope-4383352578": 1,
     "https://www.linkedin.com/jobs/view/head-of-gtm-experiments-ai-creator-platform-%24150k-%24200k-sf-at-coffeespace-4383356144": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-schoox-4383335999": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-schoox-4383335999": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-material-security-4383367117": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-material-security-4383363342": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383364352": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383368167": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383362402": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383365298": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383373040": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dimond-connect-4382208117": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -949,13 +957,15 @@
     "gtm engineer|||buildkite": "2026-03-09T17:28:45.088Z",
     "gtm enablement manager|||jobgether": "2026-03-09T18:21:19.336Z",
     "campaign manager|||american air museum in britain": "2026-03-09T19:12:45.304Z",
-    "head of gtm & experiments | ai creator platform | $150k-$200k | sf|||coffeespace": "2026-03-09T19:34:45.231Z"
+    "head of gtm & experiments | ai creator platform | $150k-$200k | sf|||coffeespace": "2026-03-09T19:34:45.231Z",
+    "marketing operations manager|||material security": "2026-03-09T19:53:36.753Z",
+    "gtm engineer|||platform engineering": "2026-03-09T19:53:38.279Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 39,
-    "matchedToday": 23,
-    "sentToday": 23,
+    "cyclesToday": 40,
+    "matchedToday": 25,
+    "sentToday": 25,
     "lastSummaryDate": ""
   }
 }
