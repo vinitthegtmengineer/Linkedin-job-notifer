@@ -659,7 +659,8 @@
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-email-hub-at-jobgether-4382638017": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-strategist-at-outsourcey-4381517392": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382629393": 1,
-    "https://www.linkedin.com/jobs/view/executive-social-media-manager-at-servicetitan-4349383935": 1
+    "https://www.linkedin.com/jobs/view/executive-social-media-manager-at-servicetitan-4349383935": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bee-well-pharmacies-4382906359": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -713,7 +714,7 @@
   },
   "stats": {
     "date": "2026-03-08",
-    "cyclesToday": 75,
+    "cyclesToday": 76,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
