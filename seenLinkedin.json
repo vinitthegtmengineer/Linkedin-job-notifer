@@ -800,7 +800,14 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4382992046": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382961969": 1,
     "https://www.linkedin.com/jobs/view/head-of-consumer-marketing-link-at-stripe-4288335961": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-specialist-pacific-northwest-at-phathom-pharmaceuticals-4377760075": 1
+    "https://www.linkedin.com/jobs/view/strategic-account-specialist-pacific-northwest-at-phathom-pharmaceuticals-4377760075": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-4382979854": 1,
+    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4381724830": 1,
+    "https://www.linkedin.com/jobs/view/siem-engineer-at-swits-digital-private-limited-4383304201": 1,
+    "https://www.linkedin.com/jobs/view/senior-ecommerce-engineer-malaysia-at-restive-4383303201": 1,
+    "https://www.linkedin.com/jobs/view/aws-operations-engineer-at-bridgephase-4381722854": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382977493": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manger-at-microsoft-4381729573": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -868,7 +875,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
