@@ -860,7 +860,13 @@
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-mlsa-peshawar-4381741918": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-projetos-automa%c3%a7%c3%a3o-at-cta-engenharia-4381859165": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-impacttx-technologies-4383311792": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-perfect-portal-uk-4381756037": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-perfect-portal-uk-4381756037": 1,
+    "https://www.linkedin.com/jobs/view/sales-agronomist-iii-channel-at-bayer-4383329817": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4381750475": 1,
+    "https://www.linkedin.com/jobs/view/integration-engineer-supply-chain-operations-26-00692-at-akraya-inc-4383345185": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-jobgether-4383330925": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383327856": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383345144": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -930,13 +936,14 @@
     "marketing operations manager|||arcadia search ltd®": "2026-03-09T16:32:26.452Z",
     "go-to-market gtm lead|||qualitylogic": "2026-03-09T17:02:04.062Z",
     "managing director (client lead), gtm & commercial strategy|||human agency": "2026-03-09T17:02:05.549Z",
-    "gtm engineer|||buildkite": "2026-03-09T17:28:45.088Z"
+    "gtm engineer|||buildkite": "2026-03-09T17:28:45.088Z",
+    "gtm enablement manager|||jobgether": "2026-03-09T18:21:19.336Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 35,
-    "matchedToday": 20,
-    "sentToday": 20,
+    "cyclesToday": 36,
+    "matchedToday": 21,
+    "sentToday": 21,
     "lastSummaryDate": ""
   }
 }
