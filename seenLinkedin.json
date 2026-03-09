@@ -733,7 +733,10 @@
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382944155": 1,
     "https://www.linkedin.com/jobs/view/senior-devops-cloud-engineer-aws-kubernetes-eclipse-edc-%e2%80%93-dataspace-project-vietnamese-speaking-at-rec-talents-hr-solution-4381519317": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-marketing-remote-at-strada-4381705164": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-1%e2%80%932-years-experience-at-eficyent-4381553915": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-1%e2%80%932-years-experience-at-eficyent-4381553915": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382928989": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-freelance-at-evolve-media-4381568853": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4381568672": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -796,7 +799,7 @@
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
