@@ -904,7 +904,8 @@
     "https://www.linkedin.com/jobs/view/convocatoria-docente-especialista-en-operador-industrial-at-escuela-global-oficial-4381773048": 1,
     "https://www.linkedin.com/jobs/view/cts-datacom-traveling-remote-pilot-operator-at-saic-4383359688": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-at-ekos-solutions-4383373799": 1,
-    "https://www.linkedin.com/jobs/view/community-marketing-manager-at-jobgether-4383349110": 1
+    "https://www.linkedin.com/jobs/view/community-marketing-manager-at-jobgether-4383349110": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-outreach-4374308135": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -979,13 +980,14 @@
     "campaign manager|||american air museum in britain": "2026-03-09T19:12:45.304Z",
     "head of gtm & experiments | ai creator platform | $150k-$200k | sf|||coffeespace": "2026-03-09T19:34:45.231Z",
     "marketing operations manager|||material security": "2026-03-09T19:53:36.753Z",
-    "gtm engineer|||platform engineering": "2026-03-09T19:53:38.279Z"
+    "gtm engineer|||platform engineering": "2026-03-09T19:53:38.279Z",
+    "gtm enablement manager|||outreach": "2026-03-09T21:12:08.937Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 43,
-    "matchedToday": 25,
-    "sentToday": 25,
+    "cyclesToday": 44,
+    "matchedToday": 26,
+    "sentToday": 26,
     "lastSummaryDate": ""
   }
 }
