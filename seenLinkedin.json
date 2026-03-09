@@ -696,7 +696,12 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-legal-practice-4382912915": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-retention-creator-partnerships-at-bodily-4382930294": 1,
     "https://www.linkedin.com/jobs/view/detective-consultant-remote-position-at-mercor-4382924302": 1,
-    "https://www.linkedin.com/jobs/view/daml-developer-distributed-ledger-engineer-at-amazure-technologies-pvt-ltd-4382930322": 1
+    "https://www.linkedin.com/jobs/view/daml-developer-distributed-ledger-engineer-at-amazure-technologies-pvt-ltd-4382930322": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-second-talent-4382921711": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4381915654": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-content-and-brand-at-jobgether-4382911194": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-talent-global-llc-4380614954": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-process-manager-at-coursera-4381550784": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -748,13 +753,15 @@
     "vice president, gtm strategy & revenue operations|||djagora university": "2026-03-08T15:47:19.498Z",
     "marketing campaign manager (trainee)|||auclux": "2026-03-08T18:53:33.473Z",
     "paid social campaign manager|||jobgether": "2026-03-09T00:48:41.775Z",
-    "campaign manager|||jobgether": "2026-03-09T00:48:43.263Z"
+    "campaign manager|||jobgether": "2026-03-09T00:48:43.263Z",
+    "ai gtm engineer|||second talent": "2026-03-09T06:03:28.284Z",
+    "marketing operations process manager|||coursera": "2026-03-09T06:03:29.832Z"
   },
   "stats": {
     "date": "2026-03-09",
-    "cyclesToday": 7,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 8,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
