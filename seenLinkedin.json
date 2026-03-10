@@ -931,7 +931,10 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-revpartners-4382218617": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-manhattan-grand-hotel-4382236310": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4382230153": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4383432409": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4383432409": 1,
+    "https://www.linkedin.com/jobs/view/people-culture-consultant-the-executive-shift-at-loving-life-now-4382205772": 1,
+    "https://www.linkedin.com/jobs/view/experienced-solana-rust-engineer-at-kindswap-4381724908": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-socotec-4382240315": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1016,7 +1019,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
