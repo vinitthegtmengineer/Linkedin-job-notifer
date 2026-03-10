@@ -1030,7 +1030,13 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-savvy-recruitment-4382424729": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-vatica-health-4382073687": 1,
     "https://www.linkedin.com/jobs/view/operatore-politiche-attive-del-lavoro-a-partita-iva-novara-at-gi-group-holding-4383763732": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-vatica-health-4382069848": 1
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-vatica-health-4382069848": 1,
+    "https://www.linkedin.com/jobs/view/consultor-fi-senior-hibrido-bogot%c3%a0-at-jessica-4383784167": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-howrecruit-4382076887": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-jobs-via-dice-4382206038": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-sd-industries-llc-4383762447": 1,
+    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-picus-security-4383754860": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-gerylove-red-light-4382079203": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1121,13 +1127,14 @@
     "manager, gtm tools & ai enablement|||deltek": "2026-03-10T14:21:41.098Z",
     "campaign manager|||the fountain group": "2026-03-10T14:21:42.585Z",
     "gtm business partner|||picus security": "2026-03-10T15:42:51.593Z",
-    "campaign executive|||flavor. sample with purpose": "2026-03-10T16:12:17.397Z"
+    "campaign executive|||flavor. sample with purpose": "2026-03-10T16:12:17.397Z",
+    "revenue operations engineer|||howrecruit": "2026-03-10T17:05:49.232Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 36,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 37,
+    "matchedToday": 14,
+    "sentToday": 14,
     "lastSummaryDate": ""
   }
 }
