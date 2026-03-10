@@ -1014,7 +1014,11 @@
     "https://www.linkedin.com/jobs/view/soc-operations-engineer-%e2%80%93-edr-ndr-platforms-at-beazley-security-4382068347": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-tools-ai-enablement-at-deltek-4383758085": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-the-fountain-group-4383739825": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-glocomms-4382060819": 1
+    "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-glocomms-4382060819": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-dermatologist-at-myskindoctor-4382065614": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-relehelp-4382435002": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-localstack-4383745792": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-localstack-4383743867": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1107,7 +1111,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
