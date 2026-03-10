@@ -1126,7 +1126,8 @@
     "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-ontra-4383840734": 1,
     "https://www.linkedin.com/jobs/view/manager-gtm-strategy-operations-at-mural-health-4383838881": 1,
     "https://www.linkedin.com/jobs/view/shopper-marketing-manager-at-everyday-dose-4383852333": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
+    "https://www.linkedin.com/jobs/view/principal-solutions-engineer-at-tekselect-4383762494": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1235,7 +1236,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 55,
+    "cyclesToday": 56,
     "matchedToday": 27,
     "sentToday": 27,
     "lastSummaryDate": ""
