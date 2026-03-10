@@ -999,7 +999,8 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-worth-minds-4382039941": 1,
     "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383711884": 1,
-    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722569": 1
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722569": 1,
+    "https://www.linkedin.com/jobs/view/tiktok-shop-campaign-executive-at-strudel-4383336175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1082,13 +1083,14 @@
     "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z",
     "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z",
     "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z",
-    "gtm engineer|||nooks": "2026-03-10T10:24:59.467Z"
+    "gtm engineer|||nooks": "2026-03-10T10:24:59.467Z",
+    "tiktok shop campaign executive|||strudel": "2026-03-10T12:49:05.341Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 27,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 28,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
