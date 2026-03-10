@@ -996,7 +996,10 @@
     "https://www.linkedin.com/jobs/view/director-of-revenue-strategy-and-operations-at-4m-analytics-4382296572": 1,
     "https://www.linkedin.com/jobs/view/consultant-senior-f-h-at-taste-4383704962": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4383729053": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-worth-minds-4382039941": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-worth-minds-4382039941": 1,
+    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383711884": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722569": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1083,7 +1086,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
