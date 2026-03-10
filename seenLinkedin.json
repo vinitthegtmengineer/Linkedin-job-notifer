@@ -1042,7 +1042,11 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-precisely-4382424770": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383717694": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382012755": 1,
-    "https://www.linkedin.com/jobs/view/ai-process-engineer-at-valsoft-corporation-4383798432": 1
+    "https://www.linkedin.com/jobs/view/ai-process-engineer-at-valsoft-corporation-4383798432": 1,
+    "https://www.linkedin.com/jobs/view/out-of-hours-operator-at-appello-uk-4382462147": 1,
+    "https://www.linkedin.com/jobs/view/paycor-consultant-at-rockcrest-4382500084": 1,
+    "https://www.linkedin.com/jobs/view/junior-ai-agent-builder-at-adaptive-teams-4382447640": 1,
+    "https://www.linkedin.com/jobs/view/lead-marketing-growth-operations-analyst-at-tebra-4383804214": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1138,7 +1142,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
