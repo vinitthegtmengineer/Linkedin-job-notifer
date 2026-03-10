@@ -991,7 +991,9 @@
     "https://www.linkedin.com/jobs/view/geopolitical-consultant-at-alcoma-4383705644": 1,
     "https://www.linkedin.com/jobs/view/daml-developer-distributed-ledger-engineer-at-ampstek-4382294250": 1,
     "https://www.linkedin.com/jobs/view/solar-operations-engineer-at-oxbo-4383721125": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-sri-lanka-remote-at-ekwa-marketing-4382042591": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-sri-lanka-remote-at-ekwa-marketing-4382042591": 1,
+    "https://www.linkedin.com/jobs/view/associate-bi-analyst-at-freestar-4372551366": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-strategy-and-operations-at-4m-analytics-4382296572": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1078,7 +1080,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
