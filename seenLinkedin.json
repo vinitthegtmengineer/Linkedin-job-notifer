@@ -1005,7 +1005,11 @@
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4382060371": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383713798": 1,
     "https://www.linkedin.com/jobs/view/entry-level-marketing-manager-at-ingenious-4383723444": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-sage-group-4382211754": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-sage-group-4382211754": 1,
+    "https://www.linkedin.com/jobs/view/lemlist-campaign-manager-%e2%80%93-freelance-remote-start-immediately-at-optiloop-io-4383725918": 1,
+    "https://www.linkedin.com/jobs/view/continuous-improvement-project-engineer-at-kelly-science-engineering-technology-telecom-4382413542": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-manager-at-figma-4330532730": 1,
+    "https://www.linkedin.com/jobs/view/global-marketing-operations-manager-at-ge-healthcare-4371220812": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1090,13 +1094,15 @@
     "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z",
     "gtm engineer|||nooks": "2026-03-10T10:24:59.467Z",
     "tiktok shop campaign executive|||strudel": "2026-03-10T12:49:05.341Z",
-    "gtm engineer|||listlab": "2026-03-10T13:21:54.175Z"
+    "gtm engineer|||listlab": "2026-03-10T13:21:54.175Z",
+    "gtm strategy manager|||figma": "2026-03-10T13:51:51.804Z",
+    "global marketing operations manager|||ge healthcare": "2026-03-10T13:51:53.292Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 29,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 30,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
