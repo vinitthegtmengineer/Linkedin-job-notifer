@@ -1071,7 +1071,17 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataria-4382086224": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-google-shopping-bing-at-onbuy-4383719917": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-jobgether-4383805383": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-accommodations-plus-international-4383389706": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-accommodations-plus-international-4383389706": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382018400": 1,
+    "https://www.linkedin.com/jobs/view/junior-ai-agent-builder-at-adaptive-teams-4382440928": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-afiniti-4382072601": 1,
+    "https://www.linkedin.com/jobs/view/salesforce-gtm-engineer-cpq-at-front-4366299052": 1,
+    "https://www.linkedin.com/jobs/view/value-engineer-at-sapiens-4382509097": 1,
+    "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
+    "https://www.linkedin.com/jobs/view/mechanical-engineer-datacenter-projects-at-engtal-4382466459": 1,
+    "https://www.linkedin.com/jobs/view/associate-brand-manager-at-sandisk-4383817561": 1,
+    "https://www.linkedin.com/jobs/view/strategy-operations-business-partner-at-stripe-4342845608": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-coordinator-at-instacart-4383820314": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1164,13 +1174,14 @@
     "gtm business partner|||picus security": "2026-03-10T15:42:51.593Z",
     "campaign executive|||flavor. sample with purpose": "2026-03-10T16:12:17.397Z",
     "revenue operations engineer|||howrecruit": "2026-03-10T17:05:49.232Z",
-    "vp, ai transformation & gtm strategy, marketing|||ping identity": "2026-03-10T19:34:22.802Z"
+    "vp, ai transformation & gtm strategy, marketing|||ping identity": "2026-03-10T19:34:22.802Z",
+    "salesforce gtm engineer (cpq)|||front": "2026-03-10T20:11:28.171Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 44,
-    "matchedToday": 15,
-    "sentToday": 15,
+    "cyclesToday": 45,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
