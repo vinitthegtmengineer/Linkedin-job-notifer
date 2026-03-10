@@ -922,7 +922,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-mena-content-marketing-specialist-at-forte-4382222016": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-valorant-esports-at-rosewood-creative-4383380707": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-coordinator-at-futuresight-4381778707": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-oak-rocket-4381792085": 1
+    "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-oak-rocket-4381792085": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
+    "https://www.linkedin.com/jobs/view/full-remote-social-media-manager-at-perto-creative-agency-4380939796": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-litify-4381794027": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1000,13 +1003,15 @@
     "gtm engineer|||platform engineering": "2026-03-09T19:53:38.279Z",
     "gtm enablement manager|||outreach": "2026-03-09T21:12:08.937Z",
     "marketing operations manager|||canals": "2026-03-09T21:33:04.117Z",
-    "marketing operations specialist|||alphasense": "2026-03-09T21:51:07.952Z"
+    "marketing operations specialist|||alphasense": "2026-03-09T21:51:07.952Z",
+    "gtm engineer|||sardine": "2026-03-10T00:45:11.255Z",
+    "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z"
   },
   "stats": {
-    "date": "2026-03-09",
-    "cyclesToday": 54,
-    "matchedToday": 28,
-    "sentToday": 28,
+    "date": "2026-03-10",
+    "cyclesToday": 1,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
