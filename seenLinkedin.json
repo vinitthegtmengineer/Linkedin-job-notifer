@@ -1009,7 +1009,11 @@
     "https://www.linkedin.com/jobs/view/lemlist-campaign-manager-%e2%80%93-freelance-remote-start-immediately-at-optiloop-io-4383725918": 1,
     "https://www.linkedin.com/jobs/view/continuous-improvement-project-engineer-at-kelly-science-engineering-technology-telecom-4382413542": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-manager-at-figma-4330532730": 1,
-    "https://www.linkedin.com/jobs/view/global-marketing-operations-manager-at-ge-healthcare-4371220812": 1
+    "https://www.linkedin.com/jobs/view/global-marketing-operations-manager-at-ge-healthcare-4371220812": 1,
+    "https://www.linkedin.com/jobs/view/senior-leanix-consultant-at-your-retail-coach-4382066365": 1,
+    "https://www.linkedin.com/jobs/view/soc-operations-engineer-%e2%80%93-edr-ndr-platforms-at-beazley-security-4382068347": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-tools-ai-enablement-at-deltek-4383758085": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-the-fountain-group-4383739825": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1096,13 +1100,15 @@
     "tiktok shop campaign executive|||strudel": "2026-03-10T12:49:05.341Z",
     "gtm engineer|||listlab": "2026-03-10T13:21:54.175Z",
     "gtm strategy manager|||figma": "2026-03-10T13:51:51.804Z",
-    "global marketing operations manager|||ge healthcare": "2026-03-10T13:51:53.292Z"
+    "global marketing operations manager|||ge healthcare": "2026-03-10T13:51:53.292Z",
+    "manager, gtm tools & ai enablement|||deltek": "2026-03-10T14:21:41.098Z",
+    "campaign manager|||the fountain group": "2026-03-10T14:21:42.585Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 30,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 31,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
