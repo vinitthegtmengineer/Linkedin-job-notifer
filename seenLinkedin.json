@@ -1056,7 +1056,11 @@
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383481510": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383728225": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383719695": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383475733": 1
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383475733": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-korefusion-strategy-consulting-and-m-a-4383824088": 1,
+    "https://www.linkedin.com/jobs/view/director-of-ai-operations-go-to-market-at-pearl-4383482445": 1,
+    "https://www.linkedin.com/jobs/view/vp-ai-transformation-gtm-strategy-marketing-at-ping-identity-4383826023": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-coordinator-at-instacart-4383806717": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1148,13 +1152,14 @@
     "campaign manager|||the fountain group": "2026-03-10T14:21:42.585Z",
     "gtm business partner|||picus security": "2026-03-10T15:42:51.593Z",
     "campaign executive|||flavor. sample with purpose": "2026-03-10T16:12:17.397Z",
-    "revenue operations engineer|||howrecruit": "2026-03-10T17:05:49.232Z"
+    "revenue operations engineer|||howrecruit": "2026-03-10T17:05:49.232Z",
+    "vp, ai transformation & gtm strategy, marketing|||ping identity": "2026-03-10T19:34:22.802Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 42,
-    "matchedToday": 14,
-    "sentToday": 14,
+    "cyclesToday": 43,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
