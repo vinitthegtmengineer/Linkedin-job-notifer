@@ -979,7 +979,11 @@
     "https://www.linkedin.com/jobs/view/administrative-executive-assistant-client-support-invoicing-and-marketing-at-outsourcing-to-south-africa-4382030651": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-fulcrum-4381896813": 1,
     "https://www.linkedin.com/jobs/view/arabic-consultant-remote-at-wesaam-co-ltd-4382272523": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-ad-comunica%c3%a7%c3%a3o-marketing-4382273923": 1
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-ad-comunica%c3%a7%c3%a3o-marketing-4382273923": 1,
+    "https://www.linkedin.com/jobs/view/sr-lead-consultant-orc-at-birlasoft-4382281801": 1,
+    "https://www.linkedin.com/jobs/view/backlink-builder-at-aqua-soft-4382037585": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-at-nooks-4372569372": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-strategy-manager-new-product-at-samsara-4351314158": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1061,13 +1065,14 @@
     "gtm engineer|||sardine": "2026-03-10T00:45:11.255Z",
     "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z",
     "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z",
-    "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z"
+    "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z",
+    "gtm engineer|||nooks": "2026-03-10T10:24:59.467Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 20,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 21,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
