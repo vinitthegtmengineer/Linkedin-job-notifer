@@ -1046,7 +1046,17 @@
     "https://www.linkedin.com/jobs/view/out-of-hours-operator-at-appello-uk-4382462147": 1,
     "https://www.linkedin.com/jobs/view/paycor-consultant-at-rockcrest-4382500084": 1,
     "https://www.linkedin.com/jobs/view/junior-ai-agent-builder-at-adaptive-teams-4382447640": 1,
-    "https://www.linkedin.com/jobs/view/lead-marketing-growth-operations-analyst-at-tebra-4383804214": 1
+    "https://www.linkedin.com/jobs/view/lead-marketing-growth-operations-analyst-at-tebra-4383804214": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382026227": 1,
+    "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-methods-4382049692": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383768500": 1,
+    "https://www.linkedin.com/jobs/view/salesforce-agentforce-sme-ai-agents-prompt-engineering-automation-at-sky-systems-inc-skysys-4383731204": 1,
+    "https://www.linkedin.com/jobs/view/developer-relations-engineer-midnight-foundation-at-input-output-group-4345965666": 1,
+    "https://www.linkedin.com/jobs/view/senior-observability-engineer-f-m-x-at-sii-poland-4381748888": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383481510": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383728225": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383719695": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4383475733": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1142,7 +1152,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
