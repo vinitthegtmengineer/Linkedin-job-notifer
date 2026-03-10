@@ -925,7 +925,13 @@
     "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-oak-rocket-4381792085": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
     "https://www.linkedin.com/jobs/view/full-remote-social-media-manager-at-perto-creative-agency-4380939796": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-litify-4381794027": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-litify-4381794027": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-korn-ferry-4383398165": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4381748321": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-revpartners-4382218617": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-manhattan-grand-hotel-4382236310": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4382230153": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4383432409": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1005,13 +1011,14 @@
     "marketing operations manager|||canals": "2026-03-09T21:33:04.117Z",
     "marketing operations specialist|||alphasense": "2026-03-09T21:51:07.952Z",
     "gtm engineer|||sardine": "2026-03-10T00:45:11.255Z",
-    "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z"
+    "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z",
+    "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 1,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 2,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
