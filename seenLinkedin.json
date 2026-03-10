@@ -1039,7 +1039,8 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-gerylove-red-light-4382079203": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-steadman-hub-4382055986": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4383778708": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-precisely-4382424770": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-precisely-4382424770": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383717694": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1135,7 +1136,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
