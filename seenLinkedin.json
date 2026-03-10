@@ -1127,7 +1127,8 @@
     "https://www.linkedin.com/jobs/view/manager-gtm-strategy-operations-at-mural-health-4383838881": 1,
     "https://www.linkedin.com/jobs/view/shopper-marketing-manager-at-everyday-dose-4383852333": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
-    "https://www.linkedin.com/jobs/view/principal-solutions-engineer-at-tekselect-4383762494": 1
+    "https://www.linkedin.com/jobs/view/principal-solutions-engineer-at-tekselect-4383762494": 1,
+    "https://www.linkedin.com/jobs/view/leader-gtm-enablement-delivery-at-zoom-4383841533": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1232,13 +1233,14 @@
     "gtm program manager|||recluta talenthunter / latin america": "2026-03-10T22:13:12.412Z",
     "director, gtm enablement|||ontra": "2026-03-10T22:32:21.182Z",
     "manager, gtm strategy & operations|||mural health": "2026-03-10T22:32:22.658Z",
-    "marketing operations manager|||samsara": "2026-03-10T23:09:50.769Z"
+    "marketing operations manager|||samsara": "2026-03-10T23:09:50.769Z",
+    "leader, gtm enablement delivery|||zoom": "2026-03-10T23:41:16.670Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 56,
-    "matchedToday": 27,
-    "sentToday": 27,
+    "cyclesToday": 57,
+    "matchedToday": 28,
+    "sentToday": 28,
     "lastSummaryDate": ""
   }
 }
