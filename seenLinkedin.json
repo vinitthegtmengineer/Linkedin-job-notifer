@@ -1121,7 +1121,10 @@
     "https://www.linkedin.com/jobs/view/regional-director-global-accounts-remote-east-coast-at-dynatrace-4383449216": 1,
     "https://www.linkedin.com/jobs/view/regional-sales-director-at-cyberforce-global-4383752014": 1,
     "https://www.linkedin.com/jobs/view/enablement-lead-at-brightedge-4382415942": 1,
-    "https://www.linkedin.com/jobs/view/business-consultant-automotive-industry-at-huzzle-com-4383464951": 1
+    "https://www.linkedin.com/jobs/view/business-consultant-automotive-industry-at-huzzle-com-4383464951": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4382496139": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-ontra-4383840734": 1,
+    "https://www.linkedin.com/jobs/view/manager-gtm-strategy-operations-at-mural-health-4383838881": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1223,13 +1226,15 @@
     "gtm engineer (brasil)|||atom": "2026-03-10T21:13:05.922Z",
     "vp gtm/revops|||strategic employment partners (sep)": "2026-03-10T21:32:22.150Z",
     "director, product management – gtm technology & revenue platforms|||jobgether": "2026-03-10T22:00:10.130Z",
-    "gtm program manager|||recluta talenthunter / latin america": "2026-03-10T22:13:12.412Z"
+    "gtm program manager|||recluta talenthunter / latin america": "2026-03-10T22:13:12.412Z",
+    "director, gtm enablement|||ontra": "2026-03-10T22:32:21.182Z",
+    "manager, gtm strategy & operations|||mural health": "2026-03-10T22:32:22.658Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 52,
-    "matchedToday": 24,
-    "sentToday": 24,
+    "cyclesToday": 53,
+    "matchedToday": 26,
+    "sentToday": 26,
     "lastSummaryDate": ""
   }
 }
