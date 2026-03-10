@@ -963,7 +963,9 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-eurofins-consumer-products-assurance-4382263142": 1,
     "https://www.linkedin.com/jobs/view/operator-head-of-growth-partnerships-at-truehoa-inc-4383468870": 1,
     "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4383476587": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-chargebee-4381749945": 1
+    "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-chargebee-4381749945": 1,
+    "https://www.linkedin.com/jobs/view/director-of-growth-operations-at-pearl-4383482445": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4382017514": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1048,7 +1050,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
