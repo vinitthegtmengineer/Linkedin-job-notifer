@@ -976,7 +976,10 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-marketocrat-4381367234": 1,
     "https://www.linkedin.com/jobs/view/ads-campaign-manager-100%25-remote-at-valatam-4383374353": 1,
     "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4373869285": 1,
-    "https://www.linkedin.com/jobs/view/administrative-executive-assistant-client-support-invoicing-and-marketing-at-outsourcing-to-south-africa-4382030651": 1
+    "https://www.linkedin.com/jobs/view/administrative-executive-assistant-client-support-invoicing-and-marketing-at-outsourcing-to-south-africa-4382030651": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-consultant-at-fulcrum-4381896813": 1,
+    "https://www.linkedin.com/jobs/view/arabic-consultant-remote-at-wesaam-co-ltd-4382272523": 1,
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-ad-comunica%c3%a7%c3%a3o-marketing-4382273923": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1057,13 +1060,14 @@
     "marketing operations specialist|||alphasense": "2026-03-09T21:51:07.952Z",
     "gtm engineer|||sardine": "2026-03-10T00:45:11.255Z",
     "manager marketing operations|||litify": "2026-03-10T00:45:12.722Z",
-    "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z"
+    "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z",
+    "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 19,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 20,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
