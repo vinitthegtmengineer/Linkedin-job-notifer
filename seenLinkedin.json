@@ -1023,7 +1023,12 @@
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4383742268": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4383729829": 1,
     "https://www.linkedin.com/jobs/view/director-of-channel-strategy-and-operations-at-rubrik-4327890079": 1,
-    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-picus-security-4383751982": 1
+    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-picus-security-4383751982": 1,
+    "https://www.linkedin.com/jobs/view/backend-platform-engineer-at-endgame-4366217435": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4382421794": 1,
+    "https://www.linkedin.com/jobs/view/campaign-executive-at-flavor-sample-with-purpose-4383714171": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-savvy-recruitment-4382424729": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-vatica-health-4382073687": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1113,13 +1118,14 @@
     "global marketing operations manager|||ge healthcare": "2026-03-10T13:51:53.292Z",
     "manager, gtm tools & ai enablement|||deltek": "2026-03-10T14:21:41.098Z",
     "campaign manager|||the fountain group": "2026-03-10T14:21:42.585Z",
-    "gtm business partner|||picus security": "2026-03-10T15:42:51.593Z"
+    "gtm business partner|||picus security": "2026-03-10T15:42:51.593Z",
+    "campaign executive|||flavor. sample with purpose": "2026-03-10T16:12:17.397Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 34,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 35,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
