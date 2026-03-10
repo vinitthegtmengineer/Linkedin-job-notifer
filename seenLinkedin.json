@@ -953,7 +953,8 @@
     "https://www.linkedin.com/jobs/view/sr-private-equity-consultant-remote-at-mercor-4383464137": 1,
     "https://www.linkedin.com/jobs/view/dynatrace-consultant-at-jobs-via-dice-4381897279": 1,
     "https://www.linkedin.com/jobs/view/remediation-senior-consultant-at-devoteam-4365839227": 1,
-    "https://www.linkedin.com/jobs/view/ring-developer-engineer-at-amazon-4381777730": 1
+    "https://www.linkedin.com/jobs/view/ring-developer-engineer-at-amazon-4381777730": 1,
+    "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4383464585": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1038,7 +1039,7 @@
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
