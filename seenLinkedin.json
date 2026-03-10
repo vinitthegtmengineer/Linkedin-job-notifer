@@ -1000,7 +1000,12 @@
     "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383711884": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722569": 1,
-    "https://www.linkedin.com/jobs/view/tiktok-shop-campaign-executive-at-strudel-4383336175": 1
+    "https://www.linkedin.com/jobs/view/tiktok-shop-campaign-executive-at-strudel-4383336175": 1,
+    "https://www.linkedin.com/jobs/view/recruitment-marketing-specialist-japanese-speaker-at-cxg-4383745077": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4382060371": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383713798": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-marketing-manager-at-ingenious-4383723444": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-sage-group-4382211754": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1084,13 +1089,14 @@
     "gtm engineer|||revpartners": "2026-03-10T01:19:18.233Z",
     "ppc campaign manager|||ad comunicação & marketing": "2026-03-10T10:06:37.567Z",
     "gtm engineer|||nooks": "2026-03-10T10:24:59.467Z",
-    "tiktok shop campaign executive|||strudel": "2026-03-10T12:49:05.341Z"
+    "tiktok shop campaign executive|||strudel": "2026-03-10T12:49:05.341Z",
+    "gtm engineer|||listlab": "2026-03-10T13:21:54.175Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 28,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 29,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
