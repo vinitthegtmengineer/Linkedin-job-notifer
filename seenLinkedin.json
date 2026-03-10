@@ -1087,7 +1087,9 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-autoraptor-4382471300": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-oneleet-4383821469": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-cloud-for-good-4383835497": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-kewdc5764985-at-compunnel-inc-4383830541": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-kewdc5764985-at-compunnel-inc-4383830541": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-brasil-at-atom-4382504732": 1,
+    "https://www.linkedin.com/jobs/view/operational-intelligence-engineer-at-colomboai-4382482327": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1185,13 +1187,14 @@
     "gtm engineer|||autoraptor": "2026-03-10T20:33:12.182Z",
     "gtm engineer|||oneleet": "2026-03-10T20:33:13.669Z",
     "marketing campaign manager|||cloud for good": "2026-03-10T20:33:15.150Z",
-    "marketing campaign manager-- kewdc5764985|||compunnel inc.": "2026-03-10T20:33:16.633Z"
+    "marketing campaign manager-- kewdc5764985|||compunnel inc.": "2026-03-10T20:33:16.633Z",
+    "gtm engineer (brasil)|||atom": "2026-03-10T21:13:05.922Z"
   },
   "stats": {
     "date": "2026-03-10",
-    "cyclesToday": 47,
-    "matchedToday": 20,
-    "sentToday": 20,
+    "cyclesToday": 48,
+    "matchedToday": 21,
+    "sentToday": 21,
     "lastSummaryDate": ""
   }
 }
