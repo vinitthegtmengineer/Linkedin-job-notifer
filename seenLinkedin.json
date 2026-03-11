@@ -1229,7 +1229,11 @@
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4381777218": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-freshminds-4382582276": 1,
     "https://www.linkedin.com/jobs/view/senior-fundraising-strategist-consultancy-at-conducive-space-for-peace-4384156915": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-at-wiraa-4382875338": 1
+    "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-at-wiraa-4382875338": 1,
+    "https://www.linkedin.com/jobs/view/consulente-vendita-at-dreambuilders-4382579293": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-aliando-4382875389": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-tinder-thailand-at-tinder-4382862970": 1,
+    "https://www.linkedin.com/jobs/view/commercial-analyst-projects-at-kfc-4371988666": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1344,13 +1348,14 @@
     "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z",
     "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z",
     "gtm event manager (b2b)|||classpass": "2026-03-11T10:37:18.730Z",
-    "campaign manager|||each&everyone": "2026-03-11T11:19:20.750Z"
+    "campaign manager|||each&everyone": "2026-03-11T11:19:20.750Z",
+    "marketing operations executive|||aliando": "2026-03-11T13:08:01.429Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 27,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 28,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
