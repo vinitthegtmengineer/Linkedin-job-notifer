@@ -1249,7 +1249,9 @@
     "https://www.linkedin.com/jobs/view/strategic-growth-marketing-manager-growth-lab-at-okta-4382532133": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-talent-pool-%e2%80%93-remote-at-happy-mammoth-4383808843": 1,
     "https://www.linkedin.com/jobs/view/sales-engineering-staff-at-gaotek-inc-4384301407": 1,
-    "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-jobgether-4384136001": 1
+    "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-jobgether-4384136001": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-education-executive-at-johnson-johnson-medtech-4215344048": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1368,13 +1370,14 @@
     "marketing operations executive|||aliando": "2026-03-11T13:08:01.429Z",
     "founding gtm|||lumopath": "2026-03-11T13:41:06.647Z",
     "director of marketing operations|||pandadoc": "2026-03-11T13:41:08.135Z",
-    "gtm engineer|||scaled": "2026-03-11T14:11:55.681Z"
+    "gtm engineer|||scaled": "2026-03-11T14:11:55.681Z",
+    "gtm engineer|||cresta": "2026-03-11T15:01:58.771Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 31,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 32,
+    "matchedToday": 14,
+    "sentToday": 14,
     "lastSummaryDate": ""
   }
 }
