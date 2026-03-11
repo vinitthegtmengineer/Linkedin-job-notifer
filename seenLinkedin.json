@@ -1170,7 +1170,11 @@
     "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-trueagent-4382838674": 1,
     "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-ops-forward-deployed-engineering-at-federato-4383873149": 1
+    "https://www.linkedin.com/jobs/view/strategy-and-ops-forward-deployed-engineering-at-federato-4383873149": 1,
+    "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-at-jobs-via-dice-4382839862": 1,
+    "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-lead-at-jobs-via-dice-4382853353": 1,
+    "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384124674": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-eden-4382830809": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1281,13 +1285,14 @@
     "gtm engineer|||recur software": "2026-03-11T02:08:53.270Z",
     "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z",
     "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z",
-    "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z"
+    "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z",
+    "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 13,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 14,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
