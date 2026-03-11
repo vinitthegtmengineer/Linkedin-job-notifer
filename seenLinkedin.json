@@ -1145,7 +1145,11 @@
     "https://www.linkedin.com/jobs/view/marketing-ai-analyst-at-bloomreach-4343048480": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-lightspeed-dms-4382095721": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-at-pretzl-4382079384": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mash-4382491921": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mash-4382491921": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-recur-software-4383852596": 1,
+    "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
+    "https://www.linkedin.com/jobs/view/director-strategic-initiatives-americas-at-okta-4382509999": 1,
+    "https://www.linkedin.com/jobs/view/digital-advertising-campaign-manager-at-tremendous-4383896352": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1252,13 +1256,15 @@
     "manager, gtm strategy & operations|||mural health": "2026-03-10T22:32:22.658Z",
     "marketing operations manager|||samsara": "2026-03-10T23:09:50.769Z",
     "leader, gtm enablement delivery|||zoom": "2026-03-10T23:41:16.670Z",
-    "marketing operations analyst|||lightspeed dms": "2026-03-11T01:19:19.651Z"
+    "marketing operations analyst|||lightspeed dms": "2026-03-11T01:19:19.651Z",
+    "gtm engineer|||recur software": "2026-03-11T02:08:53.270Z",
+    "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 2,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 3,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
