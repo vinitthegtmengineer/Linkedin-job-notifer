@@ -1211,7 +1211,8 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-esp-utilities-group-ltd-4384139827": 1,
     "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1,
     "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1,
-    "https://www.linkedin.com/jobs/view/customer-service-specialist-foodservice-at-lavazza-group-4266394871": 1
+    "https://www.linkedin.com/jobs/view/customer-service-specialist-foodservice-at-lavazza-group-4266394871": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-each-everyone-4379030676": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1325,13 +1326,14 @@
     "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z",
     "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z",
     "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z",
-    "gtm event manager (b2b)|||classpass": "2026-03-11T10:37:18.730Z"
+    "gtm event manager (b2b)|||classpass": "2026-03-11T10:37:18.730Z",
+    "campaign manager|||each&everyone": "2026-03-11T11:19:20.750Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 22,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 23,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
