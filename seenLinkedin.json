@@ -1320,7 +1320,8 @@
     "https://www.linkedin.com/jobs/view/retention-loyalty-marketing-manager-at-osea-malibu-4384373761": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-bcforward-4384331823": 1,
     "https://www.linkedin.com/jobs/view/director-creative-operations-at-peloton-interactive-4382716472": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-operations-at-olly-pbc-4384198299": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-operations-at-olly-pbc-4384198299": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-investigo-4383259457": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1448,7 +1449,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 48,
+    "cyclesToday": 49,
     "matchedToday": 18,
     "sentToday": 18,
     "lastSummaryDate": ""
