@@ -1169,7 +1169,8 @@
     "https://www.linkedin.com/jobs/view/saas-engineer-at-integrated-wireless-solutions-4382565015": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-trueagent-4382838674": 1,
-    "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1
+    "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1,
+    "https://www.linkedin.com/jobs/view/strategy-and-ops-forward-deployed-engineering-at-federato-4383873149": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1284,7 +1285,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
