@@ -1344,7 +1344,8 @@
     "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1,
     "https://www.linkedin.com/jobs/view/sr-machine-learning-operations-engineer-at-smartsheet-4368779891": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4382896522": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4382896522": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-truempathy-4384137883": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1469,13 +1470,14 @@
     "gtm lead|||vikara ai": "2026-03-11T16:48:58.794Z",
     "gtm (go to market) operations / automation specialist|||turpal": "2026-03-11T21:00:17.360Z",
     "gtm systems engineer|||companycam": "2026-03-11T21:00:18.873Z",
-    "gtm engineer|||huzzle.com": "2026-03-11T22:09:35.775Z"
+    "gtm engineer|||huzzle.com": "2026-03-11T22:09:35.775Z",
+    "gtm engineer|||truempathy": "2026-03-11T23:32:01.684Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 55,
-    "matchedToday": 19,
-    "sentToday": 19,
+    "cyclesToday": 56,
+    "matchedToday": 20,
+    "sentToday": 20,
     "lastSummaryDate": ""
   }
 }
