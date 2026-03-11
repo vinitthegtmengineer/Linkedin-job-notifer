@@ -1200,7 +1200,13 @@
     "https://www.linkedin.com/jobs/view/senior-engineer-i-managed-kubernetes-at-digitalocean-4383832768": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-ii-fleet-efficiency-at-digitalocean-4383847227": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-mining-process-industrial-at-watson-marlow-fluid-technology-solutions-4364798120": 1,
-    "https://www.linkedin.com/jobs/view/ml-ai-ops-engineer-at-veeam-software-4365951337": 1
+    "https://www.linkedin.com/jobs/view/ml-ai-ops-engineer-at-veeam-software-4365951337": 1,
+    "https://www.linkedin.com/jobs/view/automation-systems-builder-%e2%80%94-ai-agents-n8n-zapier-at-artexion-4372533306": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-coders-boutique-4382865675": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-%e2%80%93-tyre-pyrolysis-consultant-at-greener-greener-4382879130": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-col-at-simetrik-4384147481": 1,
+    "https://www.linkedin.com/jobs/view/social-media-and-blogs-manager-at-tenco-4384135976": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-operations-at-rithum-4366252818": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1312,13 +1318,14 @@
     "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z",
     "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z",
     "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z",
-    "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z"
+    "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z",
+    "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 19,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 20,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
