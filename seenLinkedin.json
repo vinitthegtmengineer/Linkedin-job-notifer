@@ -1167,7 +1167,9 @@
     "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384123279": 1,
     "https://www.linkedin.com/jobs/view/national-senior-consultant-disability-inclusion-abuja-nigeria-35-working-days-remote-at-unicef-chad-4382543918": 1,
     "https://www.linkedin.com/jobs/view/saas-engineer-at-integrated-wireless-solutions-4382565015": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
+    "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-trueagent-4382838674": 1,
+    "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1277,13 +1279,14 @@
     "marketing operations analyst|||lightspeed dms": "2026-03-11T01:19:19.651Z",
     "gtm engineer|||recur software": "2026-03-11T02:08:53.270Z",
     "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z",
-    "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z"
+    "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z",
+    "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 10,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 11,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
