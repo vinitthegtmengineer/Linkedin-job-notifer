@@ -1334,7 +1334,15 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384503040": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384394365": 1,
     "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-remote-at-apetan-consulting-llc-4384388566": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-4383200736": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-business-development-executive-wfh-at-dihuni-4384125182": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-4382574594": 1,
+    "https://www.linkedin.com/jobs/view/stage-client-service-executive-field-marketing-at-cpm-italy-4372854663": 1,
+    "https://www.linkedin.com/jobs/view/marketing-director-at-alumus-healthcare-4383263170": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-growth-intelligence-systems-at-alliant-university-4383214786": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1463,7 +1471,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 51,
+    "cyclesToday": 52,
     "matchedToday": 19,
     "sentToday": 19,
     "lastSummaryDate": ""
