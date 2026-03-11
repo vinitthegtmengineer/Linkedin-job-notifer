@@ -1215,7 +1215,9 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-at-each-everyone-4379030676": 1,
     "https://www.linkedin.com/jobs/view/consulente-ru-at-federal-department-of-foreign-affairs-fdfa-4384160858": 1,
     "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371969378": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-us-based-remote-at-paired-4382580009": 1
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-us-based-remote-at-paired-4382580009": 1,
+    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4384170318": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-capital-markets-at-colliers-4382886254": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1334,7 +1336,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
