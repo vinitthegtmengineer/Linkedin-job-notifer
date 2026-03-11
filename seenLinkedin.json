@@ -1226,7 +1226,10 @@
     "https://www.linkedin.com/jobs/view/data-science-manager-measurement-ads-dse-at-netflix-4356200741": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-at-jobgether-4383813223": 1,
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-sales-marketing-at-scale-army-careers-4382434662": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4381777218": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4381777218": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-freshminds-4382582276": 1,
+    "https://www.linkedin.com/jobs/view/senior-fundraising-strategist-consultancy-at-conducive-space-for-peace-4384156915": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-at-wiraa-4382875338": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1345,7 +1348,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
