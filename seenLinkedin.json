@@ -1159,7 +1159,9 @@
     "https://www.linkedin.com/jobs/view/senior-systems-engineer-artificial-intelligence-operations-at-nvidia-4383899364": 1,
     "https://www.linkedin.com/jobs/view/online-campaign-manager-at-jointly-4382827666": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-elite-hospitality-4384105485": 1,
-    "https://www.linkedin.com/jobs/view/agency-builders-trainers-and-agents-4383898938": 1
+    "https://www.linkedin.com/jobs/view/agency-builders-trainers-and-agents-4383898938": 1,
+    "https://www.linkedin.com/jobs/view/remote-pilot-operator-at-anchorage-ak-at-lensa-4383889346": 1,
+    "https://www.linkedin.com/jobs/view/remote-soar-developer-engineer-at-lensa-4383893177": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1273,7 +1275,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
