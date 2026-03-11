@@ -1329,7 +1329,12 @@
     "https://www.linkedin.com/jobs/view/transmission-line-project-engineer-southeast-remote-at-wsp-in-the-u-s-4384340873": 1,
     "https://www.linkedin.com/jobs/view/physical-security-operational-tech-senior-systems-engineer-at-ventula-consulting-4382868423": 1,
     "https://www.linkedin.com/jobs/view/sme-service-process-engineer-uht-at-spx-flow-inc-4315350898": 1,
-    "https://www.linkedin.com/jobs/view/production-systems-engineer-audio-remote-at-lensa-4383875662": 1
+    "https://www.linkedin.com/jobs/view/production-systems-engineer-audio-remote-at-lensa-4383875662": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384505032": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384503040": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384394365": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-remote-at-apetan-consulting-llc-4384388566": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1453,13 +1458,14 @@
     "gtm engineer (ai & automation) | canada|||grafana labs": "2026-03-11T16:48:57.236Z",
     "gtm lead|||vikara ai": "2026-03-11T16:48:58.794Z",
     "gtm (go to market) operations / automation specialist|||turpal": "2026-03-11T21:00:17.360Z",
-    "gtm systems engineer|||companycam": "2026-03-11T21:00:18.873Z"
+    "gtm systems engineer|||companycam": "2026-03-11T21:00:18.873Z",
+    "gtm engineer|||huzzle.com": "2026-03-11T22:09:35.775Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 50,
-    "matchedToday": 18,
-    "sentToday": 18,
+    "cyclesToday": 51,
+    "matchedToday": 19,
+    "sentToday": 19,
     "lastSummaryDate": ""
   }
 }
