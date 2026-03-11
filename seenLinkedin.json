@@ -1238,7 +1238,16 @@
     "https://www.linkedin.com/jobs/view/ai-product-builder-at-abnormal-ai-4330552927": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4371964923": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-at-lumopath-4382098995": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1,
+    "https://www.linkedin.com/jobs/view/operador-telemarketer-at-axon-training-argentina-4382898482": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-com-foco-em-ia-junior-%e2%80%93-vaga-exclusiva-para-pessoas-autistas-at-atip-4384190828": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-scaled-4384190934": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-backend-at-tide-4257039068": 1,
+    "https://www.linkedin.com/jobs/view/operations-reliability-engineer-%e2%80%93-enterprise-platforms-and-tools-at-genesys-4377904963": 1,
+    "https://www.linkedin.com/jobs/view/project-delivery-engineer-at-aptonet-4382426166": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-at-globaltize-4383791773": 1,
+    "https://www.linkedin.com/jobs/view/strategic-growth-marketing-manager-growth-lab-at-okta-4382532133": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-talent-pool-%e2%80%93-remote-at-happy-mammoth-4383808843": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1356,13 +1365,14 @@
     "campaign manager|||each&everyone": "2026-03-11T11:19:20.750Z",
     "marketing operations executive|||aliando": "2026-03-11T13:08:01.429Z",
     "founding gtm|||lumopath": "2026-03-11T13:41:06.647Z",
-    "director of marketing operations|||pandadoc": "2026-03-11T13:41:08.135Z"
+    "director of marketing operations|||pandadoc": "2026-03-11T13:41:08.135Z",
+    "gtm engineer|||scaled": "2026-03-11T14:11:55.681Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 29,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 30,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
