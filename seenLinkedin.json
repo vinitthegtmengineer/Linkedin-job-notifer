@@ -1247,7 +1247,9 @@
     "https://www.linkedin.com/jobs/view/project-delivery-engineer-at-aptonet-4382426166": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-at-globaltize-4383791773": 1,
     "https://www.linkedin.com/jobs/view/strategic-growth-marketing-manager-growth-lab-at-okta-4382532133": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-talent-pool-%e2%80%93-remote-at-happy-mammoth-4383808843": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-talent-pool-%e2%80%93-remote-at-happy-mammoth-4383808843": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineering-staff-at-gaotek-inc-4384301407": 1,
+    "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-jobgether-4384136001": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1370,7 +1372,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
