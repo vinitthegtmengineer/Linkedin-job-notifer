@@ -1199,7 +1199,8 @@
     "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-ar-at-whitestack-4382465107": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-i-managed-kubernetes-at-digitalocean-4383832768": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-ii-fleet-efficiency-at-digitalocean-4383847227": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-mining-process-industrial-at-watson-marlow-fluid-technology-solutions-4364798120": 1
+    "https://www.linkedin.com/jobs/view/sales-engineer-mining-process-industrial-at-watson-marlow-fluid-technology-solutions-4364798120": 1,
+    "https://www.linkedin.com/jobs/view/ml-ai-ops-engineer-at-veeam-software-4365951337": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1315,7 +1316,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
