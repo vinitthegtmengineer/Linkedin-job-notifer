@@ -1342,7 +1342,8 @@
     "https://www.linkedin.com/jobs/view/marketing-director-at-alumus-healthcare-4383263170": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-growth-intelligence-systems-at-alliant-university-4383214786": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1,
+    "https://www.linkedin.com/jobs/view/sr-machine-learning-operations-engineer-at-smartsheet-4368779891": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1471,7 +1472,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 53,
+    "cyclesToday": 54,
     "matchedToday": 19,
     "sentToday": 19,
     "lastSummaryDate": ""
