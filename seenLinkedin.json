@@ -1174,7 +1174,9 @@
     "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-at-jobs-via-dice-4382839862": 1,
     "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-lead-at-jobs-via-dice-4382853353": 1,
     "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384124674": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-eden-4382830809": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-eden-4382830809": 1,
+    "https://www.linkedin.com/jobs/view/production-engineer-at-solutune-4382860250": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-hospitality-4382842854": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1290,7 +1292,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
