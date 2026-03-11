@@ -1269,7 +1269,10 @@
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-jobgether-4384169750": 1,
     "https://www.linkedin.com/jobs/view/servicetitan-consultant-at-crewlift-4383845678": 1,
     "https://www.linkedin.com/jobs/view/senior-journey-builder-sfmc-ajo-at-humana-4356058646": 1,
-    "https://www.linkedin.com/jobs/view/operations-and-automation-engineer-at-provisions-group-4383225290": 1
+    "https://www.linkedin.com/jobs/view/operations-and-automation-engineer-at-provisions-group-4383225290": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-revenue-management-at-apartmentiq-4383233053": 1,
+    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-ai-automation-canada-remote-at-grafana-labs-4374438642": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4382889138": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1389,13 +1392,15 @@
     "founding gtm|||lumopath": "2026-03-11T13:41:06.647Z",
     "director of marketing operations|||pandadoc": "2026-03-11T13:41:08.135Z",
     "gtm engineer|||scaled": "2026-03-11T14:11:55.681Z",
-    "gtm engineer|||cresta": "2026-03-11T15:01:58.771Z"
+    "gtm engineer|||cresta": "2026-03-11T15:01:58.771Z",
+    "gtm engineer (ai & automation) | canada|||grafana labs": "2026-03-11T16:48:57.236Z",
+    "gtm lead|||vikara ai": "2026-03-11T16:48:58.794Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 35,
-    "matchedToday": 14,
-    "sentToday": 14,
+    "cyclesToday": 36,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
