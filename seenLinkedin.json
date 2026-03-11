@@ -1155,7 +1155,10 @@
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4383872347": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4383854769": 1,
     "https://www.linkedin.com/jobs/view/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4382810988": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-virtual-assist-4383812897": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-virtual-assist-4383812897": 1,
+    "https://www.linkedin.com/jobs/view/senior-systems-engineer-artificial-intelligence-operations-at-nvidia-4383899364": 1,
+    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-jointly-4382827666": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-elite-hospitality-4384105485": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1264,13 +1267,14 @@
     "leader, gtm enablement delivery|||zoom": "2026-03-10T23:41:16.670Z",
     "marketing operations analyst|||lightspeed dms": "2026-03-11T01:19:19.651Z",
     "gtm engineer|||recur software": "2026-03-11T02:08:53.270Z",
-    "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z"
+    "digital advertising campaign manager|||tremendous": "2026-03-11T02:08:54.740Z",
+    "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 4,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 5,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
