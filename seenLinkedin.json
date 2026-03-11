@@ -1206,7 +1206,11 @@
     "https://www.linkedin.com/jobs/view/process-engineer-%e2%80%93-tyre-pyrolysis-consultant-at-greener-greener-4382879130": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-col-at-simetrik-4384147481": 1,
     "https://www.linkedin.com/jobs/view/social-media-and-blogs-manager-at-tenco-4384135976": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-operations-at-rithum-4366252818": 1
+    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-operations-at-rithum-4366252818": 1,
+    "https://www.linkedin.com/jobs/view/ocean-freight-operator-korean-speaking-at-eurise-k-4384145116": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-esp-utilities-group-ltd-4384139827": 1,
+    "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1,
+    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1319,13 +1323,14 @@
     "online campaign manager|||jointly": "2026-03-11T03:57:05.853Z",
     "gtm commission manager|||lensa": "2026-03-11T06:54:03.595Z",
     "marketing operations manager|||eden": "2026-03-11T08:03:24.075Z",
-    "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z"
+    "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z",
+    "gtm event manager (b2b)|||classpass": "2026-03-11T10:37:18.730Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 20,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 21,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
