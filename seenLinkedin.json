@@ -1183,7 +1183,23 @@
     "https://www.linkedin.com/jobs/view/remote-geothermal-or-orc-project-engineer-at-lensa-4383872991": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360514847": 1,
     "https://www.linkedin.com/jobs/view/linux-engineer-with-embedded-at-accenture-poland-4382480906": 1,
-    "https://www.linkedin.com/jobs/view/24-7-l1-network-and-security-engineer-1st-line-noc-support-at-nomios-belgium-4383756981": 1
+    "https://www.linkedin.com/jobs/view/24-7-l1-network-and-security-engineer-1st-line-noc-support-at-nomios-belgium-4383756981": 1,
+    "https://www.linkedin.com/jobs/view/certinia-consultant-at-cloudely-inc-4384138754": 1,
+    "https://www.linkedin.com/jobs/view/senior-mlops-engineer-hudl-focus-at-hudl-4371931534": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383721170": 1,
+    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4382448483": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-at-robert-half-4383740364": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383712806": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383713360": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383702863": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-cl-at-whitestack-4382443913": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383719290": 1,
+    "https://www.linkedin.com/jobs/view/video-streaming-engineering-german-language-at-smartedge-solutions-4382282686": 1,
+    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722558": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-ar-at-whitestack-4382465107": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-i-managed-kubernetes-at-digitalocean-4383832768": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-ii-fleet-efficiency-at-digitalocean-4383847227": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-mining-process-industrial-at-watson-marlow-fluid-technology-solutions-4364798120": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1299,7 +1315,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
