@@ -1176,7 +1176,14 @@
     "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384124674": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-eden-4382830809": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-solutune-4382860250": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-hospitality-4382842854": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-hospitality-4382842854": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4351957823": 1,
+    "https://www.linkedin.com/jobs/view/new-reactor-project-quality-engineer-remote-eligible-u-s-at-lensa-4383881436": 1,
+    "https://www.linkedin.com/jobs/view/cybersecurity-engineer-at-reladyne-llc-4382095285": 1,
+    "https://www.linkedin.com/jobs/view/remote-geothermal-or-orc-project-engineer-at-lensa-4383872991": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360514847": 1,
+    "https://www.linkedin.com/jobs/view/linux-engineer-with-embedded-at-accenture-poland-4382480906": 1,
+    "https://www.linkedin.com/jobs/view/24-7-l1-network-and-security-engineer-1st-line-noc-support-at-nomios-belgium-4383756981": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1292,7 +1299,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
