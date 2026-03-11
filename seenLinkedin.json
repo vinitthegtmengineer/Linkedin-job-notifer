@@ -1306,7 +1306,10 @@
     "https://www.linkedin.com/jobs/view/deployment-engineer-east-coast-ai-soc-start-up%21-at-stealthwatch-4382874268": 1,
     "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-doxel-4383848927": 1,
     "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a345k%e2%80%93%c2%a360k-%e2%80%94-join-the-fintech-powering-superyachts-artists-worldwide-at-venchr-4382874321": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategic-product-partnerships-manager-at-hubspot-4302572157": 1
+    "https://www.linkedin.com/jobs/view/senior-strategic-product-partnerships-manager-at-hubspot-4302572157": 1,
+    "https://www.linkedin.com/jobs/view/delay-start-up-builders-risk-insurance-claims-director-of-quantum-delay-at-rimkus-4380989730": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-autoraptor-4383258233": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-at-intelliswift-an-ltts-company-4383248662": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1432,7 +1435,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 16,
     "sentToday": 16,
     "lastSummaryDate": ""
