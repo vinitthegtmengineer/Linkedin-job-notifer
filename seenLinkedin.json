@@ -1251,7 +1251,8 @@
     "https://www.linkedin.com/jobs/view/sales-engineering-staff-at-gaotek-inc-4384301407": 1,
     "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-jobgether-4384136001": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-education-executive-at-johnson-johnson-medtech-4215344048": 1
+    "https://www.linkedin.com/jobs/view/marketing-and-education-executive-at-johnson-johnson-medtech-4215344048": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-la-theoz-4383211553": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1375,7 +1376,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
