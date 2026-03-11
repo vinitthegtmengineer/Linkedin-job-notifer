@@ -1210,7 +1210,8 @@
     "https://www.linkedin.com/jobs/view/ocean-freight-operator-korean-speaking-at-eurise-k-4384145116": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-esp-utilities-group-ltd-4384139827": 1,
     "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1,
-    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1
+    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1,
+    "https://www.linkedin.com/jobs/view/customer-service-specialist-foodservice-at-lavazza-group-4266394871": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1328,7 +1329,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
