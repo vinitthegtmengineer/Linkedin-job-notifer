@@ -1345,7 +1345,10 @@
     "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1,
     "https://www.linkedin.com/jobs/view/sr-machine-learning-operations-engineer-at-smartsheet-4368779891": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4382896522": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-truempathy-4384137883": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-truempathy-4384137883": 1,
+    "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4382724628": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4384391964": 1,
+    "https://www.linkedin.com/jobs/view/partner-marketing-activation-manager-at-aescape-4384379983": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1475,7 +1478,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 56,
+    "cyclesToday": 57,
     "matchedToday": 20,
     "sentToday": 20,
     "lastSummaryDate": ""
