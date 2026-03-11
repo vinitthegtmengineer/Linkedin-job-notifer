@@ -1233,7 +1233,12 @@
     "https://www.linkedin.com/jobs/view/consulente-vendita-at-dreambuilders-4382579293": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-aliando-4382875389": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-tinder-thailand-at-tinder-4382862970": 1,
-    "https://www.linkedin.com/jobs/view/commercial-analyst-projects-at-kfc-4371988666": 1
+    "https://www.linkedin.com/jobs/view/commercial-analyst-projects-at-kfc-4371988666": 1,
+    "https://www.linkedin.com/jobs/view/remote-honeymoon-consultant-at-reed-s-adventures-4384194375": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-abnormal-ai-4330552927": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4371964923": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-lumopath-4382098995": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1349,13 +1354,15 @@
     "gtm engineer|||coders boutique": "2026-03-11T10:17:49.922Z",
     "gtm event manager (b2b)|||classpass": "2026-03-11T10:37:18.730Z",
     "campaign manager|||each&everyone": "2026-03-11T11:19:20.750Z",
-    "marketing operations executive|||aliando": "2026-03-11T13:08:01.429Z"
+    "marketing operations executive|||aliando": "2026-03-11T13:08:01.429Z",
+    "founding gtm|||lumopath": "2026-03-11T13:41:06.647Z",
+    "director of marketing operations|||pandadoc": "2026-03-11T13:41:08.135Z"
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 28,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 29,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
