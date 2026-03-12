@@ -1382,7 +1382,9 @@
     "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4383292476": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4384546106": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4384538545": 1,
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4384531759": 1
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4384531759": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-and-go-to-market-at-gomotto-4383264888": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-randstad-uk-4382866613": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1513,7 +1515,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
