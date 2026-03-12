@@ -1500,7 +1500,10 @@
     "https://www.linkedin.com/jobs/view/lead-wordpress-builder-own-build-a-platform-from-scratch-at-influsser-4374937562": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-stealth-startup-4383937254": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-ii-at-samsara-4382733210": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-oklo-inc-4383923773": 1
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-oklo-inc-4383923773": 1,
+    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-swoon-4383949046": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4383947199": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-kin-euphorics-4383932483": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1642,13 +1645,14 @@
     "founding gtm engineer|||zinance": "2026-03-12T16:13:11.122Z",
     "go-to-market (gtm) engineer|||sentilink": "2026-03-12T16:41:17.058Z",
     "gtm|||plurai": "2026-03-12T16:41:18.531Z",
-    "founding gtm engineer|||stealth startup": "2026-03-12T17:10:43.319Z"
+    "founding gtm engineer|||stealth startup": "2026-03-12T17:10:43.319Z",
+    "gtm analytics engineer|||swoon": "2026-03-12T17:37:50.056Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 36,
-    "matchedToday": 16,
-    "sentToday": 16,
+    "cyclesToday": 37,
+    "matchedToday": 17,
+    "sentToday": 17,
     "lastSummaryDate": ""
   }
 }
