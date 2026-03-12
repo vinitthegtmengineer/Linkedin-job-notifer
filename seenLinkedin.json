@@ -1428,7 +1428,9 @@
     "https://www.linkedin.com/jobs/view/remote-operations-center-engineer-at-lensa-4384525775": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-cad-autocad-%e2%80%93-carbon-capture-and-utilization-at-antal-international-4384176585": 1,
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-mydata-insights-4384588736": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-paramount-4375072644": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-paramount-4375072644": 1,
+    "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4384808230": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-operations-executive-at-leru-remote-4383535826": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1559,13 +1561,14 @@
     "facebook advertisements campaign manager – enterprise campaigns|||blackcloud financial & it solutions": "2026-03-12T07:52:06.673Z",
     "svp gtm - north america|||pangea": "2026-03-12T09:00:46.712Z",
     "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z",
-    "campaign manager, advertising traffic|||paramount": "2026-03-12T10:08:48.179Z"
+    "campaign manager, advertising traffic|||paramount": "2026-03-12T10:08:48.179Z",
+    "marketing operations executive|||leru remote": "2026-03-12T10:26:20.063Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 19,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 20,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
