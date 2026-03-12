@@ -1440,7 +1440,11 @@
     "https://www.linkedin.com/jobs/view/braze-campaign-manger-contract-inside-ir35-at-bodhi-4383210743": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-tradebeyond-4384194662": 1,
     "https://www.linkedin.com/jobs/view/social-media-influencer-manager-at-adfix-4384347600": 1,
-    "https://www.linkedin.com/jobs/view/app-marketing-manager-mobile-growth-at-12go-4384304168": 1
+    "https://www.linkedin.com/jobs/view/app-marketing-manager-mobile-growth-at-12go-4384304168": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4371001187": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4370994300": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-built-4375057545": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-vet-recruiter-relief-4384594829": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1573,13 +1577,14 @@
     "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z",
     "campaign manager, advertising traffic|||paramount": "2026-03-12T10:08:48.179Z",
     "marketing operations executive|||leru remote": "2026-03-12T10:26:20.063Z",
-    "ai gtm leader|||databricks": "2026-03-12T10:48:40.012Z"
+    "ai gtm leader|||databricks": "2026-03-12T10:48:40.012Z",
+    "gtm engineer|||built": "2026-03-12T11:07:18.081Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 21,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 22,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
