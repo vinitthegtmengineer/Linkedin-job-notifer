@@ -1420,7 +1420,15 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-centric-consulting-4344246843": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383530961": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383550065": 1,
-    "https://www.linkedin.com/jobs/view/vp-performance-marketing-at-dodge-construction-network-4366900148": 1
+    "https://www.linkedin.com/jobs/view/vp-performance-marketing-at-dodge-construction-network-4366900148": 1,
+    "https://www.linkedin.com/jobs/view/junior-travel-agents-operators-customer-support-tj-1824414-at-agay-barho%21-4384801339": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-trs-staffing-solutions-4383213024": 1,
+    "https://www.linkedin.com/jobs/view/cyber-operations-engineer-at-gcs-4383236008": 1,
+    "https://www.linkedin.com/jobs/view/aws-cloud-infrastructure-engineer-ops-support-at-leidos-4382759941": 1,
+    "https://www.linkedin.com/jobs/view/remote-operations-center-engineer-at-lensa-4384525775": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-cad-autocad-%e2%80%93-carbon-capture-and-utilization-at-antal-international-4384176585": 1,
+    "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-mydata-insights-4384588736": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-paramount-4375072644": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1550,13 +1558,14 @@
     "event marketing operations associate|||outreach": "2026-03-12T00:42:40.668Z",
     "facebook advertisements campaign manager – enterprise campaigns|||blackcloud financial & it solutions": "2026-03-12T07:52:06.673Z",
     "svp gtm - north america|||pangea": "2026-03-12T09:00:46.712Z",
-    "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z"
+    "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z",
+    "campaign manager, advertising traffic|||paramount": "2026-03-12T10:08:48.179Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 18,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 19,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
