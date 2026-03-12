@@ -1356,7 +1356,17 @@
     "https://www.linkedin.com/jobs/view/senior-aqa-engineer-net-at-exadel-4384301460": 1,
     "https://www.linkedin.com/jobs/view/sr-solutions-architect-data-engineering-at-alpha-fmc-4382701037": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-i-copilots-at-digitalocean-4384370849": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-assuresoft-4355959515": 1
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-assuresoft-4355959515": 1,
+    "https://www.linkedin.com/jobs/view/field-sales-rep-iii-cp-at-bayer-4384515767": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-systems-at-companycam-4384328469": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-gtm-at-hightouch-4384107131": 1,
+    "https://www.linkedin.com/jobs/view/partner-sales-manager-target-resellers-at-vasion-4384367225": 1,
+    "https://www.linkedin.com/jobs/view/sr-gtm-strategist-enterprise-abx-at-liquid-web-4384388990": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-m-f-x-at-atmio-4375137590": 1,
+    "https://www.linkedin.com/jobs/view/pricing-and-monetization-strategy-lead-at-jobgether-4384357126": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-beynd-4384312352": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-compound-foundation-4372021595": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-operations-associate-at-outreach-4383285201": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1482,13 +1492,14 @@
     "gtm (go to market) operations / automation specialist|||turpal": "2026-03-11T21:00:17.360Z",
     "gtm systems engineer|||companycam": "2026-03-11T21:00:18.873Z",
     "gtm engineer|||huzzle.com": "2026-03-11T22:09:35.775Z",
-    "gtm engineer|||truempathy": "2026-03-11T23:32:01.684Z"
+    "gtm engineer|||truempathy": "2026-03-11T23:32:01.684Z",
+    "event marketing operations associate|||outreach": "2026-03-12T00:42:40.668Z"
   },
   "stats": {
-    "date": "2026-03-11",
-    "cyclesToday": 58,
-    "matchedToday": 20,
-    "sentToday": 20,
+    "date": "2026-03-12",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
