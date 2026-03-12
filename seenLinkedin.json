@@ -1522,7 +1522,11 @@
     "https://www.linkedin.com/jobs/view/email-marketing-growth-manager-at-ruby-labs-4384539716": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-equa-health-4384861535": 1,
     "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-classpass-4383024418": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-partnerships-at-jobgether-4384816901": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-partnerships-at-jobgether-4384816901": 1,
+    "https://www.linkedin.com/jobs/view/revops-architect-gong-at-go-nimbly-4385120122": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383536553": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-coordinator-at-instacart-4384889929": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1674,7 +1678,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 22,
     "sentToday": 22,
     "lastSummaryDate": ""
