@@ -1503,7 +1503,13 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-oklo-inc-4383923773": 1,
     "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-swoon-4383949046": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4383947199": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-kin-euphorics-4383932483": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-kin-euphorics-4383932483": 1,
+    "https://www.linkedin.com/jobs/view/senior-surveyor-consultant-at-bellrock-group-4336308758": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-vertriebssteuerung-f%c3%bcr-sparkassen-a-%40-cp-consultingpartner-ag-at-lionstep-4370636799": 1,
+    "https://www.linkedin.com/jobs/view/startup-mentor-gtm-engineer-at-full-stack-ceo%e2%84%a2-4384594981": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-karbon-4384866773": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-marketing-operations-at-cyera-4343889269": 1,
+    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-vast-data-4383950243": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1646,13 +1652,16 @@
     "go-to-market (gtm) engineer|||sentilink": "2026-03-12T16:41:17.058Z",
     "gtm|||plurai": "2026-03-12T16:41:18.531Z",
     "founding gtm engineer|||stealth startup": "2026-03-12T17:10:43.319Z",
-    "gtm analytics engineer|||swoon": "2026-03-12T17:37:50.056Z"
+    "gtm analytics engineer|||swoon": "2026-03-12T17:37:50.056Z",
+    "startup mentor (gtm engineer)|||full stack ceo™": "2026-03-12T18:00:56.978Z",
+    "ai engineer – marketing operations|||cyera": "2026-03-12T18:00:58.489Z",
+    "gtm business partner|||vast data": "2026-03-12T18:00:59.959Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 37,
-    "matchedToday": 17,
-    "sentToday": 17,
+    "cyclesToday": 38,
+    "matchedToday": 20,
+    "sentToday": 20,
     "lastSummaryDate": ""
   }
 }
