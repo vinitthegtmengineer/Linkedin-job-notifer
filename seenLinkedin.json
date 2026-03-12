@@ -1494,7 +1494,13 @@
     "https://www.linkedin.com/jobs/view/sales-engineer-at-carrier-4383934292": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-carrier-4383943056": 1,
     "https://www.linkedin.com/jobs/view/gtm-at-plurai-4383020112": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-usa-4383915806": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-usa-4383915806": 1,
+    "https://www.linkedin.com/jobs/view/part-time-pr-media-outreach-operator-los-angeles-hybrid-at-tippsy-inc-4383934399": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-trainingsacteur-academie-4380259703": 1,
+    "https://www.linkedin.com/jobs/view/lead-wordpress-builder-own-build-a-platform-from-scratch-at-influsser-4374937562": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-stealth-startup-4383937254": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-ii-at-samsara-4382733210": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-oklo-inc-4383923773": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1635,13 +1641,14 @@
     "influencer campaign executive|||akg media": "2026-03-12T15:40:43.011Z",
     "founding gtm engineer|||zinance": "2026-03-12T16:13:11.122Z",
     "go-to-market (gtm) engineer|||sentilink": "2026-03-12T16:41:17.058Z",
-    "gtm|||plurai": "2026-03-12T16:41:18.531Z"
+    "gtm|||plurai": "2026-03-12T16:41:18.531Z",
+    "founding gtm engineer|||stealth startup": "2026-03-12T17:10:43.319Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 35,
-    "matchedToday": 15,
-    "sentToday": 15,
+    "cyclesToday": 36,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
