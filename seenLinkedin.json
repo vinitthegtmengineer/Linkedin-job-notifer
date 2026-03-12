@@ -1413,7 +1413,14 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383538395": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383543245": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383535648": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383533842": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383533842": 1,
+    "https://www.linkedin.com/jobs/view/ai-application-builder-at-technofocus-4383544282": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-at-primeit-4382769669": 1,
+    "https://www.linkedin.com/jobs/view/devops-engineer-telco-operations-at-zoom-4384803288": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-centric-consulting-4344246843": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383530961": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383550065": 1,
+    "https://www.linkedin.com/jobs/view/vp-performance-marketing-at-dodge-construction-network-4366900148": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1542,13 +1549,14 @@
     "gtm engineer|||truempathy": "2026-03-11T23:32:01.684Z",
     "event marketing operations associate|||outreach": "2026-03-12T00:42:40.668Z",
     "facebook advertisements campaign manager – enterprise campaigns|||blackcloud financial & it solutions": "2026-03-12T07:52:06.673Z",
-    "svp gtm - north america|||pangea": "2026-03-12T09:00:46.712Z"
+    "svp gtm - north america|||pangea": "2026-03-12T09:00:46.712Z",
+    "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 17,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 18,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
