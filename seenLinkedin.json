@@ -1387,7 +1387,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-randstad-uk-4382866613": 1,
     "https://www.linkedin.com/jobs/view/growth-outreach-operator-founders-team-ski-startup-at-snowgroup-4382760164": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaigns-analytics-b2b-saas-remote-at-surgo-4382759125": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-the-hain-celestial-group-4383261549": 1
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-the-hain-celestial-group-4383261549": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4383519120": 1,
+    "https://www.linkedin.com/jobs/view/aws-and-ml-ops-engineer-at-amazure-technologies-pvt-ltd-4384548884": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1518,7 +1520,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
