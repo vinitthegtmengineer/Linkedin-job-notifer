@@ -1447,7 +1447,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-the-vet-recruiter-relief-4384594829": 1,
     "https://www.linkedin.com/jobs/view/operations-support-engineer-at-baylor-genetics-4358454257": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-veolia-4383577293": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4384800582": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4384800582": 1,
+    "https://www.linkedin.com/jobs/view/regulatory-lead-operator-at-wing-4366763507": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384824072": 1,
+    "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4382759908": 1,
+    "https://www.linkedin.com/jobs/view/automatic-door-engineer-at-mere-uk-ltd-4384385178": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1585,7 +1589,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
