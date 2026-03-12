@@ -1477,7 +1477,9 @@
     "https://www.linkedin.com/jobs/view/we-are-looking-for-chat-operators-%e2%80%93-fully-remote-4384818690": 1,
     "https://www.linkedin.com/jobs/view/client-partner-at-quantiphi-4382799719": 1,
     "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-doxel-4383858418": 1,
-    "https://www.linkedin.com/jobs/view/director-content-strategy-at-quadient-4383922341": 1
+    "https://www.linkedin.com/jobs/view/director-content-strategy-at-quadient-4383922341": 1,
+    "https://www.linkedin.com/jobs/view/influencer-campaign-executive-at-akg-media-4384842152": 1,
+    "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1614,13 +1616,14 @@
     "gtm engineer|||built": "2026-03-12T11:07:18.081Z",
     "gtm and channel excellence leader, surgery - international region (f/m/d)|||ge healthcare": "2026-03-12T13:21:51.532Z",
     "gtm engineer|||nash": "2026-03-12T13:52:21.094Z",
-    "marketing operations executive|||osome": "2026-03-12T14:22:40.292Z"
+    "marketing operations executive|||osome": "2026-03-12T14:22:40.292Z",
+    "influencer campaign executive|||akg media": "2026-03-12T15:40:43.011Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 32,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 33,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
