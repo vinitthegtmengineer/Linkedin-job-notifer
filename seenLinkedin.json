@@ -1470,7 +1470,10 @@
     "https://www.linkedin.com/jobs/view/chief-generative-ai-operations-engineer-at-epam-systems-4382799423": 1,
     "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4383000359": 1,
     "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4382792711": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-osome-4371845013": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-osome-4371845013": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-at-spaceberry-studio-4382790689": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-%e2%80%93-team-of-one-product-%2b-engineering-owner-at-highlevel-4382799571": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4384836809": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1611,7 +1614,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
