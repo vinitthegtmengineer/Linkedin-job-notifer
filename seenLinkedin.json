@@ -1451,7 +1451,10 @@
     "https://www.linkedin.com/jobs/view/regulatory-lead-operator-at-wing-4366763507": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384824072": 1,
     "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4382759908": 1,
-    "https://www.linkedin.com/jobs/view/automatic-door-engineer-at-mere-uk-ltd-4384385178": 1
+    "https://www.linkedin.com/jobs/view/automatic-door-engineer-at-mere-uk-ltd-4384385178": 1,
+    "https://www.linkedin.com/jobs/view/zscaler-engineer-at-ecs-resource-group-4382783749": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-energy-storage-development-at-camelot-energy-group-4382506746": 1,
+    "https://www.linkedin.com/jobs/view/head-of-email-lifecycle-marketing-at-wpromote-4366976888": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1589,7 +1592,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
