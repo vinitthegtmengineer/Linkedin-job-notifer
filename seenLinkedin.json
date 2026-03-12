@@ -1399,7 +1399,8 @@
     "https://www.linkedin.com/jobs/view/consultant-at-north-star-staffing-4384151057": 1,
     "https://www.linkedin.com/jobs/view/lv-scoping-consultant-at-rws-group-4344124665": 1,
     "https://www.linkedin.com/jobs/view/tpm-consultant-at-efeso-management-consultants-americas-4383219642": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-wizard-of-hcm-4384582174": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-wizard-of-hcm-4384582174": 1,
+    "https://www.linkedin.com/jobs/view/facebook-advertisements-campaign-manager-%e2%80%93-enterprise-campaigns-at-blackcloud-financial-it-solutions-4382760582": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1526,13 +1527,14 @@
     "gtm systems engineer|||companycam": "2026-03-11T21:00:18.873Z",
     "gtm engineer|||huzzle.com": "2026-03-11T22:09:35.775Z",
     "gtm engineer|||truempathy": "2026-03-11T23:32:01.684Z",
-    "event marketing operations associate|||outreach": "2026-03-12T00:42:40.668Z"
+    "event marketing operations associate|||outreach": "2026-03-12T00:42:40.668Z",
+    "facebook advertisements campaign manager – enterprise campaigns|||blackcloud financial & it solutions": "2026-03-12T07:52:06.673Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 12,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 13,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
