@@ -1479,7 +1479,15 @@
     "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-doxel-4383858418": 1,
     "https://www.linkedin.com/jobs/view/director-content-strategy-at-quadient-4383922341": 1,
     "https://www.linkedin.com/jobs/view/influencer-campaign-executive-at-akg-media-4384842152": 1,
-    "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1
+    "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1,
+    "https://www.linkedin.com/jobs/view/mindset-success-consultant-at-rise-with-abundance-4383281447": 1,
+    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4384801693": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-to-lead-at-alpineo-consulting-4384331408": 1,
+    "https://www.linkedin.com/jobs/view/ai-agent-builder-at-ekos-solutions-4384842926": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-zinance-4383917909": 1,
+    "https://www.linkedin.com/jobs/view/senior-developer-application-engineering-remote-at-forbes-advisor-4330537279": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-great-ladies-4383007209": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-elida-beauty-4363176644": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1617,13 +1625,14 @@
     "gtm and channel excellence leader, surgery - international region (f/m/d)|||ge healthcare": "2026-03-12T13:21:51.532Z",
     "gtm engineer|||nash": "2026-03-12T13:52:21.094Z",
     "marketing operations executive|||osome": "2026-03-12T14:22:40.292Z",
-    "influencer campaign executive|||akg media": "2026-03-12T15:40:43.011Z"
+    "influencer campaign executive|||akg media": "2026-03-12T15:40:43.011Z",
+    "founding gtm engineer|||zinance": "2026-03-12T16:13:11.122Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 33,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 34,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
