@@ -1348,7 +1348,15 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-truempathy-4384137883": 1,
     "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4382724628": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4384391964": 1,
-    "https://www.linkedin.com/jobs/view/partner-marketing-activation-manager-at-aescape-4384379983": 1
+    "https://www.linkedin.com/jobs/view/partner-marketing-activation-manager-at-aescape-4384379983": 1,
+    "https://www.linkedin.com/jobs/view/audio-engineering-expert-sme-freelance-project-at-meridial-marketplace-by-invisible-4314174138": 1,
+    "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-motion-recruitment-4374453095": 1,
+    "https://www.linkedin.com/jobs/view/sailpoint-engineer-developer-at-charter-global-4382700562": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-plan-a-technologies-4327288071": 1,
+    "https://www.linkedin.com/jobs/view/senior-aqa-engineer-net-at-exadel-4384301460": 1,
+    "https://www.linkedin.com/jobs/view/sr-solutions-architect-data-engineering-at-alpha-fmc-4382701037": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-i-copilots-at-digitalocean-4384370849": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-assuresoft-4355959515": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1478,7 +1486,7 @@
   },
   "stats": {
     "date": "2026-03-11",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 20,
     "sentToday": 20,
     "lastSummaryDate": ""
