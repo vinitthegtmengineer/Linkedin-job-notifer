@@ -1462,7 +1462,15 @@
     "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4384346013": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
     "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-sotalent-4382793476": 1,
-    "https://www.linkedin.com/jobs/view/sr-vp-marketing-remote-at-jobgether-4384817931": 1
+    "https://www.linkedin.com/jobs/view/sr-vp-marketing-remote-at-jobgether-4384817931": 1,
+    "https://www.linkedin.com/jobs/view/netsuite-konsulent-skandinavia-at-staria-4366336454": 1,
+    "https://www.linkedin.com/jobs/view/llm-agent-engineer-freelance-wfh-at-begig-4382752763": 1,
+    "https://www.linkedin.com/jobs/view/senior-go-to-market-engineer-sr-revenue-operations-manager-at-beacon-biosignals-4374176568": 1,
+    "https://www.linkedin.com/jobs/view/chief-generative-ai-operations-engineer-at-epam-systems-4383000364": 1,
+    "https://www.linkedin.com/jobs/view/chief-generative-ai-operations-engineer-at-epam-systems-4382799423": 1,
+    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4383000359": 1,
+    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4382792711": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-osome-4371845013": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1598,13 +1606,14 @@
     "ai gtm leader|||databricks": "2026-03-12T10:48:40.012Z",
     "gtm engineer|||built": "2026-03-12T11:07:18.081Z",
     "gtm and channel excellence leader, surgery - international region (f/m/d)|||ge healthcare": "2026-03-12T13:21:51.532Z",
-    "gtm engineer|||nash": "2026-03-12T13:52:21.094Z"
+    "gtm engineer|||nash": "2026-03-12T13:52:21.094Z",
+    "marketing operations executive|||osome": "2026-03-12T14:22:40.292Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 29,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 30,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
