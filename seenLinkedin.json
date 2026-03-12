@@ -1389,7 +1389,9 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaigns-analytics-b2b-saas-remote-at-surgo-4382759125": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-at-the-hain-celestial-group-4383261549": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4383519120": 1,
-    "https://www.linkedin.com/jobs/view/aws-and-ml-ops-engineer-at-amazure-technologies-pvt-ltd-4384548884": 1
+    "https://www.linkedin.com/jobs/view/aws-and-ml-ops-engineer-at-amazure-technologies-pvt-ltd-4384548884": 1,
+    "https://www.linkedin.com/jobs/view/investor-consultant-for-recognised-deeptech-startup-at-cellumantra-biorefinery-pvt-ltd-4383526270": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383514464": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1520,7 +1522,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
