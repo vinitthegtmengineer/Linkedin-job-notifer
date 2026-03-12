@@ -1538,7 +1538,10 @@
     "https://www.linkedin.com/jobs/view/director-global-sales-development-remote-us-at-anomali-4385133156": 1,
     "https://www.linkedin.com/jobs/view/senior-endpoint-engineer-citrix-sme-at-people-prime-worldwide-4383529190": 1,
     "https://www.linkedin.com/jobs/view/senior-commercial-enablement-associate-at-instacart-4385106271": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-capta%c3%a7%c3%a3o-at-instituto-infnet-4383036706": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4376209460": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383968677": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1692,7 +1695,7 @@
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 24,
     "sentToday": 24,
     "lastSummaryDate": ""
