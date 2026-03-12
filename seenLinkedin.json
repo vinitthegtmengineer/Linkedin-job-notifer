@@ -1430,7 +1430,17 @@
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-mydata-insights-4384588736": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-paramount-4375072644": 1,
     "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4384808230": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-operations-executive-at-leru-remote-4383535826": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-operations-executive-at-leru-remote-4383535826": 1,
+    "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4384811176": 1,
+    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ai-enabled-product-builder-at-nolte-4384598638": 1,
+    "https://www.linkedin.com/jobs/view/paper-process-engineer-at-envoy-development-4382715464": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-leader-at-databricks-4343969602": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383537480": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-branding-exp-at-edvensoft-solutions-4383539212": 1,
+    "https://www.linkedin.com/jobs/view/braze-campaign-manger-contract-inside-ir35-at-bodhi-4383210743": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-tradebeyond-4384194662": 1,
+    "https://www.linkedin.com/jobs/view/social-media-influencer-manager-at-adfix-4384347600": 1,
+    "https://www.linkedin.com/jobs/view/app-marketing-manager-mobile-growth-at-12go-4384304168": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1562,13 +1572,14 @@
     "svp gtm - north america|||pangea": "2026-03-12T09:00:46.712Z",
     "marketing campaign manager|||centric consulting": "2026-03-12T09:49:54.411Z",
     "campaign manager, advertising traffic|||paramount": "2026-03-12T10:08:48.179Z",
-    "marketing operations executive|||leru remote": "2026-03-12T10:26:20.063Z"
+    "marketing operations executive|||leru remote": "2026-03-12T10:26:20.063Z",
+    "ai gtm leader|||databricks": "2026-03-12T10:48:40.012Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 20,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 21,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
