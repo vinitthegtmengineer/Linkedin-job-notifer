@@ -1541,7 +1541,15 @@
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
     "https://www.linkedin.com/jobs/view/operador-de-capta%c3%a7%c3%a3o-at-instituto-infnet-4383036706": 1,
     "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4376209460": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383968677": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383968677": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384844567": 1,
+    "https://www.linkedin.com/jobs/view/cmdb-engineer-b2b-at-avalanche-laboratory-4383535143": 1,
+    "https://www.linkedin.com/jobs/view/senior-martech-engineer-at-telus-digital-4373607568": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-engineer-at-upguard-4375147968": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384841481": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-contact-center-at-presidio-4385120670": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384857201": 1,
+    "https://www.linkedin.com/jobs/view/sem-campaign-manager-at-kforce-inc-4385131586": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1691,13 +1699,14 @@
     "gtm engineer/outbound|||zinance": "2026-03-12T18:29:16.703Z",
     "gtm strategic operations manager|||twilio": "2026-03-12T18:29:18.241Z",
     "director, product marketing & gtm engineering|||levanta": "2026-03-12T21:02:28.911Z",
-    "manager, gtm business systems|||hyperproof": "2026-03-12T21:58:36.749Z"
+    "manager, gtm business systems|||hyperproof": "2026-03-12T21:58:36.749Z",
+    "sem campaign manager|||kforce inc": "2026-03-12T23:01:38.228Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 52,
-    "matchedToday": 24,
-    "sentToday": 24,
+    "cyclesToday": 53,
+    "matchedToday": 25,
+    "sentToday": 25,
     "lastSummaryDate": ""
   }
 }
