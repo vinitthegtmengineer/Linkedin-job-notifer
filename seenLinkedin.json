@@ -1535,7 +1535,10 @@
     "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
     "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4383033657": 1,
     "https://www.linkedin.com/jobs/view/new-territory-builder-with-industrial-network-gas-monitoring-systems-at-gacc-midwest-german-american-chamber-of-commerce-of-the-midwest-inc-4383034563": 1,
-    "https://www.linkedin.com/jobs/view/director-global-sales-development-remote-us-at-anomali-4385133156": 1
+    "https://www.linkedin.com/jobs/view/director-global-sales-development-remote-us-at-anomali-4385133156": 1,
+    "https://www.linkedin.com/jobs/view/senior-endpoint-engineer-citrix-sme-at-people-prime-worldwide-4383529190": 1,
+    "https://www.linkedin.com/jobs/view/senior-commercial-enablement-associate-at-instacart-4385106271": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1684,13 +1687,14 @@
     "gtm business partner|||vast data": "2026-03-12T18:00:59.959Z",
     "gtm engineer/outbound|||zinance": "2026-03-12T18:29:16.703Z",
     "gtm strategic operations manager|||twilio": "2026-03-12T18:29:18.241Z",
-    "director, product marketing & gtm engineering|||levanta": "2026-03-12T21:02:28.911Z"
+    "director, product marketing & gtm engineering|||levanta": "2026-03-12T21:02:28.911Z",
+    "manager, gtm business systems|||hyperproof": "2026-03-12T21:58:36.749Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 48,
-    "matchedToday": 23,
-    "sentToday": 23,
+    "cyclesToday": 49,
+    "matchedToday": 24,
+    "sentToday": 24,
     "lastSummaryDate": ""
   }
 }
