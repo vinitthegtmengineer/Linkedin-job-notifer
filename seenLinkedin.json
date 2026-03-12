@@ -1487,7 +1487,14 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-zinance-4383917909": 1,
     "https://www.linkedin.com/jobs/view/senior-developer-application-engineering-remote-at-forbes-advisor-4330537279": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-great-ladies-4383007209": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-elida-beauty-4363176644": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-elida-beauty-4363176644": 1,
+    "https://www.linkedin.com/jobs/view/operador-telerradiologia-full-remote-at-adecco-4382773661": 1,
+    "https://www.linkedin.com/jobs/view/vertriebsmitarbeiter-nebenberuflich-m%c3%b6glich-100-%25-remote-at-nachhaltig-selbst%c3%a4ndig-4382779225": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4375036873": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-carrier-4383934292": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-carrier-4383943056": 1,
+    "https://www.linkedin.com/jobs/view/gtm-at-plurai-4383020112": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-usa-4383915806": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1626,13 +1633,15 @@
     "gtm engineer|||nash": "2026-03-12T13:52:21.094Z",
     "marketing operations executive|||osome": "2026-03-12T14:22:40.292Z",
     "influencer campaign executive|||akg media": "2026-03-12T15:40:43.011Z",
-    "founding gtm engineer|||zinance": "2026-03-12T16:13:11.122Z"
+    "founding gtm engineer|||zinance": "2026-03-12T16:13:11.122Z",
+    "go-to-market (gtm) engineer|||sentilink": "2026-03-12T16:41:17.058Z",
+    "gtm|||plurai": "2026-03-12T16:41:18.531Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 34,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 35,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
