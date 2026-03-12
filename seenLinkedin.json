@@ -1459,7 +1459,10 @@
     "https://www.linkedin.com/jobs/view/project-engineer-refrigeration-design-at-the-haskell-company-4356531520": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4383910230": 1,
     "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1,
-    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4384346013": 1
+    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4384346013": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
+    "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-sotalent-4382793476": 1,
+    "https://www.linkedin.com/jobs/view/sr-vp-marketing-remote-at-jobgether-4384817931": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1594,13 +1597,14 @@
     "marketing operations executive|||leru remote": "2026-03-12T10:26:20.063Z",
     "ai gtm leader|||databricks": "2026-03-12T10:48:40.012Z",
     "gtm engineer|||built": "2026-03-12T11:07:18.081Z",
-    "gtm and channel excellence leader, surgery - international region (f/m/d)|||ge healthcare": "2026-03-12T13:21:51.532Z"
+    "gtm and channel excellence leader, surgery - international region (f/m/d)|||ge healthcare": "2026-03-12T13:21:51.532Z",
+    "gtm engineer|||nash": "2026-03-12T13:52:21.094Z"
   },
   "stats": {
     "date": "2026-03-12",
-    "cyclesToday": 28,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 29,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
