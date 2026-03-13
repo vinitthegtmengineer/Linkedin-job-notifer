@@ -1603,7 +1603,11 @@
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146468": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4384218399": 1,
     "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385198558": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385189815": 1
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385189815": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-acl-digital-4383963800": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4383066800": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4385307161": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-operations-coordinator-at-jobgether-4384824549": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1760,7 +1764,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
