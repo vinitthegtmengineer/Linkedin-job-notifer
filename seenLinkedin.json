@@ -1585,7 +1585,10 @@
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383048695": 1,
     "https://www.linkedin.com/jobs/view/marketing-community-executive-at-talent-right-aus-4385174559": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-the-blue-square-4383055297": 1,
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385136640": 1
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385136640": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-mh-community-operator-at-zippy-4385186307": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-magical-4385187336": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-e-inc-4383970217": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1737,13 +1740,14 @@
     "director, product marketing & gtm engineering|||levanta": "2026-03-12T21:02:28.911Z",
     "manager, gtm business systems|||hyperproof": "2026-03-12T21:58:36.749Z",
     "sem campaign manager|||kforce inc": "2026-03-12T23:01:38.228Z",
-    "sales engineer gtm readiness director|||forescout technologies inc.": "2026-03-13T01:05:07.291Z"
+    "sales engineer gtm readiness director|||forescout technologies inc.": "2026-03-13T01:05:07.291Z",
+    "gtm engineer|||magical": "2026-03-13T02:49:33.896Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 3,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 4,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
