@@ -1696,7 +1696,8 @@
     "https://www.linkedin.com/jobs/view/senior-manager-social-media-%e2%80%93-si-swimsuit-at-minute-media-4384823526": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4375073537": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-senior-excellence-op%c3%a9rationnelle-at-julhiet-sterwen-4074851216": 1,
-    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1
+    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1,
+    "https://www.linkedin.com/jobs/view/cemetery-operator-at-careers-at-council-4385333804": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1854,7 +1855,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
