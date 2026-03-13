@@ -1588,7 +1588,19 @@
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385136640": 1,
     "https://www.linkedin.com/jobs/view/account-manager-mh-community-operator-at-zippy-4385186307": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-magical-4385187336": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-e-inc-4383970217": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-e-inc-4383970217": 1,
+    "https://www.linkedin.com/jobs/view/legacy-builder-at-team-akeakamai-at-gfi-4385110890": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-flosum-4385140435": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385145459": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146403": 1,
+    "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-latam-region-4383072373": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-world-kinect-4373601704": 1,
+    "https://www.linkedin.com/jobs/view/creator-partnership-coordinator-at-b2spin-limited-4375155653": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385142625": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-remote-at-duck-creek-technologies-4372636184": 1,
+    "https://www.linkedin.com/jobs/view/director-of-operations-at-mixlab-4385304097": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385150275": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146468": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1745,7 +1757,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
