@@ -1742,7 +1742,10 @@
     "https://www.linkedin.com/jobs/view/senior-manager-social-media%e2%80%af-marketing-at-genpact-4385376311": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-king-partners-4385100980": 1,
     "https://www.linkedin.com/jobs/view/coordinator-sales-and-marketing-at-fable-and-mane-4383132413": 1,
-    "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1
+    "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-systems-engineer-at-wiz-4373151562": 1,
+    "https://www.linkedin.com/jobs/view/freelance-linkedin-marketing-executive-at-bwbmart-4383118633": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383977195": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1902,13 +1905,14 @@
     "gtm enablement manager|||loop": "2026-03-13T13:20:42.393Z",
     "marketing operations senior specialist, lifecycle|||keeper security, inc.": "2026-03-13T13:20:43.879Z",
     "gtm engineer - revenue automation specialist|||chainalysis": "2026-03-13T13:50:38.218Z",
-    "vice president, gtm dem|||tp": "2026-03-13T14:47:21.723Z"
+    "vice president, gtm dem|||tp": "2026-03-13T14:47:21.723Z",
+    "gtm systems engineer|||wiz": "2026-03-13T15:07:39.365Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 32,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 33,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
