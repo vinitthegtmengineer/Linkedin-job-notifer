@@ -1698,7 +1698,20 @@
     "https://www.linkedin.com/jobs/view/consultant-e-senior-excellence-op%c3%a9rationnelle-at-julhiet-sterwen-4074851216": 1,
     "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1,
     "https://www.linkedin.com/jobs/view/cemetery-operator-at-careers-at-council-4385333804": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383091368": 1
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383091368": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-niva-health-4385356064": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383095996": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-strategic-operations-manager-at-twilio-4385314423": 1,
+    "https://www.linkedin.com/jobs/view/sr-campaign-manager-dv360-experience-wfh-setup-at-velocity-made-good-vmg-4384225789": 1,
+    "https://www.linkedin.com/jobs/view/content-communications-manager-at-malwarebytes-4385324081": 1,
+    "https://www.linkedin.com/jobs/view/community-event-engagement-manager-at-oneleet-4385174924": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4385181241": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-aerospace-defense-at-synopsys-inc-4375181765": 1,
+    "https://www.linkedin.com/jobs/view/community-event-engagement-manager-at-oneleet-4385193060": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-sales-marketing-at-scale-army-careers-4383924743": 1,
+    "https://www.linkedin.com/jobs/view/lead-financial-analyst-distribution-at-transamerica-4366506869": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-automation-at-keeper-security-inc-4373140463": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1852,13 +1865,15 @@
     "sem campaign manager|||kforce inc": "2026-03-12T23:01:38.228Z",
     "sales engineer gtm readiness director|||forescout technologies inc.": "2026-03-13T01:05:07.291Z",
     "gtm engineer|||magical": "2026-03-13T02:49:33.896Z",
-    "sales enablement manager - gtm|||samsara": "2026-03-13T10:21:36.774Z"
+    "sales enablement manager - gtm|||samsara": "2026-03-13T10:21:36.774Z",
+    "campaign manager (dv360 experience) | wfh setup|||velocity made good (vmg)": "2026-03-13T12:48:52.817Z",
+    "marketing operations specialist, automation|||keeper security, inc.": "2026-03-13T12:48:54.346Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 27,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 28,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
