@@ -1736,7 +1736,13 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-spot-on-4384868029": 1,
     "https://www.linkedin.com/jobs/view/director-paid-social-at-zeta-global-4373604310": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4358784104": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-jobgether-4385344983": 1
+    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-jobgether-4385344983": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385356914": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-social-media%e2%80%af-marketing-at-genpact-4385376311": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-king-partners-4385100980": 1,
+    "https://www.linkedin.com/jobs/view/coordinator-sales-and-marketing-at-fable-and-mane-4383132413": 1,
+    "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1895,13 +1901,14 @@
     "marketing operations specialist, automation|||keeper security, inc.": "2026-03-13T12:48:54.346Z",
     "gtm enablement manager|||loop": "2026-03-13T13:20:42.393Z",
     "marketing operations senior specialist, lifecycle|||keeper security, inc.": "2026-03-13T13:20:43.879Z",
-    "gtm engineer - revenue automation specialist|||chainalysis": "2026-03-13T13:50:38.218Z"
+    "gtm engineer - revenue automation specialist|||chainalysis": "2026-03-13T13:50:38.218Z",
+    "vice president, gtm dem|||tp": "2026-03-13T14:47:21.723Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 31,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 32,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
