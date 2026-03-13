@@ -1800,7 +1800,9 @@
     "https://www.linkedin.com/jobs/view/senior-director-strategy-operations-at-manhattan-associates-4384287282": 1,
     "https://www.linkedin.com/jobs/view/startup-operator-founder-sports-club-at-art-of-mondays-4385552236": 1,
     "https://www.linkedin.com/jobs/view/sr-solutions-engineering-1-year-contract-at-geotab-4384288406": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4384283572": 1
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4384283572": 1,
+    "https://www.linkedin.com/jobs/view/operator-startup-founder-sports-club-at-art-of-mondays-4385565079": 1,
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385521760": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1968,7 +1970,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
