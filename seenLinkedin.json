@@ -1609,7 +1609,13 @@
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4385307161": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-operations-coordinator-at-jobgether-4384824549": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385170702": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385168619": 1
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385168619": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-commercial-operations-at-omada-health-4372618967": 1,
+    "https://www.linkedin.com/jobs/view/partner-sales-manager-at-dynatrace-4385184113": 1,
+    "https://www.linkedin.com/jobs/view/field-operations-manager-apj-at-cato-networks-4362264138": 1,
+    "https://www.linkedin.com/jobs/view/ai-engagement-manager-at-rapidcanvas-4383018241": 1,
+    "https://www.linkedin.com/jobs/view/director-fusion-sales-americas-at-autodesk-4324090389": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-operations-at-mobius-talent-global-4385199417": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1766,7 +1772,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
