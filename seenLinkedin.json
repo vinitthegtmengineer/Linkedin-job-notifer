@@ -1600,7 +1600,10 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-remote-at-duck-creek-technologies-4372636184": 1,
     "https://www.linkedin.com/jobs/view/director-of-operations-at-mixlab-4385304097": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385150275": 1,
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146468": 1
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146468": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4384218399": 1,
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385198558": 1,
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385189815": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1757,7 +1760,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
