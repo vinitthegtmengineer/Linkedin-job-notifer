@@ -1748,7 +1748,16 @@
     "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383977195": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-triple-whale-4331053401": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324658514": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-paris-4383915806": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-paris-4383915806": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4385390448": 1,
+    "https://www.linkedin.com/jobs/view/onboarding-consultant-philippines-at-sprout-social-inc-4371572379": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-cto-founder-associate-venture-builder-founding-ai-engineer-product-at-wert-ai-4383096405": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324888242": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324609072": 1,
+    "https://www.linkedin.com/jobs/view/national-channel-partner-manager-at-glean-4332202418": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-vma-group-4383152043": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-trigital-technologies-pvt-ltd-4383138559": 1,
+    "https://www.linkedin.com/jobs/view/creator-marketing-manager-at-think-jam-4385385264": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1914,7 +1923,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
