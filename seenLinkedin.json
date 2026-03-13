@@ -1745,7 +1745,10 @@
     "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-systems-engineer-at-wiz-4373151562": 1,
     "https://www.linkedin.com/jobs/view/freelance-linkedin-marketing-executive-at-bwbmart-4383118633": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383977195": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383977195": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-triple-whale-4331053401": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324658514": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-paris-4383915806": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1906,13 +1909,14 @@
     "marketing operations senior specialist, lifecycle|||keeper security, inc.": "2026-03-13T13:20:43.879Z",
     "gtm engineer - revenue automation specialist|||chainalysis": "2026-03-13T13:50:38.218Z",
     "vice president, gtm dem|||tp": "2026-03-13T14:47:21.723Z",
-    "gtm systems engineer|||wiz": "2026-03-13T15:07:39.365Z"
+    "gtm systems engineer|||wiz": "2026-03-13T15:07:39.365Z",
+    "gtm engineer|||triple whale": "2026-03-13T15:51:40.171Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 34,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 35,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
