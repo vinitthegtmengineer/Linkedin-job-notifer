@@ -1775,7 +1775,8 @@
     "https://www.linkedin.com/jobs/view/software-engineer-asset-store-content-operations-at-unity-4375153751": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sonatype-4374082980": 1,
     "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367154285": 1
+    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367154285": 1,
+    "https://www.linkedin.com/jobs/view/executive-marketing-director-at-michel-germain-parfums-4384276036": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1941,7 +1942,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
