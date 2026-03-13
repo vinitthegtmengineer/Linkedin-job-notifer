@@ -1688,7 +1688,8 @@
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384841479": 1,
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384854360": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-red-global-4383007603": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-gtm-at-samsara-4347608206": 1
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-gtm-at-samsara-4347608206": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultants-at-deccan-ai-experts-4385341141": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1846,7 +1847,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
