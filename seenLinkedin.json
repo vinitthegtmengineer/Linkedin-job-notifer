@@ -1815,7 +1815,8 @@
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383061115": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
     "https://www.linkedin.com/jobs/view/lead-sales-growth-operations-analyst-at-tebra-4385569520": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-influencer-marketing-at-seismic-4385582040": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-influencer-marketing-at-seismic-4385582040": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-wfh-night-day-1-hmo-at-the-construction-index-ltd-4385325674": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1981,13 +1982,14 @@
     "digital campaign manager - verticals specialist|||townsquare ignite": "2026-03-13T18:59:16.007Z",
     "marketing operations analyst - 1494|||lateam partners": "2026-03-13T20:12:24.925Z",
     "gtm engineer|||snorkel ai": "2026-03-13T22:49:54.354Z",
-    "campaign manager - influencer marketing|||seismic": "2026-03-13T22:49:55.826Z"
+    "campaign manager - influencer marketing|||seismic": "2026-03-13T22:49:55.826Z",
+    "director, marketing operations | wfh | night | day 1 hmo|||the construction index ltd": "2026-03-13T23:01:35.907Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 56,
-    "matchedToday": 15,
-    "sentToday": 15,
+    "cyclesToday": 57,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
