@@ -1818,7 +1818,8 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-influencer-marketing-at-seismic-4385582040": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-wfh-night-day-1-hmo-at-the-construction-index-ltd-4385325674": 1,
     "https://www.linkedin.com/jobs/view/dataops-engineer-at-panopto-4385568759": 1,
-    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385524701": 1
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385524701": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-e-commerce-digital-marketing-at-sferra-fine-linens-4385586023": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1989,7 +1990,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 58,
+    "cyclesToday": 59,
     "matchedToday": 16,
     "sentToday": 16,
     "lastSummaryDate": ""
