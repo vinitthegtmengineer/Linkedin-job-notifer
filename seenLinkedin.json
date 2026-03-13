@@ -1811,7 +1811,11 @@
     "https://www.linkedin.com/jobs/view/senior-data-operations-engineer-at-empower-pharmacy-4358539945": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-dexian-4384282459": 1,
     "https://www.linkedin.com/jobs/view/senior-director-agent-sales-at-zillow-4367373569": 1,
-    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385521761": 1
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385521761": 1,
+    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383061115": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
+    "https://www.linkedin.com/jobs/view/lead-sales-growth-operations-analyst-at-tebra-4385569520": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-influencer-marketing-at-seismic-4385582040": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1975,13 +1979,15 @@
     "gtm systems engineer|||wiz": "2026-03-13T15:07:39.365Z",
     "gtm engineer|||triple whale": "2026-03-13T15:51:40.171Z",
     "digital campaign manager - verticals specialist|||townsquare ignite": "2026-03-13T18:59:16.007Z",
-    "marketing operations analyst - 1494|||lateam partners": "2026-03-13T20:12:24.925Z"
+    "marketing operations analyst - 1494|||lateam partners": "2026-03-13T20:12:24.925Z",
+    "gtm engineer|||snorkel ai": "2026-03-13T22:49:54.354Z",
+    "campaign manager - influencer marketing|||seismic": "2026-03-13T22:49:55.826Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 55,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 56,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
