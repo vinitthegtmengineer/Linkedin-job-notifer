@@ -1776,7 +1776,10 @@
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sonatype-4374082980": 1,
     "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367154285": 1,
-    "https://www.linkedin.com/jobs/view/executive-marketing-director-at-michel-germain-parfums-4384276036": 1
+    "https://www.linkedin.com/jobs/view/executive-marketing-director-at-michel-germain-parfums-4384276036": 1,
+    "https://www.linkedin.com/jobs/view/%ec%b1%84%ec%9a%a9-founder-growth-operator-%ed%8c%8c%ed%8a%b8%ed%83%80%ec%9e%84-%ec%a3%bc-20%ec%8b%9c%ea%b0%84-%ec%9b%90%ea%b2%a9%ea%b7%bc%eb%ac%b4-at-stunning-you-plastische-%c3%a4sthetische-chirurgie-dr-kamil-akhundov-4384262967": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-presentation-specialist-at-blend-4385110470": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4383156607": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1938,13 +1941,14 @@
     "gtm engineer - revenue automation specialist|||chainalysis": "2026-03-13T13:50:38.218Z",
     "vice president, gtm dem|||tp": "2026-03-13T14:47:21.723Z",
     "gtm systems engineer|||wiz": "2026-03-13T15:07:39.365Z",
-    "gtm engineer|||triple whale": "2026-03-13T15:51:40.171Z"
+    "gtm engineer|||triple whale": "2026-03-13T15:51:40.171Z",
+    "digital campaign manager - verticals specialist|||townsquare ignite": "2026-03-13T18:59:16.007Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 43,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 44,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
