@@ -1570,7 +1570,11 @@
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385138684": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385144454": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385145127": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-healthy-roster-4383812792": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-healthy-roster-4383812792": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-gtm-readiness-director-at-forescout-technologies-inc-4385145929": 1,
+    "https://www.linkedin.com/jobs/view/field-performance-coaching-and-training-manager-at-seeq-corporation-4385143315": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385141332": 1,
+    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385138299": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1721,13 +1725,14 @@
     "gtm strategic operations manager|||twilio": "2026-03-12T18:29:18.241Z",
     "director, product marketing & gtm engineering|||levanta": "2026-03-12T21:02:28.911Z",
     "manager, gtm business systems|||hyperproof": "2026-03-12T21:58:36.749Z",
-    "sem campaign manager|||kforce inc": "2026-03-12T23:01:38.228Z"
+    "sem campaign manager|||kforce inc": "2026-03-12T23:01:38.228Z",
+    "sales engineer gtm readiness director|||forescout technologies inc.": "2026-03-13T01:05:07.291Z"
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 1,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 2,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
