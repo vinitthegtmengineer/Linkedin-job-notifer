@@ -1765,7 +1765,8 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-human-resources-systems-group-4383147716": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aireziq-4385502173": 1,
     "https://www.linkedin.com/jobs/view/affiliate-marketing-specialist-at-paula-s-choice-skincare-4375615937": 1,
-    "https://www.linkedin.com/jobs/view/pa-operations-and-marketing-at-eden-recruitment-ltd-4385516085": 1
+    "https://www.linkedin.com/jobs/view/pa-operations-and-marketing-at-eden-recruitment-ltd-4385516085": 1,
+    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4385397927": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1931,7 +1932,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
