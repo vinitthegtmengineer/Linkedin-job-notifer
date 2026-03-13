@@ -1766,7 +1766,16 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aireziq-4385502173": 1,
     "https://www.linkedin.com/jobs/view/affiliate-marketing-specialist-at-paula-s-choice-skincare-4375615937": 1,
     "https://www.linkedin.com/jobs/view/pa-operations-and-marketing-at-eden-recruitment-ltd-4385516085": 1,
-    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4385397927": 1
+    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4385397927": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385367595": 1,
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-siemens-4374097052": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367156253": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361021758": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieure-ing%c3%a9nieur-m%c3%a9canique-et-production-ferroviaire-at-capgemini-engineering-4374438763": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-asset-store-content-operations-at-unity-4375153751": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sonatype-4374082980": 1,
+    "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367154285": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1932,7 +1941,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
