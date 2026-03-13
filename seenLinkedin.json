@@ -1607,7 +1607,9 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-acl-digital-4383963800": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4383066800": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4385307161": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-operations-coordinator-at-jobgether-4384824549": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-operations-coordinator-at-jobgether-4384824549": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385170702": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385168619": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -1764,7 +1766,7 @@
   },
   "stats": {
     "date": "2026-03-13",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
