@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-underwriter-consultant-at-the-hartford-4380668071": 1,
-    "https://www.linkedin.com/jobs/view/sr-underwriter-consultant-at-the-hartford-4380668068": 1,
     "https://www.linkedin.com/jobs/view/consulente-commerciale-senior-%e2%80%93-sistemi-di-sicurezza-e-antintrusione-at-one4green-4380247595": 1,
     "https://www.linkedin.com/jobs/view/sr-underwriter-consultant-at-the-hartford-4380650825": 1,
     "https://www.linkedin.com/jobs/view/strategic-consultant-at-freedom-practice-coaching-4380485540": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-specialist-at-fetchjobs-co-4384914359": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324940149": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-analytics-manager-at-lumen-technologies-4375877840": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-crux-4385813283": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-crux-4385813283": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383653673": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-and-community-relations-at-h-h-leadership-solutions-4385889873": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2182,7 +2182,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 64,
+    "cyclesToday": 65,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
