@@ -1921,7 +1921,10 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-b%c3%a9b%c3%a9-foodie-4384864061": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-datos-insights-4383179575": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-manager-at-carrot-4373143253": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-cengage-4367518796": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-presentation-specialist-at-blend-4385534613": 1,
+    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4385864122": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2094,13 +2097,14 @@
     "gtm engineer|||g2": "2026-03-14T13:08:51.853Z",
     "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z",
     "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z",
-    "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z"
+    "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z",
+    "director of gtm revenue operations|||cengage": "2026-03-14T15:10:05.604Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 37,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 38,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
