@@ -1882,7 +1882,10 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-elevation-recruitment-group-4383103210": 1,
     "https://www.linkedin.com/jobs/view/python-software-engineer-at-prima-4149696449": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-keedian-4384273111": 1,
-    "https://www.linkedin.com/jobs/view/director-of-sales-at-shoplift-4372911057": 1
+    "https://www.linkedin.com/jobs/view/director-of-sales-at-shoplift-4372911057": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4384650681": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4385851567": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-pid0612-at-interval-group-4385502610": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2055,7 +2058,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
