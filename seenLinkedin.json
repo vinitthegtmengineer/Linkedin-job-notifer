@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-platform-engineer-data-ai-at-bloomreach-4343029348": 1,
     "https://www.linkedin.com/jobs/view/venture-builder-venture-manager-at-neighbourhood-health-ventures-4381968233": 1,
     "https://www.linkedin.com/jobs/view/product-owner-shop-builder-at-xsolla-4349581983": 1,
     "https://www.linkedin.com/jobs/view/bitget-builder-part-time-saudi-arabia-at-bitget-4381951414": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sales-enablement-specialist-at-docker-inc-4375862937": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373435715": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373434712": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-contract-at-aura-4385803403": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-contract-at-aura-4385803403": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineering-gtme-at-aicro-4385894553": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2178,13 +2178,14 @@
     "marketing operations manager|||delinea": "2026-03-14T18:16:13.215Z",
     "email marketing operations|||figma": "2026-03-14T19:14:30.465Z",
     "marketing operations manager (independent contractor)|||dataannotation": "2026-03-14T19:48:09.474Z",
-    "analytics engineer, gtm analytics|||vanta": "2026-03-14T21:50:01.643Z"
+    "analytics engineer, gtm analytics|||vanta": "2026-03-14T21:50:01.643Z",
+    "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 69,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 70,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
