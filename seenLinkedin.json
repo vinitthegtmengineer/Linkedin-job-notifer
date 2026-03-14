@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/night-shift-operator-pt-at-applegreen-4380644433": 1,
-    "https://www.linkedin.com/jobs/view/experienced-jumbo-robolter-operators-needed-at-thyssen-mining-4381609902": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4381452932": 1,
     "https://www.linkedin.com/jobs/view/operador-jr-506290-at-dbm-contact-center-4380622957": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4381470197": 1,
     "https://www.linkedin.com/jobs/view/utility-operator-at-johnson-johnson-innovative-medicine-4381601033": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-24-seven-talent-4384289722": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-manager-at-jobgether-4385865604": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-abm-in-house-at-ledger-bennett-4385539830": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385832313": 1
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385832313": 1,
+    "https://www.linkedin.com/jobs/view/dataops-engineer-at-nagarro-4367034977": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385823588": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384915153": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2181,7 +2181,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 58,
+    "cyclesToday": 59,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
