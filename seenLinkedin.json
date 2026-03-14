@@ -1945,7 +1945,9 @@
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385820721": 1,
     "https://www.linkedin.com/jobs/view/gtm-marketing-manager-at-ci-t-4385855469": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-follett-software-4374625347": 1,
-    "https://www.linkedin.com/jobs/view/consulente-didattico-at-universit%c3%a0-degli-studi-ecampus-4351900035": 1
+    "https://www.linkedin.com/jobs/view/consulente-didattico-at-universit%c3%a0-degli-studi-ecampus-4351900035": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384674414": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4383648556": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2124,7 +2126,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
