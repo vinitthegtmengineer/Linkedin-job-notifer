@@ -1924,7 +1924,18 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-cengage-4367518796": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-presentation-specialist-at-blend-4385534613": 1,
-    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4385864122": 1
+    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4385864122": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineering-at-measurabl-4385883297": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324950012": 1,
+    "https://www.linkedin.com/jobs/view/senior-organic-social-media-manager-at-legalzoom-4344886900": 1,
+    "https://www.linkedin.com/jobs/view/marketing-social-media-manager-at-revaya-4383173935": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-social-media-manager-at-dataannotation-4304436315": 1,
+    "https://www.linkedin.com/jobs/view/jr-social-media-manager-platform-at-digital-media-management-4385550662": 1,
+    "https://www.linkedin.com/jobs/view/perfomance-marketing-specialist-senior-at-brokoli-digital-4384649032": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-paid-social-at-resident-4383151772": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-growthpair-4384261663": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-content-marketing-at-manhattan-associates-4384272903": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataiku-4383178419": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2102,7 +2113,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
