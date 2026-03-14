@@ -1902,7 +1902,8 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-toronto-remote-at-war-room-4385830676": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-analytics-executive-at-everywhen-4373483413": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-infosys-4356437814": 1,
-    "https://www.linkedin.com/jobs/view/head-of-ifit-gtm-at-ifit-4374634936": 1
+    "https://www.linkedin.com/jobs/view/head-of-ifit-gtm-at-ifit-4374634936": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324868103": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2078,7 +2079,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
