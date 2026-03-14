@@ -1841,7 +1841,11 @@
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324648656": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-integrated-marketing-at-newsweek-4384272650": 1,
     "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4385586431": 1,
-    "https://www.linkedin.com/jobs/view/onboarding-consultant-bilingual-usa-remote-at-turnitin-4385586521": 1
+    "https://www.linkedin.com/jobs/view/onboarding-consultant-bilingual-usa-remote-at-turnitin-4385586521": 1,
+    "https://www.linkedin.com/jobs/view/chat-operator-german-english-at-leine-connect-4383157870": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineering-at-measurabl-4383186518": 1,
+    "https://www.linkedin.com/jobs/view/social-media-creator-manager-18426-at-somewhere-4385543618": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-e-commerce-digital-marketing-at-sferra-fine-linens-4385582546": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2013,7 +2017,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
