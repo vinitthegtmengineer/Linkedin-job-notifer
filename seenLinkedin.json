@@ -1936,7 +1936,15 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-growthpair-4384261663": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-content-marketing-at-manhattan-associates-4384272903": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataiku-4383178419": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-human-resources-systems-group-4385873669": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-human-resources-systems-group-4385873669": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324926517": 1,
+    "https://www.linkedin.com/jobs/view/data-engineering-at-arbor-4385537616": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324648653": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385864445": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-trattamento-acque-industriali-at-solenis-4373495680": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385820721": 1,
+    "https://www.linkedin.com/jobs/view/gtm-marketing-manager-at-ci-t-4385855469": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-follett-software-4374625347": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2110,13 +2118,14 @@
     "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z",
     "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z",
     "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z",
-    "director of gtm revenue operations|||cengage": "2026-03-14T15:10:05.604Z"
+    "director of gtm revenue operations|||cengage": "2026-03-14T15:10:05.604Z",
+    "gtm marketing manager|||ci&t": "2026-03-14T16:14:00.320Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 41,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 42,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
