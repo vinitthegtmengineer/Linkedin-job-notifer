@@ -1901,7 +1901,8 @@
     "https://www.linkedin.com/jobs/view/vp-of-business-operations-at-acasia-4385507283": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-toronto-remote-at-war-room-4385830676": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-analytics-executive-at-everywhen-4373483413": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-infosys-4356437814": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-infosys-4356437814": 1,
+    "https://www.linkedin.com/jobs/view/head-of-ifit-gtm-at-ifit-4374634936": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2072,13 +2073,14 @@
     "gtm operations specialist (salesforce / apex)|||wimmer solutions philippines": "2026-03-13T23:51:50.773Z",
     "product gtm manager|||bazaarvoice": "2026-03-14T06:48:24.060Z",
     "gtm engineer|||g2": "2026-03-14T13:08:51.853Z",
-    "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z"
+    "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z",
+    "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 32,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 33,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
