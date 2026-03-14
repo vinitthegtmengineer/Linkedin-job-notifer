@@ -1891,7 +1891,17 @@
     "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341870503": 1,
     "https://www.linkedin.com/jobs/view/crm-campaign-executive-loyalty-at-st-john-ambulance-4383148764": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-pmg-at-xometry-4315040203": 1,
-    "https://www.linkedin.com/jobs/view/lead-operations-engineer-at-stanley-black-decker-inc-4359443081": 1
+    "https://www.linkedin.com/jobs/view/lead-operations-engineer-at-stanley-black-decker-inc-4359443081": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-g2-4367901047": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383650217": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385859659": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385869181": 1,
+    "https://www.linkedin.com/jobs/view/developer-experience-at-sekoia-io-4384607704": 1,
+    "https://www.linkedin.com/jobs/view/vp-svp-sales-north-america-cyber-ai-at-avetixcyber-4385397066": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-business-operations-at-acasia-4385507283": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-toronto-remote-at-war-room-4385830676": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-analytics-executive-at-everywhen-4373483413": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-infosys-4356437814": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2060,13 +2070,15 @@
     "campaign manager - influencer marketing|||seismic": "2026-03-13T22:49:55.826Z",
     "director, marketing operations | wfh | night | day 1 hmo|||the construction index ltd": "2026-03-13T23:01:35.907Z",
     "gtm operations specialist (salesforce / apex)|||wimmer solutions philippines": "2026-03-13T23:51:50.773Z",
-    "product gtm manager|||bazaarvoice": "2026-03-14T06:48:24.060Z"
+    "product gtm manager|||bazaarvoice": "2026-03-14T06:48:24.060Z",
+    "gtm engineer|||g2": "2026-03-14T13:08:51.853Z",
+    "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 31,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 32,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
