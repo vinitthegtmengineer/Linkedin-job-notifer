@@ -1919,7 +1919,9 @@
     "https://www.linkedin.com/jobs/view/sales-enablement-specialist-%e2%80%93-sdr-csm-focus-at-saviynt-4359668623": 1,
     "https://www.linkedin.com/jobs/view/senior-director-new-verticals-sales-at-flex-4334590369": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-b%c3%a9b%c3%a9-foodie-4384864061": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-datos-insights-4383179575": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-datos-insights-4383179575": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-carrot-4373143253": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2096,7 +2098,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
