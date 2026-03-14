@@ -1998,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-birdy-grey-4331937375": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-24-seven-talent-4384289722": 1,
-    "https://www.linkedin.com/jobs/view/remote-marketing-manager-at-jobgether-4385865604": 1
+    "https://www.linkedin.com/jobs/view/remote-marketing-manager-at-jobgether-4385865604": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-manager-abm-in-house-at-ledger-bennett-4385539830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2180,7 +2181,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 56,
+    "cyclesToday": 57,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
