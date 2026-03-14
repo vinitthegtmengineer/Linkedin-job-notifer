@@ -1950,7 +1950,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4383648556": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384666982": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-toronto-remote-at-war-room-4385829708": 1,
-    "https://www.linkedin.com/jobs/view/data-engineering-at-arbor-4385526916": 1
+    "https://www.linkedin.com/jobs/view/data-engineering-at-arbor-4385526916": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383646787": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2129,7 +2130,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
