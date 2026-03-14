@@ -1981,7 +1981,8 @@
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385853809": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-placer-ai-4385575539": 1,
     "https://www.linkedin.com/jobs/view/abm-demand-generation-manager-at-flock-4375855172": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383660233": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2162,7 +2163,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
