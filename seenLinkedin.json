@@ -1850,7 +1850,9 @@
     "https://www.linkedin.com/jobs/view/consulting-director-%e2%80%93-innosight-healthcare-provider-strategy-innovation-nationwide-at-huron-4347615988": 1,
     "https://www.linkedin.com/jobs/view/home-based-booking-consultant-at-hope%e2%80%99s-global-getaways-4384624286": 1,
     "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4385828370": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-amiseq-4385388082": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-amiseq-4385388082": 1,
+    "https://www.linkedin.com/jobs/view/equity-only-founding-bdr-founding-account-executive-co-founder-cto-full-stack-developer-venture-builder-founding-ai-engineer-product-maschinebau-pacakging-techincal-sales-at-wert-ai-4383612870": 1,
+    "https://www.linkedin.com/jobs/view/product-gtm-manager-at-bazaarvoice-4385593985": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2018,13 +2020,14 @@
     "gtm engineer|||snorkel ai": "2026-03-13T22:49:54.354Z",
     "campaign manager - influencer marketing|||seismic": "2026-03-13T22:49:55.826Z",
     "director, marketing operations | wfh | night | day 1 hmo|||the construction index ltd": "2026-03-13T23:01:35.907Z",
-    "gtm operations specialist (salesforce / apex)|||wimmer solutions philippines": "2026-03-13T23:51:50.773Z"
+    "gtm operations specialist (salesforce / apex)|||wimmer solutions philippines": "2026-03-13T23:51:50.773Z",
+    "product gtm manager|||bazaarvoice": "2026-03-14T06:48:24.060Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 10,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 11,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
