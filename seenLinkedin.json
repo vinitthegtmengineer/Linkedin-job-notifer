@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/bending-operator-jis127812-at-mm-management-consultant-4381956046": 1,
     "https://www.linkedin.com/jobs/view/night-shift-operator-pt-at-applegreen-4380644433": 1,
     "https://www.linkedin.com/jobs/view/experienced-jumbo-robolter-operators-needed-at-thyssen-mining-4381609902": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4381452932": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-birdy-grey-4331937375": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-24-seven-talent-4384289722": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-manager-at-jobgether-4385865604": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-abm-in-house-at-ledger-bennett-4385539830": 1
+    "https://www.linkedin.com/jobs/view/senior-campaign-manager-abm-in-house-at-ledger-bennett-4385539830": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385832313": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2181,7 +2181,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
