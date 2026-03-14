@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operador-jr-506290-at-dbm-contact-center-4380622957": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4381470197": 1,
     "https://www.linkedin.com/jobs/view/utility-operator-at-johnson-johnson-innovative-medicine-4381601033": 1,
     "https://www.linkedin.com/jobs/view/utility-operator-at-johnson-johnson-innovative-medicine-4381485537": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385832313": 1,
     "https://www.linkedin.com/jobs/view/dataops-engineer-at-nagarro-4367034977": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385823588": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384915153": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384915153": 1,
+    "https://www.linkedin.com/jobs/view/google-ads-campaign-performance-manager-4383624242": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2181,7 +2181,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 59,
+    "cyclesToday": 60,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
