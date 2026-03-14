@@ -1867,7 +1867,9 @@
     "https://www.linkedin.com/jobs/view/anaplan-application-developer-at-attentive-4385575880": 1,
     "https://www.linkedin.com/jobs/view/senior-events-manager-at-certifid-4382490437": 1,
     "https://www.linkedin.com/jobs/view/fractional-chief-marketing-officer-chief-content-officer-at-the-global-talent-co-4385548055": 1,
-    "https://www.linkedin.com/jobs/view/content-social-media-marketing-executive-at-bizgrow-digital-4384239993": 1
+    "https://www.linkedin.com/jobs/view/content-social-media-marketing-executive-at-bizgrow-digital-4384239993": 1,
+    "https://www.linkedin.com/jobs/view/ai-prototype-builder-at-cntxt-ai-4385855294": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2040,7 +2042,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
