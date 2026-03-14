@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/nokia-mediation-operator-support-engineer-bangalore-onsite-immediate-joiner-at-digihelic-solutions-pvt-ltd-4380246169": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-valorant-4380695351": 1,
     "https://www.linkedin.com/jobs/view/in-dealership-consultant-pittsburgh-at-jackson-dawson-4380454430": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4380452803": 1,
     "https://www.linkedin.com/jobs/view/national-senior-consultant-disability-inclusion-abuja-nigeria-35-working-days-remote-at-unicef-bangladesh-4380454378": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385896287": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-supply-chain-4385894023": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-4385893434": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-4385893434": 1,
+    "https://www.linkedin.com/jobs/view/analytics-engineer-gtm-analytics-at-vanta-4384622958": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-specialist-at-fetchjobs-co-4384914359": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2177,13 +2177,14 @@
     "gtm marketing manager|||ci&t": "2026-03-14T16:14:00.320Z",
     "marketing operations manager|||delinea": "2026-03-14T18:16:13.215Z",
     "email marketing operations|||figma": "2026-03-14T19:14:30.465Z",
-    "marketing operations manager (independent contractor)|||dataannotation": "2026-03-14T19:48:09.474Z"
+    "marketing operations manager (independent contractor)|||dataannotation": "2026-03-14T19:48:09.474Z",
+    "analytics engineer, gtm analytics|||vanta": "2026-03-14T21:50:01.643Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 61,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 62,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
