@@ -1912,7 +1912,14 @@
     "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
     "https://www.linkedin.com/jobs/view/devops-engineer-at-right-balance-%c2%ae-4385570682": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385837104": 1,
-    "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4385825624": 1
+    "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4385825624": 1,
+    "https://www.linkedin.com/jobs/view/workspace-one-engineer-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4385845564": 1,
+    "https://www.linkedin.com/jobs/view/controls-bas-project-engineer-at-jobot-4383632624": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-specialist-%e2%80%93-sdr-csm-focus-at-saviynt-4359668623": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-new-verticals-sales-at-flex-4334590369": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-b%c3%a9b%c3%a9-foodie-4384864061": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-datos-insights-4383179575": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2084,13 +2091,14 @@
     "product gtm manager|||bazaarvoice": "2026-03-14T06:48:24.060Z",
     "gtm engineer|||g2": "2026-03-14T13:08:51.853Z",
     "campaign manager (toronto/remote)|||war room": "2026-03-14T13:08:53.467Z",
-    "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z"
+    "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z",
+    "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 35,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 36,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
