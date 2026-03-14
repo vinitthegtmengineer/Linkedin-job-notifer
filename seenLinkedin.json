@@ -1963,7 +1963,11 @@
     "https://www.linkedin.com/jobs/view/consultant-psychiatrist-remote-at-crossing-hurdles-4384679068": 1,
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344932977": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-avenue-code-4328241412": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-wiraa-4385846689": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-wiraa-4385846689": 1,
+    "https://www.linkedin.com/jobs/view/berater-freelance-at-hogar-clean-gmbh-4385881518": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385815987": 1,
+    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-delinea-4332215709": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2138,13 +2142,14 @@
     "head of ifit gtm|||ifit": "2026-03-14T13:32:22.658Z",
     "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z",
     "director of gtm revenue operations|||cengage": "2026-03-14T15:10:05.604Z",
-    "gtm marketing manager|||ci&t": "2026-03-14T16:14:00.320Z"
+    "gtm marketing manager|||ci&t": "2026-03-14T16:14:00.320Z",
+    "marketing operations manager|||delinea": "2026-03-14T18:16:13.215Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 48,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 49,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
