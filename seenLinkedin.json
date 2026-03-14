@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/in-dealership-consultant-pittsburgh-at-jackson-dawson-4380454430": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4380452803": 1,
     "https://www.linkedin.com/jobs/view/national-senior-consultant-disability-inclusion-abuja-nigeria-35-working-days-remote-at-unicef-bangladesh-4380454378": 1,
     "https://www.linkedin.com/jobs/view/sr-underwriter-consultant-at-the-hartford-4380668071": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-supply-chain-4385894023": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-4385893434": 1,
     "https://www.linkedin.com/jobs/view/analytics-engineer-gtm-analytics-at-vanta-4384622958": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-specialist-at-fetchjobs-co-4384914359": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-specialist-at-fetchjobs-co-4384914359": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324940149": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2182,7 +2182,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 62,
+    "cyclesToday": 63,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
