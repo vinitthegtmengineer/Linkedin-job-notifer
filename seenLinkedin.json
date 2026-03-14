@@ -1967,7 +1967,10 @@
     "https://www.linkedin.com/jobs/view/berater-freelance-at-hogar-clean-gmbh-4385881518": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385815987": 1,
     "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-delinea-4332215709": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-delinea-4332215709": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-kaleris-4203550988": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385830308": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-cengage-4367526270": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2147,7 +2150,7 @@
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
