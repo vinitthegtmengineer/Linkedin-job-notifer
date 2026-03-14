@@ -1976,7 +1976,12 @@
     "https://www.linkedin.com/jobs/view/senior-rust-solana-anchor-smart-contract-engineer-production-level-at-apeing-dex-4385553954": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-wastewater-at-nicholas-o-dwyer-ltd-4331062556": 1,
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4385886077": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385816926": 1
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385816926": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4385884018": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385853809": 1,
+    "https://www.linkedin.com/jobs/view/production-engineer-at-placer-ai-4385575539": 1,
+    "https://www.linkedin.com/jobs/view/abm-demand-generation-manager-at-flock-4375855172": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2152,13 +2157,14 @@
     "ai gtm specialist|||asana": "2026-03-14T14:32:47.038Z",
     "director of gtm revenue operations|||cengage": "2026-03-14T15:10:05.604Z",
     "gtm marketing manager|||ci&t": "2026-03-14T16:14:00.320Z",
-    "marketing operations manager|||delinea": "2026-03-14T18:16:13.215Z"
+    "marketing operations manager|||delinea": "2026-03-14T18:16:13.215Z",
+    "email marketing operations|||figma": "2026-03-14T19:14:30.465Z"
   },
   "stats": {
     "date": "2026-03-14",
-    "cyclesToday": 51,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 52,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
