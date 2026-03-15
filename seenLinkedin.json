@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4380465357": 1,
-    "https://www.linkedin.com/jobs/view/director-of-gtm-strategy-enablement-at-october-three-consulting-4380480030": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-and-operations-enterprise-sales-at-vantor-4364976222": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4381913130": 1,
-    "https://www.linkedin.com/jobs/view/founding-enterprise-sales-lead-ai-100%25-remote-san-francisco-or-nyc-at-hopper-4323232969": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4381910137": 1,
     "https://www.linkedin.com/jobs/view/founding-enterprise-sales-lead-ai-100%25-remote-san-francisco-or-nyc-at-hopper-4323412617": 1,
     "https://www.linkedin.com/jobs/view/sales-business-development-director-at-bitmovin-4381483576": 1,
     "https://www.linkedin.com/jobs/view/chief-growth-officer-at-gogenesisai-4380603864": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386044230": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386029838": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4384930639": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4384930639": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386047063": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386043270": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386046193": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041441": 1,
+    "https://www.linkedin.com/jobs/view/intern-marketing-executive-at-via-codos-pvt-ltd-4384923816": 1,
+    "https://www.linkedin.com/jobs/view/google-advertisements-campaign-manager-with-experience-in-invoice-based-accounts-4380407483": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2182,13 +2182,14 @@
     "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z",
     "sem campaign manager|||jobs via dice": "2026-03-15T02:03:40.642Z",
     "gtm engineer (outbound & lead generation) - remote/global|||toplinex": "2026-03-15T07:07:40.304Z",
-    "gtm engineer (m/f/d) (remote, 20-40h/ week)|||scalantec": "2026-03-15T07:54:25.696Z"
+    "gtm engineer (m/f/d) (remote, 20-40h/ week)|||scalantec": "2026-03-15T07:54:25.696Z",
+    "google advertisements campaign manager with experience in invoice based accounts|||seo1ranking.": "2026-03-15T08:55:28.949Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 14,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 15,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
