@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ai-operations-manager-at-hatch-4381059869": 1,
     "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-usaf-cloud-one-at-leidos-4380808597": 1,
     "https://www.linkedin.com/jobs/view/director-ai-plg-at-workspan-4381941405": 1,
     "https://www.linkedin.com/jobs/view/mssp-partner-manager-south-eastern-europe-at-group-ib-4380279273": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/growth-campaign-operator-founders-team-ski-startup-at-snowgroup-4383693823": 1,
     "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4375019573": 1,
     "https://www.linkedin.com/jobs/view/global-advertising-campaign-manager-%e2%80%93-google-facebook-%e2%80%93-remote-%24100m%2b-4383699415": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-performance-marketing-at-niscomed-4383691830": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-performance-marketing-at-niscomed-4383691830": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4384008124": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-kohootz-llc-4384955658": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2193,7 +2193,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 60,
+    "cyclesToday": 61,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
