@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-balkans-at-huzzle-com-4380232394": 1,
-    "https://www.linkedin.com/jobs/view/aiops-marketing-manager-at-commandlink-4381940420": 1,
-    "https://www.linkedin.com/jobs/view/strategic-advisor-political-partnerships-at-decide-4380224588": 1,
-    "https://www.linkedin.com/jobs/view/manager-campaign-operations-at-dandy-4372211519": 1,
-    "https://www.linkedin.com/jobs/view/trainee-social-media-manager-at-tiptopjob-4381906142": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-abm-integrated-campaigns-at-elite-technology-4380499183": 1,
     "https://www.linkedin.com/jobs/view/video-social-content-specialist-at-net-at-work-4372223127": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-and-community-relations-at-h-h-leadership-solutions-4382129152": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386004044": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-coordinator-at-remotehunter-4384925765": 1,
     "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4386068290": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-distribution-manager-at-roster-4383687660": 1
+    "https://www.linkedin.com/jobs/view/social-media-content-distribution-manager-at-roster-4383687660": 1,
+    "https://www.linkedin.com/jobs/view/decarbonization-engineer-at-graymont-4327939631": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-sales-enablement-remote-at-jaggaer-4359754297": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-pickworth-gtm-4384943508": 1,
+    "https://www.linkedin.com/jobs/view/ejecutivo-a-comercial-%e2%80%93-prospecting-growth-at-marketers-by-adlatina-4386068316": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384000171": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2186,13 +2186,14 @@
     "google advertisements campaign manager with experience in invoice based accounts|||seo1ranking.": "2026-03-15T08:55:28.949Z",
     "pay per click campaign manager – google advertisements & facebook advertisements|||techtide agency": "2026-03-15T09:15:03.017Z",
     "pay per click campaign manager – $100m+ google advertisements spend|||savasaachi marketing agency.": "2026-03-15T10:09:59.787Z",
-    "dev gtm|||cloudflare": "2026-03-15T14:51:52.049Z"
+    "dev gtm|||cloudflare": "2026-03-15T14:51:52.049Z",
+    "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 43,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 44,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
