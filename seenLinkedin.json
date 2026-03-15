@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-operator-at-finmile-4381012979": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381991505": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382104493": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4382107341": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386040419": 1,
     "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
     "https://www.linkedin.com/jobs/view/vp-marketing-at-andela-4358600243": 1,
-    "https://www.linkedin.com/jobs/view/virtual-executive-marketing-assistant-remote-at-executiveplacements-com-4384916868": 1
+    "https://www.linkedin.com/jobs/view/virtual-executive-marketing-assistant-remote-at-executiveplacements-com-4384916868": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-lead-philippines-remote-at-growthassistant-4385895163": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
