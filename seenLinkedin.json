@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-property-engineer-wildfire-expert-at-allianz-commercial-4381492622": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-at-sf-technology-solutions-4380200075": 1,
-    "https://www.linkedin.com/jobs/view/engineering-director-india-at-connect-tech%2btalent-4380455121": 1,
-    "https://www.linkedin.com/jobs/view/databricks-eng-at-ntt-data-north-america-4342978505": 1,
     "https://www.linkedin.com/jobs/view/senior-solution-engineer-salesforce-at-litify-4381471620": 1,
     "https://www.linkedin.com/jobs/view/engineer-surveyor-lift-crane-northen-ireland-north-belfast-antrim-town-toome-or-ballymena-at-allianz-uk-4381489736": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362029745": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/industrial-engineer-operations-optimization-integration-at-dwyeromega-4386008524": 1,
     "https://www.linkedin.com/jobs/view/sales-manager-at-prepass-4374621697": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-spacetime-agents-4384641793": 1,
-    "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386002092": 1
+    "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386002092": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4386014970": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4386018843": 1,
+    "https://www.linkedin.com/jobs/view/founding-ai-systems-engineer-usa-only-100%25-remote-at-close-4373852414": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-markeb-media-4385894401": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2184,7 +2184,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
