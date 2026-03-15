@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-phantom-4363420024": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-eap-strategy-operations-at-headspace-4354226760": 1,
-    "https://www.linkedin.com/jobs/view/sales-director-opportunity-remote-at-jobgether-4381676958": 1,
-    "https://www.linkedin.com/jobs/view/remote-sales-director-position-at-jobgether-4381690431": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-trident-search-4376754917": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-smartsheet-4381034492": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-at-huzzle-com-4381999996": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382181115": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165894": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380819178": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382167746": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382174416": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-kohootz-llc-4384955658": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-manager-remote-at-lensa-4386049598": 1,
     "https://www.linkedin.com/jobs/view/engineer-sourcing-operations-footwear-altra-at-vf-corporation-4328107447": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4384010033": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4384010033": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4386054140": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4386054081": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-get-offers-4386035782": 1,
+    "https://www.linkedin.com/jobs/view/philosophy-consultant-%e2%80%93-multilingual-expert-at-mercor-4386048413": 1,
+    "https://www.linkedin.com/jobs/view/eidas2-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386065617": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-infor-fsm-at-nordic-global-4113908410": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-get-offers-4386037837": 1,
+    "https://www.linkedin.com/jobs/view/qes-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386059987": 1,
+    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-100-%25-remote-at-koller-lode-4383695568": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2193,7 +2193,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 62,
+    "cyclesToday": 63,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
