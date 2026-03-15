@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-enterprise-sales-lead-ai-100%25-remote-san-francisco-or-nyc-at-hopper-4323412617": 1,
-    "https://www.linkedin.com/jobs/view/sales-business-development-director-at-bitmovin-4381483576": 1,
-    "https://www.linkedin.com/jobs/view/chief-growth-officer-at-gogenesisai-4380603864": 1,
-    "https://www.linkedin.com/jobs/view/sr-sales-operations-manager-gtm-at-backblaze-4363915801": 1,
     "https://www.linkedin.com/jobs/view/vp-sales-apac-at-obsidian-security-4381916950": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4381976046": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4381446813": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386046193": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041441": 1,
     "https://www.linkedin.com/jobs/view/intern-marketing-executive-at-via-codos-pvt-ltd-4384923816": 1,
-    "https://www.linkedin.com/jobs/view/google-advertisements-campaign-manager-with-experience-in-invoice-based-accounts-4380407483": 1
+    "https://www.linkedin.com/jobs/view/google-advertisements-campaign-manager-with-experience-in-invoice-based-accounts-4380407483": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-i-observability-at-remotehunter-4384940189": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386046188": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ausrehab-4386029916": 1,
+    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-techtide-agency-4384929701": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2183,13 +2183,14 @@
     "sem campaign manager|||jobs via dice": "2026-03-15T02:03:40.642Z",
     "gtm engineer (outbound & lead generation) - remote/global|||toplinex": "2026-03-15T07:07:40.304Z",
     "gtm engineer (m/f/d) (remote, 20-40h/ week)|||scalantec": "2026-03-15T07:54:25.696Z",
-    "google advertisements campaign manager with experience in invoice based accounts|||seo1ranking.": "2026-03-15T08:55:28.949Z"
+    "google advertisements campaign manager with experience in invoice based accounts|||seo1ranking.": "2026-03-15T08:55:28.949Z",
+    "pay per click campaign manager – google advertisements & facebook advertisements|||techtide agency": "2026-03-15T09:15:03.017Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 15,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 16,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
