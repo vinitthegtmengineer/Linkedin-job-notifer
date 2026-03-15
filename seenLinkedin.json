@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-h-h-group-b-corp%e2%84%a2-4380438820": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-ellsworth-%2b-ivey-4381606619": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-getty-images-4381611466": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-getty-images-4381617205": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-latam-17729-at-somewhere-4381477088": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-us-based-remote-at-paired-4380243350": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-virtustant-4379882549": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/manager-growth-analytics-marketing-science-at-zip-co-4367495196": 1,
     "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4374924489": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4328118417": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-industrial-engineering-operations-design-at-kenco-group-4334269387": 1
+    "https://www.linkedin.com/jobs/view/solutions-engineer-industrial-engineering-operations-design-at-kenco-group-4334269387": 1,
+    "https://www.linkedin.com/jobs/view/new-technologyone-consultant-at-t1-4384924579": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specification-representative-digital-infrastructure-building-solutions-us-canada-at-ppg-4386003090": 1,
+    "https://www.linkedin.com/jobs/view/ml-llm-operations-engineer-at-evolent-4357021921": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategy-business-partner-at-zillow-4358751782": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
