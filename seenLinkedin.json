@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-client-revenue-manager-at-huzzle-com-4381997329": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-data-analyst-at-bloomerang-4381606645": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-balkans-at-huzzle-com-4380232394": 1,
     "https://www.linkedin.com/jobs/view/aiops-marketing-manager-at-commandlink-4381940420": 1,
     "https://www.linkedin.com/jobs/view/strategic-advisor-political-partnerships-at-decide-4380224588": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/dtc-marketing-manager-part-time-at-inspiriko-4386000265": 1,
     "https://www.linkedin.com/jobs/view/associate-client-operations-open-to-remote-at-lensa-4386057513": 1,
     "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386004044": 1,
-    "https://www.linkedin.com/jobs/view/remote-marketing-coordinator-at-remotehunter-4384925765": 1
+    "https://www.linkedin.com/jobs/view/remote-marketing-coordinator-at-remotehunter-4384925765": 1,
+    "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4386068290": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-distribution-manager-at-roster-4383687660": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
