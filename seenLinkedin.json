@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-hubspot-4382116507": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380289486": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-gtm-strategy-operations-at-smartsheet-4321364275": 1,
     "https://www.linkedin.com/jobs/view/facebook-ads-manager-at-azzallure-diamonds-4380290356": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4381699052": 1,
     "https://www.linkedin.com/jobs/view/venezuela-consultor-para-la-elaboraci%c3%b3n-de-la-estrategia-de-abordaje-de-la-desnutrici%c3%b3n-remoto-at-reliefweb-4382125161": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/remote-manager-of-global-marketing-at-jobgether-4386046712": 1,
     "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4384953186": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-d2c-products-at-venty-4384929183": 1,
-    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386046567": 1
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386046567": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4384950242": 1,
+    "https://www.linkedin.com/jobs/view/global-marketing-manager-remote-at-jobgether-4386053447": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-operations-at-lensa-4386062202": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
