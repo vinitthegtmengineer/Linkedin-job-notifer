@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-engineering-at-aicro-4382115524": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4381032348": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4382124005": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-hubspot-4382116507": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380289486": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-paacademy-4383684725": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-wixflux-technologies-intern-4386070128": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-revops-engineer-at-duende-software-4384950192": 1,
-    "https://www.linkedin.com/jobs/view/remote-manager-of-global-marketing-at-jobgether-4386046712": 1
+    "https://www.linkedin.com/jobs/view/remote-manager-of-global-marketing-at-jobgether-4386046712": 1,
+    "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4384953186": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-d2c-products-at-venty-4384929183": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
