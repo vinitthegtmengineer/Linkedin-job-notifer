@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-abm-integrated-campaigns-at-elite-technology-4380499183": 1,
-    "https://www.linkedin.com/jobs/view/video-social-content-specialist-at-net-at-work-4372223127": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-and-community-relations-at-h-h-leadership-solutions-4382129152": 1,
     "https://www.linkedin.com/jobs/view/senior-account-executive-sae-public-relations-marketing-at-lotus823-4381059022": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-balkans-at-huzzle-com-4380239137": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-at-town-web-design-4380237181": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/vice-president-sales-enablement-remote-at-jaggaer-4359754297": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-pickworth-gtm-4384943508": 1,
     "https://www.linkedin.com/jobs/view/ejecutivo-a-comercial-%e2%80%93-prospecting-growth-at-marketers-by-adlatina-4386068316": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384000171": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384000171": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-data-platform-at-wave-group-4383174297": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386049001": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384959116": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
