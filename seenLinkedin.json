@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4381069244": 1,
-    "https://www.linkedin.com/jobs/view/body-builder-manager-at-man-truck-bus-uk-4382155701": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-jobgether-4381691388": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-creative-operations-and-delivery-at-levels-4381074364": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1,
     "https://www.linkedin.com/jobs/view/marketing-ai-operations-manager-at-hatch-4381059869": 1,
     "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-usaf-cloud-one-at-leidos-4380808597": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386075180": 1,
     "https://www.linkedin.com/jobs/view/pre-commissioning-engineer-%e2%80%93-energy-projects-at-norconsulting-global-recruitment-4383688997": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4384006174": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384957525": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384957525": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-operator-founders-team-ski-startup-at-snowgroup-4383693823": 1,
+    "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4375019573": 1,
+    "https://www.linkedin.com/jobs/view/global-advertising-campaign-manager-%e2%80%93-google-facebook-%e2%80%93-remote-%24100m%2b-4383699415": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-performance-marketing-at-niscomed-4383691830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2188,13 +2188,14 @@
     "pay per click campaign manager – $100m+ google advertisements spend|||savasaachi marketing agency.": "2026-03-15T10:09:59.787Z",
     "dev gtm|||cloudflare": "2026-03-15T14:51:52.049Z",
     "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z",
-    "assistant influencer marketing campaign manager (brazil)|||content lab": "2026-03-15T21:37:34.009Z"
+    "assistant influencer marketing campaign manager (brazil)|||content lab": "2026-03-15T21:37:34.009Z",
+    "global advertising campaign manager – google & facebook – remote | $100m+|||yalla group limited": "2026-03-15T22:08:49.083Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 58,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 59,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
