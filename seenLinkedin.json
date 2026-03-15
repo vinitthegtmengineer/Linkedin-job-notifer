@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-recruitment-administrator-at-remote-recruitment-4382110294": 1,
-    "https://www.linkedin.com/jobs/view/national-senior-consultant-disability-inclusion-abuja-nigeria-35-working-days-remote-at-unicef-mk-4380489175": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-sprinto-4280850157": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-luxury-presence-4371170334": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-fidenda-4380291420": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-weekday-yc-w21-4380280361": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-scrunch-4374654145": 1,
     "https://www.linkedin.com/jobs/view/regional-sales-director-east-at-vcluster-4385889436": 1,
     "https://www.linkedin.com/jobs/view/senior-dev-gtm-at-cloudflare-4347616696": 1,
-    "https://www.linkedin.com/jobs/view/ad-operations-associate-at-groundtruth-4359617362": 1
+    "https://www.linkedin.com/jobs/view/ad-operations-associate-at-groundtruth-4359617362": 1,
+    "https://www.linkedin.com/jobs/view/regional-director-enterprise-at-fivetran-4359930817": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4386049363": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-paacademy-4383684725": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
