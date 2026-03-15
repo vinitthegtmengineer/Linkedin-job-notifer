@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-the-branding-people-4381056316": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1,
     "https://www.linkedin.com/jobs/view/medical-claims-entry-operator-at-moda-health-4382145688": 1,
     "https://www.linkedin.com/jobs/view/client-operations-engineer-growth-expert-at-growthx-ai-4382146780": 1,
     "https://www.linkedin.com/jobs/view/principal-sales-enablement-at-zillow-4382150790": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/solana%c2%a0engineer-at-techead-4383692808": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383690853": 1,
     "https://www.linkedin.com/jobs/view/marketing-assistant-at-visory-4384003195": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-bettervits-4383693774": 1
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-bettervits-4383693774": 1,
+    "https://www.linkedin.com/jobs/view/assistant-influencer-marketing-campaign-manager-brazil-at-content-lab-4383699362": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384005181": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2187,13 +2187,14 @@
     "pay per click campaign manager – google advertisements & facebook advertisements|||techtide agency": "2026-03-15T09:15:03.017Z",
     "pay per click campaign manager – $100m+ google advertisements spend|||savasaachi marketing agency.": "2026-03-15T10:09:59.787Z",
     "dev gtm|||cloudflare": "2026-03-15T14:51:52.049Z",
-    "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z"
+    "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z",
+    "assistant influencer marketing campaign manager (brazil)|||content lab": "2026-03-15T21:37:34.009Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 56,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 57,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
