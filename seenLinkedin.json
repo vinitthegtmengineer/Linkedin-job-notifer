@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-at-town-web-design-4380237181": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-executive-at-cyan-recruitment-4380288846": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-creative-production-manager-at-triibe-inc-tribe-organics-4372494954": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ancient-nutrition-4382130561": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380294631": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386049001": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384959116": 1,
     "https://www.linkedin.com/jobs/view/remote-koc-booking-operator-fresher-%7e11m-brand-athome-at-pickdi-4384957239": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-swooped-4386070105": 1
+    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-swooped-4386070105": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384004116": 1,
+    "https://www.linkedin.com/jobs/view/assistant-manager-marcom-at-escalent-4383543547": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
