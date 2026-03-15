@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381997233": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381990530": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381999050": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381992520": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-community-gtm-at-sprinto-4330434138": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380287145": 1,
-    "https://www.linkedin.com/jobs/view/security-detection-engineer-at-movable-ink-4321459368": 1,
     "https://www.linkedin.com/jobs/view/operational-technology-engineer-at-mission-dev-4380458167": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372129534": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-earth-4381022223": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386059107": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386047547": 1,
     "https://www.linkedin.com/jobs/view/regional-director-strategic-sales-at-launchdarkly-4328216134": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-4385882828": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-4385882828": 1,
+    "https://www.linkedin.com/jobs/view/remote-senior-consultant-at-jobgether-4386060196": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386046737": 1,
+    "https://www.linkedin.com/jobs/view/new-reactor-project-quality-engineer-remote-eligible-u-s-at-lensa-4386062198": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386065098": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4386048723": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386048759": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386060356": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
