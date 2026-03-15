@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380291920": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-casper-studios-4381059333": 1,
     "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-fello-4381994084": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382155090": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382158014": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/autonomy-engineer-at-hackajob-4366528748": 1,
     "https://www.linkedin.com/jobs/view/dtc-marketing-manager-part-time-at-inspiriko-4386007115": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384003237": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384956379": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384956379": 1,
+    "https://www.linkedin.com/jobs/view/ai-solution-builder-live-drop-entry-independent-contractor-prize-based-at-vibe-coding-colosseum-4386069663": 1,
+    "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 53,
+    "cyclesToday": 54,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
