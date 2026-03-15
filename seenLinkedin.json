@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380819178": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382167746": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382174416": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382164925": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-infor-fsm-at-nordic-global-4113908410": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-get-offers-4386037837": 1,
     "https://www.linkedin.com/jobs/view/qes-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386059987": 1,
-    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-100-%25-remote-at-koller-lode-4383695568": 1
+    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-100-%25-remote-at-koller-lode-4383695568": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-connect-media-4383699370": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2193,7 +2193,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 64,
+    "cyclesToday": 65,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
