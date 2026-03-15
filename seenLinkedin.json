@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engenheiro-de-dados-s%c3%aanior-airflow-e-nifi-com-atua%c3%a7ao-em-projetos-de-ia-at-ahoy-by-belago-4381647175": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-strategy-at-xbow-4381013277": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-va-masters-vamasters-com-4380457348": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-golden-fleece-films-4381970463": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371129634": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-the-creators-entertainment-4381976384": 1,
-    "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4380243634": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-5%c3%a0sec-4380285075": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-codecelix-4380282042": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-video-editor-at-your-social-recipe-4381658547": 1,
-    "https://www.linkedin.com/jobs/view/demand-operator-lead-at-clickup-4363401801": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381997233": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381990530": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381999050": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/iam-consultant-%e2%80%93-identity-governance-administration-iga-at-abicem-4383684561": 1,
     "https://www.linkedin.com/jobs/view/information-security-engineer-%e2%80%93-identity-security-operations-at-optomi-4384929926": 1,
     "https://www.linkedin.com/jobs/view/frontend-engineer-at-dalm-4384946080": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-traylor-bros-inc-2793160530": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-traylor-bros-inc-2793160530": 1,
+    "https://www.linkedin.com/jobs/view/the-vacation-romance-consultant-remote-at-reed-s-adventures-4384933847": 1,
+    "https://www.linkedin.com/jobs/view/remote-astronomy-consultant-%e2%80%93-%2480-hr-at-mercor-4386045601": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386059131": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386052309": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386055213": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386041812": 1,
+    "https://www.linkedin.com/jobs/view/remote-astronomy-consultant-%e2%80%93-%2480-hr-at-mercor-4386059146": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386059107": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386047547": 1,
+    "https://www.linkedin.com/jobs/view/regional-director-strategic-sales-at-launchdarkly-4328216134": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-4385882828": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
