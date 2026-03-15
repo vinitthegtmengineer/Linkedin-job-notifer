@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362029745": 1,
     "https://www.linkedin.com/jobs/view/data-ai-operations-engineer-at-zeliq-4381471165": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
     "https://www.linkedin.com/jobs/view/operational-engineer-i-f5-ltm-gtm-at-csg-4380684697": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/founding-ai-systems-engineer-usa-only-100%25-remote-at-close-4373852414": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-markeb-media-4385894401": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4383663968": 1,
-    "https://www.linkedin.com/jobs/view/social-media-specialist-%e2%80%93-creative-campaigns-client-management-creative-canva-expert-at-social-panache-4384911995": 1
+    "https://www.linkedin.com/jobs/view/social-media-specialist-%e2%80%93-creative-campaigns-client-management-creative-canva-expert-at-social-panache-4384911995": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2184,7 +2184,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
