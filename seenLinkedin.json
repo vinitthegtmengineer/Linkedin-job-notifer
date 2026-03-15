@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
     "https://www.linkedin.com/jobs/view/operational-engineer-i-f5-ltm-gtm-at-csg-4380684697": 1,
     "https://www.linkedin.com/jobs/view/senior-al-ml-ops-engineer-ii-hybrid-in-bangalore-at-smartsheet-4380693672": 1,
     "https://www.linkedin.com/jobs/view/ai-forward-deployed-engineer-manufacturing-and-supply-ops-at-mirai-ops-4381438732": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4383663968": 1,
     "https://www.linkedin.com/jobs/view/social-media-specialist-%e2%80%93-creative-campaigns-client-management-creative-canva-expert-at-social-panache-4384911995": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-lead-generation-remote-global-at-toplinex-4386020811": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-lead-generation-remote-global-at-toplinex-4386020811": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-m-f-d-remote-20-40h-week-at-scalantec-4383674601": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2181,13 +2181,14 @@
     "analytics engineer, gtm analytics|||vanta": "2026-03-14T21:50:01.643Z",
     "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z",
     "sem campaign manager|||jobs via dice": "2026-03-15T02:03:40.642Z",
-    "gtm engineer (outbound & lead generation) - remote/global|||toplinex": "2026-03-15T07:07:40.304Z"
+    "gtm engineer (outbound & lead generation) - remote/global|||toplinex": "2026-03-15T07:07:40.304Z",
+    "gtm engineer (m/f/d) (remote, 20-40h/ week)|||scalantec": "2026-03-15T07:54:25.696Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 11,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 12,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
