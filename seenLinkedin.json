@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-sales-apac-at-obsidian-security-4381916950": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4381976046": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4381446813": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4379996163": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-launchdarkly-4381682078": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-vector-resourcing-4381448322": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-engineer-i-observability-at-remotehunter-4384940189": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386046188": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ausrehab-4386029916": 1,
-    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-techtide-agency-4384929701": 1
+    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-techtide-agency-4384929701": 1,
+    "https://www.linkedin.com/jobs/view/berater-revisor-m-w-d-at-mitte-4383677656": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-wixflux-technologies-intern-4386041534": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-freakins-4383686317": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2188,7 +2188,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
