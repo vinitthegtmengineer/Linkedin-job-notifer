@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-virgin-power-and-engineering-pvt-ltd-4381034946": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-the-branding-people-4381056316": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1,
     "https://www.linkedin.com/jobs/view/medical-claims-entry-operator-at-moda-health-4382145688": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1,
     "https://www.linkedin.com/jobs/view/solana%c2%a0engineer-at-techead-4383692808": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383690853": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-visory-4384003195": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-visory-4384003195": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-bettervits-4383693774": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 55,
+    "cyclesToday": 56,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
