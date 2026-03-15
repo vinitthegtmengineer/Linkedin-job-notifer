@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/venture-builder-venture-manager-at-neighbourhood-health-ventures-4381968233": 1,
-    "https://www.linkedin.com/jobs/view/product-owner-shop-builder-at-xsolla-4349581983": 1,
-    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-saudi-arabia-at-bitget-4381951414": 1,
-    "https://www.linkedin.com/jobs/view/consultor-visual-builder-at-novacomp-4381932066": 1,
-    "https://www.linkedin.com/jobs/view/formateur-product-builder-no-code-ia-h-f-at-ecole-europ%c3%a9enne-du-num%c3%a9rique-4381487065": 1,
-    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-qatar-at-bitget-4381947617": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builders-at-%e2%96%b2rgentive-4380202315": 1,
     "https://www.linkedin.com/jobs/view/bitget-builder-part-time-australia-at-bitget-4377130605": 1,
     "https://www.linkedin.com/jobs/view/product-builder-software-development-engineer-at-kagaar-4380670421": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373435715": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373434712": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-contract-at-aura-4385803403": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineering-gtme-at-aicro-4385894553": 1
+    "https://www.linkedin.com/jobs/view/go-to-market-engineering-gtme-at-aicro-4385894553": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-vap-at-trinity-life-sciences-4375841514": 1,
+    "https://www.linkedin.com/jobs/view/head-of-gtm-remote-full-time-at-aicro-4385895478": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-remotehunter-4384680310": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4384682320": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-globaltize-4379709521": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367517903": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2182,10 +2182,10 @@
     "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z"
   },
   "stats": {
-    "date": "2026-03-14",
-    "cyclesToday": 70,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "date": "2026-03-15",
+    "cyclesToday": 1,
+    "matchedToday": 0,
+    "sentToday": 0,
     "lastSummaryDate": ""
   }
 }
