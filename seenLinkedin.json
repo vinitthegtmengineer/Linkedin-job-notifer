@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4379996163": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-launchdarkly-4381682078": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-vector-resourcing-4381448322": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4381604185": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-marketing-manager-at-jobgether-4381687529": 1,
     "https://www.linkedin.com/jobs/view/trainee-social-media-manager-at-tiptopjob-4381691801": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-techtide-agency-4384929701": 1,
     "https://www.linkedin.com/jobs/view/berater-revisor-m-w-d-at-mitte-4383677656": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-wixflux-technologies-intern-4386041534": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-freakins-4383686317": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-freakins-4383686317": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-fetchjobs-co-4384931646": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-infor-scm-at-nordic-global-4231894660": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384938314": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2188,7 +2188,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
