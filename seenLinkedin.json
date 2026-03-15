@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operational-engineer-i-f5-ltm-gtm-at-csg-4380684697": 1,
-    "https://www.linkedin.com/jobs/view/senior-al-ml-ops-engineer-ii-hybrid-in-bangalore-at-smartsheet-4380693672": 1,
-    "https://www.linkedin.com/jobs/view/ai-forward-deployed-engineer-manufacturing-and-supply-ops-at-mirai-ops-4381438732": 1,
-    "https://www.linkedin.com/jobs/view/prozessingenieur-f%c3%bcr-anlagentechnik-at-sievert-se-4379853631": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069834": 1,
     "https://www.linkedin.com/jobs/view/battery-storage-project-engineer-at-crescent-solutions-4379872488": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-hai-robotics-4381624427": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-specialist-%e2%80%93-creative-campaigns-client-management-creative-canva-expert-at-social-panache-4384911995": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-lead-generation-remote-global-at-toplinex-4386020811": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-m-f-d-remote-20-40h-week-at-scalantec-4383674601": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-m-f-d-remote-20-40h-week-at-scalantec-4383674601": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-remotehunter-4384939259": 1,
+    "https://www.linkedin.com/jobs/view/merchant-coop-campaign-manager-freelance-%e2%80%93-remote-first-at-epi-company-4384912233": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-director-incentives-workday-remote-at-varicent-4374685691": 1,
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2186,7 +2186,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
