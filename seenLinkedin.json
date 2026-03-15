@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-social-investment-managers-advisors-sima-funds-4381604185": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-marketing-manager-at-jobgether-4381687529": 1,
-    "https://www.linkedin.com/jobs/view/trainee-social-media-manager-at-tiptopjob-4381691801": 1,
     "https://www.linkedin.com/jobs/view/social-media-reputation-manager-at-iqor-4380209027": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4381947256": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-solid-gold-pet-part-of-h-h-group-4380443651": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-freakins-4383686317": 1,
     "https://www.linkedin.com/jobs/view/operator-at-fetchjobs-co-4384931646": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-infor-scm-at-nordic-global-4231894660": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384938314": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384938314": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-biospace-4386047184": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041440": 1,
+    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-%24100m%2b-google-advertisements-spend-4384937411": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2184,13 +2184,14 @@
     "gtm engineer (outbound & lead generation) - remote/global|||toplinex": "2026-03-15T07:07:40.304Z",
     "gtm engineer (m/f/d) (remote, 20-40h/ week)|||scalantec": "2026-03-15T07:54:25.696Z",
     "google advertisements campaign manager with experience in invoice based accounts|||seo1ranking.": "2026-03-15T08:55:28.949Z",
-    "pay per click campaign manager – google advertisements & facebook advertisements|||techtide agency": "2026-03-15T09:15:03.017Z"
+    "pay per click campaign manager – google advertisements & facebook advertisements|||techtide agency": "2026-03-15T09:15:03.017Z",
+    "pay per click campaign manager – $100m+ google advertisements spend|||savasaachi marketing agency.": "2026-03-15T10:09:59.787Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 18,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 19,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
