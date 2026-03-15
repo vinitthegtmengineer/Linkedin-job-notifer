@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-fello-4381994084": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382155090": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-at-futuresight-4382158014": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-virgin-power-and-engineering-pvt-ltd-4381034946": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-the-branding-people-4381056316": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-swoon-4381064176": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384003237": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384956379": 1,
     "https://www.linkedin.com/jobs/view/ai-solution-builder-live-drop-entry-independent-contractor-prize-based-at-vibe-coding-colosseum-4386069663": 1,
-    "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1
+    "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1,
+    "https://www.linkedin.com/jobs/view/solana%c2%a0engineer-at-techead-4383692808": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383690853": 1,
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-visory-4384003195": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 54,
+    "cyclesToday": 55,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
