@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operational-technology-engineer-at-mission-dev-4380458167": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372129534": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-earth-4381022223": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-provenir-4324692609": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-at-arco-educa%c3%a7%c3%a3o-4381670627": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-i-lge-display-direct-view-dvled-remote-us-central-or-western-region-preferred-at-lg-electronics-north-america-4302214795": 1,
     "https://www.linkedin.com/jobs/view/content-and-marketing-executive-at-techround-4381985961": 1,
     "https://www.linkedin.com/jobs/view/sr-underwriter-consultant-at-the-hartford-4380664158": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386065098": 1,
     "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4386048723": 1,
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386048759": 1,
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386060356": 1
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386060356": 1,
+    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4386065166": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-openclassrooms-4384935788": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383682726": 1,
+    "https://www.linkedin.com/jobs/view/analyst-influencer-relations-manager-at-vega-4384935653": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-sales-executive-at-buildingyourbusiness-online-2-0-4386046982": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
