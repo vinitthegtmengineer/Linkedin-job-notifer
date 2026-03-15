@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069834": 1,
-    "https://www.linkedin.com/jobs/view/battery-storage-project-engineer-at-crescent-solutions-4379872488": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-hai-robotics-4381624427": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4380465357": 1,
     "https://www.linkedin.com/jobs/view/director-of-gtm-strategy-enablement-at-october-three-consulting-4380480030": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-and-operations-enterprise-sales-at-vantor-4364976222": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-remotehunter-4384939259": 1,
     "https://www.linkedin.com/jobs/view/merchant-coop-campaign-manager-freelance-%e2%80%93-remote-first-at-epi-company-4384912233": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-director-incentives-workday-remote-at-varicent-4374685691": 1,
-    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386044230": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386029838": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4384930639": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2186,7 +2186,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
