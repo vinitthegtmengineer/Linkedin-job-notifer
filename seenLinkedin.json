@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-campaign-creative-production-manager-at-triibe-inc-tribe-organics-4372494954": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ancient-nutrition-4382130561": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380294631": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-at-kyra-4382123417": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/remote-koc-booking-operator-fresher-%7e11m-brand-athome-at-pickdi-4384957239": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-manager-at-swooped-4386070105": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384004116": 1,
-    "https://www.linkedin.com/jobs/view/assistant-manager-marcom-at-escalent-4383543547": 1
+    "https://www.linkedin.com/jobs/view/assistant-manager-marcom-at-escalent-4383543547": 1,
+    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4328160621": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 48,
+    "cyclesToday": 49,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
