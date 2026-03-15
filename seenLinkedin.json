@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4382124005": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-hubspot-4382116507": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-xpertcoder-software-solutions-4380289486": 1,
     "https://www.linkedin.com/jobs/view/vice-president-gtm-strategy-operations-at-smartsheet-4321364275": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-revops-engineer-at-duende-software-4384950192": 1,
     "https://www.linkedin.com/jobs/view/remote-manager-of-global-marketing-at-jobgether-4386046712": 1,
     "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4384953186": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-d2c-products-at-venty-4384929183": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-d2c-products-at-venty-4384929183": 1,
+    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386046567": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
