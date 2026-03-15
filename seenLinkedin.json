@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-payabli-4369699444": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-pre-sale-at-wrapbook-4365140304": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-shipbob-4371716149": 1,
-    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4381915455": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380207827": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-specialist-outbound-infrastructure-operator-at-ai-acquisition-4381903746": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-specialist-outbound-infrastructure-operator-at-ai-acquisition-4381911426": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-analyst-direct-mail-at-ramp-4372130936": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380203923": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380204881": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380203924": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/corso-gratuito-online-operatore-della-ristorazione-at-jobbit-4386002523": 1,
     "https://www.linkedin.com/jobs/view/farm-consultant-m-w-d-region-nord-ost-at-msd-deutschland-4367160571": 1,
     "https://www.linkedin.com/jobs/view/consultor-odoo-at-adrox-per%c3%ba-4385878586": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1,
+    "https://www.linkedin.com/jobs/view/ra-cmc-consultant-at-icon-strategic-solutions-4385580348": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-technical-administrator-latam-at-engine-4385575907": 1,
+    "https://www.linkedin.com/jobs/view/principal-engineer-engineering-productivity-at-netskope-4375825185": 1,
+    "https://www.linkedin.com/jobs/view/big-data-operations-engineer-at-temu-4384915693": 1,
+    "https://www.linkedin.com/jobs/view/partner-account-manager-at-outreach-4384640254": 1,
+    "https://www.linkedin.com/jobs/view/sem-campaign-manager-at-jobs-via-dice-4383951567": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-remote-at-jobgether-4385884956": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-fresh-operations-management-at-logile-inc-4385875620": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2179,13 +2179,14 @@
     "email marketing operations|||figma": "2026-03-14T19:14:30.465Z",
     "marketing operations manager (independent contractor)|||dataannotation": "2026-03-14T19:48:09.474Z",
     "analytics engineer, gtm analytics|||vanta": "2026-03-14T21:50:01.643Z",
-    "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z"
+    "go to market engineering (gtme)|||aicro": "2026-03-14T23:50:38.393Z",
+    "sem campaign manager|||jobs via dice": "2026-03-15T02:03:40.642Z"
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 2,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 3,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
