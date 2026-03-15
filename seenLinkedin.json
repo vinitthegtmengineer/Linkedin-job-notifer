@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-account-executive-sae-public-relations-marketing-at-lotus823-4381059022": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-balkans-at-huzzle-com-4380239137": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-at-town-web-design-4380237181": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-executive-at-cyan-recruitment-4380288846": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-creative-production-manager-at-triibe-inc-tribe-organics-4372494954": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384000171": 1,
     "https://www.linkedin.com/jobs/view/engineering-director-data-platform-at-wave-group-4383174297": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386049001": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384959116": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384959116": 1,
+    "https://www.linkedin.com/jobs/view/remote-koc-booking-operator-fresher-%7e11m-brand-athome-at-pickdi-4384957239": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-swooped-4386070105": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
