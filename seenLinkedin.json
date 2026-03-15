@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-reputation-manager-at-iqor-4380209027": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4381947256": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-solid-gold-pet-part-of-h-h-group-4380443651": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380260604": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384938314": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-biospace-4386047184": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041440": 1,
-    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-%24100m%2b-google-advertisements-spend-4384937411": 1
+    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-%24100m%2b-google-advertisements-spend-4384937411": 1,
+    "https://www.linkedin.com/jobs/view/manager-growth-analytics-marketing-science-at-zip-co-4367495196": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
