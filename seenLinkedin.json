@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-evalueserve-4381064089": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-executive-molecular-at-streck-4381058251": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380291920": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-casper-studios-4381059333": 1,
     "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-fello-4381994084": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/vice-president-project-operations-at-niscomed-4386075197": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4386062948": 1,
     "https://www.linkedin.com/jobs/view/autonomy-engineer-at-hackajob-4366528748": 1,
-    "https://www.linkedin.com/jobs/view/dtc-marketing-manager-part-time-at-inspiriko-4386007115": 1
+    "https://www.linkedin.com/jobs/view/dtc-marketing-manager-part-time-at-inspiriko-4386007115": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384003237": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384956379": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2191,7 +2191,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
