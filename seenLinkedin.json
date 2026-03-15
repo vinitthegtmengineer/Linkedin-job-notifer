@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-vibe-trader-4380467739": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-associate-at-omada-health-4380282948": 1,
-    "https://www.linkedin.com/jobs/view/product-operator-to-drive-ai-first-product-execution-at-toptal-4382113863": 1,
-    "https://www.linkedin.com/jobs/view/data-operations-engineer-snowflake-power-bi-at-fusion-consulting-4343018557": 1,
-    "https://www.linkedin.com/jobs/view/building-operator-repair-maintenance-rep-at-madison-group-of-companies-4381040656": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-ll-est%c3%a9tica-avan%c3%a7ada-4380291681": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployment-engineer-at-toast-4382137033": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-getinsured-4380803217": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-gridworks-4372201021": 1,
     "https://www.linkedin.com/jobs/view/senior-client-revenue-manager-at-huzzle-com-4381997329": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-data-analyst-at-bloomerang-4381606645": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-balkans-at-huzzle-com-4380232394": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-adtech-engineer-plaiced-remote-us-or-canada-at-plaiced-4384943535": 1,
     "https://www.linkedin.com/jobs/view/sales-and-process-engineer-italy-m-f-x-it-en-at-german-italian-chamber-of-commerce-ahk-italien-4383695386": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383696273": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-operations-manager-home-based-at-outsourced-4386034922": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-operations-manager-home-based-at-outsourced-4386034922": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-east-malaysia-at-carrier-4383923938": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-sme-careers-4328170608": 1,
+    "https://www.linkedin.com/jobs/view/startup-customer-success-manager-americas-at-ashby-4367504507": 1,
+    "https://www.linkedin.com/jobs/view/founding-channel-account-manager-at-scout-global-4380265190": 1,
+    "https://www.linkedin.com/jobs/view/senior-executive-events-marketing-activations-at-straitsx-4386067318": 1,
+    "https://www.linkedin.com/jobs/view/dtc-marketing-manager-part-time-at-inspiriko-4386000265": 1,
+    "https://www.linkedin.com/jobs/view/associate-client-operations-open-to-remote-at-lensa-4386057513": 1,
+    "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386004044": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-coordinator-at-remotehunter-4384925765": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,7 +2190,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
