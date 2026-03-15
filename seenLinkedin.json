@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-category-growth-general-manager-at-stockx-4371576093": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4381671520": 1,
     "https://www.linkedin.com/jobs/view/assistant-brand-manager-dtc-e-commerce-100%25-remote-eu-at-foxelli-group-4381454695": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4381662572": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/temporary-iam-security-analyst-at-cyber-focus-ai-4384922743": 1,
     "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330577194": 1,
     "https://www.linkedin.com/jobs/view/remote-chemical-consultant-at-mercor-4386039674": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-home-service-trades-at-scorpion-4367672425": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-home-service-trades-at-scorpion-4367672425": 1,
+    "https://www.linkedin.com/jobs/view/remote-chemical-consultant-at-mercor-4386044516": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,7 +2189,7 @@
   },
   "stats": {
     "date": "2026-03-15",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
