@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-the-touring-co-4381062791": 1,
-    "https://www.linkedin.com/jobs/view/ghl-operator-56214464402-at-somewhere-4372796486": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4381072760": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-remote-at-paynearme-4376611021": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386078645": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4386084424": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386088460": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-disney-yellow-shoes-4384015062": 1
+    "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-disney-yellow-shoes-4384015062": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386099073": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386097155": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2190,13 +2190,14 @@
     "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z",
     "assistant influencer marketing campaign manager (brazil)|||content lab": "2026-03-15T21:37:34.009Z",
     "global advertising campaign manager – google & facebook – remote | $100m+|||yalla group limited": "2026-03-15T22:08:49.083Z",
-    "marketing operations director|||jobgether": "2026-03-16T00:57:08.584Z"
+    "marketing operations director|||jobgether": "2026-03-16T00:57:08.584Z",
+    "marketing operations manager|||clearml": "2026-03-16T02:47:25.410Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 3,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 4,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
