@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-marketing-executive-at-jobgether-4382617985": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-letsinfluence-io-influencer-marketing-agency-4381339421": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-brightside-marketing-4382605254": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-website-manager-at-curio-lifestyle-4381359120": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/revenue-cycle-builder-analyst-at-ntt-data-north-america-4386399886": 1,
     "https://www.linkedin.com/jobs/view/programs-and-business-operations-lead-at-airbnb-4386519226": 1,
     "https://www.linkedin.com/jobs/view/observability-engineer%c2%a0-at-bigapple-infotech-llc-4385297525": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-growth-at-spinutech-4364801687": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-growth-at-spinutech-4364801687": 1,
+    "https://www.linkedin.com/jobs/view/revenue-cycle-builder-analyst-at-ntt-data-north-america-4386519658": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
