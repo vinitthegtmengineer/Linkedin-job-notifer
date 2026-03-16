@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-trillium-digital-services-4382132519": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-de-operaciones-at-aliaxis-latam-4381056716": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-jobs-via-dice-4381302722": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382608051": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-phd-consultant-%2473-29-hr-remote-at-crossing-hurdles-4372052383": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-lux-research-4382363644": 1,
-    "https://www.linkedin.com/jobs/view/marketing-account-manager-%f0%9f%93%b1%f0%9f%8d%bd%ef%b8%8f%f0%9f%a4%9d-marketing-agency-account-manager-social-media-manager-seo-social-media-marketing-strategy-campaign-execution-project-management-google-analytics-remote-at-goodwork-4381051607": 1,
-    "https://www.linkedin.com/jobs/view/marketing-account-manager-%f0%9f%93%b1%f0%9f%8d%bd%ef%b8%8f%f0%9f%a4%9d-marketing-agency-account-manager-social-media-manager-seo-social-media-marketing-strategy-campaign-execution-project-management-google-analytics-remote-at-goodwork-4381041941": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382179210": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381357956": 1,
     "https://www.linkedin.com/jobs/view/cold-email-specialist-outbound-infrastructure-operator-at-ai-acquisition-4381206850": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-primeedge-human-resources-inc-4385253491": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirex-4385253530": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4384043669": 1,
-    "https://www.linkedin.com/jobs/view/su-social-media-manager-at-somewhere-4385238931": 1
+    "https://www.linkedin.com/jobs/view/su-social-media-manager-at-somewhere-4385238931": 1,
+    "https://www.linkedin.com/jobs/view/operador-pedestre-at-lite-tech-formerly-lite-organiza%c3%a7%c3%a3o-ltda-4385243909": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-kolomolo-4384056211": 1,
+    "https://www.linkedin.com/jobs/view/sr-exabeam-engineer-remote-%e2%80%93-india-at-zortech-solutions-4385241893": 1,
+    "https://www.linkedin.com/jobs/view/manager-gtm-strategy-and-integration-at-earned-4385257530": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-ai-business-at-prolific-4376596211": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384058309": 1,
+    "https://www.linkedin.com/jobs/view/director-of-ecommerce-growing-lifestyle-brand-at-the-talent-magnet-4386363475": 1,
+    "https://www.linkedin.com/jobs/view/head-of-strategic-execution-at-zazu-digital-talent-4384061141": 1,
+    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386356815": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,13 +2198,14 @@
     "gtm engineer|||lumenalta": "2026-03-16T11:52:43.966Z",
     "dach executive gtm advisor|||equally ai": "2026-03-16T11:52:45.459Z",
     "advertising campaign manager – google advertisements & facebook advertisements – remote | $100m+|||les magnifiques": "2026-03-16T12:23:33.245Z",
-    "salesforce marketing cloud campaign manager (pharmaceutical sector)|||omega crm, a merkle company": "2026-03-16T13:24:36.233Z"
+    "salesforce marketing cloud campaign manager (pharmaceutical sector)|||omega crm, a merkle company": "2026-03-16T13:24:36.233Z",
+    "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 23,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 24,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
