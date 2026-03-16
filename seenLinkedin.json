@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4382389209": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4365441619": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4382383320": 1,
     "https://www.linkedin.com/jobs/view/sage-intacct-consultant-remote-at-jobgether-4382304611": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386340862": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-facebook-ads-4385260055": 1,
     "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386364447": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-faye-4385270211": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-faye-4385270211": 1,
+    "https://www.linkedin.com/jobs/view/venture-builder-%e2%80%94-founder%e2%80%99s-office-m-f-d-at-beglaubigt-de-yc-f24-4386380394": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
