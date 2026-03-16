@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-outsystems-4372787579": 1,
     "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381326547": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382621762": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-engineer-internal-operations-at-punt-4381386700": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386551603": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386559282": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386562069": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-4385289957": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-4385289957": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-good-moose-4386543099": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
