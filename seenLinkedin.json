@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
-    "https://www.linkedin.com/jobs/view/operator-specialist-food-brokerage-sales-business-development-at-acxion-foodservice-4363131610": 1,
-    "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-4-aalto-4380850292": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-beautiful-ai-4382353379": 1,
     "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1,
     "https://www.linkedin.com/jobs/view/banking-and-capital-markets-marketing-director-at-chainlink-labs-4343122447": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-ren-recruiting-4384925330": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386097854": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-beauty-brand-at-odaq-4384018349": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-digital-operations-at-niscomed-4386308099": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-digital-operations-at-niscomed-4386308099": 1,
+    "https://www.linkedin.com/jobs/view/oms-sterling-engineer-at-devrabbit-it-solutions-4384975791": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-facebook-ads-4384976870": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-manager-at-lensa-4386060253": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
