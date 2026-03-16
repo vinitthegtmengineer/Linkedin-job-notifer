@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/collaboration-engineer-at-georgiatek-systems-inc-4381070124": 1,
-    "https://www.linkedin.com/jobs/view/senior-ec-i-engineer-at-gold-group-ltd-4380263409": 1,
     "https://www.linkedin.com/jobs/view/remote-data-engineering-specialist-at-jobgether-4382312482": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-at-uplers-4381975328": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382142754": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/co-founding-venture-builder-%e2%80%94-mvp-launch-at-cofound-4384005716": 1,
     "https://www.linkedin.com/jobs/view/data-science-platform-engineering-at-cloudester-software-llc-4384975693": 1,
     "https://www.linkedin.com/jobs/view/team-leader-of-platform-backend-engineering-at-cloudester-software-llc-4384986302": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4384991032": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4384991032": 1,
+    "https://www.linkedin.com/jobs/view/remote-notion-system-builder-junior-specialist-%7e24m-brand-amapress-at-pickdi-4384984491": 1,
+    "https://www.linkedin.com/jobs/view/google-ads-campaign-strategist-4384979563": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
