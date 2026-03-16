@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-execution-at-emma-of-torre-ai-4382382601": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381991506": 1,
-    "https://www.linkedin.com/jobs/view/senior-electron-supabase-engineer-32958-at-stealth-startup-4380279651": 1,
-    "https://www.linkedin.com/jobs/view/dairy-engineer-4382162798": 1,
-    "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4372058748": 1,
-    "https://www.linkedin.com/jobs/view/endpoint-engineer-at-go-interactive-4380281862": 1,
     "https://www.linkedin.com/jobs/view/especialista-i-%e2%80%93-engenheiro-de-ia-at-todos-empreendimentos-4380811637": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-cobol-s%c3%aanior-at-runtalent-4382125871": 1,
     "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sd-wan-engineer-at-x4-technology-4384038466": 1,
     "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4384995785": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036507": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-momence-4386328394": 1
+    "https://www.linkedin.com/jobs/view/marketing-director-at-momence-4386328394": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4386317877": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4386323687": 1,
+    "https://www.linkedin.com/jobs/view/dach-executive-gtm-advisor-at-equally-ai-4386339067": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384998688": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4385248064": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384031778": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2194,13 +2194,15 @@
     "marketing operations manager|||clearml": "2026-03-16T02:47:25.410Z",
     "gtm lead, enterprise|||huzzle.com": "2026-03-16T08:35:34.590Z",
     "gtm|||late - social media api": "2026-03-16T08:35:36.240Z",
-    "gtm sales lead|||space executive": "2026-03-16T09:02:46.085Z"
+    "gtm sales lead|||space executive": "2026-03-16T09:02:46.085Z",
+    "gtm engineer|||lumenalta": "2026-03-16T11:52:43.966Z",
+    "dach executive gtm advisor|||equally ai": "2026-03-16T11:52:45.459Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 18,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 19,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
