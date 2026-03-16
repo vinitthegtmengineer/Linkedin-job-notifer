@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382152714": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-position-data-engineering-etl-background-at-hireon-4381348749": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388824": 1,
-    "https://www.linkedin.com/jobs/view/performance-advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-deloitte-legal-telles-4380844751": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382166772": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4382305636": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290927882": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311754029": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
-    "https://www.linkedin.com/jobs/view/martech-consultant-at-builden-partners-4382128196": 1,
-    "https://www.linkedin.com/jobs/view/process-mechanical-engineer-at-jedson-engineering-4323573155": 1,
-    "https://www.linkedin.com/jobs/view/senior-enablement-manager-at-airbnb-4372779162": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382171477": 1,
-    "https://www.linkedin.com/jobs/view/actuarary-consultant-with-acas-at-okaya-infocom-4382174559": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-bpo-remote-at-jobgether-4382319039": 1,
     "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-trillium-digital-services-4382132519": 1,
     "https://www.linkedin.com/jobs/view/ingeniero-de-operaciones-at-aliaxis-latam-4381056716": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-jobs-via-dice-4381302722": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-ai-health-tech-4384039646": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384056015": 1,
     "https://www.linkedin.com/jobs/view/assistant-director-digital-marketing-at-future-able-4384037756": 1,
-    "https://www.linkedin.com/jobs/view/chief-operating-officer-%e2%80%93-nationally-scaling-professional-services-platform-at-chamberlain-advisors-4374250047": 1
+    "https://www.linkedin.com/jobs/view/chief-operating-officer-%e2%80%93-nationally-scaling-professional-services-platform-at-chamberlain-advisors-4374250047": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385257318": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385242782": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385247663": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385254372": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385239915": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385255358": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385257319": 1,
+    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385255359": 1,
+    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386096532": 1,
+    "https://www.linkedin.com/jobs/view/senior-dynatrace-engineer-at-encore-consulting-4385254511": 1,
+    "https://www.linkedin.com/jobs/view/sales-leader-%e2%80%93-ai-edtech-corporate-l-d-at-fractal-4385245693": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-primeedge-human-resources-inc-4385253491": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirex-4385253530": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4384043669": 1,
+    "https://www.linkedin.com/jobs/view/su-social-media-manager-at-somewhere-4385238931": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,7 +2202,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
