@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/customer-marketing-manager-remote-at-paynearme-4376611021": 1,
-    "https://www.linkedin.com/jobs/view/freelance-e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
-    "https://www.linkedin.com/jobs/view/onboarding-consultant-menu-at-toast-4382313119": 1,
     "https://www.linkedin.com/jobs/view/sr-ecommerce-engineer-at-tactacam-4374113489": 1,
     "https://www.linkedin.com/jobs/view/sde-customer-engineering-automation-testing-selenium-pre-sales-post-sales-at-browserstack-4346866828": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-united-imaging-healthcare-4380691240": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386099073": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386097155": 1,
     "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4386088598": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-talentpluto-4386071727": 1
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-talentpluto-4386071727": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-buffer-operator-narrative-bridge-at-sigma-decom-4384925583": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-polaris-marketing-4384000856": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-proofflux-4384000497": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
