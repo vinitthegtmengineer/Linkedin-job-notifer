@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-projektpartner-homeoffice-consultant-at-remote-sisterhood-4382391804": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603219": 1,
-    "https://www.linkedin.com/jobs/view/network-operations-engineering-manager-at-teksystems-4380911189": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4382350023": 1,
-    "https://www.linkedin.com/jobs/view/head-of-commercial-at-crossing-hurdles-4372059805": 1,
-    "https://www.linkedin.com/jobs/view/marketing-account-manager-%f0%9f%93%b1%f0%9f%8d%bd%ef%b8%8f%f0%9f%a4%9d-marketing-agency-account-manager-social-media-manager-seo-social-media-marketing-strategy-campaign-execution-project-management-google-analytics-remote-at-goodwork-4381057187": 1,
     "https://www.linkedin.com/jobs/view/marketing-account-manager-%f0%9f%93%b1%f0%9f%8d%bd%ef%b8%8f%f0%9f%a4%9d-marketing-agency-account-manager-social-media-manager-seo-social-media-marketing-strategy-campaign-execution-project-management-google-analytics-remote-at-goodwork-4381061200": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4382616774": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382399452": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/digital-campaign-marketing-manager-at-eon-io-4376805611": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-primeedge-human-resources-inc-4385276498": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-trg-recruitment-4384078180": 1,
-    "https://www.linkedin.com/jobs/view/partner-operations-and-strategy-manager-at-samsara-4384082094": 1
+    "https://www.linkedin.com/jobs/view/partner-operations-and-strategy-manager-at-samsara-4384082094": 1,
+    "https://www.linkedin.com/jobs/view/operator-specialist-at-violet-foods-4386393155": 1,
+    "https://www.linkedin.com/jobs/view/analista-de-produto-j%c3%banior-product-builder-com-foco-em-ai-vaga-exclusiva-para-pessoas-com-defici%c3%aancia-remoto-at-picpay-4385266796": 1,
+    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386382744": 1,
+    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386386522": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-sales-regional-vice-president-at-included-health-4321179716": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-cut%2bdry-4385256963": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
