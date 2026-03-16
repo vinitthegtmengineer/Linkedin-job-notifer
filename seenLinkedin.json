@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-data-engineering-specialist-at-jobgether-4382312482": 1,
-    "https://www.linkedin.com/jobs/view/llm-engineer-at-uplers-4381975328": 1,
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382142754": 1,
-    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4382335368": 1,
-    "https://www.linkedin.com/jobs/view/rov-operator-iii-at-technipfmc-4382335782": 1,
-    "https://www.linkedin.com/jobs/view/%e9%ab%98%e7%ba%a7%e6%99%ba%e8%bd%a6%e8%81%94%e9%a1%be%e9%97%ae-senior-auto-expert-consultant-%e5%8d%8e%e5%8d%97-at-%e9%a9%ac%e7%9f%b3%e6%b2%b9%e6%b6%a6%e6%bb%91%e6%b2%b9-%e5%b1%b1%e4%b8%9c-%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4380838398": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
-    "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-at-leidos-4380827582": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-influx-search-4381009342": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-26-00681-at-akraya-inc-4382175540": 1,
     "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
     "https://www.linkedin.com/jobs/view/operator-specialist-food-brokerage-sales-business-development-at-acxion-foodservice-4363131610": 1,
     "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-4-aalto-4380850292": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/team-leader-of-platform-backend-engineering-at-cloudester-software-llc-4384986302": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4384991032": 1,
     "https://www.linkedin.com/jobs/view/remote-notion-system-builder-junior-specialist-%7e24m-brand-amapress-at-pickdi-4384984491": 1,
-    "https://www.linkedin.com/jobs/view/google-ads-campaign-strategist-4384979563": 1
+    "https://www.linkedin.com/jobs/view/google-ads-campaign-strategist-4384979563": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-object-first-4386300472": 1,
+    "https://www.linkedin.com/jobs/view/otel-operations-engineer-at-bytespoke-4384990485": 1,
+    "https://www.linkedin.com/jobs/view/commercial-renewable-energy-project-engineer-at-grupo-valte-reformas-%2b-arquitectura-4384982739": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-at-best-job-tool-4386303551": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieure-m-w-f%c3%bcr-landesbauma%c3%9fnahmen%0aflensburg%0akiel%0al%c3%bcbeck%0aneum%c3%bcnster%0aschleswig%0avollzeit-teilzeitf%c3%a4hig-at-geb%c3%a4udemanagement-schleswig-holstein-a%c3%b6r-gmsh-4386304362": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-shriram-general-insurance-co-ltd-4384006901": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-ren-recruiting-4384925330": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386097854": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-beauty-brand-at-odaq-4384018349": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-digital-operations-at-niscomed-4386308099": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
