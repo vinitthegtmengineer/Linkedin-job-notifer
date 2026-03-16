@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/azure-cloud-engineer-ops-support-at-leidos-4380811397": 1,
-    "https://www.linkedin.com/jobs/view/principal-gtm-strategy-and-integration-contract-at-earned-4381059797": 1,
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382156177": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-lenmar-consulting-inc-4381074559": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382165876": 1,
-    "https://www.linkedin.com/jobs/view/growth-ai-operator-at-bitso-4382186767": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-coforge-4381028171": 1,
     "https://www.linkedin.com/jobs/view/abm-campaign-manager-remote-at-zestyai-4382190535": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-connect-media-4383699370": 1,
     "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386073611": 1,
     "https://www.linkedin.com/jobs/view/senior-c-engineer-at-ai-data-training-hub-4383693609": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-circle-4383676339": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-circle-4383676339": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-sr-at-jobgether-4386071804": 1,
+    "https://www.linkedin.com/jobs/view/remote-sr-consultant-at-jobgether-4386081555": 1,
+    "https://www.linkedin.com/jobs/view/electrodynamics-engineer-%e2%80%93-remote-role-at-mercor-4386076537": 1,
+    "https://www.linkedin.com/jobs/view/senior-offline-media-manager-at-gusto-4316041298": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4384937332": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-operations-director-at-jobgether-4386084342": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2189,13 +2189,14 @@
     "dev gtm|||cloudflare": "2026-03-15T14:51:52.049Z",
     "business development representative|||pickworth gtm": "2026-03-15T17:50:34.281Z",
     "assistant influencer marketing campaign manager (brazil)|||content lab": "2026-03-15T21:37:34.009Z",
-    "global advertising campaign manager – google & facebook – remote | $100m+|||yalla group limited": "2026-03-15T22:08:49.083Z"
+    "global advertising campaign manager – google & facebook – remote | $100m+|||yalla group limited": "2026-03-15T22:08:49.083Z",
+    "marketing operations director|||jobgether": "2026-03-16T00:57:08.584Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 1,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 2,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
