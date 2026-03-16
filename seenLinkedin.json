@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382394551": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382392635": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382601226": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388834": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382602184": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382602183": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603214": 1,
-    "https://www.linkedin.com/jobs/view/ai-marketing-specialist-ai-systems-builder-at-coastline-gaming-4382128314": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382397439": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-processos-home-office-embarque-eventual-at-capco-4372746711": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-at-caspian-digital-solutions-4381369419": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382398392": 1,
-    "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382164202": 1,
     "https://www.linkedin.com/jobs/view/wild-card-at-aisle%e2%84%a2-4382152714": 1,
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-position-data-engineering-etl-background-at-hireon-4381348749": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382388824": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330600095": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-bms-performance-4385233751": 1,
     "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4384975700": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-tillster-4349861555": 1
+    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-tillster-4349861555": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386320982": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386339240": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386329622": 1,
+    "https://www.linkedin.com/jobs/view/in-dealership-consultant-pittsburgh-at-jackson-dawson-4380454430": 1,
+    "https://www.linkedin.com/jobs/view/devops-engineer-digital-engineering-at-coherent-solutions-4364726854": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-stealthwatch-4385205578": 1,
+    "https://www.linkedin.com/jobs/view/creative-sales-marketing-executive-personal-growth-remote-at-time-4-change-global-4384970800": 1,
+    "https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-campaign-manager-pharmaceutical-sector-at-omega-crm-a-merkle-company-4384034757": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4384045378": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-ai-health-tech-4384039646": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384056015": 1,
+    "https://www.linkedin.com/jobs/view/assistant-director-digital-marketing-at-future-able-4384037756": 1,
+    "https://www.linkedin.com/jobs/view/chief-operating-officer-%e2%80%93-nationally-scaling-professional-services-platform-at-chamberlain-advisors-4374250047": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2197,13 +2197,14 @@
     "gtm sales lead|||space executive": "2026-03-16T09:02:46.085Z",
     "gtm engineer|||lumenalta": "2026-03-16T11:52:43.966Z",
     "dach executive gtm advisor|||equally ai": "2026-03-16T11:52:45.459Z",
-    "advertising campaign manager – google advertisements & facebook advertisements – remote | $100m+|||les magnifiques": "2026-03-16T12:23:33.245Z"
+    "advertising campaign manager – google advertisements & facebook advertisements – remote | $100m+|||les magnifiques": "2026-03-16T12:23:33.245Z",
+    "salesforce marketing cloud campaign manager (pharmaceutical sector)|||omega crm, a merkle company": "2026-03-16T13:24:36.233Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 21,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 22,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
