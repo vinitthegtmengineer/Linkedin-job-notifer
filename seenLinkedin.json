@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/netsuite-zonebilling-consultant-at-elsdon-group-4382121119": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381992519": 1,
-    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302899": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-career-development-program-at-burgeon-palms-4380895636": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4381201313": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-weekday-yc-w21-4380892791": 1,
-    "https://www.linkedin.com/jobs/view/principal-marketing-program-manager-at-samsara-4364540476": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4381354307": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381990531": 1,
-    "https://www.linkedin.com/jobs/view/senior-al-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311751462": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4382100038": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-at-crossing-hurdles-4372062746": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-crossing-hurdles-2147622960": 1,
-    "https://www.linkedin.com/jobs/view/strategy-analyst-at-libra-solutions-4381053083": 1,
     "https://www.linkedin.com/jobs/view/senior-business-operations-manager-at-huble-4381057822": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-lensa-4382322591": 1,
     "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-swana-region-4380887839": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/director-operational-excellence-remote-at-lensa-4386073776": 1,
     "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4384995088": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4376537922": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341840509": 1
+    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341840509": 1,
+    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4270250753": 1,
+    "https://www.linkedin.com/jobs/view/technical-solutions-builder-at-hire-hangar-4385200434": 1,
+    "https://www.linkedin.com/jobs/view/account-representative-engineering-plastics-at-covestro-4334817362": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-de-dataops-ref-lzr9y-at-rsight%c2%ae-4380995168": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-boy-scouts-of-america-4386316640": 1,
+    "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4385205361": 1,
+    "https://www.linkedin.com/jobs/view/palo-alto-xsoar-xsiam-engineer-at-83zero-4384023686": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385206202": 1,
+    "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385205333": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-at-physics-world-4385204148": 1,
+    "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341910427": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384022741": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4386321155": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-pabale-ads-4384004970": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,7 +2198,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
