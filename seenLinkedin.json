@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-4382345548": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-copywriter-saas-at-soontra-4382320818": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-prosana-4381035128": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-kfc-south-asia-at-kfc-4364443145": 1,
     "https://www.linkedin.com/jobs/view/head-of-go-to-market-execution-at-emma-of-torre-ai-4382382601": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381991506": 1,
     "https://www.linkedin.com/jobs/view/senior-electron-supabase-engineer-32958-at-stealth-startup-4380279651": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384997750": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-lead-center-media-4385204269": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384993805": 1,
-    "https://www.linkedin.com/jobs/view/growth-leader-nam-at-weekday-ai-yc-w21-4386311838": 1
+    "https://www.linkedin.com/jobs/view/growth-leader-nam-at-weekday-ai-yc-w21-4386311838": 1,
+    "https://www.linkedin.com/jobs/view/sd-wan-engineer-at-x4-technology-4384038466": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4384995785": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036507": 1,
+    "https://www.linkedin.com/jobs/view/marketing-director-at-momence-4386328394": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,7 +2198,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
