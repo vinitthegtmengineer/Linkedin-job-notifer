@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4382383320": 1,
-    "https://www.linkedin.com/jobs/view/sage-intacct-consultant-remote-at-jobgether-4382304611": 1,
-    "https://www.linkedin.com/jobs/view/senior-private-equity-consultant-remote-at-mercor-4382186782": 1,
-    "https://www.linkedin.com/jobs/view/wordpress-consultant-at-jobs-via-dice-4381341533": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnerships-consultant-flexible-performance-based-at-livehappy-initiative-4382616623": 1,
     "https://www.linkedin.com/jobs/view/remote-projektpartner-homeoffice-consultant-at-remote-sisterhood-4382391804": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603219": 1,
     "https://www.linkedin.com/jobs/view/network-operations-engineering-manager-at-teksystems-4380911189": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386364447": 1,
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-faye-4385270211": 1,
     "https://www.linkedin.com/jobs/view/venture-builder-%e2%80%94-founder%e2%80%99s-office-m-f-d-at-beglaubigt-de-yc-f24-4386380394": 1,
-    "https://www.linkedin.com/jobs/view/junior-travel-agents-operators-customer-support-tj-1824414-at-agay-barho%21-4386371765": 1
+    "https://www.linkedin.com/jobs/view/junior-travel-agents-operators-customer-support-tj-1824414-at-agay-barho%21-4386371765": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-boy-scouts-of-america-4386387481": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-marketing-manager-at-eon-io-4376805611": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-primeedge-human-resources-inc-4385276498": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-trg-recruitment-4384078180": 1,
+    "https://www.linkedin.com/jobs/view/partner-operations-and-strategy-manager-at-samsara-4384082094": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
