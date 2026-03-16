@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/llm-engineer-at-uplers-4381978303": 1,
-    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4382333764": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-mike-echo-4380851492": 1,
     "https://www.linkedin.com/jobs/view/netsuite-zonebilling-consultant-at-elsdon-group-4382121119": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381992519": 1,
     "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302899": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/prozessingenieur-life-science-all-gender-at-alten-germany-4373664870": 1,
     "https://www.linkedin.com/jobs/view/gtm-sales-lead-at-space-executive-4384992487": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384984878": 1,
-    "https://www.linkedin.com/jobs/view/director-operational-excellence-remote-at-lensa-4386073776": 1
+    "https://www.linkedin.com/jobs/view/director-operational-excellence-remote-at-lensa-4386073776": 1,
+    "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4384995088": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4376537922": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341840509": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,7 +2198,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
