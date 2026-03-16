@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/especialista-i-%e2%80%93-engenheiro-de-ia-at-todos-empreendimentos-4380811637": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-cobol-s%c3%aanior-at-runtalent-4382125871": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
-    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1,
-    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382378765": 1,
-    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382379762": 1,
-    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4382379765": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-bw-packaging-4362158336": 1,
     "https://www.linkedin.com/jobs/view/veterin%c3%a4r-diagnostik-berater-bielefeld-m-w-d-at-idexx-4319029500": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-replit-lovable-bolt-expert-at-sasq-4380892977": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/dach-executive-gtm-advisor-at-equally-ai-4386339067": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384998688": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4385248064": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384031778": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384031778": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386323815": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386335345": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-hg-insights-4304681168": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-lead-generation-remote-global-at-toplinex-4386332441": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385207433": 1,
+    "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4384993814": 1,
+    "https://www.linkedin.com/jobs/view/advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-%e2%80%93-remote-%24100m%2b-at-les-magnifiques-4384038523": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036506": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2196,13 +2196,14 @@
     "gtm|||late - social media api": "2026-03-16T08:35:36.240Z",
     "gtm sales lead|||space executive": "2026-03-16T09:02:46.085Z",
     "gtm engineer|||lumenalta": "2026-03-16T11:52:43.966Z",
-    "dach executive gtm advisor|||equally ai": "2026-03-16T11:52:45.459Z"
+    "dach executive gtm advisor|||equally ai": "2026-03-16T11:52:45.459Z",
+    "advertising campaign manager – google advertisements & facebook advertisements – remote | $100m+|||les magnifiques": "2026-03-16T12:23:33.245Z"
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 19,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 20,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
