@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4381072760": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-remote-at-paynearme-4376611021": 1,
     "https://www.linkedin.com/jobs/view/freelance-e-commerce-email-marketing-executive-at-seventh-4382198399": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-menu-at-toast-4382313119": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386088460": 1,
     "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-disney-yellow-shoes-4384015062": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386099073": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386097155": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386097155": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4386088598": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-talentpluto-4386071727": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
