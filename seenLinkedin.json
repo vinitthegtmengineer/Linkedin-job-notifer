@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382168705": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-jobgether-4382194999": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-remote-adaptive-organization-at-jobgether-4382198930": 1,
-    "https://www.linkedin.com/jobs/view/senior-facets-configuration-consultant-at-reqroute-inc-4382118284": 1,
-    "https://www.linkedin.com/jobs/view/opentext-consultant-only-w2-at-ampstek-4381052600": 1,
-    "https://www.linkedin.com/jobs/view/vendor-consultant-arabic-vendor-consultant-program-at-amazon-4342938674": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-rockwell-automation-4365325817": 1,
-    "https://www.linkedin.com/jobs/view/japanese-stem-consultant-%e2%80%93-remote-%2443-hr-at-mercor-4382112045": 1,
-    "https://www.linkedin.com/jobs/view/senior-domain-consultant-at-icon-plc-4381095832": 1,
-    "https://www.linkedin.com/jobs/view/vp-sales-apac-at-obsidian-security-4382303127": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-i-at-creative-circle-4380296488": 1,
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382152286": 1,
-    "https://www.linkedin.com/jobs/view/visualization-engineer-at-heartland-veterinary-partners-4380288294": 1,
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4382141414": 1,
     "https://www.linkedin.com/jobs/view/collaboration-engineer-at-georgiatek-systems-inc-4381070124": 1,
     "https://www.linkedin.com/jobs/view/senior-ec-i-engineer-at-gold-group-ltd-4380263409": 1,
     "https://www.linkedin.com/jobs/view/remote-data-engineering-specialist-at-jobgether-4382312482": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-proofflux-4384000497": 1,
     "https://www.linkedin.com/jobs/view/constructor-de-sistemas-ia-at-invest-roi-club-smart-investors-club-4384969757": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386093626": 1,
-    "https://www.linkedin.com/jobs/view/lead-marketing-manager-life-sciences-remote-at-jobgether-4386068974": 1
+    "https://www.linkedin.com/jobs/view/lead-marketing-manager-life-sciences-remote-at-jobgether-4386068974": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-buffer-operator-narrative-bridge-at-sigma-decom-4384968916": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386097504": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386088906": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386088907": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386308126": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386094649": 1,
+    "https://www.linkedin.com/jobs/view/spanish-speaking-rent-a-car-consultant-work-in-sofia-fully-paid-relocation-at-mercier-consultancy-md-4386303294": 1,
+    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386300414": 1,
+    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386092763": 1,
+    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386098453": 1,
+    "https://www.linkedin.com/jobs/view/co-founding-venture-builder-%e2%80%94-mvp-launch-at-cofound-4384005716": 1,
+    "https://www.linkedin.com/jobs/view/data-science-platform-engineering-at-cloudester-software-llc-4384975693": 1,
+    "https://www.linkedin.com/jobs/view/team-leader-of-platform-backend-engineering-at-cloudester-software-llc-4384986302": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4384991032": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
