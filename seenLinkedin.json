@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-ecommerce-engineer-at-tactacam-4374113489": 1,
-    "https://www.linkedin.com/jobs/view/sde-customer-engineering-automation-testing-selenium-pre-sales-post-sales-at-browserstack-4346866828": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-united-imaging-healthcare-4380691240": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382168705": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-jobgether-4382194999": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-remote-adaptive-organization-at-jobgether-4382198930": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-talentpluto-4386071727": 1,
     "https://www.linkedin.com/jobs/view/chief-of-staff-buffer-operator-narrative-bridge-at-sigma-decom-4384925583": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-polaris-marketing-4384000856": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-proofflux-4384000497": 1
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-proofflux-4384000497": 1,
+    "https://www.linkedin.com/jobs/view/constructor-de-sistemas-ia-at-invest-roi-club-smart-investors-club-4384969757": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386093626": 1,
+    "https://www.linkedin.com/jobs/view/lead-marketing-manager-life-sciences-remote-at-jobgether-4386068974": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2195,7 +2195,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
