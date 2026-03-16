@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-systems-ai-engineer-at-confluent-4372755792": 1,
-    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-knit-4353817192": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381975987": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-fine-4382167141": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-emma-of-torre-ai-4381992091": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-4382345548": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-copywriter-saas-at-soontra-4382320818": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-prosana-4381035128": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/head-of-industry-apps-partnerships-at-databricks-4352377591": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4384996517": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-thrive360-4381396911": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384990954": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384990954": 1,
+    "https://www.linkedin.com/jobs/view/brand-content-executive-at-areen-holding-group-4384025910": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384997750": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lead-center-media-4385204269": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384993805": 1,
+    "https://www.linkedin.com/jobs/view/growth-leader-nam-at-weekday-ai-yc-w21-4386311838": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,7 +2198,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
