@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-business-operations-manager-at-huble-4381057822": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-lensa-4382322591": 1,
-    "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-swana-region-4380887839": 1,
-    "https://www.linkedin.com/jobs/view/content-operations-manager-remote-at-pulsemedianl-swana-region-4380884971": 1,
-    "https://www.linkedin.com/jobs/view/consultant-12-months-home-based-digital-paid-media-eu-division-of-private-fundraising-and-partnerships-pfp-at-unicef-mk-4381053490": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-connectwise-4377936940": 1,
-    "https://www.linkedin.com/jobs/view/events-marketing-manager-at-evenup-4381302898": 1,
     "https://www.linkedin.com/jobs/view/gtm-systems-ai-engineer-at-confluent-4372755792": 1,
     "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-knit-4353817192": 1,
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-n8n-4381975987": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341910427": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384022741": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4386321155": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-pabale-ads-4384004970": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-pabale-ads-4384004970": 1,
+    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4327958083": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-head-of-growth-at-odys-global-4383642598": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-swarm-aero-4375313208": 1,
+    "https://www.linkedin.com/jobs/view/head-of-industry-apps-partnerships-at-databricks-4352377591": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4384996517": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-thrive360-4381396911": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384990954": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2198,7 +2198,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
