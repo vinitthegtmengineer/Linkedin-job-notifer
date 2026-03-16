@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381357956": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-specialist-outbound-infrastructure-operator-at-ai-acquisition-4381206850": 1,
-    "https://www.linkedin.com/jobs/view/senior-founding-engineer-us-freight-tech-stealth-at-t3ra-logistics-4381071444": 1,
-    "https://www.linkedin.com/jobs/view/staff-endpoint-lifecycle-operations-engineer-at-ge-aerospace-4382363388": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-centrisys-cnp-4381087133": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-production-engineering-at-figma-4239984026": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-jobgether-4382300908": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hyphen-4381381195": 1,
     "https://www.linkedin.com/jobs/view/assistant-marketing-manager-4380828433": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-customer-marketing-integrated-campaigns-at-jobgether-4382318044": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384058309": 1,
     "https://www.linkedin.com/jobs/view/director-of-ecommerce-growing-lifestyle-brand-at-the-talent-magnet-4386363475": 1,
     "https://www.linkedin.com/jobs/view/head-of-strategic-execution-at-zazu-digital-talent-4384061141": 1,
-    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386356815": 1
+    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386356815": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-agent-builder-at-boston-agent-house-4378600288": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4385258622": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4385263320": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4386352383": 1,
+    "https://www.linkedin.com/jobs/view/social-media-digital-marketing-executive-assistant-at-bruntwork-4384047748": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4385260520": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-latam-18448-at-somewhere-4386362578": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4385261490": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
