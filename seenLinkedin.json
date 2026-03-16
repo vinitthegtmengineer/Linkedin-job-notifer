@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-account-manager-%f0%9f%93%b1%f0%9f%8d%bd%ef%b8%8f%f0%9f%a4%9d-marketing-agency-account-manager-social-media-manager-seo-social-media-marketing-strategy-campaign-execution-project-management-google-analytics-remote-at-goodwork-4381061200": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4382616774": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382399452": 1,
     "https://www.linkedin.com/jobs/view/transport-engineer-100%25-remote-metasolv-nokia-at-jobs-via-dice-4381619308": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4382331822": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386382744": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386386522": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-regional-vice-president-at-included-health-4321179716": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-cut%2bdry-4385256963": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-cut%2bdry-4385256963": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-builder-data-healthcare-100%25-remoto-4386504048": 1,
+    "https://www.linkedin.com/jobs/view/assistant-manager-social-media-at-mb-social-4385284133": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
