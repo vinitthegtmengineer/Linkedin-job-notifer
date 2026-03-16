@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-bw-packaging-4362158336": 1,
-    "https://www.linkedin.com/jobs/view/veterin%c3%a4r-diagnostik-berater-bielefeld-m-w-d-at-idexx-4319029500": 1,
-    "https://www.linkedin.com/jobs/view/ai-product-builder-replit-lovable-bolt-expert-at-sasq-4380892977": 1,
-    "https://www.linkedin.com/jobs/view/wordpress-developer-builder-at-surmarketing-4381088271": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1,
-    "https://www.linkedin.com/jobs/view/3d-mapping-operator-4381331837": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-manager-at-magma-consultancy-4382604004": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-contract-remote-at-infuse-4382172512": 1,
-    "https://www.linkedin.com/jobs/view/ai-marketing-builder-vibe-marketer-at-coastline-gaming-4382128314": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382394551": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382392635": 1,
     "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382601226": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385207433": 1,
     "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4384993814": 1,
     "https://www.linkedin.com/jobs/view/advertising-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-%e2%80%93-remote-%24100m%2b-at-les-magnifiques-4384038523": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036506": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036506": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-boy-scouts-of-america-4386345053": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-india-at-connect-tech%2btalent-4380455121": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-at-confidential-careers-4383699251": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-executive-intern-at-karwaan-event-4384006786": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330397169": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330600095": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bms-performance-4385233751": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4384975700": 1,
+    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-tillster-4349861555": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2201,7 +2201,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
