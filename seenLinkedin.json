@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380852461": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4382622732": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-direct-mail-digital-b2c-at-point-4381092053": 1,
     "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381321909": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-campaign-ops-at-jobgether-4382620812": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-thatround-4382063859": 1,
     "https://www.linkedin.com/jobs/view/community-social-media-manager-at-make-banking-for-creators-4385280578": 1,
     "https://www.linkedin.com/jobs/view/head-of-retention-at-caramel-talent-4386387890": 1,
-    "https://www.linkedin.com/jobs/view/marketing-project-manager-100%25-remote-worldwide-at-tether-4385282500": 1
+    "https://www.linkedin.com/jobs/view/marketing-project-manager-100%25-remote-worldwide-at-tether-4385282500": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-quadsci-ai-4386399427": 1,
+    "https://www.linkedin.com/jobs/view/marketing-director-at-mobius-talent-global-4386500222": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
