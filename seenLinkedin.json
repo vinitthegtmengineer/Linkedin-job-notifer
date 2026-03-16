@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hyphen-4381381195": 1,
-    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-4380828433": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-customer-marketing-integrated-campaigns-at-jobgether-4382318044": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-activation-operations-at-jobgether-4382315219": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-ramp-talent-4382310266": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4381370988": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-phd-consultant-%2473-29-hr-remote-at-crossing-hurdles-4372065421": 1,
-    "https://www.linkedin.com/jobs/view/senior-agent-evaluation-engineer-freelance-at-mindrift-4382603220": 1,
-    "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-ai-customer-operations-at-monzo-bank-4371780375": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-superintendent-europe-at-comaea-consulting-4381348235": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ops-ai-automation-manager-at-courser-4372013537": 1,
-    "https://www.linkedin.com/jobs/view/collections-sme-sr-consultant-at-bridgeforce-4382176915": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4382389209": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4365441619": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4382383320": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/social-media-digital-marketing-executive-assistant-at-bruntwork-4384047748": 1,
     "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4385260520": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-latam-18448-at-somewhere-4386362578": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4385261490": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4385261490": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4385254745": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur%c2%b7e-en-g%c3%a9nie-civil-%ef%bb%bfresponsable-infrastructure-et-am%c3%a9nagement-routier-at-wsp-in-switzerland-4345602506": 1,
+    "https://www.linkedin.com/jobs/view/senior-devsecops-engineer-usa-at-challenge-ti-4384051338": 1,
+    "https://www.linkedin.com/jobs/view/microgrid-protections-engineer-at-intersect-4386300292": 1,
+    "https://www.linkedin.com/jobs/view/senior-databricks-engineer-at-data-elephant-4384940719": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-or%c3%a7amentista-4384047959": 1,
+    "https://www.linkedin.com/jobs/view/senior-sterilization-engineer-at-bvi-medical-4386333830": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-construction-engineering-work-from-home-at-persona-4384988261": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-platform-recruitment-4384067015": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386340862": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-facebook-ads-4385260055": 1,
+    "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386364447": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-faye-4385270211": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-16",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
