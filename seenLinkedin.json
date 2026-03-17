@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382633297": 1,
-    "https://www.linkedin.com/jobs/view/staff-ai-ops-engineer-at-calix-4347161569": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382639007": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382625547": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-global-human-resources-inc-4381516986": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-supervisor-208217-at-aquent-4382672810": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-global-human-resources-inc-4381535172": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4382688178": 1,
-    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4382687179": 1,
     "https://www.linkedin.com/jobs/view/kdb-engineer-at-talisman-4377510558": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-trainee-at-auclux-4382677764": 1,
     "https://www.linkedin.com/jobs/view/crisis-coordination-social-media-operator-4382689432": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/tech-engagement-lead-model-builder-at-nvidia-4377435099": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385953171": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-strategist-at-the-socialite-london-4386922492": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-marketing-and-operations-at-bamboo-works-4386797774": 1
+    "https://www.linkedin.com/jobs/view/virtual-assistant-marketing-and-operations-at-bamboo-works-4386797774": 1,
+    "https://www.linkedin.com/jobs/view/growth-operator-at-arboai-4386920723": 1,
+    "https://www.linkedin.com/jobs/view/travel-skid-steer-operator-at-knobelsdorff-4386941099": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4385949533": 1,
+    "https://www.linkedin.com/jobs/view/founding-operator-fundraising-growth-at-lumath-4384498707": 1,
+    "https://www.linkedin.com/jobs/view/carrera-empresarial-consultor-patrimonial-at-grupo-administrativo-mexicano-4386918876": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-te-creemos-s-a-de-c-v-sfp-4385960064": 1,
+    "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4385939815": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-pinnacle-human-resources-inc-4385957088": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-crown-affair-4386558088": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
