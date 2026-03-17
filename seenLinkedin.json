@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-nosql-consultant-at-datavail-4361640670": 1,
-    "https://www.linkedin.com/jobs/view/remote-protection-consultant-warm-leads-at-lotz-agency-4382609323": 1,
-    "https://www.linkedin.com/jobs/view/subsidence-consultant-at-crawford-company-4372719881": 1,
-    "https://www.linkedin.com/jobs/view/konzultant-ka-pro-oblast-p%c5%99%c3%adm%c3%bdch-dan%c3%ad-at-pwc-czech-republic-4337239054": 1,
-    "https://www.linkedin.com/jobs/view/netsuite-consultant-at-lighthouse-search-advisors-4382613389": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-high-voltage-at-william-charles-construction-company-llc-a-mastec-company-4347201729": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382636120": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-remote-at-crossing-hurdles-4372086693": 1,
     "https://www.linkedin.com/jobs/view/senior-podcast-strategy-director-remote-at-jobgether-4382631412": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-marketing-podcasts-remote-at-jobgether-4382622760": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-sps-commerce-4375764598": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375778055": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375779038": 1,
-    "https://www.linkedin.com/jobs/view/brewing-process-engineer-at-the-foth-companies-4384426792": 1
+    "https://www.linkedin.com/jobs/view/brewing-process-engineer-at-the-foth-companies-4384426792": 1,
+    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375393862": 1,
+    "https://www.linkedin.com/jobs/view/operations-specialist-at-riserify-4386752815": 1,
+    "https://www.linkedin.com/jobs/view/consultant-campaigns-at-greenpeace-south-asia-4385686778": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-commonwealth-associates-inc-4315872597": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-my-bespoke-room-4384051960": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-specialist-at-ever-ag-4386550209": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-thumbtack-4374572587": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
