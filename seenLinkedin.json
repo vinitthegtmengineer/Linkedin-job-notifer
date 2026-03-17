@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marine-field-service-engineer-at-nikkiso-clean-energy-industrial-gases-4312704731": 1,
-    "https://www.linkedin.com/jobs/view/l2-compute-engineer-at-whitefield-careers-4381375990": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382660735": 1,
-    "https://www.linkedin.com/jobs/view/sr-servicenow-engineer-at-mks-inc-4355346549": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-at-calyptus-4382669104": 1,
     "https://www.linkedin.com/jobs/view/ai-engineering-presales-architect-at-cyclotron-inc-4382664153": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382611367": 1,
     "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4372051978": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-email-crm-immediate-hiring-high-growth-at-nlb-services-4386776134": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-sugar-st-creative-4385695702": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385692691": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hubspot-at-nlb-services-4386766428": 1
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hubspot-at-nlb-services-4386766428": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-fetchjobs-co-4385699124": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-dataworks-4375406465": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-edb-4357498936": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-at-enterprise-solutions-inc-4385909380": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385902562": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
