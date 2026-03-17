@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-remote-at-crossing-hurdles-4372086693": 1,
-    "https://www.linkedin.com/jobs/view/senior-podcast-strategy-director-remote-at-jobgether-4382631412": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-podcasts-remote-at-jobgether-4382622760": 1,
-    "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4372989747": 1,
-    "https://www.linkedin.com/jobs/view/remote-lead-podcast-marketing-specialist-at-jobgether-4382617986": 1,
-    "https://www.linkedin.com/jobs/view/manager-field-marketing-at-figma-4337059876": 1,
-    "https://www.linkedin.com/jobs/view/astronomy-consultant-%e2%80%93-remote-%2480-hr-at-mercor-4382684213": 1,
     "https://www.linkedin.com/jobs/view/marine-field-service-engineer-at-nikkiso-clean-energy-industrial-gases-4312704731": 1,
     "https://www.linkedin.com/jobs/view/l2-compute-engineer-at-whitefield-careers-4381375990": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382660735": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-commonwealth-associates-inc-4315872597": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-my-bespoke-room-4384051960": 1,
     "https://www.linkedin.com/jobs/view/marketing-events-specialist-at-ever-ag-4386550209": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-thumbtack-4374572587": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-thumbtack-4374572587": 1,
+    "https://www.linkedin.com/jobs/view/konsultant-konsultantka-ds-obs%c5%82ugi-klienta-z-bran%c5%bcy-finansowej-w-j-polskim-at-tp-4385690845": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-ops-engineer-atc-at-irium-portugal-4386349608": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4384475441": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-email-crm-immediate-hiring-high-growth-at-nlb-services-4386776134": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-sugar-st-creative-4385695702": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385692691": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hubspot-at-nlb-services-4386766428": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
