@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-mill-adventure-4381253252": 1,
-    "https://www.linkedin.com/jobs/view/sales-director-at-chegg-inc-4381374107": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-phd-consultant-%2473-29-hr-remote-at-crossing-hurdles-4372070017": 1,
     "https://www.linkedin.com/jobs/view/projektingenieur-projektmanager-m-w-d-batteriespeicher-at-regrid-capital-gmbh-4381266079": 1,
     "https://www.linkedin.com/jobs/view/account-director-emerging-vertical-remote-at-experian-4365614836": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382620808": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/enterprise-campaign-manager-%e2%80%93-google-facebook-tiktok-advertisements-%e2%80%93-remote-%2450m%e2%80%93%24100m%2b-spend-at-milele-4385266078": 1,
     "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4384037572": 1,
     "https://www.linkedin.com/jobs/view/senior-app-engineer-at-trustedhousesitters-4386597828": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-be-flamingo-agency-4385670078": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-be-flamingo-agency-4385670078": 1,
+    "https://www.linkedin.com/jobs/view/designer-builder-demo-builder-at-the-mom-project-4386569486": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-full-stack-developer-at-first-step-ai-4385661365": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386577829": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
