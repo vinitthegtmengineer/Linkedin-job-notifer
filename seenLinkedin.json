@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-email-hub-at-jobgether-4382616956": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-explore-waterloo-region-4381085027": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382620818": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-membership-growth-content-at-jobgether-4382620819": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-justrite-safety-group-4365568136": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-email-hub-at-jobgether-4382622709": 1,
-    "https://www.linkedin.com/jobs/view/senior-google-workspace-consultant-m-w-d-remote-oder-hybrid-in-at-at-pcg-public-cloud-group-4312810303": 1,
-    "https://www.linkedin.com/jobs/view/consultor-servicenow-%e2%80%93-sacm-service-asset-and-configuration-management-at-innolevels-4381220827": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-citrix-bedarfsanalyse-planung-umsetzung-projektleitung-remote-first-mwd-at-vesterling-ag-4338203567": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-numerator-4365562886": 1,
     "https://www.linkedin.com/jobs/view/consultant-obstetrician-and-gynaecologist-obgyn-canada-at-maven-clinic-4255602056": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4385933053": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-i-at-sanguine-biosciences-4384498080": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-trc-talent-solutions-4385942014": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385936031": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385936031": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oam-at-finanza-tech-4384485720": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-resource-management-consultant-at-riveron-4385929115": 1,
+    "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4384482951": 1,
+    "https://www.linkedin.com/jobs/view/fin-ops-engineer-at-experis-uk-4385944052": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-mobius-talent-global-4386910816": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-search-social-at-h-h-group-b-corp%e2%84%a2-4385606689": 1,
+    "https://www.linkedin.com/jobs/view/head-of-people-programs-operations-at-luxury-presence-4368006616": 1,
+    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
