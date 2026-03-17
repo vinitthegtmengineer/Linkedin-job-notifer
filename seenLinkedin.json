@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-of-customer-marketing-at-van-cleef-et-arpels-france-4382690977": 1,
     "https://www.linkedin.com/jobs/view/vp-of-marketing-at-right-side-up-4369175051": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-trx-4381449041": 1,
     "https://www.linkedin.com/jobs/view/vice-president-strategic-accounts-at-msc-cruises-4227199407": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/join-terrific-builders-welcome-at-terrific-4386987241": 1,
     "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4386717414": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-remote-u-s-at-fusionauth-4386981453": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-yatts-4386998017": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-yatts-4386998017": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-in-marketing-full-time-remote-4374307342": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
