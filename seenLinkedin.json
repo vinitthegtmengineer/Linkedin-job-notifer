@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-citrix-bedarfsanalyse-planung-umsetzung-projektleitung-remote-first-mwd-at-vesterling-ag-4338203567": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-numerator-4365562886": 1,
-    "https://www.linkedin.com/jobs/view/consultant-obstetrician-and-gynaecologist-obgyn-canada-at-maven-clinic-4255602056": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-specialist-remote-at-get-offers-4382659865": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-program-manager-12-month-contract-at-cloudera-government-solutions-4381366702": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-specialist-remote-at-get-offers-4382653823": 1,
-    "https://www.linkedin.com/jobs/view/senior-bi-analyst-marketing-analytics-at-corraldata-4382399816": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-field-marketing-at-basware-4323607702": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382636103": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382627505": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382623753": 1,
     "https://www.linkedin.com/jobs/view/head-of-var-si-logitech-for-business-l4b-north-america-at-logitech-4373234513": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-at-mobius-talent-global-4386910816": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-search-social-at-h-h-group-b-corp%e2%84%a2-4385606689": 1,
     "https://www.linkedin.com/jobs/view/head-of-people-programs-operations-at-luxury-presence-4368006616": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1
+    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1,
+    "https://www.linkedin.com/jobs/view/atc-tower-remote-pilot-operator-at-lensa-4386794826": 1,
+    "https://www.linkedin.com/jobs/view/tavel-consultant-remote-position-at-bliss-beyond-elite-travel-4385946309": 1,
+    "https://www.linkedin.com/jobs/view/wordpress-developer-beaver-builder-at-talent-hackers-4386907965": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-payabli-4369699444": 1,
+    "https://www.linkedin.com/jobs/view/commercetools-engineer-at-yochana-4385939332": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386915126": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386911308": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4386793945": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385941262": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
