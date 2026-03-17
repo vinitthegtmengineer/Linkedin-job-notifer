@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-of-audio-marketing-remote-at-jobgether-4382625580": 1,
-    "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4372987779": 1,
-    "https://www.linkedin.com/jobs/view/remote-director-of-podcast-marketing-at-jobgether-4382627534": 1,
     "https://www.linkedin.com/jobs/view/podcast-marketing-senior-advisor-remote-at-jobgether-4382637122": 1,
     "https://www.linkedin.com/jobs/view/remote-senior-director-of-podcast-strategies-at-jobgether-4382629422": 1,
     "https://www.linkedin.com/jobs/view/solutions-marketing-manager-at-ensono-4372952002": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386560260": 1,
     "https://www.linkedin.com/jobs/view/sales-lead-gtm-at-aply-4385623074": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4384085497": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-maths-%e2%80%94-no-problem%21-4386526900": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-maths-%e2%80%94-no-problem%21-4386526900": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-insightsoftware-4386578168": 1,
+    "https://www.linkedin.com/jobs/view/ai-prompt-engineer-ai-system-builder-at-hey-bud-skincare-4385634318": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-be-flamingo-agency-4385622712": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
