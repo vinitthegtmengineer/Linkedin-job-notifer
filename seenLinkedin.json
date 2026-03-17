@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381265168": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382632354": 1,
-    "https://www.linkedin.com/jobs/view/engineering-lead-security-operations-at-anchorage-digital-4365637603": 1,
-    "https://www.linkedin.com/jobs/view/founding-account-executive-at-crossing-hurdles-4372092630": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-priacc-innovations-pvt-ltd-4381513567": 1,
-    "https://www.linkedin.com/jobs/view/senior-vascular-consultant-at-argon-medical-devices-inc-4382644147": 1,
-    "https://www.linkedin.com/jobs/view/jurisdictional-consultant-at-fm-4382377684": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-salesforce-financial-services-cloud-digital-engagement-at-vass-4372792938": 1,
-    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4346438948": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-at-mygwork-lgbtq%2b-business-community-4381207780": 1,
     "https://www.linkedin.com/jobs/view/consultant-qualtrics-at-cesa-6-4373237314": 1,
     "https://www.linkedin.com/jobs/view/senior-cybersecurity-engineer-security-operations-engineering-at-general-motors-4373213549": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/unternehmensberater-in-consultant-strategische-unternehmensberatung-m-w-d-at-ritterwald-unternehmensberatung-gmbh-4384455095": 1,
     "https://www.linkedin.com/jobs/view/selbstst%c3%a4ndiger-berater-baufinanzierung-m-w-d-at-ce-baufinanz-gmbh-4384454088": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386736276": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743123": 1
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743123": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386733428": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386745047": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386745049": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386737321": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743165": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386740263": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386723872": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386726776": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386745048": 1,
+    "https://www.linkedin.com/jobs/view/gtm-marketing-manager-at-ci-t-4386375243": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
