@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1,
-    "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4373201378": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4375692900": 1,
-    "https://www.linkedin.com/jobs/view/podcast-marketing-sr-director-remote-at-jobgether-4382634358": 1,
-    "https://www.linkedin.com/jobs/view/senior-affiliate-campaign-manager-%e2%80%93-mobile-apps-at-medialinks-4381244962": 1,
     "https://www.linkedin.com/jobs/view/senior-nosql-consultant-at-datavail-4361640670": 1,
     "https://www.linkedin.com/jobs/view/remote-protection-consultant-warm-leads-at-lotz-agency-4382609323": 1,
     "https://www.linkedin.com/jobs/view/subsidence-consultant-at-crawford-company-4372719881": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-operations-reliability-engineer-%e2%80%93-microsoft-365-enterprise-tools-at-genesys-4376044650": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-hybrid-remote-at-lensa-4386360127": 1,
     "https://www.linkedin.com/jobs/view/syniti-admm-consultant-pan-india-at-digihelic-solutions-pvt-ltd-4384045044": 1,
-    "https://www.linkedin.com/jobs/view/commercial-project-engineer-at-banque-pour-le-commerce-et-l-entrepreneuriat-du-gabon-bceg-4386577572": 1
+    "https://www.linkedin.com/jobs/view/commercial-project-engineer-at-banque-pour-le-commerce-et-l-entrepreneuriat-du-gabon-bceg-4386577572": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4386768059": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-sps-commerce-4375764598": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375778055": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375779038": 1,
+    "https://www.linkedin.com/jobs/view/brewing-process-engineer-at-the-foth-companies-4384426792": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
