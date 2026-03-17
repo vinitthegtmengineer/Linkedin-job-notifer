@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-of-operations-at-lensa-4382900951": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4382690530": 1,
     "https://www.linkedin.com/jobs/view/detective-consultant-remote-position-at-mercor-4382916664": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-more-vfx-academy-4381276447": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-freyja-4385931317": 1,
     "https://www.linkedin.com/jobs/view/builder-product-developer-low-code-ai-at-o-gerente-4387203046": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-prorize-llc-4386934522": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4386796900": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4386796900": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-station-a-4386999309": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
