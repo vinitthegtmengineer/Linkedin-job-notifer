@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-programs-at-samsara-4354299293": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-programs-at-samsara-4355344657": 1,
-    "https://www.linkedin.com/jobs/view/account-based-marketing-manager-at-samsara-4324734185": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-opportunity-shopify-consultants-at-axentra-os-4381252696": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381265168": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382632354": 1,
     "https://www.linkedin.com/jobs/view/engineering-lead-security-operations-at-anchorage-digital-4365637603": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/agiloft-clm-consultant-at-akkodis-4384981796": 1,
     "https://www.linkedin.com/jobs/view/senior-analytics-engineer-operations-distribution-at-fullscript-4386714200": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4385657728": 1,
-    "https://www.linkedin.com/jobs/view/operator-regional-head-of-growth-partnerships-at-truehoa-inc-4386727587": 1
+    "https://www.linkedin.com/jobs/view/operator-regional-head-of-growth-partnerships-at-truehoa-inc-4386727587": 1,
+    "https://www.linkedin.com/jobs/view/unternehmensberater-in-consultant-strategische-unternehmensberatung-m-w-d-at-ritterwald-unternehmensberatung-gmbh-4384455095": 1,
+    "https://www.linkedin.com/jobs/view/selbstst%c3%a4ndiger-berater-baufinanzierung-m-w-d-at-ce-baufinanz-gmbh-4384454088": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386736276": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743123": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
