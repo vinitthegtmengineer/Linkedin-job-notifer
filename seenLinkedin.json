@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4381326547": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4382621762": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-engineer-internal-operations-at-punt-4381386700": 1,
-    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382639341": 1,
-    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382627809": 1,
-    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382638354": 1,
-    "https://www.linkedin.com/jobs/view/cyber-engineer-vulnerability-operations-remediation-and-advisory-at-nvidia-4382628753": 1,
-    "https://www.linkedin.com/jobs/view/sr-sales-operations-manager-gtm-at-pinnacle-method-consulting-4378436013": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-audio-marketing-remote-at-jobgether-4382625580": 1,
     "https://www.linkedin.com/jobs/view/volunteer-storytelling-and-brand-visibility-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4372987779": 1,
     "https://www.linkedin.com/jobs/view/remote-director-of-podcast-marketing-at-jobgether-4382627534": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386559282": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386562069": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-4385289957": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-good-moose-4386543099": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-good-moose-4386543099": 1,
+    "https://www.linkedin.com/jobs/view/revops-engineer-gtm-automation-engineer-clay-specialist-at-mindwile-4386509331": 1,
+    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386087893": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-cutover-4384066561": 1,
+    "https://www.linkedin.com/jobs/view/abm-campaign-manager-at-andela-4380390551": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386560260": 1,
+    "https://www.linkedin.com/jobs/view/sales-lead-gtm-at-aply-4385623074": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4384085497": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-maths-%e2%80%94-no-problem%21-4386526900": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,10 +2202,10 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-03-16",
-    "cyclesToday": 47,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "date": "2026-03-17",
+    "cyclesToday": 1,
+    "matchedToday": 0,
+    "sentToday": 0,
     "lastSummaryDate": ""
   }
 }
