@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324757915": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382660732": 1,
-    "https://www.linkedin.com/jobs/view/junior-performance-marketing-manager-campaign-setter-tz-20h-woche-at-drink-paint-inspyr-gmbh-4381249802": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381267585": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-cloudzone-one-4382685835": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-laetitia-launay-ei-4382687767": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382668218": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-crown-affair-4386558088": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4386905757": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-hybrid-remote-at-lensa-4386902740": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-social-media-lead-at-agilio-software-4386934294": 1
+    "https://www.linkedin.com/jobs/view/senior-campaign-social-media-lead-at-agilio-software-4386934294": 1,
+    "https://www.linkedin.com/jobs/view/consultor-canais-digitais-e-commerce-sp-at-vivo-telef%c3%b4nica-brasil-4385977004": 1,
+    "https://www.linkedin.com/jobs/view/principal-ai-engineer-director-level-hands-on-builder-at-empiric-4386763413": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-david-kennedy-recruitment-ltd-4385938282": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385966219": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
