@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-senior-podcast-brand-director-at-jobgether-4382632383": 1,
     "https://www.linkedin.com/jobs/view/sales-development-manager-eastern-time-zone-at-go1-4355470365": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-venty-4381517427": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4382665483": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-itad-4385267302": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375758733": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385684324": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-bamboo-works-4386734264": 1
+    "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-bamboo-works-4386734264": 1,
+    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375396755": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-17",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
