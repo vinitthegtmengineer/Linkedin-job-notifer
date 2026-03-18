@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/daml-consultant-at-ampstek-4381585443": 1,
-    "https://www.linkedin.com/jobs/view/sales-agronomist-iii-dekalb-asgrow-at-bayer-4375822776": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%8c%9f-sc-cleared-consultant-engineers-%e2%80%93-high-impact-gov-defence-projects-london-huge-growth-progression-%f0%9f%8c%9f-at-areti-group-b-corp%e2%84%a2-4382939823": 1,
     "https://www.linkedin.com/jobs/view/senior-director-product-marketing-market-activation%e2%80%af-at-unit4-4382940541": 1,
     "https://www.linkedin.com/jobs/view/senior-observability-engineer-at-teksystems-4382958263": 1,
     "https://www.linkedin.com/jobs/view/marketing-resource-manager-at-regex-seo-4382946698": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/commercial-renewable-energy-project-engineer-at-center-for-development-of-telematics-c-do-t-4386837820": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-steadman-hub-4387276446": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-at-priority-crypto-4386850507": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-manager-outbound-gtm-at-danish-lead-co-4385875368": 1
+    "https://www.linkedin.com/jobs/view/customer-success-manager-outbound-gtm-at-danish-lead-co-4385875368": 1,
+    "https://www.linkedin.com/jobs/view/uas-operator-contractor-camcopter%c2%ae-s-100-all-genders-at-schiebel-4344043124": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387283484": 1,
+    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-vantage-4386841892": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
