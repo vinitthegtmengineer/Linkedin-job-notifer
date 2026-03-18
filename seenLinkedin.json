@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-social-media-influencer-marketing-at-the-talent-magnet-4382965329": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-demand-at-remotehunter-4381574263": 1,
-    "https://www.linkedin.com/jobs/view/gtm-automation-specialist-remote-at-drop-zero-digital-4382676619": 1,
-    "https://www.linkedin.com/jobs/view/channel-sales-manager-at-cyberforce-global-4382964039": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823509": 1,
-    "https://www.linkedin.com/jobs/view/creative-operations-resource-planning-lead-at-who-gives-a-crap-4382943423": 1,
     "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381828357": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-operator-ai-first-at-revup-payments-4382965120": 1,
     "https://www.linkedin.com/jobs/view/head-of-gtm-outbound-at-listlab-4381722419": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/operador-de-marketing-at-genuine-school-4386978465": 1,
     "https://www.linkedin.com/jobs/view/marketplace-consultant-at-channelmojo-4386880342": 1,
     "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386880350": 1,
-    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386890037": 1
+    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386890037": 1,
+    "https://www.linkedin.com/jobs/view/operator-regional-head-of-growth-partnerships-pmc-at-truehoa-inc-4387419117": 1,
+    "https://www.linkedin.com/jobs/view/operador-pedestre-at-lite-tech-formerly-lite-organiza%c3%a7%c3%a3o-ltda-4385008825": 1,
+    "https://www.linkedin.com/jobs/view/demo-engineer-at-somnia-4387408497": 1,
+    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386878457": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4385004912": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ii-at-sheetz-4385018503": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
