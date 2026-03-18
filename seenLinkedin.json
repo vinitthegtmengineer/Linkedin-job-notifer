@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-freelance-at-evolve-media-4381568853": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4381568672": 1,
-    "https://www.linkedin.com/jobs/view/consultancy-at-cifor-icraf-4382953149": 1,
-    "https://www.linkedin.com/jobs/view/social-media-builder-part-time-israel-at-bitget-4370503008": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-passive-4381583408": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4381294654": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-kastech-software-solutions-group-4381573634": 1,
-    "https://www.linkedin.com/jobs/view/soc-engineer-at-hitachi-digital-4381574617": 1,
     "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-timely-recruit-ltd-4382939715": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-cyberforce-global-4382952212": 1,
     "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4381574320": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-egyptian-youth-diplomacy-program-4384770892": 1,
     "https://www.linkedin.com/jobs/view/operations-technology-systems-engineer-at-international-paper-4378659499": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4387244959": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-creative-circle-4384787122": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-creative-circle-4384787122": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-healthbegins-4386469063": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-at-darzy-ai-4386833482": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386725939": 1,
+    "https://www.linkedin.com/jobs/view/engineering-selling-solutions-director-at-randstad-usa-4328791805": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386735480": 1,
+    "https://www.linkedin.com/jobs/view/teamlead-data-platform-engineering-m-w-d-at-deichmann-4385699400": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743289": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386731765": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
