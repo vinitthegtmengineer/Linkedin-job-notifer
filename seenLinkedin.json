@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/siem-engineer-at-swits-digital-private-limited-4383304201": 1,
-    "https://www.linkedin.com/jobs/view/senior-ecommerce-engineer-malaysia-at-restive-4383303201": 1,
-    "https://www.linkedin.com/jobs/view/aws-operations-engineer-at-bridgephase-4381722854": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382977493": 1,
     "https://www.linkedin.com/jobs/view/marketing-manger-at-microsoft-4381729573": 1,
     "https://www.linkedin.com/jobs/view/lemlist-campaign-manager-%e2%80%93-freelance-remote-start-immediately-at-optiloop-io-4382993634": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
     "https://www.linkedin.com/jobs/view/director-campaign-strategy-at-mcgraw-hill-4372616067": 1,
     "https://www.linkedin.com/jobs/view/infra-engineer-sre%ef%bc%88kubernetes%ef%bc%89-at-gmi-cloud-4387245327": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4352961057": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4352961057": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-digital-builder-at-mattermost-4379324989": 1,
+    "https://www.linkedin.com/jobs/view/engineering-software-developer-at-trutechnologies-makers-of-trulab-4386978788": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-program-manager-remote-us-at-splice-4387436420": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
