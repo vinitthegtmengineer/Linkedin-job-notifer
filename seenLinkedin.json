@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-operator-4382979854": 1,
-    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4381724830": 1,
     "https://www.linkedin.com/jobs/view/siem-engineer-at-swits-digital-private-limited-4383304201": 1,
     "https://www.linkedin.com/jobs/view/senior-ecommerce-engineer-malaysia-at-restive-4383303201": 1,
     "https://www.linkedin.com/jobs/view/aws-operations-engineer-at-bridgephase-4381722854": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/campaign-operations-specialist-at-lastpass-4354451186": 1,
     "https://www.linkedin.com/jobs/view/consultor-at-meu-cs-4385035482": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
-    "https://www.linkedin.com/jobs/view/director-campaign-strategy-at-mcgraw-hill-4372616067": 1
+    "https://www.linkedin.com/jobs/view/director-campaign-strategy-at-mcgraw-hill-4372616067": 1,
+    "https://www.linkedin.com/jobs/view/infra-engineer-sre%ef%bc%88kubernetes%ef%bc%89-at-gmi-cloud-4387245327": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4352961057": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
