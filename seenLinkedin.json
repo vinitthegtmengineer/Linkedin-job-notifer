@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-aibusinessflows-4381296182": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-advertising-traffic-at-remotehunter-4381566808": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-mlsa-peshawar-4381704124": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382943302": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382931808": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382929914": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382949134": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382944207": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382938513": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382948128": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4382944155": 1,
     "https://www.linkedin.com/jobs/view/senior-devops-cloud-engineer-aws-kubernetes-eclipse-edc-%e2%80%93-dataspace-project-vietnamese-speaking-at-rec-talents-hr-solution-4381519317": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-purelogics-4384751430": 1,
     "https://www.linkedin.com/jobs/view/product-builder-software-development-engineer-at-kagaar-4386814114": 1,
     "https://www.linkedin.com/jobs/view/founding-marketing-lead-gtm-growth-at-tensorops-4386909077": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4387206507": 1
+    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4387206507": 1,
+    "https://www.linkedin.com/jobs/view/project-lion-prompt-engineer-united-states-remote-part-time-at-welocalize-4384758382": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-sales-americas-at-firework-4387218491": 1,
+    "https://www.linkedin.com/jobs/view/marketing-outreach-executive-germany-at-exzellent-4386938964": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-global-marketing-at-tokenshares-ai%e2%84%a2-4384735344": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-analyst-growth-analytics-crm-at-cookunity-4385958086": 1,
+    "https://www.linkedin.com/jobs/view/contract-reporting-cost-controller-at-electrify-america-4374547785": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4386815118": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-campaign-manager-at-eteam-4386747297": 1,
+    "https://www.linkedin.com/jobs/view/partner-marketing-strategies-manager-100%25-remote-in-costa-rica-at-pyramid-consulting-inc-4386968821": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
