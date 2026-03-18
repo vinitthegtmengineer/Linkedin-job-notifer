@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-gcl-products-at-solmax-4381748321": 1,
     "https://www.linkedin.com/jobs/view/senior-experimentation-program-culture-builder-at-the-initial-4382999958": 1,
     "https://www.linkedin.com/jobs/view/operations-applications-engineer-at-ags-american-gaming-systems-4381868011": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-lge-display-direct-view-dvled-remote-us-central-region-preferred-at-lg-electronics-north-america-4302229274": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/anaplan-senior-consultant-at-3px-group-%e2%98%85-a-sunday-times-best-place-to-work-4387445655": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4387174329": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-engineer-at-wealthbox-4387160833": 1,
-    "https://www.linkedin.com/jobs/view/director-customer-marketing-expansion-and-advocacy-at-vasion-4387427849": 1
+    "https://www.linkedin.com/jobs/view/director-customer-marketing-expansion-and-advocacy-at-vasion-4387427849": 1,
+    "https://www.linkedin.com/jobs/view/%e8%87%aa%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%c3%97%e8%87%aa%e7%a4%be%e5%8b%a4%e5%8b%99%e3%80%80%e3%80%90%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e4%bc%9a%e8%a8%88%e3%82%bd%e3%83%95%e3%83%88%e5%bc%a5%e7%94%9f%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-%e4%bb%a5%e4%b8%8b%e7%95%a5-at-yayoi-co-ltd-4387491351": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
