@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-senior-campaign-manager-at-jobgether-4382910259": 1,
     "https://www.linkedin.com/jobs/view/daml-consultant-at-ampstek-4381585443": 1,
     "https://www.linkedin.com/jobs/view/sales-agronomist-iii-dekalb-asgrow-at-bayer-4375822776": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%8c%9f-sc-cleared-consultant-engineers-%e2%80%93-high-impact-gov-defence-projects-london-huge-growth-progression-%f0%9f%8c%9f-at-areti-group-b-corp%e2%84%a2-4382939823": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4385923884": 1,
     "https://www.linkedin.com/jobs/view/commercial-renewable-energy-project-engineer-at-center-for-development-of-telematics-c-do-t-4386837820": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-steadman-hub-4387276446": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-at-priority-crypto-4386850507": 1
+    "https://www.linkedin.com/jobs/view/revenue-operations-at-priority-crypto-4386850507": 1,
+    "https://www.linkedin.com/jobs/view/customer-success-manager-outbound-gtm-at-danish-lead-co-4385875368": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
