@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382929698": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382920938": 1,
-    "https://www.linkedin.com/jobs/view/gtm-client-success-manager-at-tyfone-inc-4381554790": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382928767": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-glover-labs-4382931626": 1,
     "https://www.linkedin.com/jobs/view/remote-notion-system-builder-%7e24m-brand-amapress-at-pickdi-4379176313": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-yatts-4386996016": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-vann-bottles-4386983483": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4384736018": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-remote-at-onedigital-4384724826": 1
+    "https://www.linkedin.com/jobs/view/ai-builder-remote-at-onedigital-4384724826": 1,
+    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4384745689": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4384748621": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-purelogics-4384751430": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
