@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/strategic-account-specialist-kentuckiana-south-at-phathom-pharmaceuticals-4378881206": 1,
     "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381820608": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823518": 1,
     "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-aeonovatech-private-limited-4381830591": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387230137": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-barrington-james-4387427167": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-ecoflow-dach-4386884515": 1,
-    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386869994": 1
+    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386869994": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387415820": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
