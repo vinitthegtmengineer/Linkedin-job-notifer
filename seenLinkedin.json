@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-product-marketing-market-activation%e2%80%af-at-unit4-4382940541": 1,
-    "https://www.linkedin.com/jobs/view/senior-observability-engineer-at-teksystems-4382958263": 1,
-    "https://www.linkedin.com/jobs/view/marketing-resource-manager-at-regex-seo-4382946698": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-operator-ai-first-at-leadtech-group-4382965120": 1,
-    "https://www.linkedin.com/jobs/view/chiller-engineer-at-accent-services-ac-ltd-4382955540": 1,
     "https://www.linkedin.com/jobs/view/director-of-alliances-crowdstrike-at-cato-networks-4331476042": 1,
     "https://www.linkedin.com/jobs/view/part-time-remote-social-media-manager-at-vivify-4382956481": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-we-like-travel-4382957311": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/customer-success-manager-outbound-gtm-at-danish-lead-co-4385875368": 1,
     "https://www.linkedin.com/jobs/view/uas-operator-contractor-camcopter%c2%ae-s-100-all-genders-at-schiebel-4344043124": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387283484": 1,
-    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-vantage-4386841892": 1
+    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-vantage-4386841892": 1,
+    "https://www.linkedin.com/jobs/view/zlc-remote-pilot-operator-at-jobs-via-dice-4386838093": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387211892": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387229182": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387233044": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4345879550": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
