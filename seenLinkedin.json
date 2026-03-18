@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-dach-hyper-growth-pre-ipo-b2b-data-marketing-saas-%e2%82%ac180-220k-ote-%2b-esops-at-pack-gtm-saas-sales-recruitment-in-germany-4375835443": 1,
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-essway-4381546658": 1,
     "https://www.linkedin.com/jobs/view/remote-senior-campaign-manager-at-jobgether-4382910259": 1,
     "https://www.linkedin.com/jobs/view/daml-consultant-at-ampstek-4381585443": 1,
     "https://www.linkedin.com/jobs/view/sales-agronomist-iii-dekalb-asgrow-at-bayer-4375822776": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-intellias-4386793672": 1,
     "https://www.linkedin.com/jobs/view/senior-payments-engineer-at-actblue-4360513310": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4385923884": 1,
-    "https://www.linkedin.com/jobs/view/commercial-renewable-energy-project-engineer-at-center-for-development-of-telematics-c-do-t-4386837820": 1
+    "https://www.linkedin.com/jobs/view/commercial-renewable-energy-project-engineer-at-center-for-development-of-telematics-c-do-t-4386837820": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-consultant-at-steadman-hub-4387276446": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-at-priority-crypto-4386850507": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
