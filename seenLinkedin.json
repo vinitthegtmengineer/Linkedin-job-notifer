@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-gtm-talent-llc-4331570110": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-graho-4381733950": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-operations-specialist-at-vyntelligence-4371439921": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-arcadia-search-ltd%c2%ae-4383310730": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/ejecutiva-de-cuenta-marketing-junior-at-match%c2%b7-agencia-consultora-de-productos-y-servicios-digitales-4387135584": 1,
     "https://www.linkedin.com/jobs/view/senior-strategic-consultant-at-bullhorn-4368860431": 1,
     "https://www.linkedin.com/jobs/view/sr-ecommerce-engineer-sarnova-remote-at-sarnova-4387486305": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4387157263": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4387157263": 1,
+    "https://www.linkedin.com/jobs/view/anaplan-senior-consultant-at-3px-group-%e2%98%85-a-sunday-times-best-place-to-work-4387445655": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
