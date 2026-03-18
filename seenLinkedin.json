@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketplace-performance-analyst-%2460-hr-remote-at-crossing-hurdles-4381820608": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-analyst-%2460-hr-remote-at-crossing-hurdles-4381823518": 1,
-    "https://www.linkedin.com/jobs/view/kinaxis-consultant-at-aeonovatech-private-limited-4381830591": 1,
-    "https://www.linkedin.com/jobs/view/consultor-totvs-rm-backoffice-at-setios-tecnologia-4381727041": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-us-tech-solutions-4381723551": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-water-treatment-clean-water-waste-water-at-kintec-global-recruitment-4381730392": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4382992046": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382961969": 1,
     "https://www.linkedin.com/jobs/view/head-of-consumer-marketing-link-at-stripe-4288335961": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-specialist-pacific-northwest-at-phathom-pharmaceuticals-4377760075": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-barrington-james-4387427167": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-ecoflow-dach-4386884515": 1,
     "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386869994": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387415820": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387415820": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4376085657": 1,
+    "https://www.linkedin.com/jobs/view/msd-365-engineer-at-delta-system-software-inc-4386220757": 1,
+    "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-yipitdata-4386986483": 1,
+    "https://www.linkedin.com/jobs/view/document-control-specialist-%e2%80%94-quality-systems-compliance-at-hubot-tri-pac-inc-cdmo-4387441008": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-kintec-search-inc-4385029704": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-authorcmo-4385023256": 1,
+    "https://www.linkedin.com/jobs/view/campaign-operations-specialist-at-lastpass-4354451186": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
