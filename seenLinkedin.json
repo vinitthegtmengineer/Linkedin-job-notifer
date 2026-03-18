@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lemlist-campaign-manager-%e2%80%93-freelance-remote-start-immediately-at-optiloop-io-4382993634": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-talent-software-services-3837820275": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-support-engineer-at-bruntwork-4381720882": 1,
-    "https://www.linkedin.com/jobs/view/group-marketing-executive-at-harcourt-developments-4383300088": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-huzzle-com-4382984233": 1,
-    "https://www.linkedin.com/jobs/view/operador-partner-at-equipo360-4381737543": 1,
-    "https://www.linkedin.com/jobs/view/iam-ping-engineer-at-mondel%c4%93z-international-4382977769": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-projetos-automa%c3%a7%c3%a3o-at-cta-engenharia-4381728917": 1,
     "https://www.linkedin.com/jobs/view/head-of-sales-at-nexos-ai-4383306427": 1,
     "https://www.linkedin.com/jobs/view/head-of-sales-at-nexos-ai-4383304546": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/engineering-software-developer-at-trutechnologies-makers-of-trulab-4386978788": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-program-manager-remote-us-at-splice-4387436420": 1,
     "https://www.linkedin.com/jobs/view/assistant-media-strategist-at-simera-4385047150": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-brand-partnerships-at-mrbeast-4368693156": 1
+    "https://www.linkedin.com/jobs/view/senior-account-manager-brand-partnerships-at-mrbeast-4368693156": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4387119228": 1,
+    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386891008": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-at-epam-systems-4385021398": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-home-recruitment-ltd-4377392503": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rule-%231-beverages-4387117328": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4387112500": 1,
+    "https://www.linkedin.com/jobs/view/head-of-consumer-growth-at-table22-4387104801": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-18",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
