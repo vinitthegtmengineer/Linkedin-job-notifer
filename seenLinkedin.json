@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-nature-s-way-4381760179": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-at-hardscope-4383352578": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-experiments-ai-creator-platform-%24150k-%24200k-sf-at-coffeespace-4383356144": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-schoox-4383335999": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-material-security-4383367117": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-material-security-4383363342": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383364352": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383368167": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383362402": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383365298": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383373040": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-dimond-connect-4382208117": 1,
-    "https://www.linkedin.com/jobs/view/consultant-red-team-mandiant-consulting-at-google-4381880676": 1,
-    "https://www.linkedin.com/jobs/view/remote-operational-readiness-consultant-at-jobgether-4382904596": 1,
-    "https://www.linkedin.com/jobs/view/murex-back-office-consultant-mxml-at-upskills-4381579616": 1,
     "https://www.linkedin.com/jobs/view/philosophy-consultant-%e2%80%93-multilingual-expert-at-mercor-4382909881": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-consolidation-focus-cpm-domain-tagetik-onestream-etc-at-initi8-recruitment-4381705846": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-d365-f-o-remote-at-jobgether-4382903554": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-haystack-4386859899": 1,
     "https://www.linkedin.com/jobs/view/linkedin-campaign-manager-at-russell-tobin-4385024664": 1,
     "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4386841002": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-recskills-4387193035": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-recskills-4387193035": 1,
+    "https://www.linkedin.com/jobs/view/life-insurance-agent-agency-builder-4387463252": 1,
+    "https://www.linkedin.com/jobs/view/new-role%21-series-b-martech-leader%21-solutions-engineer-%24130k%2b-base-plus-generous-bonus-hybrid-nyc-relocation-at-scoutlab-io-4387663927": 1,
+    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386883268": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-executive-cx-solutions-at-distyl-4380211230": 1,
+    "https://www.linkedin.com/jobs/view/senior-partnerships-manager-gsi-emea-at-n8n-4387412377": 1,
+    "https://www.linkedin.com/jobs/view/general-manager-eor-at-deel-4387117510": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-sales-at-granicus-4387466638": 1,
+    "https://www.linkedin.com/jobs/view/msp-reseller-account-executive-indirect-channels-at-doit-4385003024": 1,
+    "https://www.linkedin.com/jobs/view/director-portfolio-product-marketing-at-outreach-4368510232": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-plexus-resource-solutions-4385025594": 1,
+    "https://www.linkedin.com/jobs/view/director-global-ai-initiatives-emea-at-lensa-4387659267": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-emea-at-obsidian-security-4360736321": 1,
+    "https://www.linkedin.com/jobs/view/google-cloud-partnership-manager-at-qodea-4382107817": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-at-outsourced-4387311327": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ranger-legacy-foundation-4385417670": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
