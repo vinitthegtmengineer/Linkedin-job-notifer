@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/philosophy-consultant-%e2%80%93-multilingual-expert-at-mercor-4382909881": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-consolidation-focus-cpm-domain-tagetik-onestream-etc-at-initi8-recruitment-4381705846": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-d365-f-o-remote-at-jobgether-4382903554": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-regulatory-reporting-m-w-d-at-x1f-4383310804": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-transport-mobility-m-w-d-at-sopra-steria-4382990392": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/director-sales-emea-at-obsidian-security-4360736321": 1,
     "https://www.linkedin.com/jobs/view/google-cloud-partnership-manager-at-qodea-4382107817": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-at-outsourced-4387311327": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ranger-legacy-foundation-4385417670": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ranger-legacy-foundation-4385417670": 1,
+    "https://www.linkedin.com/jobs/view/otm-consultant-at-kgisl-4387682302": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-steel-city-4387664919": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
