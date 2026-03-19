@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/integration-engineer-supply-chain-operations-26-00692-at-akraya-inc-4383345185": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-jobgether-4383330925": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383327856": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383345144": 1,
-    "https://www.linkedin.com/jobs/view/ai-performance-engineering-at-v2-infra-tech-4381892267": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-sophos-4383337411": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%24130k%e2%80%93%24200k-%2b-equity-ai-%c3%97-supply-chain-partner-role-via-coffeespace-san-francisco-us-at-coffeespace-4382181273": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-american-air-museum-in-britain-4383350315": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-fci-london-4381734541": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-bevertec-4383349567": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-the-fountain-group-4387436266": 1,
     "https://www.linkedin.com/jobs/view/engineering-fabrication-estimator-wfh-at-deployed-4387181553": 1,
     "https://www.linkedin.com/jobs/view/application-engineering-specialist-remote-or-hybrid-at-waltonen-engineering-4386484900": 1,
-    "https://www.linkedin.com/jobs/view/manager-gtm-systems-tools-at-ashby-4368025686": 1
+    "https://www.linkedin.com/jobs/view/manager-gtm-systems-tools-at-ashby-4368025686": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-ecommerce-y-marketplaces-at-lluvia-digital-4387624857": 1,
+    "https://www.linkedin.com/jobs/view/dca-remote-pilot-operator-at-lensa-4387651476": 1,
+    "https://www.linkedin.com/jobs/view/zfw-remote-pilot-operator-at-lensa-4387657302": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4387651440": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4387640995": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-partsbase-inc-4385051983": 1,
+    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-haystack-4386859899": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
