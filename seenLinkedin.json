@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4383464585": 1,
-    "https://www.linkedin.com/jobs/view/relationship-officer-balance-builder-mashreq-global-network-pakistan-at-mashreq-4382013626": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382014618": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382024275": 1,
-    "https://www.linkedin.com/jobs/view/social-media-and-community-manager-at-rest-4382249935": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-compass-uol-4383482245": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-eurofins-consumer-products-assurance-4382263142": 1,
-    "https://www.linkedin.com/jobs/view/operator-head-of-growth-partnerships-at-truehoa-inc-4383468870": 1,
     "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4383476587": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-chargebee-4381749945": 1,
     "https://www.linkedin.com/jobs/view/director-of-growth-operations-at-pearl-4383482445": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-dexian-4387395853": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-remote-at-crossing-hurdles-4387363884": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-mexico-remote-at-turnitin-4378062165": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-specialist-pensacola-fl-southern-al-at-phathom-pharmaceuticals-4387372718": 1
+    "https://www.linkedin.com/jobs/view/strategic-account-specialist-pensacola-fl-southern-al-at-phathom-pharmaceuticals-4387372718": 1,
+    "https://www.linkedin.com/jobs/view/powerhouse-operator-at-georgia-pacific-llc-4385474493": 1,
+    "https://www.linkedin.com/jobs/view/regional-sales-engineer-chillers-western-us-at-lg-electronics-north-america-4329171537": 1,
+    "https://www.linkedin.com/jobs/view/thermal-process-engineer-pid-at-john-cockerill-4297517908": 1,
+    "https://www.linkedin.com/jobs/view/vp-segment-sales-americas-at-energy-exemplar-4368501731": 1,
+    "https://www.linkedin.com/jobs/view/director-of-saas-growth-commercialization-at-experity-4376795564": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-3search-4385069387": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-lead-at-mindbody-4358878378": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-american-meetings-inc-ami-4387832859": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
