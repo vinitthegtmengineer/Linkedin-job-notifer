@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-4-at-nuscale-power-4378635828": 1,
-    "https://www.linkedin.com/jobs/view/cost-segregation-project-engineer-at-capstan-tax-strategies-4372758194": 1,
-    "https://www.linkedin.com/jobs/view/project-solution-engineer-aerospace-and-defense-at-dormer-pramet-4364568745": 1,
-    "https://www.linkedin.com/jobs/view/projektleiter-elektrotechnik-project-engineering-manager-at-piper-maddox-4381840844": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-grid-integration-compliance-testing-m-w-d-at-enercon-4383440869": 1,
     "https://www.linkedin.com/jobs/view/cost-segregation-project-engineer-at-capstan-tax-strategies-4372746564": 1,
     "https://www.linkedin.com/jobs/view/xbrl-consultant-at-instaffo-4382988190": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-openshift-fsi-at-red-hat-4382252029": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-analytics-manager-at-swooped-4387431563": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1,
     "https://www.linkedin.com/jobs/view/junior-brand-partnerships-manager-at-extreme-4385447402": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-24302-at-neotech-4376447191": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-24302-at-neotech-4376447191": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-x-force-red-at-ibm-4385457814": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-labs-4387385819": 1,
+    "https://www.linkedin.com/jobs/view/aws-cloud-engineer-ops-support-at-leidos-4385460813": 1,
+    "https://www.linkedin.com/jobs/view/partner-platforms-manager-ai-at-webflow-4369407223": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-levels-4387388735": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
