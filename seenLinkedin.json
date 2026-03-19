@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-litify-4381794027": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-korn-ferry-4383398165": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4381748321": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-revpartners-4382218617": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-manhattan-grand-hotel-4382236310": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4382230153": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4383432409": 1,
-    "https://www.linkedin.com/jobs/view/people-culture-consultant-the-executive-shift-at-loving-life-now-4382205772": 1,
-    "https://www.linkedin.com/jobs/view/experienced-solana-rust-engineer-at-kindswap-4381724908": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-socotec-4382240315": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-4-at-nuscale-power-4378644706": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-iii-at-actalent-4383348761": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-4-at-nuscale-power-4378635828": 1,
     "https://www.linkedin.com/jobs/view/cost-segregation-project-engineer-at-capstan-tax-strategies-4372758194": 1,
     "https://www.linkedin.com/jobs/view/project-solution-engineer-aerospace-and-defense-at-dormer-pramet-4364568745": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4387378274": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-netdocuments-4376799351": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1,
-    "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-the-branding-people-4387377893": 1
+    "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-the-branding-people-4387377893": 1,
+    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-mise-sous-pli-f-h-at-docaposte-4385464481": 1,
+    "https://www.linkedin.com/jobs/view/partnership-consultant-at-shopline-4387703021": 1,
+    "https://www.linkedin.com/jobs/view/ops-engineer-m-w-d-remote-first-deutschland-at-adfinis-4334654630": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-iii-at-bluebeam-4361576234": 1,
+    "https://www.linkedin.com/jobs/view/manufacturing-engineer-global-manufacturing-operations-at-google-4368722054": 1,
+    "https://www.linkedin.com/jobs/view/sales-enterprise-utility-growth-director-at-franklin-energy-4377822855": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-executive-at-huzzle-com-4387411648": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-executive-at-huzzle-com-4387420222": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-analytics-manager-at-swooped-4387431563": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1,
+    "https://www.linkedin.com/jobs/view/junior-brand-partnerships-manager-at-extreme-4385447402": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-24302-at-neotech-4376447191": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
