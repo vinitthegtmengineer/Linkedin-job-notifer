@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-d365-f-o-remote-at-jobgether-4382903554": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-regulatory-reporting-m-w-d-at-x1f-4383310804": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-transport-mobility-m-w-d-at-sopra-steria-4382990392": 1,
     "https://www.linkedin.com/jobs/view/datev-consultant-m-w-d-schwerpunkt-eigenorganisation-comfort-remote-at-afileon-4382998695": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-at-outsourced-4387311327": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ranger-legacy-foundation-4385417670": 1,
     "https://www.linkedin.com/jobs/view/otm-consultant-at-kgisl-4387682302": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-steel-city-4387664919": 1
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-steel-city-4387664919": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-testgorilla-4387669926": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
