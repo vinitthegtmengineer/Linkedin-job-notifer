@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-biochemistry-specialist-consultant-at-mercor-4383455451": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4383307993": 1,
-    "https://www.linkedin.com/jobs/view/sr-private-equity-consultant-remote-at-mercor-4383461290": 1,
     "https://www.linkedin.com/jobs/view/consulente-beauty-in-libera-collaborazione-da-casa-at-rocher-yves-4381290436": 1,
     "https://www.linkedin.com/jobs/view/vxblock-consultant-at-teksystems-4382972279": 1,
     "https://www.linkedin.com/jobs/view/sr-private-equity-consultant-remote-at-mercor-4383464137": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-levels-4387388735": 1,
     "https://www.linkedin.com/jobs/view/machine-safety-specialist-%e2%80%93-sales-engineering-at-grantek-4385471160": 1,
     "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378075392": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-pm-at-allyis-4385067847": 1
+    "https://www.linkedin.com/jobs/view/sales-enablement-pm-at-allyis-4385067847": 1,
+    "https://www.linkedin.com/jobs/view/operatore-operatrice-contatti-commerciali-at-sovera-credit-partners-4387864189": 1,
+    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378062584": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4387857438": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
