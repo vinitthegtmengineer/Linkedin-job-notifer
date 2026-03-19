@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/mbb-consultant-at-myremoteteam-inc-4383476587": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-chargebee-4381749945": 1,
-    "https://www.linkedin.com/jobs/view/director-of-growth-operations-at-pearl-4383482445": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4382017514": 1,
-    "https://www.linkedin.com/jobs/view/body-builder-manager-at-man-truck-bus-uk-4383487535": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-enablement-lead-at-7ai-4381776419": 1,
-    "https://www.linkedin.com/jobs/view/managing-director-client-lead-gtm-commercial-strategy-new-york-at-human-agency-4383331007": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-platform-recruitment-4381746776": 1,
-    "https://www.linkedin.com/jobs/view/hightouch-engineer-at-indus-group-inc-4381769605": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-grupo-seven-4382025832": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-strategic-partnerships-at-cloudinary-4370707160": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-marketocrat-4381367234": 1,
     "https://www.linkedin.com/jobs/view/ads-campaign-manager-100%25-remote-at-valatam-4383374353": 1,
     "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4373869285": 1,
     "https://www.linkedin.com/jobs/view/administrative-executive-assistant-client-support-invoicing-and-marketing-at-outsourcing-to-south-africa-4382030651": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/director-of-saas-growth-commercialization-at-experity-4376795564": 1,
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-3search-4385069387": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-lead-at-mindbody-4358878378": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-american-meetings-inc-ami-4387832859": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-american-meetings-inc-ami-4387832859": 1,
+    "https://www.linkedin.com/jobs/view/consultor-mercado-de-soja-e-milho-4385490025": 1,
+    "https://www.linkedin.com/jobs/view/detection-engineer-remote-at-crowdstrike-4385487033": 1,
+    "https://www.linkedin.com/jobs/view/engineers-at-great-value-hiring-4376779470": 1,
+    "https://www.linkedin.com/jobs/view/cloudops-engineer-pleno-at-enghouse-systems-4256339317": 1,
+    "https://www.linkedin.com/jobs/view/senior-open-source-engineer-remote-at-crossing-hurdles-4387370635": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-engineering-at-ci-t-4387840637": 1,
+    "https://www.linkedin.com/jobs/view/senior-zendesk-engineer-at-telus-digital-4368770639": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-latin-america-at-fullstack-4387491246": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-latin-america-at-fullstack-4387492164": 1,
+    "https://www.linkedin.com/jobs/view/senior-hpc-engineer-at-nvidia-4377425414": 1,
+    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387879305": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-established-search-4385468961": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
