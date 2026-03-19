@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-picus-security-4383751982": 1,
-    "https://www.linkedin.com/jobs/view/backend-platform-engineer-at-endgame-4366217435": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4382421794": 1,
     "https://www.linkedin.com/jobs/view/campaign-executive-at-flavor-sample-with-purpose-4383714171": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-savvy-recruitment-4382424729": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-executive-at-hirex-4387703023": 1,
     "https://www.linkedin.com/jobs/view/head-of-global-channels-at-sapiens-4385497379": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-apartmentiq-4387752549": 1,
-    "https://www.linkedin.com/jobs/view/ai-benchmarking-operations-engineer-at-ikuto-4388156104": 1
+    "https://www.linkedin.com/jobs/view/ai-benchmarking-operations-engineer-at-ikuto-4388156104": 1,
+    "https://www.linkedin.com/jobs/view/consultant-associate-director-global-aesthetics-medical-affairs-%e2%80%93-facial-aesthetics-at-orion-group-4388144405": 1,
+    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4385499170": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
