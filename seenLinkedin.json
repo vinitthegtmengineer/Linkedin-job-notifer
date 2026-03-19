@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-transport-mobility-m-w-d-at-sopra-steria-4382990392": 1,
-    "https://www.linkedin.com/jobs/view/datev-consultant-m-w-d-schwerpunkt-eigenorganisation-comfort-remote-at-afileon-4382998695": 1,
-    "https://www.linkedin.com/jobs/view/agent-builder-forward-deployed-engineer-at-ecosistemas-4383375063": 1,
     "https://www.linkedin.com/jobs/view/agent-builder-forward-deployed-engineer-at-ecosistemas-4383365434": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383373039": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-platform-engineering-4383357525": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/otm-consultant-at-kgisl-4387682302": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-steel-city-4387664919": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-testgorilla-4387669926": 1,
-    "https://www.linkedin.com/jobs/view/remote-growth-marketing-engineer-%24140-%24160k-agentic-ai-claude-at-cybercoders-4385424442": 1
+    "https://www.linkedin.com/jobs/view/remote-growth-marketing-engineer-%24140-%24160k-agentic-ai-claude-at-cybercoders-4385424442": 1,
+    "https://www.linkedin.com/jobs/view/operator-onboarding-specialist-at-operatif-4387317695": 1,
+    "https://www.linkedin.com/jobs/view/jr-marketing-executive-content-growth-at-opsxpress-4387330084": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-threatmodeler-software-inc-4387279035": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
