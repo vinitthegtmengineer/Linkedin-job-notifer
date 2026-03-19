@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/daml-developer-distributed-ledger-engineer-at-ampstek-4382294250": 1,
-    "https://www.linkedin.com/jobs/view/solar-operations-engineer-at-oxbo-4383721125": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-sri-lanka-remote-at-ekwa-marketing-4382042591": 1,
-    "https://www.linkedin.com/jobs/view/associate-bi-analyst-at-freestar-4372551366": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-strategy-and-operations-at-4m-analytics-4382296572": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-f-h-at-taste-4383704962": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4383729053": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-worth-minds-4382039941": 1,
-    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383711884": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722569": 1,
     "https://www.linkedin.com/jobs/view/tiktok-shop-campaign-executive-at-strudel-4383336175": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387886936": 1,
     "https://www.linkedin.com/jobs/view/senior-strategic-consultant-at-pros-4374649123": 1,
     "https://www.linkedin.com/jobs/view/strategic-partnerships-consultant-at-moonshot-core-tech-4387738126": 1,
-    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388108320": 1
+    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388108320": 1,
+    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388104683": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-at-atlantic-partners-corporation-4387861894": 1,
+    "https://www.linkedin.com/jobs/view/head-of-regional-marketing-ams-at-digicert-4376900660": 1,
+    "https://www.linkedin.com/jobs/view/b2b-product-marketing-manager-healthtech-remote-eu-at-mira-4387871601": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-sr-analyst-at-carrot-4375990942": 1,
+    "https://www.linkedin.com/jobs/view/director-customer-success-at-nbme-4387605321": 1,
+    "https://www.linkedin.com/jobs/view/marketing-strategy-associate-owned-assets-at-greystar-4376766942": 1,
+    "https://www.linkedin.com/jobs/view/customer-success-manager-at-zeta-global-4387701543": 1,
+    "https://www.linkedin.com/jobs/view/senior-market-manager-at-airbnb-4369254090": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-19",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
