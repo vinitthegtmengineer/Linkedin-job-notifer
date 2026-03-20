@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
-    "https://www.linkedin.com/jobs/view/principal-solutions-engineer-at-tekselect-4383762494": 1,
     "https://www.linkedin.com/jobs/view/leader-gtm-enablement-delivery-at-zoom-4383841533": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-talent-bridge-4382488086": 1,
     "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4382460488": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369269652": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-i-secure-platform-operations-remote-eligible-at-smartsheet-4387718236": 1,
     "https://www.linkedin.com/jobs/view/sro-principal-engineer-nuclear-operations-at-laveer-engineering-4388128631": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4388332898": 1
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4388332898": 1,
+    "https://www.linkedin.com/jobs/view/edge-engineer-at-banque-pour-le-commerce-et-l-entrepreneuriat-du-gabon-bceg-4388320058": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-100%25-remote-at-tether-io-4359447384": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
