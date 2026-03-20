@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/new-reactor-project-quality-engineer-remote-eligible-u-s-at-lensa-4383881436": 1,
     "https://www.linkedin.com/jobs/view/cybersecurity-engineer-at-reladyne-llc-4382095285": 1,
     "https://www.linkedin.com/jobs/view/remote-geothermal-or-orc-project-engineer-at-lensa-4383872991": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360514847": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-analytics-automation-enablement-manager-at-twilio-4387912010": 1,
     "https://www.linkedin.com/jobs/view/partner-channel-director-servicenow-at-rimini-street-4387774592": 1,
     "https://www.linkedin.com/jobs/view/manager-customer-success-at-clickup-4368746920": 1,
-    "https://www.linkedin.com/jobs/view/cro-ceo-b2b-food-marketplace-startup-at-tradepronto-4387901107": 1
+    "https://www.linkedin.com/jobs/view/cro-ceo-b2b-food-marketplace-startup-at-tradepronto-4387901107": 1,
+    "https://www.linkedin.com/jobs/view/siem-soar-engineer-at-sia-innovations-inc-4387877871": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
