@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384123279": 1,
-    "https://www.linkedin.com/jobs/view/national-senior-consultant-disability-inclusion-abuja-nigeria-35-working-days-remote-at-unicef-chad-4382543918": 1,
-    "https://www.linkedin.com/jobs/view/saas-engineer-at-integrated-wireless-solutions-4382565015": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
-    "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-trueagent-4382838674": 1,
     "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1,
     "https://www.linkedin.com/jobs/view/strategy-and-ops-forward-deployed-engineering-at-federato-4383873149": 1,
     "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-at-jobs-via-dice-4382839862": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105944954": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105951169": 1,
     "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194198253": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-prosum-4387967718": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-prosum-4387967718": 1,
+    "https://www.linkedin.com/jobs/view/zfw-remote-pilot-operator-at-lensa-4388186347": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4380452803": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineering-12-month-contract-remote-at-geotab-4377299330": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-platform-recruitment-4388353542": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-steward-partners-4387970707": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
