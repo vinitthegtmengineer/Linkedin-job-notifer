@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1,
-    "https://www.linkedin.com/jobs/view/customer-service-specialist-foodservice-at-lavazza-group-4266394871": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-each-everyone-4379030676": 1,
-    "https://www.linkedin.com/jobs/view/consulente-ru-at-federal-department-of-foreign-affairs-fdfa-4384160858": 1,
-    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371969378": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-us-based-remote-at-paired-4382580009": 1,
-    "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4384170318": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-capital-markets-at-colliers-4382886254": 1,
     "https://www.linkedin.com/jobs/view/clay-strategist-at-cloud-hikers-4384183015": 1,
     "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383716698": 1,
     "https://www.linkedin.com/jobs/view/senior-product-manager-campaign-manager-at-veeva-systems-4377292894": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4377284727": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a6%8f%e5%b2%a1-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4388120492": 1,
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4388321920": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4387982607": 1
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4387982607": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369277030": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4388336783": 1,
+    "https://www.linkedin.com/jobs/view/substation-protection-controls-project-engineer-pe-license-required-at-amped-i-llc-4388568400": 1,
+    "https://www.linkedin.com/jobs/view/senior-security-engineer-at-dxc-technology-4354845021": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369273678": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-substation-engineering-at-tier-1-utility-design-inc-4366227505": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-anaerobic-digestion-at-astute-people-4385497208": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4387976454": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
