@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-geothermal-or-orc-project-engineer-at-lensa-4383872991": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360514847": 1,
-    "https://www.linkedin.com/jobs/view/linux-engineer-with-embedded-at-accenture-poland-4382480906": 1,
-    "https://www.linkedin.com/jobs/view/24-7-l1-network-and-security-engineer-1st-line-noc-support-at-nomios-belgium-4383756981": 1,
-    "https://www.linkedin.com/jobs/view/certinia-consultant-at-cloudely-inc-4384138754": 1,
-    "https://www.linkedin.com/jobs/view/senior-mlops-engineer-hudl-focus-at-hudl-4371931534": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383721170": 1,
-    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4382448483": 1,
-    "https://www.linkedin.com/jobs/view/soc-engineer-at-robert-half-4383740364": 1,
-    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383712806": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383713360": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383702863": 1,
     "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-cl-at-whitestack-4382443913": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/manager-customer-success-at-clickup-4368746920": 1,
     "https://www.linkedin.com/jobs/view/cro-ceo-b2b-food-marketplace-startup-at-tradepronto-4387901107": 1,
     "https://www.linkedin.com/jobs/view/siem-soar-engineer-at-sia-innovations-inc-4387877871": 1,
-    "https://www.linkedin.com/jobs/view/co-construtor-at-nored-brasil-4385749874": 1
+    "https://www.linkedin.com/jobs/view/co-construtor-at-nored-brasil-4385749874": 1,
+    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-at-latitude-ai-4388516587": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-medtech-qms-complaints-at-veeva-systems-4377296726": 1,
+    "https://www.linkedin.com/jobs/view/remote-religious-studies-consultant-%2460-hr-at-mercor-4388391184": 1,
+    "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194193955": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-smart-work-power-plattform-ki-m-w-d-at-provectus-technologies-gmbh-4388384674": 1,
+    "https://www.linkedin.com/jobs/view/new-technologyone-consultant-at-t1-4387795680": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105947710": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105950381": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-customer-experience-at-smartcat-4387966797": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-jensten-4388507295": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
