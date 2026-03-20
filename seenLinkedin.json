@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383713360": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383702863": 1,
-    "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-cl-at-whitestack-4382443913": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4383719290": 1,
-    "https://www.linkedin.com/jobs/view/video-streaming-engineering-german-language-at-smartedge-solutions-4382282686": 1,
-    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383722558": 1,
-    "https://www.linkedin.com/jobs/view/observability-engineer-prometheus-grafana-ar-at-whitestack-4382465107": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-i-managed-kubernetes-at-digitalocean-4383832768": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-ii-fleet-efficiency-at-digitalocean-4383847227": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-mining-process-industrial-at-watson-marlow-fluid-technology-solutions-4364798120": 1,
-    "https://www.linkedin.com/jobs/view/ml-ai-ops-engineer-at-veeam-software-4365951337": 1,
-    "https://www.linkedin.com/jobs/view/automation-systems-builder-%e2%80%94-ai-agents-n8n-zapier-at-artexion-4372533306": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-coders-boutique-4382865675": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-%e2%80%93-tyre-pyrolysis-consultant-at-greener-greener-4382879130": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-col-at-simetrik-4384147481": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105947710": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105950381": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-customer-experience-at-smartcat-4387966797": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-jensten-4388507295": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-jensten-4388507295": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388533626": 1,
+    "https://www.linkedin.com/jobs/view/deployed-engineer-charlotte-at-langchain-4387744656": 1,
+    "https://www.linkedin.com/jobs/view/detection-and-response-engineer-at-dataannotation-4387893670": 1,
+    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388105348": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4387894688": 1,
+    "https://www.linkedin.com/jobs/view/dx-engineer-at-vercel-4369671374": 1,
+    "https://www.linkedin.com/jobs/view/senior-google-workspace-engineer-m-w-d-remote-oder-hybrid-bundesweit-at-pcg-public-cloud-group-4248524543": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4388102357": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4387889885": 1,
+    "https://www.linkedin.com/jobs/view/deployed-engineer-south-central-at-langchain-4369292210": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360514847": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-growth-at-bulletproof-360-4387975728": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
