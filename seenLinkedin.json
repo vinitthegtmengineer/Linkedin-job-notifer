@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/junior-ai-agent-builder-at-adaptive-teams-4382440928": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-afiniti-4382072601": 1,
     "https://www.linkedin.com/jobs/view/salesforce-gtm-engineer-cpq-at-front-4366299052": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-at-sapiens-4382509097": 1,
     "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/data-engineer-hockey-operations-at-seattle-kraken-4388312231": 1,
     "https://www.linkedin.com/jobs/view/marketing-events-operations-manager-at-clearml-4388302641": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-apartmentiq-4388311297": 1,
-    "https://www.linkedin.com/jobs/view/director-channel-alliances-emea-at-vanta-4387784601": 1
+    "https://www.linkedin.com/jobs/view/director-channel-alliances-emea-at-vanta-4387784601": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-revops-engineer-at-duende-software-4387786958": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-arcadia-search-ltd%c2%ae-4383310730": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
