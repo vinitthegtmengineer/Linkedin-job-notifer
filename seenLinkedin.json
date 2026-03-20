@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/creative-operations-manager-at-baggu-4382476838": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-lifecycle-automation-at-talentpop-4382014619": 1,
-    "https://www.linkedin.com/jobs/view/commercial-portfolio-manager-team-lead-builder-finance-at-southstate-bank-4382508681": 1,
     "https://www.linkedin.com/jobs/view/gtm-program-manager-at-recluta-talenthunter-latin-america-4382075202": 1,
     "https://www.linkedin.com/jobs/view/lead-account-technology-strategists-at-citrix-4372532895": 1,
     "https://www.linkedin.com/jobs/view/senior-account-executive-enterprise-at-outreach-4382476782": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/fbs-ops-engineer-manager-at-capgemini-4385721872": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4388319633": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-gaffis-technologies-nagpur-at-vihu-4385709163": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-operations-manager-at-clearml-4388192681": 1
+    "https://www.linkedin.com/jobs/view/marketing-events-operations-manager-at-clearml-4388192681": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361694509": 1,
+    "https://www.linkedin.com/jobs/view/marketing-programs-lead-at-arcesium-4369312463": 1,
+    "https://www.linkedin.com/jobs/view/operations-specialist-remote-at-crossing-hurdles-4387359998": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
