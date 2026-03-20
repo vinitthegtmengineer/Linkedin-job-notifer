@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/clay-strategist-at-cloud-hikers-4384183015": 1,
-    "https://www.linkedin.com/jobs/view/elixir-engineer-observability-at-jobgether-4383716698": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-manager-campaign-manager-at-veeva-systems-4377292894": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-verz-design-4382872510": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-marketing-executive-%40trendset-full-time-brighton-at-trendset-4383724735": 1,
     "https://www.linkedin.com/jobs/view/data-science-manager-measurement-ads-dse-at-netflix-4356200741": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-operations-manager-at-jobgether-4383813223": 1,
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-sales-marketing-at-scale-army-careers-4382434662": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369273678": 1,
     "https://www.linkedin.com/jobs/view/project-manager-substation-engineering-at-tier-1-utility-design-inc-4366227505": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-anaerobic-digestion-at-astute-people-4385497208": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4387976454": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4387976454": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377996508": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377998463": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377995578": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377986850": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-wes-brands-4387979721": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 50,
+    "cyclesToday": 51,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
