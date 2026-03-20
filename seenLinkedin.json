@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-commission-manager-remote-at-lensa-4383890283": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-ops-forward-deployed-engineering-at-federato-4383873149": 1,
-    "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-at-jobs-via-dice-4382839862": 1,
-    "https://www.linkedin.com/jobs/view/eram-remote-pilot-operator-lead-at-jobs-via-dice-4382853353": 1,
-    "https://www.linkedin.com/jobs/view/wms-engineer-%e2%80%93-catch-weight-expertise-at-willware-technologies-4384124674": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-eden-4382830809": 1,
-    "https://www.linkedin.com/jobs/view/production-engineer-at-solutune-4382860250": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-hospitality-4382842854": 1,
-    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4351957823": 1,
     "https://www.linkedin.com/jobs/view/new-reactor-project-quality-engineer-remote-eligible-u-s-at-lensa-4383881436": 1,
     "https://www.linkedin.com/jobs/view/cybersecurity-engineer-at-reladyne-llc-4382095285": 1,
     "https://www.linkedin.com/jobs/view/remote-geothermal-or-orc-project-engineer-at-lensa-4383872991": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4380452803": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineering-12-month-contract-remote-at-geotab-4377299330": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-platform-recruitment-4388353542": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-steward-partners-4387970707": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-steward-partners-4387970707": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-of-global-technology-and-business-alliances-at-eset-4359810594": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-business-systems-at-ladders-4385740757": 1,
+    "https://www.linkedin.com/jobs/view/business-technology-product-manager-at-samsara-4359887727": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-automotive-vertical-at-conversica-4388140137": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-founding-builder-role-at-security-2-0-4387715788": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analytics-automation-enablement-manager-at-twilio-4387912010": 1,
+    "https://www.linkedin.com/jobs/view/partner-channel-director-servicenow-at-rimini-street-4387774592": 1,
+    "https://www.linkedin.com/jobs/view/manager-customer-success-at-clickup-4368746920": 1,
+    "https://www.linkedin.com/jobs/view/cro-ceo-b2b-food-marketplace-startup-at-tradepronto-4387901107": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
