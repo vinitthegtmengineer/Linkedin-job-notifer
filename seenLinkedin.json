@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-creator-marketing-manager-at-darkroom-4383811781": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-jobgether-4383729219": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4382055002": 1,
-    "https://www.linkedin.com/jobs/view/programa-de-forma%c3%a7%c3%a3o-para-consultores-de-prote%c3%a7%c3%a3o-financeira-carreira-comercial-at-gorilla-life-capital-4382524007": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-creston-water-solutions-4383866532": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-growth-at-sparrowbid-inc-4382496801": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ai-analyst-at-bloomreach-4343048480": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-lightspeed-dms-4382095721": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-pretzl-4382079384": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mash-4382491921": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-recur-software-4383852596": 1,
     "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362314112": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388352230": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-twin-magazine-4388356448": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388337782": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388337782": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388376422": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388378359": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388374485": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388372485": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388362970": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388370617": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-ontap-4385732770": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-contract-at-pop-n-creative-4388362865": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-cookwise-ai-4387964226": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-20",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
