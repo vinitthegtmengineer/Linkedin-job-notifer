@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-ai-automation-canada-remote-at-grafana-labs-4374438642": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4382889138": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4375711368": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-enlight-renewable-energy-ltd-enlt-4376564792": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-social-jd-at-rowabi-4331544654": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-coinbase-4388565419": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-ehs-insight-4388375961": 1,
     "https://www.linkedin.com/jobs/view/senior-martech-operations-manager-at-airbnb-4388184512": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-gtm-systems-hubspot-at-fluent-inc-4377265181": 1
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-gtm-systems-hubspot-at-fluent-inc-4377265181": 1,
+    "https://www.linkedin.com/jobs/view/national-accounts-manager-builder-midwest-at-lp-building-solutions-4385788372": 1,
+    "https://www.linkedin.com/jobs/view/partner-director-gsi%e2%80%99s-accenture-at-saviynt-4388510231": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
