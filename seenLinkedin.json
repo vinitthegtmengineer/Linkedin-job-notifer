@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384503040": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384394365": 1,
-    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-remote-at-apetan-consulting-llc-4384388566": 1,
     "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-4383200736": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-business-development-executive-wfh-at-dihuni-4384125182": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/solutions-engineer-operational-software-at-vector-solutions-4387986119": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4387994251": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-operational-software-at-vector-solutions-4388249295": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-marketing-at-moneyhero-group-nasdaq-mny-4363653396": 1
+    "https://www.linkedin.com/jobs/view/senior-associate-marketing-at-moneyhero-group-nasdaq-mny-4363653396": 1,
+    "https://www.linkedin.com/jobs/view/consultor-vms-at-perceptio-s-a-s-4388283665": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-equity-only-build-grow-with-a-real-estate-startup-at-teo-4388502536": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-remote-at-emma-of-torre-ai-4388731175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
