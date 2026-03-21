@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-teddy-baldassarre-4382717568": 1,
     "https://www.linkedin.com/jobs/view/sr-machine-learning-operations-engineer-at-smartsheet-4368779891": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-catapult-solutions-group-4382896522": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-truempathy-4384137883": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/tech-ops-builder-generalist-at-clipboard-4386137796": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-intern-student-project-3-months-at-transreport-4385753178": 1,
     "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-viral-set-go-4386168719": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
