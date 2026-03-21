@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-sales-and-go-to-market-at-gomotto-4383264888": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-randstad-uk-4382866613": 1,
-    "https://www.linkedin.com/jobs/view/growth-outreach-operator-founders-team-ski-startup-at-snowgroup-4382760164": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaigns-analytics-b2b-saas-remote-at-surgo-4382759125": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-the-hain-celestial-group-4383261549": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4383519120": 1,
-    "https://www.linkedin.com/jobs/view/aws-and-ml-ops-engineer-at-amazure-technologies-pvt-ltd-4384548884": 1,
-    "https://www.linkedin.com/jobs/view/investor-consultant-for-recognised-deeptech-startup-at-cellumantra-biorefinery-pvt-ltd-4383526270": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383514464": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383522499": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383513671": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388745696": 1,
     "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388740800": 1,
     "https://www.linkedin.com/jobs/view/in%c5%bcynier-in%c5%bcynierka-llm-at-astek-4375965209": 1,
-    "https://www.linkedin.com/jobs/view/reverse-engineer-at-snatch-up-jobs-4386109271": 1
+    "https://www.linkedin.com/jobs/view/reverse-engineer-at-snatch-up-jobs-4386109271": 1,
+    "https://www.linkedin.com/jobs/view/manager-field-marketing-remote-opportunity-at-lensa-4386105252": 1,
+    "https://www.linkedin.com/jobs/view/senior-crm-manager-digital-mount-sinai-hospital-full-time-days-remote-at-mount-sinai-morningside-4388725270": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-sentilink-4388207640": 1,
+    "https://www.linkedin.com/jobs/view/channel-marketing-manager-at-rhombus-4386018877": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-connect-for-health-colorado-4368847244": 1,
+    "https://www.linkedin.com/jobs/view/marketing-production-specialist-at-ibex-international-boatbuilders-exhibition-conference-4388718996": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-lead-pressable-at-mygwork-lgbtq%2b-business-community-4353049010": 1,
+    "https://www.linkedin.com/jobs/view/programs-and-business-operations-lead-at-remotehunter-4388275612": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 60,
+    "cyclesToday": 61,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
