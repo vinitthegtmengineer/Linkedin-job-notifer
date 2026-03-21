@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-sales-m-f-x-at-atmio-4375137590": 1,
     "https://www.linkedin.com/jobs/view/pricing-and-monetization-strategy-lead-at-jobgether-4384357126": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-beynd-4384312352": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-compound-foundation-4372021595": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-dunhill-professional-search-government-solutions-4388394772": 1,
     "https://www.linkedin.com/jobs/view/oic-consultant-4388296112": 1,
     "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-lightspeed-dms-4382095721": 1,
-    "https://www.linkedin.com/jobs/view/head-of-sales-emea-at-dropbox-4369925644": 1
+    "https://www.linkedin.com/jobs/view/head-of-sales-emea-at-dropbox-4369925644": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-shl-4369922723": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
