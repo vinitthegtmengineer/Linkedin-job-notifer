@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/audio-engineering-expert-sme-freelance-project-at-meridial-marketplace-by-invisible-4314174138": 1,
     "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-motion-recruitment-4374453095": 1,
     "https://www.linkedin.com/jobs/view/sailpoint-engineer-developer-at-charter-global-4382700562": 1,
     "https://www.linkedin.com/jobs/view/devsecops-engineer-at-plan-a-technologies-4327288071": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/backend-engineer-lead-at-wiraa-4388289734": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-executive-at-pros2work-4385759514": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-i-at-creative-circle-4386145536": 1,
-    "https://www.linkedin.com/jobs/view/senior-programs-and-business-operations-lead-monthly-stays-at-airbnb-4388551524": 1
+    "https://www.linkedin.com/jobs/view/senior-programs-and-business-operations-lead-monthly-stays-at-airbnb-4388551524": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4388745050": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
