@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-dell-technologies-4384128790": 1,
     "https://www.linkedin.com/jobs/view/martech-consultant-208544-at-aquent-4384394651": 1,
     "https://www.linkedin.com/jobs/view/dfir-consultant-at-tokio-marine-hcc-4344153575": 1,
     "https://www.linkedin.com/jobs/view/bangla-text-consultant-remote-at-keystone-recruitment-4384176114": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369597161": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592347": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-veracity-insurance-solutions-llc-4379203819": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-operations-at-highlands-recruitment-4388217208": 1
+    "https://www.linkedin.com/jobs/view/vice-president-operations-at-highlands-recruitment-4388217208": 1,
+    "https://www.linkedin.com/jobs/view/m365-iam-enginer-at-divihn-integration-inc-4388614089": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 54,
+    "cyclesToday": 55,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
