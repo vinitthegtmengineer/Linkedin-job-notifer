@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383514464": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383522499": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-claude-at-apex-ai-4383513671": 1,
-    "https://www.linkedin.com/jobs/view/zuora-consultant-at-closeloop-technologies-4383208659": 1,
-    "https://www.linkedin.com/jobs/view/consultor-clickup-at-innleaders-4383230724": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-north-star-staffing-4384151057": 1,
-    "https://www.linkedin.com/jobs/view/lv-scoping-consultant-at-rws-group-4344124665": 1,
-    "https://www.linkedin.com/jobs/view/tpm-consultant-at-efeso-management-consultants-americas-4383219642": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-wizard-of-hcm-4384582174": 1,
     "https://www.linkedin.com/jobs/view/facebook-advertisements-campaign-manager-%e2%80%93-enterprise-campaigns-at-blackcloud-financial-it-solutions-4382760582": 1,
     "https://www.linkedin.com/jobs/view/ms-teams-operator-connect-project-manager-at-skywaves-rise-4384590165": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-expert-e-ind%c3%a9pendant-e-en-partenariat-at-groupe-vsc-conseils-formations-4384574943": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-connect-for-health-colorado-4368847244": 1,
     "https://www.linkedin.com/jobs/view/marketing-production-specialist-at-ibex-international-boatbuilders-exhibition-conference-4388718996": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-lead-pressable-at-mygwork-lgbtq%2b-business-community-4353049010": 1,
-    "https://www.linkedin.com/jobs/view/programs-and-business-operations-lead-at-remotehunter-4388275612": 1
+    "https://www.linkedin.com/jobs/view/programs-and-business-operations-lead-at-remotehunter-4388275612": 1,
+    "https://www.linkedin.com/jobs/view/ukg-pro-hcm-wfm-consultant-at-the-planet-group-4387993678": 1,
+    "https://www.linkedin.com/jobs/view/consultor%c3%ada-revisi%c3%b3n-program%c3%a1tica-de-g%c3%a9nero-para-la-formulaci%c3%b3n-del-cpd-2028-2032-150-d%c3%adas-modalidad-remota-y-viajes-a-bolivia-at-unicef-mk-4388295807": 1,
+    "https://www.linkedin.com/jobs/view/reverse-engineer-at-snatch-up-jobs-4385798856": 1,
+    "https://www.linkedin.com/jobs/view/engineer-information-security-operations-at-mazda-north-american-operations-4379212102": 1,
+    "https://www.linkedin.com/jobs/view/gcp-data-engineer-project-atlas-sow-data-strategy-data-lineage-quality-offshore-at-ascendion-4385769262": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-da-integra%c3%a7%c3%a3o-de-projetos-remoto-rio-de-janeiro-rj-at-capco-4388224565": 1,
+    "https://www.linkedin.com/jobs/view/new-reactor-project-quality-engineer-remote-eligible-u-s-at-lensa-4385798517": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-da-integra%c3%a7%c3%a3o-de-projetos-remoto-rio-de-janeiro-rj-at-mygwork-lgbtq%2b-business-community-4386172203": 1,
+    "https://www.linkedin.com/jobs/view/vp-operations-growth-at-neighborly%c2%ae-4386116021": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 61,
+    "cyclesToday": 62,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
