@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-aqa-engineer-net-at-exadel-4384301460": 1,
-    "https://www.linkedin.com/jobs/view/sr-solutions-architect-data-engineering-at-alpha-fmc-4382701037": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-i-copilots-at-digitalocean-4384370849": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-assuresoft-4355959515": 1,
-    "https://www.linkedin.com/jobs/view/field-sales-rep-iii-cp-at-bayer-4384515767": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-systems-at-companycam-4384328469": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-gtm-at-hightouch-4384107131": 1,
     "https://www.linkedin.com/jobs/view/partner-sales-manager-target-resellers-at-vasion-4384367225": 1,
     "https://www.linkedin.com/jobs/view/sr-gtm-strategist-enterprise-abx-at-liquid-web-4384388990": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4388745050": 1,
     "https://www.linkedin.com/jobs/view/ukg-ready-consultant-at-rockcrest-4385738970": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-technology-at-luxury-presence-4378237733": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386172480": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386172480": 1,
+    "https://www.linkedin.com/jobs/view/chemistry-consultant-%2473-hr-max-at-mercor-4386103243": 1,
+    "https://www.linkedin.com/jobs/view/mips-engagement-manager-and-consultant-at-guidance-analytics-llc-4387976641": 1,
+    "https://www.linkedin.com/jobs/view/pmis-consultant-at-innoactive-group-4387994088": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-fiji-transformation-project-po-9100298580-offshore-1-1-at-ascendion-4385775073": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-daniels-health-4369959043": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-dunhill-professional-search-government-solutions-4388394772": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
