@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4384538545": 1,
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4384531759": 1,
     "https://www.linkedin.com/jobs/view/head-of-sales-and-go-to-market-at-gomotto-4383264888": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-randstad-uk-4382866613": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4388738069": 1,
     "https://www.linkedin.com/jobs/view/project-automation-engineer-elektrotechnik-automatisierung-m-w-d-at-mce-gmbh-4387995363": 1,
     "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388745696": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388740800": 1
+    "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388740800": 1,
+    "https://www.linkedin.com/jobs/view/in%c5%bcynier-in%c5%bcynierka-llm-at-astek-4375965209": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-21",
-    "cyclesToday": 58,
+    "cyclesToday": 59,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
