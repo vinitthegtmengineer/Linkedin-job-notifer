@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-generative-ai-operations-engineer-at-epam-systems-4382799423": 1,
-    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4383000359": 1,
-    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-at-epam-systems-4382792711": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-osome-4371845013": 1,
     "https://www.linkedin.com/jobs/view/business-development-manager-at-spaceberry-studio-4382790689": 1,
     "https://www.linkedin.com/jobs/view/full-stack-builder-%e2%80%93-team-of-one-product-%2b-engineering-owner-at-highlevel-4382799571": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/remote-software-engineer-iii-ios-at-lensa-4388623321": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-coterie-insurance-4388718138": 1,
     "https://www.linkedin.com/jobs/view/chief-operating-officer-at-crowned-skin-4388616116": 1,
-    "https://www.linkedin.com/jobs/view/consultor%c3%ada-revisi%c3%b3n-program%c3%a1tica-de-g%c3%a9nero-para-la-formulaci%c3%b3n-del-cpd-2028-2032-150-d%c3%adas-modalidad-remota-y-viajes-a-bolivia-at-unicef-bangladesh-4388608988": 1
+    "https://www.linkedin.com/jobs/view/consultor%c3%ada-revisi%c3%b3n-program%c3%a1tica-de-g%c3%a9nero-para-la-formulaci%c3%b3n-del-cpd-2028-2032-150-d%c3%adas-modalidad-remota-y-viajes-a-bolivia-at-unicef-bangladesh-4388608988": 1,
+    "https://www.linkedin.com/jobs/view/epm-consultant-senior-at-caravel-bpm-technology-solutions-4066387611": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-outreach-4374308135": 1,
+    "https://www.linkedin.com/jobs/view/head-of-international-operations-india-at-wingstop-restaurants-inc-4369690225": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
