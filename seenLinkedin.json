@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
-    "https://www.linkedin.com/jobs/view/operador-de-capta%c3%a7%c3%a3o-at-instituto-infnet-4383036706": 1,
-    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4376209460": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383968677": 1,
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384844567": 1,
     "https://www.linkedin.com/jobs/view/cmdb-engineer-b2b-at-avalanche-laboratory-4383535143": 1,
     "https://www.linkedin.com/jobs/view/senior-martech-engineer-at-telus-digital-4373607568": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4388784514": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-va-at-s-kin-studio-jewelry-4388624512": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-confidential-4386617407": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tapcart-4388773847": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tapcart-4388773847": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-monopoly-go%21-at-scopely-4369767691": 1,
+    "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388656162": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-%e2%80%93-fully-remote-at-fgs-recruitment-4386619433": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386622275": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
