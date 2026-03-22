@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385138684": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385144454": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385145127": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-healthy-roster-4383812792": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-gtm-readiness-director-at-forescout-technologies-inc-4385145929": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-orbit-institute-4386621461": 1,
     "https://www.linkedin.com/jobs/view/sales-marketing-executive-assistant-at-autrix-4388795866": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4389009280": 1,
-    "https://www.linkedin.com/jobs/view/paid-search-manager-at-stripe-4370105874": 1
+    "https://www.linkedin.com/jobs/view/paid-search-manager-at-stripe-4370105874": 1,
+    "https://www.linkedin.com/jobs/view/acumatica-consultant-at-chapman-tate-associates-4357590845": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-tenex-ai-4356125030": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
