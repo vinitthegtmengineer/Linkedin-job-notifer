@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-healthy-roster-4383812792": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-gtm-readiness-director-at-forescout-technologies-inc-4385145929": 1,
-    "https://www.linkedin.com/jobs/view/field-performance-coaching-and-training-manager-at-seeq-corporation-4385143315": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385141332": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385138299": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383053441": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/paid-search-manager-at-stripe-4370105874": 1,
     "https://www.linkedin.com/jobs/view/acumatica-consultant-at-chapman-tate-associates-4357590845": 1,
     "https://www.linkedin.com/jobs/view/customer-engineer-at-tenex-ai-4356125030": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389018081": 1
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389018081": 1,
+    "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388649937": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386617837": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-at-aytza-4389006444": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 48,
+    "cyclesToday": 49,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
