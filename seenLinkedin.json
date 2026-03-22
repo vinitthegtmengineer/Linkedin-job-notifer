@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385145127": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-healthy-roster-4383812792": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-gtm-readiness-director-at-forescout-technologies-inc-4385145929": 1,
     "https://www.linkedin.com/jobs/view/field-performance-coaching-and-training-manager-at-seeq-corporation-4385143315": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4389009280": 1,
     "https://www.linkedin.com/jobs/view/paid-search-manager-at-stripe-4370105874": 1,
     "https://www.linkedin.com/jobs/view/acumatica-consultant-at-chapman-tate-associates-4357590845": 1,
-    "https://www.linkedin.com/jobs/view/customer-engineer-at-tenex-ai-4356125030": 1
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-tenex-ai-4356125030": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389018081": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
