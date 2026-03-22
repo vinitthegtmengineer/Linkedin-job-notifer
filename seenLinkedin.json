@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sem-campaign-manager-at-kforce-inc-4385131586": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385132875": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385140537": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385141517": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385131897": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385136743": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/graduate-production-engineer-at-haystack-4388796567": 1,
     "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-core-engineering-at-pinterest-4121965577": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286650004": 1
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286650004": 1,
+    "https://www.linkedin.com/jobs/view/chemistry-consultant-max-%2473-hr-at-mercor-4389007210": 1,
+    "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4388637962": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-fetchjobs-co-4388659214": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
