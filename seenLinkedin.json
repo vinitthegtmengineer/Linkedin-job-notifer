@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-karbon-4384866773": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-marketing-operations-at-cyera-4343889269": 1,
     "https://www.linkedin.com/jobs/view/gtm-business-partner-at-vast-data-4383950243": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-scry-ai-4383513880": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-at-zinance-4383917909": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/online-marketing-executive-at-nova-centre-for-the-study-of-gender-family-and-the-law-4386607715": 1,
     "https://www.linkedin.com/jobs/view/12%2b-year-wm-consultant-us-citizen-or-green-card-holder-at-arkisol-inc-4388788694": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386614456": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4388779483": 1
+    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4388779483": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-orbits-r-d-at-planet-4363851559": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
