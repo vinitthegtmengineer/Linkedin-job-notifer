@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/backlink-builder-guest-post-at-clan-group-4383009400": 1,
-    "https://www.linkedin.com/jobs/view/director-product-marketing-gtm-engineering-at-levanta-4385114953": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-social-media-%e2%80%93-si-swimsuit-at-90min-4383961403": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-atrium-4383936210": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
-    "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4383033657": 1,
-    "https://www.linkedin.com/jobs/view/new-territory-builder-with-industrial-network-gas-monitoring-systems-at-gacc-midwest-german-american-chamber-of-commerce-of-the-midwest-inc-4383034563": 1,
-    "https://www.linkedin.com/jobs/view/director-global-sales-development-remote-us-at-anomali-4385133156": 1,
-    "https://www.linkedin.com/jobs/view/senior-endpoint-engineer-citrix-sme-at-people-prime-worldwide-4383529190": 1,
-    "https://www.linkedin.com/jobs/view/senior-commercial-enablement-associate-at-instacart-4385106271": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
     "https://www.linkedin.com/jobs/view/operador-de-capta%c3%a7%c3%a3o-at-instituto-infnet-4383036706": 1,
     "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4376209460": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-tasaki-usa-inc-4388762100": 1,
     "https://www.linkedin.com/jobs/view/remote-booking-scheduling-consultant-at-traveling-with-michaila-4388644627": 1,
     "https://www.linkedin.com/jobs/view/manager-growth-community-engagement-must-reside-in-fl-at-molina-healthcare-4379207882": 1,
-    "https://www.linkedin.com/jobs/view/operational-engineer-i-at-csg-4359204314": 1
+    "https://www.linkedin.com/jobs/view/operational-engineer-i-at-csg-4359204314": 1,
+    "https://www.linkedin.com/jobs/view/remote-o365-engineer-at-lensa-4388609784": 1,
+    "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-taskus-4376292238": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4388791967": 1,
+    "https://www.linkedin.com/jobs/view/bms-project-engineer-at-honeywell-4335775251": 1,
+    "https://www.linkedin.com/jobs/view/bms-project-engineer-at-honeywell-4361591878": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4388796565": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4388784514": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-va-at-s-kin-studio-jewelry-4388624512": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-confidential-4386617407": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tapcart-4388773847": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
