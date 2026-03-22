@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4382759908": 1,
-    "https://www.linkedin.com/jobs/view/automatic-door-engineer-at-mere-uk-ltd-4384385178": 1,
-    "https://www.linkedin.com/jobs/view/zscaler-engineer-at-ecs-resource-group-4382783749": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-energy-storage-development-at-camelot-energy-group-4382506746": 1,
-    "https://www.linkedin.com/jobs/view/head-of-email-lifecycle-marketing-at-wpromote-4366976888": 1,
-    "https://www.linkedin.com/jobs/view/online-chat-operator-%e2%80%93-work-from-home-at-chalia-capital-srl-4382788515": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-refrigeration-design-at-the-haskell-company-4356531520": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4383910230": 1,
-    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1,
-    "https://www.linkedin.com/jobs/view/junior-product-manager-at-experian-4384346013": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
-    "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-sotalent-4382793476": 1,
-    "https://www.linkedin.com/jobs/view/sr-vp-marketing-remote-at-jobgether-4384817931": 1,
     "https://www.linkedin.com/jobs/view/netsuite-konsulent-skandinavia-at-staria-4366336454": 1,
     "https://www.linkedin.com/jobs/view/llm-agent-engineer-freelance-wfh-at-begig-4382752763": 1,
     "https://www.linkedin.com/jobs/view/senior-go-to-market-engineer-sr-revenue-operations-manager-at-beacon-biosignals-4374176568": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-snap-talent-co-4388282791": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4388733203": 1,
     "https://www.linkedin.com/jobs/view/commercial-analyst-projects-at-kfc-4386139961": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-marketing-operations-at-korn-ferry-4388748417": 1
+    "https://www.linkedin.com/jobs/view/sr-director-marketing-operations-at-korn-ferry-4388748417": 1,
+    "https://www.linkedin.com/jobs/view/data-engineering-specialist-at-mercor-4388607719": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388291403": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388600115": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388298189": 1,
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4388742435": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388298190": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388286575": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388292406": 1,
+    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388600120": 1,
+    "https://www.linkedin.com/jobs/view/golang-engineer-at-canonical-4286649042": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-net-operations-engineer-at-cvs-health-4388718324": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-ragnar-benson-construction-llc-a-mastec-company-4388249426": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-wordpress%2bseo-at-agilegrid-solutions-4388770015": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
