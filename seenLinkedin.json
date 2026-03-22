@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cmdb-engineer-b2b-at-avalanche-laboratory-4383535143": 1,
-    "https://www.linkedin.com/jobs/view/senior-martech-engineer-at-telus-digital-4373607568": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-engineer-at-upguard-4375147968": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384841481": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-contact-center-at-presidio-4385120670": 1,
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384857201": 1,
     "https://www.linkedin.com/jobs/view/sem-campaign-manager-at-kforce-inc-4385131586": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388656162": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-%e2%80%93-fully-remote-at-fgs-recruitment-4386619433": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386622275": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386605890": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386605890": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4389009156": 1,
+    "https://www.linkedin.com/jobs/view/chemistry-consultant-max-%2473-hr-at-mercor-4389011123": 1,
+    "https://www.linkedin.com/jobs/view/graduate-production-engineer-at-haystack-4388796567": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
