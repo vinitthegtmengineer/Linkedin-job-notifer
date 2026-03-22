@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-content-strategy-at-quadient-4383922341": 1,
-    "https://www.linkedin.com/jobs/view/influencer-campaign-executive-at-akg-media-4384842152": 1,
     "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1,
     "https://www.linkedin.com/jobs/view/mindset-success-consultant-at-rise-with-abundance-4383281447": 1,
     "https://www.linkedin.com/jobs/view/hindi-text-consultant-remote-at-keystone-recruitment-4384801693": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388782200": 1,
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388780357": 1,
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388772623": 1,
-    "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-4388603886": 1
+    "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-4388603886": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-yum%21-brands-4386608349": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-all-genders-at-maniko-nails-4386612233": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
