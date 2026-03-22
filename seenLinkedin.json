@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383053441": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383043869": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383051456": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383059238": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383042849": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383046717": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383040959": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383048695": 1,
-    "https://www.linkedin.com/jobs/view/marketing-community-executive-at-talent-right-aus-4385174559": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-blue-square-4383055297": 1,
     "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385136640": 1,
     "https://www.linkedin.com/jobs/view/account-manager-mh-community-operator-at-zippy-4385186307": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-magical-4385187336": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386617837": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-at-aytza-4389006444": 1,
     "https://www.linkedin.com/jobs/view/sage-200-sicon-consultant-at-chapman-tate-associates-4386618775": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386629160": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386629160": 1,
+    "https://www.linkedin.com/jobs/view/global-marketing-executive-at-vivian-studios-4388659455": 1,
+    "https://www.linkedin.com/jobs/view/media-supervisor-associate-dir-performance-media-at-r-r-partners-4388795270": 1,
+    "https://www.linkedin.com/jobs/view/senior-community-marketing-manager-accountants-at-gusto-4370113566": 1,
+    "https://www.linkedin.com/jobs/view/client-account-manager-msa-at-questpro-4374608906": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-manager-at-viva-talent-4388794960": 1,
+    "https://www.linkedin.com/jobs/view/senior-national-account-manager-at-terracon-4388201243": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-inside-sales-at-forward-air-corporation-4363890886": 1,
+    "https://www.linkedin.com/jobs/view/senior-online-marketing-manager-at-teaching-finance-4386602402": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-netherlands-f-m-d-at-placetel-4386612668": 1,
+    "https://www.linkedin.com/jobs/view/culture-marketing-manager-japan%ef%bc%88%e3%82%ab%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%ef%bc%89-at-marshall-group-4309039529": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 50,
+    "cyclesToday": 51,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
