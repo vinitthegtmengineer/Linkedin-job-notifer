@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385141332": 1,
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385138299": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383053441": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383043869": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383051456": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389018081": 1,
     "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388649937": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386617837": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-at-aytza-4389006444": 1
+    "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-at-aytza-4389006444": 1,
+    "https://www.linkedin.com/jobs/view/sage-200-sicon-consultant-at-chapman-tate-associates-4386618775": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386629160": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
