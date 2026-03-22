@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/fbs-sr-database-operations-engineer-aws-bedrock-experience-at-capgemini-4383022402": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategic-operations-manager-at-twilio-4384835303": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%c2%a360k-%c2%a366k-%2b-2-5%25-equity-at-konduit-at-jack-jill-4384598663": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383915122": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-manager-latam-based-at-thesoul-group-4384578510": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-growth-manager-at-ruby-labs-4384549156": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-growth-manager-at-ruby-labs-4384539716": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/demand-operator-lead-at-clickup-4363401801": 1,
     "https://www.linkedin.com/jobs/view/bess-engineer-at-akuo-4335736784": 1,
     "https://www.linkedin.com/jobs/view/sr-vp-global-marketing-at-myriad-genetics-4359172144": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-gitlab-4369978689": 1
+    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-gitlab-4369978689": 1,
+    "https://www.linkedin.com/jobs/view/banking-operator-m-w-d-at-finwyz-gmbh-4386616570": 1,
+    "https://www.linkedin.com/jobs/view/rcd-project-systems-engineer-nete-at-weir-minerals-4314912318": 1,
+    "https://www.linkedin.com/jobs/view/senior-cluster-site-reliability-engineer-at-the-voleon-group-4379274919": 1,
+    "https://www.linkedin.com/jobs/view/founding-sales-enablement-lead-at-7ai-4386600288": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
