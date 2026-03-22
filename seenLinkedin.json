@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-latam-based-at-thesoul-group-4384578510": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-growth-manager-at-ruby-labs-4384549156": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-growth-manager-at-ruby-labs-4384539716": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-equa-health-4384861535": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-classpass-4383024418": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-partnerships-at-jobgether-4384816901": 1,
-    "https://www.linkedin.com/jobs/view/revops-architect-gong-at-go-nimbly-4385120122": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383536553": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-coordinator-at-instacart-4384889929": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-atendimento-e-cobran%c3%a7a-at-juca-cr%c3%a9dito-100%25-digital-4383035187": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/banking-operator-m-w-d-at-finwyz-gmbh-4386616570": 1,
     "https://www.linkedin.com/jobs/view/rcd-project-systems-engineer-nete-at-weir-minerals-4314912318": 1,
     "https://www.linkedin.com/jobs/view/senior-cluster-site-reliability-engineer-at-the-voleon-group-4379274919": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-enablement-lead-at-7ai-4386600288": 1
+    "https://www.linkedin.com/jobs/view/founding-sales-enablement-lead-at-7ai-4386600288": 1,
+    "https://www.linkedin.com/jobs/view/founding-partner-engineer-at-infinitech-4388632652": 1,
+    "https://www.linkedin.com/jobs/view/web-developer-engineer-senior-at-agilegrid-solutions-4388799259": 1,
+    "https://www.linkedin.com/jobs/view/partner-director-emea-at-qad-4336056001": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-at-omnissa-4369822398": 1,
+    "https://www.linkedin.com/jobs/view/executive-sales-marketing-at-codevus-4382832771": 1,
+    "https://www.linkedin.com/jobs/view/head-of-outbound-growth-at-open-health-4388293820": 1,
+    "https://www.linkedin.com/jobs/view/director-of-product-marketing-group-practices-at-simplepractice-4361270275": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-tasaki-usa-inc-4388762100": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
