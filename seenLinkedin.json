@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-business-partner-at-vast-data-4383950243": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-scry-ai-4383513880": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-at-zinance-4383917909": 1,
-    "https://www.linkedin.com/jobs/view/fbs-sr-database-operations-engineer-aws-bedrock-experience-at-capgemini-4383014719": 1,
     "https://www.linkedin.com/jobs/view/fbs-sr-database-operations-engineer-aws-bedrock-experience-at-capgemini-4383022402": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-strategic-operations-manager-at-twilio-4384835303": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%c2%a360k-%c2%a366k-%2b-2-5%25-equity-at-konduit-at-jack-jill-4384598663": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386614456": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4388779483": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-orbits-r-d-at-planet-4363851559": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
+    "https://www.linkedin.com/jobs/view/demand-operator-lead-at-clickup-4363401801": 1,
+    "https://www.linkedin.com/jobs/view/bess-engineer-at-akuo-4335736784": 1,
+    "https://www.linkedin.com/jobs/view/sr-vp-global-marketing-at-myriad-genetics-4359172144": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-gitlab-4369978689": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-22",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
