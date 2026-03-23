@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384849155": 1,
-    "https://www.linkedin.com/jobs/view/senior-appian-engineer-at-cloudious-llc-4384874154": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384835755": 1,
-    "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-sureserve-4383998192": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384857230": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384841479": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4384854360": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-red-global-4383007603": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-gtm-at-samsara-4347608206": 1,
     "https://www.linkedin.com/jobs/view/senior-consultants-at-deccan-ai-experts-4385341141": 1,
     "https://www.linkedin.com/jobs/view/corso-di-formazione-gratuito-per-operatore-trice-di-patronato-e-caf-at-openjobmetis-spa-4384816630": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-ntt-data-north-america-4367166470": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/tiktok-operator-at-mexc-4389084005": 1,
     "https://www.linkedin.com/jobs/view/perception-engineer-remote-at-crossing-hurdles-4388699277": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-aws-at-sagility-4386685077": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4386668754": 1
+    "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4386668754": 1,
+    "https://www.linkedin.com/jobs/view/agentic-engineer-ai-first-builder-at-odee-4388699840": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-vayuz-technologies-4386682247": 1,
+    "https://www.linkedin.com/jobs/view/vp-global-strategic-hyperscaler-alliances-at-outsystems-4363612069": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-releconnect-4389068614": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-crypto-industry-at-abovea-4386676491": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386781440": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386793034": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386780578": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
