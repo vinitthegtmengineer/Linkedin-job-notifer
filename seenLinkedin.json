@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383055407": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385149336": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383047751": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4385328740": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-loop-4356477834": 1,
     "https://www.linkedin.com/jobs/view/marketing-analytics-attribution-manager-at-keeper-security-inc-4373131809": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-meta-google-%2b-seo-at-uzuhealth-4384263198": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-am-structures-4389099135": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377740133": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377726273": 1,
-    "https://www.linkedin.com/jobs/view/director-of-ecommerce-food-bev-lifestyle-brand-at-the-talent-magnet-4389086542": 1
+    "https://www.linkedin.com/jobs/view/director-of-ecommerce-food-bev-lifestyle-brand-at-the-talent-magnet-4389086542": 1,
+    "https://www.linkedin.com/jobs/view/launch-director-consultant-%e2%80%93-denver-at-bni-global-4388939947": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-vayuz-technologies-4389099066": 1,
+    "https://www.linkedin.com/jobs/view/engineer-plattform-ai-ops-m-w-d-95-000%e2%82%ac-remote-at-computer-futures-4389205011": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-diya-greencity-private-limited-4388937966": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
