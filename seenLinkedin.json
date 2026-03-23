@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultants-at-deccan-ai-experts-4385341141": 1,
-    "https://www.linkedin.com/jobs/view/corso-di-formazione-gratuito-per-operatore-trice-di-patronato-e-caf-at-openjobmetis-spa-4384816630": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-ntt-data-north-america-4367166470": 1,
     "https://www.linkedin.com/jobs/view/junior-wordpress-digital-marketing-executive-at-yallo-group-4385337464": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-social-media-%e2%80%93-si-swimsuit-at-minute-media-4384823526": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4375073537": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386781440": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386793034": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386780578": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1,
+    "https://www.linkedin.com/jobs/view/ai-growth-operator-europe-at-acquism-sarl-4389063985": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4388914160": 1,
+    "https://www.linkedin.com/jobs/view/snowflake-platform-engineering-at-adroit-india-4386674632": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
