@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-assistant-remote-4385146468": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4384218399": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385198558": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4385189815": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-acl-digital-4383963800": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4383066800": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4385307161": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-operations-coordinator-at-jobgether-4384824549": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385170702": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4385168619": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-commercial-operations-at-omada-health-4372618967": 1,
-    "https://www.linkedin.com/jobs/view/partner-sales-manager-at-dynatrace-4385184113": 1,
     "https://www.linkedin.com/jobs/view/field-operations-manager-apj-at-cato-networks-4362264138": 1,
     "https://www.linkedin.com/jobs/view/ai-engagement-manager-at-rapidcanvas-4383018241": 1,
     "https://www.linkedin.com/jobs/view/director-fusion-sales-americas-at-autodesk-4324090389": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/poultry-farm-operator-at-mercor-4389007983": 1,
     "https://www.linkedin.com/jobs/view/poultry-farm-operator-at-mercor-4389007988": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-cortexhub-ai-4386630334": 1,
-    "https://www.linkedin.com/jobs/view/consulente-gare-pubbliche-mepa-at-bel-engineering-4386631309": 1
+    "https://www.linkedin.com/jobs/view/consulente-gare-pubbliche-mepa-at-bel-engineering-4386631309": 1,
+    "https://www.linkedin.com/jobs/view/gtm-consultant-m-w-remote-at-clayground-4386608159": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-sales-at-orchestry-4388656608": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-workaholic360-4388612925": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-gtm-lead-of-professional-services-p-c-remote-at-duck-creek-technologies-4361730085": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-performance-manager-us-remote-at-remotehunter-4388626978": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-ksa-at-sully-ai-4388771678": 1,
+    "https://www.linkedin.com/jobs/view/coo-co-founder-at-copatible-4389014912": 1,
+    "https://www.linkedin.com/jobs/view/sem-campaign-manager-remote-at-forbes-advisor-4369820559": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mercier-consultancy-md-4388620684": 1,
+    "https://www.linkedin.com/jobs/view/abm-campaign-executive-at-atoz-4388653332": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4388795637": 1,
+    "https://www.linkedin.com/jobs/view/resource-coordinator-at-ferrilli-4388674231": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-03-22",
-    "cyclesToday": 69,
+    "date": "2026-03-23",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
