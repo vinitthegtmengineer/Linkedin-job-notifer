@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-paid-social-at-zeta-global-4373604310": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4358784104": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-jobgether-4385344983": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385356914": 1,
     "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-softserve-4388970003": 1,
     "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-softserve-4388968024": 1,
     "https://www.linkedin.com/jobs/view/director-sales-enablement-at-solovis-4388544836": 1,
-    "https://www.linkedin.com/jobs/view/marketing-research-brand-manager-at-the-fountain-group-4389093453": 1
+    "https://www.linkedin.com/jobs/view/marketing-research-brand-manager-at-the-fountain-group-4389093453": 1,
+    "https://www.linkedin.com/jobs/view/sr-consultant-at-public-consulting-group-4388967231": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-tekmetric-4389216371": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
