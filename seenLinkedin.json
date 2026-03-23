@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4384283572": 1,
     "https://www.linkedin.com/jobs/view/operator-startup-founder-sports-club-at-art-of-mondays-4385565079": 1,
     "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385521760": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-lead-remote-uk-or-canada-at-gatekeeper-4385532197": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-adyen-engineer-remote-at-piper-companies-4388954627": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387001210": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4388999383": 1,
-    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4388943971": 1
+    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4388943971": 1,
+    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-at-latitude-ai-4389221159": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
