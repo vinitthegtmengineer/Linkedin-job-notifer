@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-operations-manager-apj-at-cato-networks-4362264138": 1,
-    "https://www.linkedin.com/jobs/view/ai-engagement-manager-at-rapidcanvas-4383018241": 1,
-    "https://www.linkedin.com/jobs/view/director-fusion-sales-americas-at-autodesk-4324090389": 1,
-    "https://www.linkedin.com/jobs/view/director-of-business-operations-at-mobius-talent-global-4385199417": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-marketing-executive-at-indian-school-for-modern-languages-4382407197": 1,
-    "https://www.linkedin.com/jobs/view/community-event-engagement-manager-at-oneleet-4385188204": 1,
-    "https://www.linkedin.com/jobs/view/solutions-consultant-at-vumedi-4385144347": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-remotehunter-4383958364": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-fresher-at-expertrons-delhi-4383533812": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-lead-at-g10-fulfillment-4383932786": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-woven-health-collective-4369966375": 1,
-    "https://www.linkedin.com/jobs/view/director-retail-media-at-harvest-group-4384858806": 1,
-    "https://www.linkedin.com/jobs/view/campaign-project-manager-at-scale-army-careers-4383990355": 1,
-    "https://www.linkedin.com/jobs/view/mainframe-%e2%80%93-ops-automation-senior-zsystems-automation-gdps-engineer-at-teceze-4384241080": 1,
-    "https://www.linkedin.com/jobs/view/vp-revenue-acceleration-at-nexthink-4385303564": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-daytona-beach-entrepreneurial-center-4384879008": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-4385191620": 1,
     "https://www.linkedin.com/jobs/view/production-control-engineer-ii-at-centene-corporation-4375036058": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mercier-consultancy-md-4388620684": 1,
     "https://www.linkedin.com/jobs/view/abm-campaign-executive-at-atoz-4388653332": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4388795637": 1,
-    "https://www.linkedin.com/jobs/view/resource-coordinator-at-ferrilli-4388674231": 1
+    "https://www.linkedin.com/jobs/view/resource-coordinator-at-ferrilli-4388674231": 1,
+    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4389022624": 1,
+    "https://www.linkedin.com/jobs/view/bna-remote-pilot-operator-at-lensa-4389041087": 1,
+    "https://www.linkedin.com/jobs/view/atl-remote-pilot-operator-at-lensa-4389021753": 1,
+    "https://www.linkedin.com/jobs/view/ewr-remote-pilot-operator-at-lensa-4389026563": 1,
+    "https://www.linkedin.com/jobs/view/application-engineering-specialist-remote-or-hybrid-at-lensa-4389034316": 1,
+    "https://www.linkedin.com/jobs/view/remote-o365-engineer-at-lensa-4389038284": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4389039166": 1,
+    "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4389034323": 1,
+    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4389041088": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-france-f-m-d-at-placetel-4386622140": 1,
+    "https://www.linkedin.com/jobs/view/sr-account-manager-remote-at-lensa-4389036214": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-buyer-part-time-remote-latin-america-at-bluelight-4389027041": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-lead-at-sira-4383691951": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-buyer-part-time-remote-latin-america-at-bluelight-4389016763": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analytics-growth-manager-at-cloudone-digital-4382427565": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
