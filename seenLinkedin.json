@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-jobgether-4385344983": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385356914": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-social-media%e2%80%af-marketing-at-genpact-4385376311": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-king-partners-4385100980": 1,
     "https://www.linkedin.com/jobs/view/coordinator-sales-and-marketing-at-fable-and-mane-4383132413": 1,
     "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/director-sales-enablement-at-solovis-4388544836": 1,
     "https://www.linkedin.com/jobs/view/marketing-research-brand-manager-at-the-fountain-group-4389093453": 1,
     "https://www.linkedin.com/jobs/view/sr-consultant-at-public-consulting-group-4388967231": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-tekmetric-4389216371": 1
+    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-tekmetric-4389216371": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4387070925": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-microtech-global-ltd-4389091673": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-uk-at-bolt6-4389222333": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-stella-rising-4388925763": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
