@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4320734663": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383904742": 1,
-    "https://www.linkedin.com/jobs/view/shopper-marketing-manager-at-trip-4383964425": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-vel-4385325521": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383556070": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4383550160": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/solar-operations-engineer-at-oxbo-4383721125": 1,
     "https://www.linkedin.com/jobs/view/process-validation-engineer-100%25-travel-at-syner-g-4318569425": 1,
     "https://www.linkedin.com/jobs/view/head-of-creative-operations-at-atlassian-4329166365": 1,
-    "https://www.linkedin.com/jobs/view/head-of-creative-operations-at-atlassian-4378320231": 1
+    "https://www.linkedin.com/jobs/view/head-of-creative-operations-at-atlassian-4378320231": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%8c%9f-sc-cleared-consultant-engineers-%e2%80%93-high-impact-gov-defence-projects-london-huge-growth-progression-%f0%9f%8c%9f-at-areti-group-b-corp%e2%84%a2-4389060883": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-plandek-4388783910": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386660815": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
