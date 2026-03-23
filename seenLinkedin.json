@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4385540107": 1,
-    "https://www.linkedin.com/jobs/view/sage-100-consultant-at-rand-group-4384290134": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-account-executive-at-golden-proportions-marketing-4385527710": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-manager-digital-at-motus-4385367264": 1,
     "https://www.linkedin.com/jobs/view/senior-product-manager-at-medallion-4385371739": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/i4-0-engineer-at-flowers-foods-subsidiaries-4388951590": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387005155": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389094016": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389089472": 1
+    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389089472": 1,
+    "https://www.linkedin.com/jobs/view/online-chat-operator-at-medical-marijuana-clinic-4388988810": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
