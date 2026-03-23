@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-product-manager-formations-remote-at-forbes-advisor-4383958158": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4385301760": 1,
     "https://www.linkedin.com/jobs/view/vice-president-global-new-business-sales-at-cloudinary-4384211604": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359834758": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/cloudops-engineer-at-hyqoo-4388685705": 1,
     "https://www.linkedin.com/jobs/view/reverse-engineer-at-group-ib-4386666312": 1,
     "https://www.linkedin.com/jobs/view/svp-enablement-transformation-at-onestream-software-4388580083": 1,
-    "https://www.linkedin.com/jobs/view/marketing-project-coordinator-at-mercor-4389013835": 1
+    "https://www.linkedin.com/jobs/view/marketing-project-coordinator-at-mercor-4389013835": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-let-s-roam-4388692552": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
