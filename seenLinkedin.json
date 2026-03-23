@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-sales-marketing-at-scale-army-careers-4383924743": 1,
-    "https://www.linkedin.com/jobs/view/lead-financial-analyst-distribution-at-transamerica-4366506869": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-automation-at-keeper-security-inc-4373140463": 1,
-    "https://www.linkedin.com/jobs/view/atc-tower-remote-pilot-operator-at-lensa-4385311975": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383053439": 1,
-    "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383041902": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383055407": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-4385149336": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383047751": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-waf-engineer-at-us-tech-solutions-4364115301": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-executive-at-centre-of-excellence-4389076639": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4387000007": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-tagmango-4388932387": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-tagmango-4388932387": 1,
+    "https://www.linkedin.com/jobs/view/defi-liquidity-operator-at-ubriks-4386684826": 1,
+    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4291074541": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-am-structures-4389099135": 1,
+    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377740133": 1,
+    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377726273": 1,
+    "https://www.linkedin.com/jobs/view/director-of-ecommerce-food-bev-lifestyle-brand-at-the-talent-magnet-4389086542": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
