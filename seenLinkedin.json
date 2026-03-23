@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-event-engagement-manager-at-oneleet-4385174924": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4385181241": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-aerospace-defense-at-synopsys-inc-4375181765": 1,
-    "https://www.linkedin.com/jobs/view/community-event-engagement-manager-at-oneleet-4385193060": 1,
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-sales-marketing-at-scale-army-careers-4383924743": 1,
     "https://www.linkedin.com/jobs/view/lead-financial-analyst-distribution-at-transamerica-4366506869": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-automation-at-keeper-security-inc-4373140463": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730228": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377736149": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377719786": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730227": 1
+    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730227": 1,
+    "https://www.linkedin.com/jobs/view/ignition-engineer-scada-epms-at-sr2-socially-responsible-recruitment-certified-b-corporation%e2%84%a2-4386683663": 1,
+    "https://www.linkedin.com/jobs/view/senior-waf-engineer-at-us-tech-solutions-4364115301": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-executive-at-centre-of-excellence-4389076639": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4387000007": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-tagmango-4388932387": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
