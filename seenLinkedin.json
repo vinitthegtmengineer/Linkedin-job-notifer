@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/co-founder-cto-founder-associate-venture-builder-founding-ai-engineer-product-at-wert-ai-4383096405": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324888242": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324609072": 1,
-    "https://www.linkedin.com/jobs/view/national-channel-partner-manager-at-glean-4332202418": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-vma-group-4383152043": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-trigital-technologies-pvt-ltd-4383138559": 1,
     "https://www.linkedin.com/jobs/view/creator-marketing-manager-at-think-jam-4385385264": 1,
     "https://www.linkedin.com/jobs/view/investors-fund-raising-consultant-for-recognised-deeptech-startup-at-cellumantra-biorefinery-pvt-ltd-4383144696": 1,
     "https://www.linkedin.com/jobs/view/instructor-for-ai-for-sales-workshops-part-time-at-tripleten-indonesia-4383040956": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387089505": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387085459": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-akkodis-4388979035": 1,
-    "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4387081804": 1
+    "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4387081804": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387086570": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387086551": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387085511": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4387096283": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-canals-4389246088": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-mynexttrip-ai-4388966733": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
