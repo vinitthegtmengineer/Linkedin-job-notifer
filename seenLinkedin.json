@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-king-partners-4385100980": 1,
-    "https://www.linkedin.com/jobs/view/coordinator-sales-and-marketing-at-fable-and-mane-4383132413": 1,
-    "https://www.linkedin.com/jobs/view/strategic-marketing-initiatives-and-programs-manager-at-jobgether-4385360277": 1,
-    "https://www.linkedin.com/jobs/view/lead-gtm-systems-engineer-at-wiz-4373151562": 1,
-    "https://www.linkedin.com/jobs/view/freelance-linkedin-marketing-executive-at-bwbmart-4383118633": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-growth-strategy-at-arches-4383977195": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-triple-whale-4331053401": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4324658514": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4387070925": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-microtech-global-ltd-4389091673": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-uk-at-bolt6-4389222333": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-stella-rising-4388925763": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-stella-rising-4388925763": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4386684431": 1,
+    "https://www.linkedin.com/jobs/view/ups-engineer-midlands-north-at-adept-power-solutions-ltd-4389230072": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4388975219": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-feed-business-middle-east-africa-4387087119": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4387085160": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
