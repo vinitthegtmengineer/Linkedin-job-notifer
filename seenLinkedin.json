@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383141965": 1,
-    "https://www.linkedin.com/jobs/view/duty-engineer-at-minor-hotels-4338996481": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-human-resources-systems-group-4383147716": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aireziq-4385502173": 1,
     "https://www.linkedin.com/jobs/view/affiliate-marketing-specialist-at-paula-s-choice-skincare-4375615937": 1,
     "https://www.linkedin.com/jobs/view/pa-operations-and-marketing-at-eden-recruitment-ltd-4385516085": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-mynexttrip-ai-4388966733": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-cbl-solutions-4389245551": 1,
     "https://www.linkedin.com/jobs/view/looking-for-alteryx-engineer-alteryx-engineer-remote-at-configusa-4387098397": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-marketing-focus-at-solvo-global-4388949752": 1
+    "https://www.linkedin.com/jobs/view/executive-assistant-marketing-focus-at-solvo-global-4388949752": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-senior-%e2%80%93-secteur-public-immobilier-h-f-at-lastep-4388986133": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-interface-ai-4389250225": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4309687830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
