@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-account-executive-at-golden-proportions-marketing-4385527710": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-digital-at-motus-4385367264": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-manager-at-medallion-4385371739": 1,
-    "https://www.linkedin.com/jobs/view/revenue-cycle-academy-program-manager-208588-at-aquent-4385389869": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-verato-4385120725": 1,
-    "https://www.linkedin.com/jobs/view/project-manager-content-manager-at-jobgether-4385520498": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-operations-analyst-1494-at-lateam-partners-4384307831": 1,
     "https://www.linkedin.com/jobs/view/manager-demand-planning-at-comfrt-4383065818": 1,
     "https://www.linkedin.com/jobs/view/account-supervisor-influencer-marketing-at-viral-nation-4385198692": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389094016": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389089472": 1,
     "https://www.linkedin.com/jobs/view/online-chat-operator-at-medical-marijuana-clinic-4388988810": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1
+    "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1,
+    "https://www.linkedin.com/jobs/view/ceo%e2%80%93operator-platform-level-at-the-recruiting-squad-4389295047": 1,
+    "https://www.linkedin.com/jobs/view/cmc-consultant-at-apsida-life-science-4387504171": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-ranger-technical-resources-4389283628": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4389309052": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-senior-associate-at-baretz%2bbrunelle-4388993850": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-sbcollective-4388998423": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-23",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
