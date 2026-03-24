@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-financial-planning-at-veritas-partners-4376664109": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-sira-4383652522": 1,
-    "https://www.linkedin.com/jobs/view/berater-in-f%c3%bcr-wohlbefinden-pers%c3%b6nliche-entwicklung-remote-4383177761": 1,
     "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-birdy-grey-4331937375": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-24-seven-talent-4384289722": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/product-marketing-builder-ai-native-romania-at-customgpt-ai-4389785381": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-at-refine-ink-4389410298": 1,
     "https://www.linkedin.com/jobs/view/operator-at-makhavi-arabia-contracting-co-4388483392": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4389823777": 1
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-vikara-ai-4389823777": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389476542": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389467808": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-eden-4389324522": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
