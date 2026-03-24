@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-crux-4385813283": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383653673": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-and-community-relations-at-h-h-leadership-solutions-4385889873": 1,
-    "https://www.linkedin.com/jobs/view/engineer-at-raksha-labs-4384685059": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-specialist-at-docker-inc-4375862937": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373435715": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4373434712": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-contract-at-aura-4385803403": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineering-gtme-at-aicro-4385894553": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-vap-at-trinity-life-sciences-4375841514": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/professional-social-media-manager-m-f-d-at-autodoc-4389561782": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-path-iq-4388083415": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-lifecycle-marketing-at-articulate-4389850166": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389470908": 1
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389470908": 1,
+    "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389413702": 1,
+    "https://www.linkedin.com/jobs/view/production-control-engineer-ii-at-centene-corporation-4380178995": 1,
+    "https://www.linkedin.com/jobs/view/substation-project-engineer-at-premier-finder-llc-4389424342": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-enterprise-storage-and-backups-at-healthfirst-4378895308": 1,
+    "https://www.linkedin.com/jobs/view/procesn%c3%ad-in%c5%been%c3%bdr-vhodn%c3%a9-i-pro-absolventy-at-magna-international-4389702746": 1,
+    "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-lensa-4387542205": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-enterprise-storage-and-backups-at-healthfirst-4378884476": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
