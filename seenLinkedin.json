@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-psychiatrist-remote-at-crossing-hurdles-4384679068": 1,
-    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344932977": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-avenue-code-4328241412": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-wiraa-4385846689": 1,
-    "https://www.linkedin.com/jobs/view/berater-freelance-at-hogar-clean-gmbh-4385881518": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385815987": 1,
-    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-delinea-4332215709": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-kaleris-4203550988": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4385830308": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-cengage-4367526270": 1,
     "https://www.linkedin.com/jobs/view/pmo-ing%c3%a9nieur-projet-at-scalian-4334622680": 1,
     "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-aerocloud-4385882543": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-solana-anchor-smart-contract-engineer-production-level-at-apeing-dex-4385553954": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389284269": 1,
     "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389279401": 1,
     "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-enterprise-storage-and-backups-at-healthfirst-4378891314": 1,
-    "https://www.linkedin.com/jobs/view/systemingenieur-projektingenieur-w-m-d-at-brunel-4389705351": 1
+    "https://www.linkedin.com/jobs/view/systemingenieur-projektingenieur-w-m-d-at-brunel-4389705351": 1,
+    "https://www.linkedin.com/jobs/view/rancher-operator-up-to-%2470-hr-at-mercor-4389743000": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359834758": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360573977": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001917": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360592611": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544758": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544801": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001762": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359844809": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001711": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-mk-art-publicity-4388406291": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
