@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-operations-manager-at-tines-4385546025": 1,
     "https://www.linkedin.com/jobs/view/customer-success-manager-iqueue-for-inpatient-flow-at-leantaas-4355319695": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-independent-contractor-at-dataannotation-4367612993": 1,
     "https://www.linkedin.com/jobs/view/head-of-financial-planning-at-veritas-partners-4376664109": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/demand-generation-manager-at-quandri-4389757203": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-builder-ai-native-serbia-at-customgpt-ai-4389715756": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sbh-fashion-4389786081": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-builder-ai-native-romania-at-customgpt-ai-4389785381": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-builder-ai-native-romania-at-customgpt-ai-4389785381": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-refine-ink-4389410298": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
