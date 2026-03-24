@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-e-commerce-account-manager-client-experience-at-power-digital-marketing-4383606803": 1,
     "https://www.linkedin.com/jobs/view/anaplan-application-developer-at-attentive-4385575880": 1,
     "https://www.linkedin.com/jobs/view/senior-events-manager-at-certifid-4382490437": 1,
     "https://www.linkedin.com/jobs/view/fractional-chief-marketing-officer-chief-content-officer-at-the-global-talent-co-4385548055": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4387526590": 1,
     "https://www.linkedin.com/jobs/view/operador-ia-para-video-generativo-proyecto-puntual-de-dos-semanas-comienzo-inmediato-4387089916": 1,
     "https://www.linkedin.com/jobs/view/it-system-engineer-at-agilegrid-solutions-4389449999": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-jobgether-4389554019": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-jobgether-4389554019": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jet-ave-4389529857": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
