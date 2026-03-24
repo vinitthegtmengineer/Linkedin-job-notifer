@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-amiseq-4385388082": 1,
-    "https://www.linkedin.com/jobs/view/equity-only-founding-bdr-founding-account-executive-co-founder-cto-full-stack-developer-venture-builder-founding-ai-engineer-product-maschinebau-pacakging-techincal-sales-at-wert-ai-4383612870": 1,
-    "https://www.linkedin.com/jobs/view/product-gtm-manager-at-bazaarvoice-4385593985": 1,
-    "https://www.linkedin.com/jobs/view/50%2b-manager-als-berater-at-impact-insider-i-magazin-podcast-und-think-tank-f%c3%bcr-digitale-impact-innovationen-4384638851": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-tempo-co-4384654150": 1,
-    "https://www.linkedin.com/jobs/view/%e5%9b%bd%e5%86%85%e4%ba%88%e7%b4%84%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88-at-nisade-niseko-alpine-developments-x-the-luxe-nomad-4384653214": 1,
-    "https://www.linkedin.com/jobs/view/executive-operations-coordinator-at-meg-inc-4385509586": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383644030": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-ai-data-training-hub-4383641237": 1,
-    "https://www.linkedin.com/jobs/view/senior-analyst-corporate-fp-a-at-attentive-4385584611": 1,
     "https://www.linkedin.com/jobs/view/avp-social-media-at-american-public-education-inc-apei-4379155534": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-jobs-via-dice-4384624228": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-business-development-at-versaterm-4375635806": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-sage-300-cre-upgrade-consultant-at-robert-half-4388994591": 1,
     "https://www.linkedin.com/jobs/view/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%bf%d0%be-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b5-%d1%82%d1%83%d1%80%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d1%83%d1%81%d0%bb%d1%83%d0%b3-%d0%b2-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b5-%d0%b5%d1%81-at-alliance-tk-4387569846": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389431357": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-009-00690-at-hunt-st-4389450645": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-009-00690-at-hunt-st-4389450645": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389422566": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-jobgether-4388946961": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-at-abbi-kirsten-collections-4388957789": 1,
+    "https://www.linkedin.com/jobs/view/sr-growth-events-marketing-manager-social-impact-at-twilio-4389427198": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-jobgether-4388960415": 1,
+    "https://www.linkedin.com/jobs/view/director-outreach-and-marketing-at-aspire-institute-4388684718": 1,
+    "https://www.linkedin.com/jobs/view/procurement-specialist-4-remote-at-lensa-4387530549": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-jobgether-4388959471": 1,
+    "https://www.linkedin.com/jobs/view/customer-success-manager-at-salt-4387013687": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4387526590": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
