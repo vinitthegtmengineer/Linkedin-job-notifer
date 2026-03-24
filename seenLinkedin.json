@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383660233": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-manager-at-busbud-4385526715": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-proposal-coordinator-central-eastern-time-preferred-at-swca-environmental-consultants-4359446129": 1,
     "https://www.linkedin.com/jobs/view/vp-of-client-delivery-at-inizio-ignite-3897188913": 1,
     "https://www.linkedin.com/jobs/view/chief-operating-officer-at-grey-umbrella-marketing-4385872799": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-raleigh-carolinas-%234675-at-grail-4379111312": 1,
     "https://www.linkedin.com/jobs/view/sr-databricks-engineer-at-weekday-yc-w21-4388034687": 1,
     "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-fetchjobs-co-4389820236": 1,
+    "https://www.linkedin.com/jobs/view/national-account-manager-mass-club-at-feel-good-foods-4389733702": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
