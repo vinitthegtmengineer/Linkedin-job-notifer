@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/avp-social-media-at-american-public-education-inc-apei-4379155534": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-jobs-via-dice-4384624228": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-business-development-at-versaterm-4375635806": 1,
     "https://www.linkedin.com/jobs/view/senior-e-commerce-account-manager-client-experience-at-power-digital-marketing-4383606803": 1,
     "https://www.linkedin.com/jobs/view/anaplan-application-developer-at-attentive-4385575880": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/procurement-specialist-4-remote-at-lensa-4387530549": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-jobgether-4388959471": 1,
     "https://www.linkedin.com/jobs/view/customer-success-manager-at-salt-4387013687": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4387526590": 1
+    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-up-to-%241000-hour-at-mercor-4387526590": 1,
+    "https://www.linkedin.com/jobs/view/operador-ia-para-video-generativo-proyecto-puntual-de-dos-semanas-comienzo-inmediato-4387089916": 1,
+    "https://www.linkedin.com/jobs/view/it-system-engineer-at-agilegrid-solutions-4389449999": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
