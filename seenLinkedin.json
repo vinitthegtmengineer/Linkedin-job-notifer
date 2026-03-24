@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-follett-software-4374625347": 1,
-    "https://www.linkedin.com/jobs/view/consulente-didattico-at-universit%c3%a0-degli-studi-ecampus-4351900035": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384674414": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4383648556": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384666982": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-toronto-remote-at-war-room-4385829708": 1,
     "https://www.linkedin.com/jobs/view/data-engineering-at-arbor-4385526916": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-lake-cement-ltd-4383646787": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-en-transformation-num%c3%a9rique-sirh-paie-h-f-at-mc2i-4356800867": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/process-engineer-%e2%80%93-hydrogen-ammonia-at-flemtec-4389493483": 1,
     "https://www.linkedin.com/jobs/view/senior-platform-engineer-at-bytesearch-4388401000": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-alliances-at-cei-4389701921": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sircle-media-4389499788": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sircle-media-4389499788": 1,
+    "https://www.linkedin.com/jobs/view/consultant-sma-sea-senior-at-btrfly-4389710231": 1,
+    "https://www.linkedin.com/jobs/view/list-builder-at-injini-consulting-4388088617": 1,
+    "https://www.linkedin.com/jobs/view/industry-4-0-engineer-at-c5mi-4389493597": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-work-on-agentic-healthcare-products-%24200-000-%24350-000-base-plus-bonus%21-at-saragossa-4355749666": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-spotless-brands-4388097363": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-alphasense-4383372846": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
