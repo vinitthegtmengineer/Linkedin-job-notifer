@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consulting-director-%e2%80%93-innosight-healthcare-provider-strategy-innovation-nationwide-at-huron-4347615988": 1,
-    "https://www.linkedin.com/jobs/view/home-based-booking-consultant-at-hope%e2%80%99s-global-getaways-4384624286": 1,
-    "https://www.linkedin.com/jobs/view/playbook-specialist-consultancy-at-reliefweb-4385828370": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-amiseq-4385388082": 1,
     "https://www.linkedin.com/jobs/view/equity-only-founding-bdr-founding-account-executive-co-founder-cto-full-stack-developer-venture-builder-founding-ai-engineer-product-maschinebau-pacakging-techincal-sales-at-wert-ai-4383612870": 1,
     "https://www.linkedin.com/jobs/view/product-gtm-manager-at-bazaarvoice-4385593985": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/consultant-at-talent-bridge-4389079759": 1,
     "https://www.linkedin.com/jobs/view/director-of-gtm-systems-architecture-at-nav-technologies-inc-4389245668": 1,
     "https://www.linkedin.com/jobs/view/director-sales-ops-international-at-dandy-4389420589": 1,
-    "https://www.linkedin.com/jobs/view/senior-sage-300-cre-upgrade-consultant-at-robert-half-4388994591": 1
+    "https://www.linkedin.com/jobs/view/senior-sage-300-cre-upgrade-consultant-at-robert-half-4388994591": 1,
+    "https://www.linkedin.com/jobs/view/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%bf%d0%be-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b5-%d1%82%d1%83%d1%80%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d1%83%d1%81%d0%bb%d1%83%d0%b3-%d0%b2-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b5-%d0%b5%d1%81-at-alliance-tk-4387569846": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389431357": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-009-00690-at-hunt-st-4389450645": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
