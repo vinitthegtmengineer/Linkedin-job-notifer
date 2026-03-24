@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/demand-generation-director-logistics-supply-chain-ai-at-raft-international-4385363927": 1,
-    "https://www.linkedin.com/jobs/view/partner-sales-manager-at-dynatrace-4385543056": 1,
     "https://www.linkedin.com/jobs/view/senior-global-business-development-manager-m-f-d-at-spryker-4344860540": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-lead-remote-uk-or-canada-at-gatekeeper-4385522567": 1,
     "https://www.linkedin.com/jobs/view/gtm-operations-specialist-salesforce-apex-at-wimmer-solutions-philippines-4384144880": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4387548092": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-social-jd-at-rowabi-4389510619": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389427411": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389422565": 1
+    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389422565": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389429380": 1,
+    "https://www.linkedin.com/jobs/view/data-warehouse-operations-senior-engineer-at-motorola-solutions-4372226692": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
