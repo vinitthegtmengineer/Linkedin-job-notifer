@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/anaplan-application-developer-at-attentive-4385575880": 1,
-    "https://www.linkedin.com/jobs/view/senior-events-manager-at-certifid-4382490437": 1,
-    "https://www.linkedin.com/jobs/view/fractional-chief-marketing-officer-chief-content-officer-at-the-global-talent-co-4385548055": 1,
-    "https://www.linkedin.com/jobs/view/content-social-media-marketing-executive-at-bizgrow-digital-4384239993": 1,
-    "https://www.linkedin.com/jobs/view/ai-prototype-builder-at-cntxt-ai-4385855294": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1,
-    "https://www.linkedin.com/jobs/view/turbine-operator-abilene-tx-at-oracle-4373734293": 1,
-    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-usa-remote-at-turnitin-4385521572": 1,
     "https://www.linkedin.com/jobs/view/business-intelligence-analyst-usa-remote-at-turnitin-4385515938": 1,
     "https://www.linkedin.com/jobs/view/senior-data-ops-engineer-at-we-are-meta-4385372206": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4352608711": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/operador-ia-para-video-generativo-proyecto-puntual-de-dos-semanas-comienzo-inmediato-4387089916": 1,
     "https://www.linkedin.com/jobs/view/it-system-engineer-at-agilegrid-solutions-4389449999": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-jobgether-4389554019": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jet-ave-4389529857": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jet-ave-4389529857": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551444": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389556166": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389555137": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389470755": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479460": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479459": 1,
+    "https://www.linkedin.com/jobs/view/knowledge-engineer-at-remotehunter-4389554072": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-24",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
