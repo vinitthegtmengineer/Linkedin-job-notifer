@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/google-advertisements-campaign-manager-with-experience-in-invoice-based-accounts-4380407483": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-i-observability-at-remotehunter-4384940189": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386046188": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ausrehab-4386029916": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-rowabi-4389894343": 1,
     "https://www.linkedin.com/jobs/view/food-concept-builder-%e2%80%93-b%c3%a4ckerei-specialty-coffee-pasta-at-f-m-hospitality-4389994711": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-skull-shaver-4389552890": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-demand-generation-automation-and-marketing-operations-at-scandit-4378154996": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-demand-generation-automation-and-marketing-operations-at-scandit-4378154996": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4389737990": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
