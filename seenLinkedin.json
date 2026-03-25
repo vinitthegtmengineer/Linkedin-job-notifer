@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/new-technologyone-consultant-at-t1-4384924579": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specification-representative-digital-infrastructure-building-solutions-us-canada-at-ppg-4386003090": 1,
-    "https://www.linkedin.com/jobs/view/ml-llm-operations-engineer-at-evolent-4357021921": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategy-business-partner-at-zillow-4358751782": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386056083": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330377134": 1,
-    "https://www.linkedin.com/jobs/view/director-business-risk-at-transamerica-4367277253": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-evenup-4324908261": 1,
     "https://www.linkedin.com/jobs/view/temporary-iam-security-analyst-at-cyber-focus-ai-4384922743": 1,
     "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330577194": 1,
     "https://www.linkedin.com/jobs/view/remote-chemical-consultant-at-mercor-4386039674": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4389558364": 1,
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4389568048": 1,
     "https://www.linkedin.com/jobs/view/associate-engineer-at-anko-gcc-4370796896": 1,
-    "https://www.linkedin.com/jobs/view/senior-open-source-engineer-remote-at-crossing-hurdles-4389558368": 1
+    "https://www.linkedin.com/jobs/view/senior-open-source-engineer-remote-at-crossing-hurdles-4389558368": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-mkonnekt-4389887198": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-larose-co-4389833675": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-silver-cloud-4389579797": 1,
+    "https://www.linkedin.com/jobs/view/specialist-marketing-strategy-at-pearson-4379600172": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-credx-4389735577": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-sem-at-thumbtack-4378556774": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-sumsub-4370416298": 1,
+    "https://www.linkedin.com/jobs/view/global-strategic-sourcing-manager-for-marketing-services-at-sandisk-4380729204": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
