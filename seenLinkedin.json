@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-100-%25-remote-at-koller-lode-4383695568": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-connect-media-4383699370": 1,
-    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386073611": 1,
-    "https://www.linkedin.com/jobs/view/senior-c-engineer-at-ai-data-training-hub-4383693609": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-circle-4383676339": 1,
     "https://www.linkedin.com/jobs/view/remote-consultant-sr-at-jobgether-4386071804": 1,
     "https://www.linkedin.com/jobs/view/remote-sr-consultant-at-jobgether-4386081555": 1,
     "https://www.linkedin.com/jobs/view/electrodynamics-engineer-%e2%80%93-remote-role-at-mercor-4386076537": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/netcracker-oss-consultant-at-endava-4370461255": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390289113": 1,
     "https://www.linkedin.com/jobs/view/senior-database-engineer-devsecops-at-nue-io-4386793546": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-diversity-equity-and-inclusion-society-4390292069": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-diversity-equity-and-inclusion-society-4390292069": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-dise%c3%b1o-jr-at-keatif-4388508285": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-software-engineer-at-flipiq-4390268693": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-national-building-group-at-layton-construction-4390253117": 1,
+    "https://www.linkedin.com/jobs/view/principal-dev-ops-platform-engineering-lead-at-kforce-inc-4390606880": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-synergy-pet-group-4390274773": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
