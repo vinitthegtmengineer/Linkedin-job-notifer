@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4384937332": 1,
-    "https://www.linkedin.com/jobs/view/remote-marketing-operations-director-at-jobgether-4386084342": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-remote-at-jobgether-4386087364": 1,
     "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386074749": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386078645": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/installation-project-engineer-at-g4s-4389198564": 1,
     "https://www.linkedin.com/jobs/view/customer-relationship-management-coordinator-at-galent-4390045722": 1,
     "https://www.linkedin.com/jobs/view/consultor-wm-biling%c3%bce-at-it-nova-4390632735": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4371000210": 1
+    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4371000210": 1,
+    "https://www.linkedin.com/jobs/view/pay-equity-consultant-at-trusaic-4390086031": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-design-at-ford-credit-4390655584": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
