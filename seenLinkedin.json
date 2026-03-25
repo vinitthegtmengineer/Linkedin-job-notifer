@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4386054081": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-get-offers-4386035782": 1,
-    "https://www.linkedin.com/jobs/view/philosophy-consultant-%e2%80%93-multilingual-expert-at-mercor-4386048413": 1,
     "https://www.linkedin.com/jobs/view/eidas2-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386065617": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-infor-fsm-at-nordic-global-4113908410": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-get-offers-4386037837": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390250430": 1,
     "https://www.linkedin.com/jobs/view/sr-director-go-to-market-apac-at-g-p-4390036423": 1,
     "https://www.linkedin.com/jobs/view/head-of-revenue-operations-at-stord-4390269130": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390273445": 1
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390273445": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-ic8-4389198485": 1,
+    "https://www.linkedin.com/jobs/view/channel-director-at-scout-global-4390041679": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-6fc-creator-networks-4390285126": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
