@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1,
-    "https://www.linkedin.com/jobs/view/solana%c2%a0engineer-at-techead-4383692808": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383690853": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-visory-4384003195": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-bettervits-4383693774": 1,
-    "https://www.linkedin.com/jobs/view/assistant-influencer-marketing-campaign-manager-brazil-at-content-lab-4383699362": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384005181": 1,
     "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386075180": 1,
     "https://www.linkedin.com/jobs/view/pre-commissioning-engineer-%e2%80%93-energy-projects-at-norconsulting-global-recruitment-4383688997": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/demand-generation-manager-at-cato-networks-4378198835": 1,
     "https://www.linkedin.com/jobs/view/consultor-fi-senior-hibrido-bogot%c3%a0-at-jessica-4389926163": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380348297": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380346317": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380346317": 1,
+    "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-eteam-4390028548": 1,
+    "https://www.linkedin.com/jobs/view/corso-di-formazione-gratuito-per-operatore-trice-di-patronato-e-caf-26-maggio-2026-at-openjobmetis-spa-4390355936": 1,
+    "https://www.linkedin.com/jobs/view/copilot-consultant-at-cognitive-group-part-of-the-focus-cloud-group-4390152809": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-haystack-4390026703": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-vivid-technology-4390016700": 1,
+    "https://www.linkedin.com/jobs/view/associate-influencer-marketing-manager-at-the-outloud-group-4390161841": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
