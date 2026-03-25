@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/uem-engineer-at-platinum-technologies-4385833050": 1,
-    "https://www.linkedin.com/jobs/view/industrial-engineer-operations-optimization-integration-at-dwyeromega-4386008524": 1,
-    "https://www.linkedin.com/jobs/view/sales-manager-at-prepass-4374621697": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-spacetime-agents-4384641793": 1,
     "https://www.linkedin.com/jobs/view/director-of-customer-success-emea-at-seeq-corporation-4386002092": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4386014970": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4386018843": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-hatch-4389515341": 1,
     "https://www.linkedin.com/jobs/view/member-marketing-operations-specialist-at-carrot-4388477506": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-at-level-access-4380101284": 1,
-    "https://www.linkedin.com/jobs/view/director-of-retail-marketing-at-levels-4389822799": 1
+    "https://www.linkedin.com/jobs/view/director-of-retail-marketing-at-levels-4389822799": 1,
+    "https://www.linkedin.com/jobs/view/operator-hunter-not-gtm-regional-head-of-growth-partnerships-pmc-at-truehoa-inc-4389750062": 1,
+    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4388855783": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-4389319100": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-binance-4388992315": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
