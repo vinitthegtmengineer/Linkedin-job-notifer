@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/temporary-iam-security-analyst-at-cyber-focus-ai-4384922743": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330577194": 1,
-    "https://www.linkedin.com/jobs/view/remote-chemical-consultant-at-mercor-4386039674": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-home-service-trades-at-scorpion-4367672425": 1,
-    "https://www.linkedin.com/jobs/view/remote-chemical-consultant-at-mercor-4386044516": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4386058015": 1,
-    "https://www.linkedin.com/jobs/view/rvp-strategic-account-management-at-zoominfo-4376132049": 1,
-    "https://www.linkedin.com/jobs/view/industry-marketing-manager-at-veriforce-4367568614": 1,
-    "https://www.linkedin.com/jobs/view/marketing-lead-at-prominence-advisors-4364940651": 1,
-    "https://www.linkedin.com/jobs/view/iam-consultant-%e2%80%93-identity-governance-administration-iga-at-abicem-4383684561": 1,
-    "https://www.linkedin.com/jobs/view/information-security-engineer-%e2%80%93-identity-security-operations-at-optomi-4384929926": 1,
     "https://www.linkedin.com/jobs/view/frontend-engineer-at-dalm-4384946080": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-traylor-bros-inc-2793160530": 1,
     "https://www.linkedin.com/jobs/view/the-vacation-romance-consultant-remote-at-reed-s-adventures-4384933847": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-credx-4389735577": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-sem-at-thumbtack-4378556774": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-sumsub-4370416298": 1,
-    "https://www.linkedin.com/jobs/view/global-strategic-sourcing-manager-for-marketing-services-at-sandisk-4380729204": 1
+    "https://www.linkedin.com/jobs/view/global-strategic-sourcing-manager-for-marketing-services-at-sandisk-4380729204": 1,
+    "https://www.linkedin.com/jobs/view/rancher-operator-up-to-%2470-hr-at-mercor-4389734319": 1,
+    "https://www.linkedin.com/jobs/view/consultancy-at-cifor-icraf-4390309288": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-coupa-at-maarut-inc-4389782026": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-atlanta-metro-ga-south-birmingham-al-%234666-at-grail-4379121256": 1,
+    "https://www.linkedin.com/jobs/view/sierra-leone-senior-consultant-eof-freetown-sierra-leone-3-months-remote-%23591897-at-unicef-4389783190": 1,
+    "https://www.linkedin.com/jobs/view/projektleiter-in-bauherr-in-at-swiss-post-4390120344": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4390126176": 1,
+    "https://www.linkedin.com/jobs/view/gnc-engineer-v-vi-at-zone-5-technologies-4389848610": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-philippines-remote-at-claas2saas-4390103656": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-emea-at-samsara-4352821081": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-brisk-it-4389546746": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
