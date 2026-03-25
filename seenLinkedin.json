@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-manager-remote-at-lensa-4386049598": 1,
-    "https://www.linkedin.com/jobs/view/engineer-sourcing-operations-footwear-altra-at-vf-corporation-4328107447": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4384010033": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-nexus-consulting-4386054140": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-elevate-recruitment-4386054081": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/app-engineer-kotlin-%e5%90%88%e7%ba%a6%e5%bc%95%e6%93%8e2-0-at-web3-4390229679": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-bossjob-4390240091": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-fully-remote-at-haystack-4390383757": 1,
-    "https://www.linkedin.com/jobs/view/social-media-community-manager-at-datatribe-collective-4390027743": 1
+    "https://www.linkedin.com/jobs/view/social-media-community-manager-at-datatribe-collective-4390027743": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390250430": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-go-to-market-apac-at-g-p-4390036423": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
