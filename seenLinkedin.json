@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384005181": 1,
-    "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386075180": 1,
-    "https://www.linkedin.com/jobs/view/pre-commissioning-engineer-%e2%80%93-energy-projects-at-norconsulting-global-recruitment-4383688997": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4384006174": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384957525": 1,
     "https://www.linkedin.com/jobs/view/growth-campaign-operator-founders-team-ski-startup-at-snowgroup-4383693823": 1,
     "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4375019573": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/copilot-consultant-at-cognitive-group-part-of-the-focus-cloud-group-4390152809": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-haystack-4390026703": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-vivid-technology-4390016700": 1,
-    "https://www.linkedin.com/jobs/view/associate-influencer-marketing-manager-at-the-outloud-group-4390161841": 1
+    "https://www.linkedin.com/jobs/view/associate-influencer-marketing-manager-at-the-outloud-group-4390161841": 1,
+    "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-apexon-4390392424": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390390435": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390382752": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390373963": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
