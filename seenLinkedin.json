@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-remote-at-jobgether-4386087364": 1,
-    "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386074749": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386078645": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4386084424": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386088460": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-disney-yellow-shoes-4384015062": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386099073": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearml-4386097155": 1,
-    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4386088598": 1,
     "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-talentpluto-4386071727": 1,
     "https://www.linkedin.com/jobs/view/chief-of-staff-buffer-operator-narrative-bridge-at-sigma-decom-4384925583": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-polaris-marketing-4384000856": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/consultor-wm-biling%c3%bce-at-it-nova-4390632735": 1,
     "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4371000210": 1,
     "https://www.linkedin.com/jobs/view/pay-equity-consultant-at-trusaic-4390086031": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-design-at-ford-credit-4390655584": 1
+    "https://www.linkedin.com/jobs/view/process-engineer-design-at-ford-credit-4390655584": 1,
+    "https://www.linkedin.com/jobs/view/revops-consultant-at-go-nimbly-4390663570": 1,
+    "https://www.linkedin.com/jobs/view/hashicorp-vault-engineer-at-diversity-nexus-4390247649": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4390307995": 1,
+    "https://www.linkedin.com/jobs/view/cleanup-project-manager-environmental-engineer-5-at-pinnacle-method-consulting-4390124523": 1,
+    "https://www.linkedin.com/jobs/view/java-software-engineer-secret-at-parsons-corporation-4390621847": 1,
+    "https://www.linkedin.com/jobs/view/sr-lead-operations-engineer-pub-sec-at-lumen-technologies-4390646227": 1,
+    "https://www.linkedin.com/jobs/view/project-solution-engineer-aerospace-and-defense-at-dormer-pramet-4363072570": 1,
+    "https://www.linkedin.com/jobs/view/sys-ops-engineer-at-hackajob-4390240564": 1,
+    "https://www.linkedin.com/jobs/view/prozessingenieur-in-life-science-all-gender-at-alten-4389184831": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 50,
+    "cyclesToday": 51,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
