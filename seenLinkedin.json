@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386040419": 1,
-    "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
-    "https://www.linkedin.com/jobs/view/vp-marketing-at-andela-4358600243": 1,
-    "https://www.linkedin.com/jobs/view/virtual-executive-marketing-assistant-remote-at-executiveplacements-com-4384916868": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-lead-philippines-remote-at-growthassistant-4385895163": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-financial-services-fintech-payments-at-chainalysis-4359637154": 1,
-    "https://www.linkedin.com/jobs/view/business-development-partner-recruitment-tech-ncr-region-at-routed-ai-4383697105": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-saas-staffing-and-recruitment-industry-at-pipelaunch-4383668265": 1,
-    "https://www.linkedin.com/jobs/view/regional-sales-director-east-at-vcluster-4385886504": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-executive-at-cloudinary-4381324304": 1,
-    "https://www.linkedin.com/jobs/view/high-agency-founding-full-stack-developer-at-ezyr-4384668814": 1,
     "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-scrunch-4374654145": 1,
     "https://www.linkedin.com/jobs/view/regional-sales-director-east-at-vcluster-4385889436": 1,
     "https://www.linkedin.com/jobs/view/senior-dev-gtm-at-cloudflare-4347616696": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-assistant-managing-director-builder-s-risk-at-j-s-held-llc-4318924670": 1,
     "https://www.linkedin.com/jobs/view/vp-enterprise-saas-sales-at-advantive-4389859060": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-scale-army-careers-4389825530": 1,
-    "https://www.linkedin.com/jobs/view/crm-retention-marketing-manager-at-capucinne-4389609296": 1
+    "https://www.linkedin.com/jobs/view/crm-retention-marketing-manager-at-capucinne-4389609296": 1,
+    "https://www.linkedin.com/jobs/view/meta-and-google-advertisements-performance-builder-%e2%80%93-remote-at-novel-energy-distribution-systems-4389659566": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-jobs-ai-4390321231": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-and-operations-engineer-system-admin-and-monitoring-at-healthfirst-4379455412": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-jobs-ai-4390318315": 1,
+    "https://www.linkedin.com/jobs/view/field-process-engineer-3-at-lam-research-4379147221": 1,
+    "https://www.linkedin.com/jobs/view/services-sales-engineer-at-piper-maddox-4390130330": 1,
+    "https://www.linkedin.com/jobs/view/commissioning-project-engineer-at-jll-4389797030": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-social-media-executive-remote-%e2%80%93-full-time-at-jifjaff-mybotgp-range-4390348030": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4390334540": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4362090137": 1,
+    "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-teleport-4370939175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
