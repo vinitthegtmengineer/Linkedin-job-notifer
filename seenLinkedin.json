@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-manager-of-global-marketing-at-jobgether-4386046712": 1,
     "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4384953186": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-d2c-products-at-venty-4384929183": 1,
     "https://www.linkedin.com/jobs/view/remote-literary-consultant-%e2%80%93-%2440-hr-max-at-mercor-4386046567": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-reroot-cyber-4389738934": 1,
     "https://www.linkedin.com/jobs/view/consultant-m-w-d-vorsorgemanagement-%e2%80%93-100%25-remote-at-finanzguru-4390133392": 1,
     "https://www.linkedin.com/jobs/view/acquisition-marketing-manager-at-classpass-4389687569": 1,
-    "https://www.linkedin.com/jobs/view/junior-app-marketing-manager-m-f-d-at-redcare-pharmacy-4390358236": 1
+    "https://www.linkedin.com/jobs/view/junior-app-marketing-manager-m-f-d-at-redcare-pharmacy-4390358236": 1,
+    "https://www.linkedin.com/jobs/view/sierra-leone-senior-consultant-eof-freetown-sierra-leone-3-months-remote-%23591897-at-unicef-mk-4389820390": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
