@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sea-core-apps-4384003237": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384956379": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-builder-live-drop-entry-independent-contractor-prize-based-at-vibe-coding-colosseum-4386069663": 1,
     "https://www.linkedin.com/jobs/view/director-of-operations-us-at-corecruitment-ltd-4386078353": 1,
     "https://www.linkedin.com/jobs/view/solana%c2%a0engineer-at-techead-4383692808": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4383690853": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380358104": 1,
     "https://www.linkedin.com/jobs/view/search-marketing-manager-at-madrivo-4390136717": 1,
     "https://www.linkedin.com/jobs/view/manager-customer-account-remote-at-nestl%c3%a9-4389904594": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-cato-networks-4378198835": 1
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-cato-networks-4378198835": 1,
+    "https://www.linkedin.com/jobs/view/consultor-fi-senior-hibrido-bogot%c3%a0-at-jessica-4389926163": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380348297": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380346317": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
