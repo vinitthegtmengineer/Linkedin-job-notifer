@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-biospace-4386047184": 1,
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041440": 1,
     "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-%24100m%2b-google-advertisements-spend-4384937411": 1,
     "https://www.linkedin.com/jobs/view/manager-growth-analytics-marketing-science-at-zip-co-4367495196": 1,
     "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4374924489": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/genai-solutions-builder-ignitetech-remote-%2460-000-year-usd-at-crossover-4389848526": 1,
     "https://www.linkedin.com/jobs/view/success-engineer-at-veeam-software-4379171410": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-growth-executive-at-traknova-4389759459": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388080809": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388080809": 1,
+    "https://www.linkedin.com/jobs/view/gcp-data-engineering-bigquery-looker-storage-expert-remote-pay-per-ticket-planbnext-at-planbnext-4390100331": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388095008": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
