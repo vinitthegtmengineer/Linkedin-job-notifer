@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-google-advertisements-facebook-advertisements-at-techtide-agency-4384929701": 1,
-    "https://www.linkedin.com/jobs/view/berater-revisor-m-w-d-at-mitte-4383677656": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-wixflux-technologies-intern-4386041534": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-freakins-4383686317": 1,
-    "https://www.linkedin.com/jobs/view/operator-at-fetchjobs-co-4384931646": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-infor-scm-at-nordic-global-4231894660": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384938314": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-biospace-4386047184": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4386041440": 1,
     "https://www.linkedin.com/jobs/view/remote-pay-per-click-campaign-manager-%e2%80%93-%24100m%2b-google-advertisements-spend-4384937411": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4389737990": 1,
     "https://www.linkedin.com/jobs/view/startup-gtm-at-tenstorrent-4326556580": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-diagonal-matrix-4390308256": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-creator-at-stxnd-4389310259": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-creator-at-stxnd-4389310259": 1,
+    "https://www.linkedin.com/jobs/view/ilmt-senior-consultant-at-anglepoint-4389894912": 1,
+    "https://www.linkedin.com/jobs/view/genai-solutions-builder-ignitetech-remote-%2460-000-year-usd-at-crossover-4389847517": 1,
+    "https://www.linkedin.com/jobs/view/pt-backend-builder-mvp-%2b-scaling-4389753544": 1,
+    "https://www.linkedin.com/jobs/view/genai-solutions-builder-ignitetech-remote-%2460-000-year-usd-at-crossover-4389848526": 1,
+    "https://www.linkedin.com/jobs/view/success-engineer-at-veeam-software-4379171410": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-growth-executive-at-traknova-4389759459": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388080809": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
