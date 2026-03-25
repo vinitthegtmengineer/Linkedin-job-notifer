@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4386018843": 1,
-    "https://www.linkedin.com/jobs/view/founding-ai-systems-engineer-usa-only-100%25-remote-at-close-4373852414": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-markeb-media-4385894401": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4383663968": 1,
     "https://www.linkedin.com/jobs/view/social-media-specialist-%e2%80%93-creative-campaigns-client-management-creative-canva-expert-at-social-panache-4384911995": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-4389319100": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-manager-at-binance-4388992315": 1,
     "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4370358678": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-healthcare-industry-focus-at-tito-solutions-4389857572": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-healthcare-industry-focus-at-tito-solutions-4389857572": 1,
+    "https://www.linkedin.com/jobs/view/bizops-engineer-at-sumeru-inc-4389930767": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-st-trinity-property-group-4389864146": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
