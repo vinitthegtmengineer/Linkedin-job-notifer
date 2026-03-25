@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384957525": 1,
-    "https://www.linkedin.com/jobs/view/growth-campaign-operator-founders-team-ski-startup-at-snowgroup-4383693823": 1,
-    "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4375019573": 1,
-    "https://www.linkedin.com/jobs/view/global-advertising-campaign-manager-%e2%80%93-google-facebook-%e2%80%93-remote-%24100m%2b-4383699415": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-performance-marketing-at-niscomed-4383691830": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4384008124": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-kohootz-llc-4384955658": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-manager-remote-at-lensa-4386049598": 1,
     "https://www.linkedin.com/jobs/view/engineer-sourcing-operations-footwear-altra-at-vf-corporation-4328107447": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-fetchjobs-co-4384010033": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-apexon-4390392424": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390390435": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390382752": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390373963": 1
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390373963": 1,
+    "https://www.linkedin.com/jobs/view/strategic-consultant-at-tailored-management-4389786058": 1,
+    "https://www.linkedin.com/jobs/view/remote-destination-consultant-at-travel-more-stress-less-agency-by-melissa-buresh-4390145146": 1,
+    "https://www.linkedin.com/jobs/view/consulente-beauty-at-natural-beauty-community-4390012553": 1,
+    "https://www.linkedin.com/jobs/view/app-engineer-kotlin-%e5%90%88%e7%ba%a6%e5%bc%95%e6%93%8e2-0-at-web3-4390229679": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bossjob-4390240091": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-fully-remote-at-haystack-4390383757": 1,
+    "https://www.linkedin.com/jobs/view/social-media-community-manager-at-datatribe-collective-4390027743": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
