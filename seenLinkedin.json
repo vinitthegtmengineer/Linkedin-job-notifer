@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-scrunch-4374654145": 1,
-    "https://www.linkedin.com/jobs/view/regional-sales-director-east-at-vcluster-4385889436": 1,
-    "https://www.linkedin.com/jobs/view/senior-dev-gtm-at-cloudflare-4347616696": 1,
-    "https://www.linkedin.com/jobs/view/ad-operations-associate-at-groundtruth-4359617362": 1,
-    "https://www.linkedin.com/jobs/view/regional-director-enterprise-at-fivetran-4359930817": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4386049363": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-paacademy-4383684725": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-wixflux-technologies-intern-4386070128": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/email-marketing-social-media-executive-remote-%e2%80%93-full-time-at-jifjaff-mybotgp-range-4390348030": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4390334540": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4362090137": 1,
-    "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-teleport-4370939175": 1
+    "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-teleport-4370939175": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-at-fts-inc-4390334933": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-zevenue-4389745527": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-zevenue-4390351141": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4390124848": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-ancient-nutrition-4382130561": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-25",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
