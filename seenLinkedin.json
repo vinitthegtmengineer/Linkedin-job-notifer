@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-product-builder-at-kolomolo-4384056211": 1,
-    "https://www.linkedin.com/jobs/view/sr-exabeam-engineer-remote-%e2%80%93-india-at-zortech-solutions-4385241893": 1,
-    "https://www.linkedin.com/jobs/view/manager-gtm-strategy-and-integration-at-earned-4385257530": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-lead-ai-business-at-prolific-4376596211": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384058309": 1,
-    "https://www.linkedin.com/jobs/view/director-of-ecommerce-growing-lifestyle-brand-at-the-talent-magnet-4386363475": 1,
     "https://www.linkedin.com/jobs/view/head-of-strategic-execution-at-zazu-digital-talent-4384061141": 1,
     "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386356815": 1,
     "https://www.linkedin.com/jobs/view/ai-product-agent-builder-at-boston-agent-house-4378600288": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/shopper-insights-consultant-at-numerator-4390396456": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391460128": 1,
     "https://www.linkedin.com/jobs/view/ai-growth-executive-outbound-email-at-envizon-b2b-marketing-and-fractional-cmo-services-4390428569": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-12-month-ftc-at-active-care-group-4391099257": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-12-month-ftc-at-active-care-group-4391099257": 1,
+    "https://www.linkedin.com/jobs/view/zendesk-consultant-at-peaple-talent-4391477676": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391446696": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391459145": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738442": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-avanza-sports-4390845031": 1,
+    "https://www.linkedin.com/jobs/view/campaign-operations-manager-at-stripe-4381174279": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
