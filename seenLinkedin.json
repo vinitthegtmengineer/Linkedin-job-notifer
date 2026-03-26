@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-boy-scouts-of-america-4386316640": 1,
-    "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4385205361": 1,
-    "https://www.linkedin.com/jobs/view/palo-alto-xsoar-xsiam-engineer-at-83zero-4384023686": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385206202": 1,
-    "https://www.linkedin.com/jobs/view/engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4385205333": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-at-physics-world-4385204148": 1,
     "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341910427": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384022741": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-social-media-executive-full-time-home-based-at-the-card-payments-awards-4390574393": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390844587": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390856388": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-rrets-group-4390709240": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-rrets-group-4390709240": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4371228858": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380203923": 1,
+    "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-engineering-at-cedar-4378973274": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-manager-at-appdirect-4379693839": 1,
+    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-bored-panda-4390466952": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
