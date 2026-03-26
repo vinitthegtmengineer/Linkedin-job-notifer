@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-campaign-manager-pharmaceutical-sector-at-omega-crm-a-merkle-company-4384034757": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4384045378": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-ai-health-tech-4384039646": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384056015": 1,
-    "https://www.linkedin.com/jobs/view/assistant-director-digital-marketing-at-future-able-4384037756": 1,
-    "https://www.linkedin.com/jobs/view/chief-operating-officer-%e2%80%93-nationally-scaling-professional-services-platform-at-chamberlain-advisors-4374250047": 1,
     "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385257318": 1,
     "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385242782": 1,
     "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385247663": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-remote-at-tarlogic-4390756062": 1,
     "https://www.linkedin.com/jobs/view/ai-marketing-engineer-at-pindrop-4390736262": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-lifecycle-marketing-at-corporation-psi-intl-inc-4390606636": 1
+    "https://www.linkedin.com/jobs/view/sr-manager-lifecycle-marketing-at-corporation-psi-intl-inc-4390606636": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390758137": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-at-noblesoft-technologies-4390758104": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-malaysia-at-claas2saas-4390472821": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4391081726": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-kasm-technologies-4390736393": 1,
+    "https://www.linkedin.com/jobs/view/workfront-coordinator-at-bcforward-4390872275": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
