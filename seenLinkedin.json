@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386386522": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-regional-vice-president-at-included-health-4321179716": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-cut%2bdry-4385256963": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-builder-data-healthcare-100%25-remoto-4386504048": 1,
     "https://www.linkedin.com/jobs/view/assistant-manager-social-media-at-mb-social-4385284133": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391926789": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-huzzle-com-4390834997": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-marketing-strategy-at-lyra-health-4391325669": 1,
-    "https://www.linkedin.com/jobs/view/ediscovery-senior-consultant-%24150-000-remote-at-apt-search-4391947012": 1
+    "https://www.linkedin.com/jobs/view/ediscovery-senior-consultant-%24150-000-remote-at-apt-search-4391947012": 1,
+    "https://www.linkedin.com/jobs/view/logging-while-drilling-remote-operation-engineer-at-baker-hughes-4391399073": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-irc291933-at-globallogic-4391946136": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
