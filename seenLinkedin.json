@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386382744": 1,
     "https://www.linkedin.com/jobs/view/hardcore-engineer-all-levels-at-dualentry-4386386522": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-regional-vice-president-at-included-health-4321179716": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-cut%2bdry-4385256963": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391917917": 1,
     "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391926789": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-huzzle-com-4390834997": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-marketing-strategy-at-lyra-health-4391325669": 1
+    "https://www.linkedin.com/jobs/view/sr-manager-marketing-strategy-at-lyra-health-4391325669": 1,
+    "https://www.linkedin.com/jobs/view/ediscovery-senior-consultant-%24150-000-remote-at-apt-search-4391947012": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
