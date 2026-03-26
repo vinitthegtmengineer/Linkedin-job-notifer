@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/devops-engineer-digital-engineering-at-coherent-solutions-4364726854": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-stealthwatch-4385205578": 1,
-    "https://www.linkedin.com/jobs/view/creative-sales-marketing-executive-personal-growth-remote-at-time-4-change-global-4384970800": 1,
     "https://www.linkedin.com/jobs/view/salesforce-marketing-cloud-campaign-manager-pharmaceutical-sector-at-omega-crm-a-merkle-company-4384034757": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4384045378": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-ai-health-tech-4384039646": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/hubspot-administrator-at-robert-half-4390606739": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-octane-marketing-4390277898": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-pagerduty-4383819633": 1,
-    "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1
+    "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-remote-at-tarlogic-4390756062": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-engineer-at-pindrop-4390736262": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-lifecycle-marketing-at-corporation-psi-intl-inc-4390606636": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
