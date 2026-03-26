@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4384995088": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4376537922": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341840509": 1,
-    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4270250753": 1,
     "https://www.linkedin.com/jobs/view/technical-solutions-builder-at-hire-hangar-4385200434": 1,
     "https://www.linkedin.com/jobs/view/account-representative-engineering-plastics-at-covestro-4334817362": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-dataops-ref-lzr9y-at-rsight%c2%ae-4380995168": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/ilmt-senior-consultant-at-anglepoint-4390473719": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-site-execution-farm-development-4389668903": 1,
     "https://www.linkedin.com/jobs/view/staff-ml-ops-engineer-recommendations-americas-at-shopify-4390470749": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390481940": 1
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390481940": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-south-oc-%234683-at-grail-4381111721": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-ii-remote-at-duck-creek-technologies-4363260207": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390703092": 1,
+    "https://www.linkedin.com/jobs/view/marketing-social-media-executive-full-time-home-based-at-the-card-payments-awards-4390574393": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
