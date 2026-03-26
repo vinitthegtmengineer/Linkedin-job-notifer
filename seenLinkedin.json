@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-engineer-at-best-job-tool-4386303551": 1,
-    "https://www.linkedin.com/jobs/view/projektingenieure-m-w-f%c3%bcr-landesbauma%c3%9fnahmen%0aflensburg%0akiel%0al%c3%bcbeck%0aneum%c3%bcnster%0aschleswig%0avollzeit-teilzeitf%c3%a4hig-at-geb%c3%a4udemanagement-schleswig-holstein-a%c3%b6r-gmsh-4386304362": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-shriram-general-insurance-co-ltd-4384006901": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-ren-recruiting-4384925330": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-marketing-executive-at-sugar-icumsa-45-exporters-4386097854": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-beauty-brand-at-odaq-4384018349": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-manager-bdr-us-at-fingerprint-4390619792": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-bitmart-4390282113": 1,
     "https://www.linkedin.com/jobs/view/recreation-consultant-fully-remote-at-mercor-4390676506": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390420109": 1
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390420109": 1,
+    "https://www.linkedin.com/jobs/view/senior-value-engineer-at-twilio-4390695513": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390414200": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-atlas-nextwave-4390697533": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
