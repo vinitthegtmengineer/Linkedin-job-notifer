@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/brand-marketing-executive-intern-at-karwaan-event-4384006786": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330397169": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-retirement-remote-at-transamerica-4330600095": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-bms-performance-4385233751": 1,
-    "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4384975700": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-tillster-4349861555": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386320982": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386339240": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386329622": 1,
-    "https://www.linkedin.com/jobs/view/in-dealership-consultant-pittsburgh-at-jackson-dawson-4380454430": 1,
     "https://www.linkedin.com/jobs/view/devops-engineer-digital-engineering-at-coherent-solutions-4364726854": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-stealthwatch-4385205578": 1,
     "https://www.linkedin.com/jobs/view/creative-sales-marketing-executive-personal-growth-remote-at-time-4-change-global-4384970800": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/threat-collections-engineer-at-anthropic-4361926297": 1,
     "https://www.linkedin.com/jobs/view/sr-revenue-operations-data-engineer-hybrid-in-bangalore-at-smartsheet-4381127340": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069835": 1,
-    "https://www.linkedin.com/jobs/view/amazon-marketing-executive-1-5-yrs-full-time-remote-at-profitpixel-ecommerce-growth-partners-4390493327": 1
+    "https://www.linkedin.com/jobs/view/amazon-marketing-executive-1-5-yrs-full-time-remote-at-profitpixel-ecommerce-growth-partners-4390493327": 1,
+    "https://www.linkedin.com/jobs/view/murex-consultant-at-crisil-integral-iq-4389054831": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-strategy-at-zendesk-4379340089": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-numanac-4390895348": 1,
+    "https://www.linkedin.com/jobs/view/manager-field-marketing-remote-opportunity-at-lensa-4390333267": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-latam-at-estoy-4390618564": 1,
+    "https://www.linkedin.com/jobs/view/senior-revenue-operations-analyst-tvscientific-at-pinterest-4380967489": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-administrator-at-robert-half-4390606739": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-octane-marketing-4390277898": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-pagerduty-4383819633": 1,
+    "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
