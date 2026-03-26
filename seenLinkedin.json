@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-enterprise-sales-at-logicmonitor-4341910427": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384022741": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4386321155": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-pabale-ads-4384004970": 1,
-    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4327958083": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-head-of-growth-at-odys-global-4383642598": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-swarm-aero-4375313208": 1,
-    "https://www.linkedin.com/jobs/view/head-of-industry-apps-partnerships-at-databricks-4352377591": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4384996517": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-thrive360-4381396911": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384990954": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1,
     "https://www.linkedin.com/jobs/view/vp-sales-engineering-at-cedar-4378973274": 1,
     "https://www.linkedin.com/jobs/view/partner-success-manager-at-appdirect-4379693839": 1,
-    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-bored-panda-4390466952": 1
+    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-bored-panda-4390466952": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4390707656": 1,
+    "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4390496840": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4390702883": 1,
+    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362510178": 1,
+    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362019729": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390495864": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-pizza-hut-singapore-4390852593": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-dragos-inc-4390164592": 1,
+    "https://www.linkedin.com/jobs/view/crm-marketing-operations-manager-at-solomon-page-4378580683": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
