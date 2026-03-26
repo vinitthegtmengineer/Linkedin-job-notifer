@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/prozessingenieur-life-science-all-gender-at-alten-germany-4373664870": 1,
-    "https://www.linkedin.com/jobs/view/gtm-sales-lead-at-space-executive-4384992487": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384984878": 1,
     "https://www.linkedin.com/jobs/view/director-operational-excellence-remote-at-lensa-4386073776": 1,
     "https://www.linkedin.com/jobs/view/devrel-engineer-at-isaacus-4384995088": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4376537922": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/8%e5%ad%97%e7%bb%95%e7%ba%bf%e6%93%8d%e4%bd%9c%e5%91%98-at-johnson-johnson-medtech-4390827706": 1,
     "https://www.linkedin.com/jobs/view/8%e5%ad%97%e7%bb%95%e7%ba%bf%e6%93%8d%e4%bd%9c%e5%91%98-at-johnson-johnson-medtech-4390818978": 1,
     "https://www.linkedin.com/jobs/view/funding-consultant-at-integrity-first-funding-4390548646": 1,
-    "https://www.linkedin.com/jobs/view/paid-marketing-executive-at-we-do-play-4390824968": 1
+    "https://www.linkedin.com/jobs/view/paid-marketing-executive-at-we-do-play-4390824968": 1,
+    "https://www.linkedin.com/jobs/view/ilmt-senior-consultant-at-anglepoint-4390473719": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-site-execution-farm-development-4389668903": 1,
+    "https://www.linkedin.com/jobs/view/staff-ml-ops-engineer-recommendations-americas-at-shopify-4390470749": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
