@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sd-wan-engineer-at-x4-technology-4384038466": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineering-expert-%2473-29-hr-remote-at-crossing-hurdles-4384995785": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036507": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-momence-4386328394": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4386317877": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4386323687": 1,
     "https://www.linkedin.com/jobs/view/dach-executive-gtm-advisor-at-equally-ai-4386339067": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384998688": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4385248064": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4391075234": 1,
     "https://www.linkedin.com/jobs/view/senior-field-marketing-specialist-at-medallion-4379449964": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362098108": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4391049734": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4391049734": 1,
+    "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-mitecs-inc-4390868528": 1,
+    "https://www.linkedin.com/jobs/view/strategic-email-deliverability-consultant-at-bloomreach-4380965337": 1,
+    "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4391069895": 1,
+    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390844723": 1,
+    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390862949": 1,
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-affiliate-advertising-lead-buy-content-syndication-at-samsara-4390045647": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
