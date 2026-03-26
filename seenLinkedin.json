@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4384996517": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-thrive360-4381396911": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4384990954": 1,
-    "https://www.linkedin.com/jobs/view/brand-content-executive-at-areen-holding-group-4384025910": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384997750": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-lead-center-media-4385204269": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384993805": 1,
     "https://www.linkedin.com/jobs/view/growth-leader-nam-at-weekday-ai-yc-w21-4386311838": 1,
     "https://www.linkedin.com/jobs/view/sd-wan-engineer-at-x4-technology-4384038466": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390495864": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-pizza-hut-singapore-4390852593": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-at-dragos-inc-4390164592": 1,
-    "https://www.linkedin.com/jobs/view/crm-marketing-operations-manager-at-solomon-page-4378580683": 1
+    "https://www.linkedin.com/jobs/view/crm-marketing-operations-manager-at-solomon-page-4378580683": 1,
+    "https://www.linkedin.com/jobs/view/senior-value-engineer-at-disco-4380995237": 1,
+    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362190628": 1,
+    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362098107": 1,
+    "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4390850834": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4391075234": 1,
+    "https://www.linkedin.com/jobs/view/senior-field-marketing-specialist-at-medallion-4379449964": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
