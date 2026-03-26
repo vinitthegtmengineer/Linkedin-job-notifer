@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386340862": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-facebook-ads-4385260055": 1,
     "https://www.linkedin.com/jobs/view/senior-b2b-marketing-events-specialist-at-ci-t-4386364447": 1,
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-faye-4385270211": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-emerging-blue-4390043800": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-bilingual-mexico-remote-at-turnitin-4391918365": 1,
     "https://www.linkedin.com/jobs/view/azure-operations-engineer-at-inficare-software-technologies-private-limited-4391901819": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-huzzle-com-4390843421": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-huzzle-com-4390843421": 1,
+    "https://www.linkedin.com/jobs/view/senior-content-marketing-manager-remote-u-s-at-fusionauth-4390655145": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
