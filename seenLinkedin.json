@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/team-leader-of-platform-backend-engineering-at-cloudester-software-llc-4384986302": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4384991032": 1,
     "https://www.linkedin.com/jobs/view/remote-notion-system-builder-junior-specialist-%7e24m-brand-amapress-at-pickdi-4384984491": 1,
     "https://www.linkedin.com/jobs/view/google-ads-campaign-strategist-4384979563": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/head-of-demand-generation-at-herodevs-4390532603": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-workvivo-uki-at-zoom-4371022184": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-professional-staffing-4390147384": 1,
-    "https://www.linkedin.com/jobs/view/sr-sales-operations-manager-gtm-at-ladders-4390038662": 1
+    "https://www.linkedin.com/jobs/view/sr-sales-operations-manager-gtm-at-ladders-4390038662": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-calendar-at-skylight-4390684238": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
