@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/dach-executive-gtm-advisor-at-equally-ai-4386339067": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-specialist-social-media-manager-at-forte-4384998688": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-bima-nusapersada-sakti-4385248064": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-leadership-coach-sulting-4384031778": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386323815": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4386335345": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4391069895": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390844723": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390862949": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-affiliate-advertising-lead-buy-content-syndication-at-samsara-4390045647": 1
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-affiliate-advertising-lead-buy-content-syndication-at-samsara-4390045647": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362109887": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-world-wide-technology-4370701823": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-cdata-software-4364943932": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
