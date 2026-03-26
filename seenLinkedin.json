@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385257318": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385242782": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385247663": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385254372": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385239915": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385255358": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385257319": 1,
-    "https://www.linkedin.com/jobs/view/amazon-catalogue-manager-operator-at-scalejet-ecommerce-hr-agency-4385255359": 1,
-    "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386096532": 1,
-    "https://www.linkedin.com/jobs/view/senior-dynatrace-engineer-at-encore-consulting-4385254511": 1,
-    "https://www.linkedin.com/jobs/view/sales-leader-%e2%80%93-ai-edtech-corporate-l-d-at-fractal-4385245693": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-primeedge-human-resources-inc-4385253491": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirex-4385253530": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4384043669": 1,
     "https://www.linkedin.com/jobs/view/su-social-media-manager-at-somewhere-4385238931": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-malaysia-at-claas2saas-4390472821": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4391081726": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-kasm-technologies-4390736393": 1,
-    "https://www.linkedin.com/jobs/view/workfront-coordinator-at-bcforward-4390872275": 1
+    "https://www.linkedin.com/jobs/view/workfront-coordinator-at-bcforward-4390872275": 1,
+    "https://www.linkedin.com/jobs/view/operator-central-inspection-ipm-days-fulltime-at-biospace-4390877220": 1,
+    "https://www.linkedin.com/jobs/view/expensepoint-consultant-at-robert-half-4390612427": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-founding-builder-stage-at-security-2-0-4390756410": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391454139": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391448450": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391453212": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391457151": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4384824072": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390750370": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738441": 1,
+    "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-singlesignal-ai-4390755381": 1,
+    "https://www.linkedin.com/jobs/view/channel-director-at-cyberforce-global-4391117662": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-26",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
