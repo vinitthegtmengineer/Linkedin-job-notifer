@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-engineer-i-at-sanguine-biosciences-4384498080": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-trc-talent-solutions-4385942014": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385936031": 1,
     "https://www.linkedin.com/jobs/view/consulente-oam-at-finanza-tech-4384485720": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-resource-management-consultant-at-riveron-4385929115": 1,
     "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4384482951": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ceo-office-ai-accelerator-lead-builder-at-noon-4391771306": 1,
     "https://www.linkedin.com/jobs/view/sr-vm-engineer-at-dmi-4391728010": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-smb-at-tekmetric-4389216371": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-manager-digital-touch-at-riverside-insights-4391734796": 1
+    "https://www.linkedin.com/jobs/view/customer-success-manager-digital-touch-at-riverside-insights-4391734796": 1,
+    "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-builder-at-easypeasyfluent-4391766686": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4391776545": 1,
+    "https://www.linkedin.com/jobs/view/vp-enterprise-transformation-at-seeq-corporation-4391770693": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
