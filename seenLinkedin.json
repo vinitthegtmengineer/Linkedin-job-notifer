@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-good-moose-4386543099": 1,
-    "https://www.linkedin.com/jobs/view/revops-engineer-gtm-automation-engineer-clay-specialist-at-mindwile-4386509331": 1,
     "https://www.linkedin.com/jobs/view/french-speaking-rent-a-car-consultant-work-in-bulgaria-paid-relocation-at-mercier-consultancy-md-4386087893": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-cutover-4384066561": 1,
     "https://www.linkedin.com/jobs/view/abm-campaign-manager-at-andela-4380390551": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-dexian-4390770657": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-payscale-4391937454": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-inbound-strategy-at-creative-niche-4377607900": 1,
-    "https://www.linkedin.com/jobs/view/manager-logistics-operations-at-starface-world-4391074644": 1
+    "https://www.linkedin.com/jobs/view/manager-logistics-operations-at-starface-world-4391074644": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1,
+    "https://www.linkedin.com/jobs/view/events-project-manager-remote-us-at-visit-org-4391943140": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
