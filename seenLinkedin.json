@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4386351325": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-evergreen-human-resources-inc-4385907564": 1,
-    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-rousse-dance-4385616857": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-coordinator-at-delsey-paris-4385911460": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-momentus-technologies-4375733301": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-ktek-resourcing-4385929028": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-purelogics-4384478702": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4385923225": 1,
-    "https://www.linkedin.com/jobs/view/operatore-operatrice-contatti-commerciali-at-sovera-credit-partners-4384071782": 1,
-    "https://www.linkedin.com/jobs/view/staffing-independent-operator-at-atwork-group-4386391107": 1,
     "https://www.linkedin.com/jobs/view/cx-consultant-braze-at-leverup-4386770614": 1,
     "https://www.linkedin.com/jobs/view/data-operations-engineer-at-veritone-4384488277": 1,
     "https://www.linkedin.com/jobs/view/founding-ai-engineer-relocate-package-to-saudi-arabia-at-umatr-4384484498": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4390982833": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-marketing-focus-at-solvo-global-4390958584": 1,
     "https://www.linkedin.com/jobs/view/founding-builder%e2%80%94-signal-tracker-no-code-mvp-4390775148": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4390995595": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4390995595": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4390995857": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-and-automation-data-analytics-usa-remote-at-grafana-labs-4391746032": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-rockwell-automation-4390904079": 1,
+    "https://www.linkedin.com/jobs/view/product-security-engineer-at-movable-ink-4355679374": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-platform-at-samsara-4363292019": 1,
+    "https://www.linkedin.com/jobs/view/datacenter-operations-site-engineer-at-oracle-4380225663": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-technip-energies-4390966504": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-rockwell-automation-4390799181": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-owner-engineering-italy-at-enertis-applus%2b-4390939102": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-kforce-inc-4391765652": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
