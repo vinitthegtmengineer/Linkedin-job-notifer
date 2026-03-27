@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375396755": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-bien-%c3%aatre-%e2%80%93-vente-formation-temps-partiel-t%c3%a9l%c3%a9travail-at-oztavie-4386500303": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4375723161": 1,
-    "https://www.linkedin.com/jobs/view/agentic-engineer-cab-latam-at-wati-4386744908": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-at-genpact-4386352965": 1,
-    "https://www.linkedin.com/jobs/view/revops-engineer-at-solo-io-4386539272": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-operations-support-mid-remote-at-oak-rocket-4384409153": 1,
     "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4386717413": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-eligeo-4385271525": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390756267": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-ii-hybrid-in-bangalore-at-smartsheet-4380693672": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
-    "https://www.linkedin.com/jobs/view/channel-sales-manager-at-eplan-4392650915": 1
+    "https://www.linkedin.com/jobs/view/channel-sales-manager-at-eplan-4392650915": 1,
+    "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4390948685": 1,
+    "https://www.linkedin.com/jobs/view/north-slope-operator-intern-2026-at-conocophillips-4390795072": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-hypergen-b2b-cold-email-4390955283": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4381915455": 1,
+    "https://www.linkedin.com/jobs/view/channel-partner-manager-reseller-national-at-ramp-4365120812": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371129634": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
