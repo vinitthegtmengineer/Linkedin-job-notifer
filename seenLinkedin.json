@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386560260": 1,
-    "https://www.linkedin.com/jobs/view/sales-lead-gtm-at-aply-4385623074": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4384085497": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-maths-%e2%80%94-no-problem%21-4386526900": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-insightsoftware-4386578168": 1,
     "https://www.linkedin.com/jobs/view/ai-prompt-engineer-ai-system-builder-at-hey-bud-skincare-4385634318": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-be-flamingo-agency-4385622712": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/events-project-manager-remote-us-at-visit-org-4391943140": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%8f%af%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-global%e5%b1%95%e9%96%8b%e6%97%a5%e7%b3%bb%e5%a4%a7%e6%89%8bit%e4%bc%9a%e7%a4%be%e3%80%81600-1250%e4%b8%87%e5%86%86-at-michael-page-4391118481": 1,
     "https://www.linkedin.com/jobs/view/senior-director-channel-at-netwrix-corporation-4391508270": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-indonesia-at-claas2saas-4390466827": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-indonesia-at-claas2saas-4390466827": 1,
+    "https://www.linkedin.com/jobs/view/ai-consultant-%2b-builder-ai-implementation-consultant-remoto-at-nationmkt-4391957680": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-engineer-data-ops-m-f-d-at-kayzen-4391504893": 1,
+    "https://www.linkedin.com/jobs/view/head-of-emea-sales-at-trulioo-4386984212": 1,
+    "https://www.linkedin.com/jobs/view/vp-north-america-sales-at-trulioo-4369702773": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
