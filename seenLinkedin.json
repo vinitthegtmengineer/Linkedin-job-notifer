@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4386768059": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-sps-commerce-4375764598": 1,
-    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375778055": 1,
-    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375779038": 1,
-    "https://www.linkedin.com/jobs/view/brewing-process-engineer-at-the-foth-companies-4384426792": 1,
-    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375393862": 1,
-    "https://www.linkedin.com/jobs/view/operations-specialist-at-riserify-4386752815": 1,
-    "https://www.linkedin.com/jobs/view/consultant-campaigns-at-greenpeace-south-asia-4385686778": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-commonwealth-associates-inc-4315872597": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-my-bespoke-room-4384051960": 1,
     "https://www.linkedin.com/jobs/view/marketing-events-specialist-at-ever-ag-4386550209": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-thumbtack-4374572587": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4390962883": 1,
     "https://www.linkedin.com/jobs/view/senior-cpq-consultant-dealhub-at-newedge-growth-4390968743": 1,
     "https://www.linkedin.com/jobs/view/engineering-director-at-hackajob-4379126827": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-zyner-4390974362": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-zyner-4390974362": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4391712859": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391459165": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391450329": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362551757": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-jobgether-4391166608": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-canada-at-nextlink-labs-4391934612": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-usa-at-nextlink-labs-4391921915": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4391742160": 1,
+    "https://www.linkedin.com/jobs/view/director-customer-success-at-wrike-4391731357": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
