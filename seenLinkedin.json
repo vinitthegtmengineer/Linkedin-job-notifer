@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4385279555": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-reliability-engineer-%e2%80%93-microsoft-365-enterprise-tools-at-genesys-4376044650": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-hybrid-remote-at-lensa-4386360127": 1,
-    "https://www.linkedin.com/jobs/view/syniti-admm-consultant-pan-india-at-digihelic-solutions-pvt-ltd-4384045044": 1,
-    "https://www.linkedin.com/jobs/view/commercial-project-engineer-at-banque-pour-le-commerce-et-l-entrepreneuriat-du-gabon-bceg-4386577572": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4386768059": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-sps-commerce-4375764598": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4375778055": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/community-content-executive-at-we-are-loka-4391721309": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
     "https://www.linkedin.com/jobs/view/partnerships-community-gtm-at-sprinto-4330434138": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-mcclatchy-media-4380222008": 1
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-mcclatchy-media-4380222008": 1,
+    "https://www.linkedin.com/jobs/view/experienced-jumbo-robolter-operators-needed-at-thyssen-mining-4381609902": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4390962883": 1,
+    "https://www.linkedin.com/jobs/view/senior-cpq-consultant-dealhub-at-newedge-growth-4390968743": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-at-hackajob-4379126827": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-zyner-4390974362": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
