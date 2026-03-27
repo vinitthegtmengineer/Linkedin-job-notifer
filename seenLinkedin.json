@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/wordpress-developer-beaver-builder-at-talent-hackers-4386907965": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-payabli-4369699444": 1,
-    "https://www.linkedin.com/jobs/view/commercetools-engineer-at-yochana-4385939332": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386915126": 1,
     "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4386911308": 1,
     "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4386793945": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sr-renewals-digital-experience-specialist-at-samsara-4392780056": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-remote-at-onedigital-4392761907": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-remote-at-onedigital-4392769673": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4391782545": 1
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4391782545": 1,
+    "https://www.linkedin.com/jobs/view/revops-analyst-%e2%80%94-hubspot-specialist-at-revinfinity-4391211690": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380204881": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726874": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-27",
-    "cyclesToday": 48,
+    "cyclesToday": 49,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
