@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dr-reddy-s-and-nestl%c3%a9-health-science-limited-4387415820": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-smartcat-4376085657": 1,
     "https://www.linkedin.com/jobs/view/msd-365-engineer-at-delta-system-software-inc-4386220757": 1,
     "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-yipitdata-4386986483": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382161399": 1,
     "https://www.linkedin.com/jobs/view/physics-consultant-remote-up-to-%2443-hr-at-mercor-4391234775": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392032284": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392021609": 1
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392021609": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4392034261": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
