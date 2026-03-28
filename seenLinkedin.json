@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-remote-u-s-at-fusionauth-4386981453": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-yatts-4386998017": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-in-marketing-full-time-remote-4374307342": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-6fc-creator-networks-4386447221": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4391545651": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-thehivecareers-4391242655": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-thehivecareers-4391253148": 1,
-    "https://www.linkedin.com/jobs/view/remote-product-marketing-specialist-at-tews-company-4392028375": 1
+    "https://www.linkedin.com/jobs/view/remote-product-marketing-specialist-at-tews-company-4392028375": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketeer-at-womanly-jobs-4391242858": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
