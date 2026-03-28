@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-marketing-lead-gtm-growth-at-tensorops-4386909077": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4387206507": 1,
-    "https://www.linkedin.com/jobs/view/project-lion-prompt-engineer-united-states-remote-part-time-at-welocalize-4384758382": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-sales-americas-at-firework-4387218491": 1,
-    "https://www.linkedin.com/jobs/view/marketing-outreach-executive-germany-at-exzellent-4386938964": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-global-marketing-at-tokenshares-ai%e2%84%a2-4384735344": 1,
-    "https://www.linkedin.com/jobs/view/senior-data-analyst-growth-analytics-crm-at-cookunity-4385958086": 1,
-    "https://www.linkedin.com/jobs/view/contract-reporting-cost-controller-at-electrify-america-4374547785": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4386815118": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-campaign-manager-at-eteam-4386747297": 1,
-    "https://www.linkedin.com/jobs/view/partner-marketing-strategies-manager-100%25-remote-in-costa-rica-at-pyramid-consulting-inc-4386968821": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4361692029": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-executive-b2b-at-digital-4387213761": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-egyptian-youth-diplomacy-program-4384770892": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/people-systems-analyst-ai-agent-builder-at-mygwork-lgbtq%2b-business-community-4393633881": 1,
     "https://www.linkedin.com/jobs/view/growth-partner-development-manager-at-omnissa-4381321314": 1,
     "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4392082616": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-media-marketing-manager-at-admixt-4391224048": 1
+    "https://www.linkedin.com/jobs/view/paid-social-media-marketing-manager-at-admixt-4391224048": 1,
+    "https://www.linkedin.com/jobs/view/growth-ai-operator-at-bitso-4382186767": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-crypto-at-career-renew-4391735501": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372122798": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4392089135": 1,
+    "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4346662213": 1,
+    "https://www.linkedin.com/jobs/view/security-detection-engineer-at-movable-ink-4355849240": 1,
+    "https://www.linkedin.com/jobs/view/it-operations-analyst-workplace-engineering-senior-at-peloton-consulting-group-4380606143": 1,
+    "https://www.linkedin.com/jobs/view/talent-acquisition-specialist-at-hearth-4391252536": 1,
+    "https://www.linkedin.com/jobs/view/founding-software-engineer-at-berkley-hunt-4391771354": 1,
+    "https://www.linkedin.com/jobs/view/ingeniero-de-proyecto-at-efiempresa-4391754019": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
