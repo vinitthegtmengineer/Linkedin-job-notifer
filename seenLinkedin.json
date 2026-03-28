@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4386943823": 1,
-    "https://www.linkedin.com/jobs/view/commissioning-operations-engineer-at-mainspring-energy-4386258754": 1,
-    "https://www.linkedin.com/jobs/view/senior-commissioning-operations-engineer-at-mainspring-energy-4386276015": 1,
-    "https://www.linkedin.com/jobs/view/join-terrific-builders-welcome-at-terrific-4386987241": 1,
-    "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4386717414": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-remote-u-s-at-fusionauth-4386981453": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-yatts-4386998017": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-in-marketing-full-time-remote-4374307342": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/partnerships-manager-multi-category-lifestyle-at-revolut-4380447391": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-organic-growth-marketing-at-jobgether-4390922521": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-lensa-4391537073": 1,
-    "https://www.linkedin.com/jobs/view/crm-coordinator-at-staffingine-llc-4391548512": 1
+    "https://www.linkedin.com/jobs/view/crm-coordinator-at-staffingine-llc-4391548512": 1,
+    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4392029977": 1,
+    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4391545651": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-thehivecareers-4391242655": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-thehivecareers-4391253148": 1,
+    "https://www.linkedin.com/jobs/view/remote-product-marketing-specialist-at-tews-company-4392028375": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
