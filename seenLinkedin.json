@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-enterprise-launch-excellence-and-gtm-at-omada-health-4384494531": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-plg-at-dotmatics-4384471595": 1,
-    "https://www.linkedin.com/jobs/view/gtm-partnerships-emea-at-clay-4354703709": 1,
-    "https://www.linkedin.com/jobs/view/revenue-gtm-operations-manager-emea-at-omnissa-4375723262": 1,
-    "https://www.linkedin.com/jobs/view/vp-strategic-alliances-at-edb-4384490882": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-intentsify-4386932665": 1,
     "https://www.linkedin.com/jobs/view/social-media-campaign-manager-remote-temporary-at-yellow-pages-pages-jaunes-%e2%80%93-canada-4386924619": 1,
     "https://www.linkedin.com/jobs/view/amazon-ads-campaign-manager-at-getgrowth-digital-4385645946": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/sandbox-agentic-engineer-remote-can-at-crowdstrike-4393166061": 1,
     "https://www.linkedin.com/jobs/view/developer-relations-engineer-at-jobgether-4390917485": 1,
     "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390937297": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-creative-circle-4393348507": 1
+    "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-creative-circle-4393348507": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311751462": 1,
+    "https://www.linkedin.com/jobs/view/pam-consultant-manager-at-querentia-4390994724": 1,
+    "https://www.linkedin.com/jobs/view/walkme-consultant-developer-at-red-global-4392274752": 1,
+    "https://www.linkedin.com/jobs/view/zoho-consultant-at-the-desk-zoho-partner-4391263095": 1,
+    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390976064": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
