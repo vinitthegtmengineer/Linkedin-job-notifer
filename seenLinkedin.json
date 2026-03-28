@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-campaign-manager-remote-temporary-at-yellow-pages-pages-jaunes-%e2%80%93-canada-4386924619": 1,
-    "https://www.linkedin.com/jobs/view/amazon-ads-campaign-manager-at-getgrowth-digital-4385645946": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-google-ads-at-neamob-tech-4386748254": 1,
     "https://www.linkedin.com/jobs/view/online-campaign-manager-at-doe-media-4386265457": 1,
     "https://www.linkedin.com/jobs/view/social-media-community-manager-at-blue-orange-games-4386471470": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/walkme-consultant-developer-at-red-global-4392274752": 1,
     "https://www.linkedin.com/jobs/view/zoho-consultant-at-the-desk-zoho-partner-4391263095": 1,
     "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390976064": 1,
-    "https://www.linkedin.com/jobs/view/product-owner-shop-builder-at-xsolla-4349581983": 1
+    "https://www.linkedin.com/jobs/view/product-owner-shop-builder-at-xsolla-4349581983": 1,
+    "https://www.linkedin.com/jobs/view/hyper-v-consultant-urgent-need-at-smx-services-consulting-inc-4391731370": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380826452": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
