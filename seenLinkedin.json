@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-campaign-strategy-at-mcgraw-hill-4372616067": 1,
-    "https://www.linkedin.com/jobs/view/infra-engineer-sre%ef%bc%88kubernetes%ef%bc%89-at-gmi-cloud-4387245327": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4352961057": 1,
     "https://www.linkedin.com/jobs/view/ai-native-digital-builder-at-mattermost-4379324989": 1,
     "https://www.linkedin.com/jobs/view/engineering-software-developer-at-trutechnologies-makers-of-trulab-4386978788": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-program-manager-remote-us-at-splice-4387436420": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/software-engineer-python-at-prima-4077411227": 1,
     "https://www.linkedin.com/jobs/view/head-of-revenue-enablement-at-mercury-4392772619": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-specialist-at-huntress-4391766129": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-favoured-digital-marketing-agency-4391762222": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-favoured-digital-marketing-agency-4391762222": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391636412": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-design-at-remotehunter-4391646346": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-lakebase-sales-specialists-at-databricks-4380290818": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 54,
+    "cyclesToday": 55,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
