@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineering-software-developer-at-trutechnologies-makers-of-trulab-4386978788": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-program-manager-remote-us-at-splice-4387436420": 1,
-    "https://www.linkedin.com/jobs/view/assistant-media-strategist-at-simera-4385047150": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-brand-partnerships-at-mrbeast-4368693156": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4387119228": 1,
     "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386891008": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-at-epam-systems-4385021398": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-home-recruitment-ltd-4377392503": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391636412": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-design-at-remotehunter-4391646346": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-lakebase-sales-specialists-at-databricks-4380290818": 1,
-    "https://www.linkedin.com/jobs/view/flutterflow-builder-for-fast-mvp-launch-startup-project-at-axis-matrix-4392306670": 1
+    "https://www.linkedin.com/jobs/view/flutterflow-builder-for-fast-mvp-launch-startup-project-at-axis-matrix-4392306670": 1,
+    "https://www.linkedin.com/jobs/view/physics-consultant-remote-up-to-%2443-hr-at-mercor-4391234776": 1,
+    "https://www.linkedin.com/jobs/view/associate-consultant-engineer-remote-at-rancho-biosciences-4380556385": 1,
+    "https://www.linkedin.com/jobs/view/ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e5%83%8d%e3%81%8d%e7%94%b2%e6%96%90%e8%aa%8d%e5%ae%9a%e4%bc%81%e6%a5%ad%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e6%9d%b1%e8%a8%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e4%b8%8a%e5%a0%b4%ef%bc%8f%e3%83%ad%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95%e3%83%aa%e3%83%bc%ef%bc%89-at-future-corporation-4392016412": 1,
+    "https://www.linkedin.com/jobs/view/engineering-native-app-ios-android-at-ewtn-4381658753": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4392047318": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 56,
+    "cyclesToday": 57,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
