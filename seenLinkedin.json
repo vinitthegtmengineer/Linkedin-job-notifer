@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-manager-level-at-solvd-together-4384720337": 1,
-    "https://www.linkedin.com/jobs/view/success-factor-consultant-at-reveille-technologies-inc-4385967394": 1,
-    "https://www.linkedin.com/jobs/view/generalist-builder-ai-first-products-at-boston-agent-house-4386967732": 1,
-    "https://www.linkedin.com/jobs/view/senior-devops-operations-engineer-at-avenue-code-4375731208": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-commons-4386954592": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-venture-capital-4386244329": 1,
-    "https://www.linkedin.com/jobs/view/remote-accountant-consultant-at-hirelatam-4386259008": 1,
-    "https://www.linkedin.com/jobs/view/oic-engineer-at-nexify-infosystems-4386958979": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-2-inference-optimizations-at-digitalocean-4386934295": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386737440": 1,
-    "https://www.linkedin.com/jobs/view/cloudflare-engineer-100%25-remote-at-ness-solution-4386784139": 1,
-    "https://www.linkedin.com/jobs/view/senior-dynamics-365-engineer-at-delta-system-software-inc-4385929630": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4386943823": 1,
     "https://www.linkedin.com/jobs/view/commissioning-operations-engineer-at-mainspring-energy-4386258754": 1,
     "https://www.linkedin.com/jobs/view/senior-commissioning-operations-engineer-at-mainspring-energy-4386276015": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-laravel-4391548614": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4392266743": 1,
     "https://www.linkedin.com/jobs/view/op%c3%a9rateur-cctv-at-brink%e2%80%99s-inc-4393146581": 1,
-    "https://www.linkedin.com/jobs/view/emea-senior-sales-director-at-iopa-solutions-4390929806": 1
+    "https://www.linkedin.com/jobs/view/emea-senior-sales-director-at-iopa-solutions-4390929806": 1,
+    "https://www.linkedin.com/jobs/view/marketing-platform-engineer-data-ai-at-bloomreach-4343029348": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391738130": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-organic-growth-marketing-at-jobgether-4390917676": 1,
+    "https://www.linkedin.com/jobs/view/crm-operations-manager-at-jobgether-4390794379": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-specialist-sales-solutions-at-stitch-4391750820": 1,
+    "https://www.linkedin.com/jobs/view/vp-marketing-at-g2-startup-advisors-4392008417": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-assistant-at-kuubiik-4392273250": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-of-ecommerce-at-scout-bags-4391544147": 1,
+    "https://www.linkedin.com/jobs/view/partnerships-manager-multi-category-lifestyle-at-revolut-4380447391": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-organic-growth-marketing-at-jobgether-4390922521": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-lensa-4391537073": 1,
+    "https://www.linkedin.com/jobs/view/crm-coordinator-at-staffingine-llc-4391548512": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
