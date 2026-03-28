@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/zlc-remote-pilot-operator-at-jobs-via-dice-4386838093": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387211892": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387229182": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4387233044": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4345879550": 1,
-    "https://www.linkedin.com/jobs/view/senior-pigment-consultant-at-henderson-drake-4384795861": 1,
     "https://www.linkedin.com/jobs/view/backend-ops-engineer-at-weekday-ai-yc-w21-4385006263": 1,
     "https://www.linkedin.com/jobs/view/consumer-marketing-manager-india-at-openai-4374884124": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-media-minds-4385007098": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4392671435": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4381069244": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391628676": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4391599626": 1,
+    "https://www.linkedin.com/jobs/view/storage-operations-engineer-multiple-openings-at-vultr-4365381301": 1,
+    "https://www.linkedin.com/jobs/view/python-software-engineer-at-prima-4149696449": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-joblet-ai-4391756306": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-presshop-4392087889": 1,
+    "https://www.linkedin.com/jobs/view/sports-social-media-manager-at-sports-culture-4391517427": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
