@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4361692029": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-executive-b2b-at-digital-4387213761": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-egyptian-youth-diplomacy-program-4384770892": 1,
-    "https://www.linkedin.com/jobs/view/operations-technology-systems-engineer-at-international-paper-4378659499": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4387244959": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-creative-circle-4384787122": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-healthbegins-4386469063": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-builder-at-darzy-ai-4386833482": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386725939": 1,
-    "https://www.linkedin.com/jobs/view/engineering-selling-solutions-director-at-randstad-usa-4328791805": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386735480": 1,
-    "https://www.linkedin.com/jobs/view/teamlead-data-platform-engineering-m-w-d-at-deichmann-4385699400": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386743289": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4386731765": 1,
     "https://www.linkedin.com/jobs/view/data-operations-engineer-intern-at-leidos-4384794496": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-the-flex-co-4387252803": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/talent-acquisition-specialist-at-hearth-4391252536": 1,
     "https://www.linkedin.com/jobs/view/founding-software-engineer-at-berkley-hunt-4391771354": 1,
     "https://www.linkedin.com/jobs/view/ingeniero-de-proyecto-at-efiempresa-4391754019": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1
+    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1,
+    "https://www.linkedin.com/jobs/view/proje-m%c3%bchendisi-at-telosteq-4393635763": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-social-at-rowabi-4390927212": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-marketing-services-at-keywords-studios-4391705367": 1,
+    "https://www.linkedin.com/jobs/view/client-success-manager-1203-pretoria-south-africa-at-bionic-talent-4391210514": 1,
+    "https://www.linkedin.com/jobs/view/social-media-seo-manager-equity-based-at-stylere-4391219967": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hologic-inc-4391613302": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-operations-at-fanatics-4380852462": 1,
+    "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4385502650": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-publicis-media-4391255110": 1,
+    "https://www.linkedin.com/jobs/view/marketing-content-manager-at-mabl-4391232454": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726868": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
