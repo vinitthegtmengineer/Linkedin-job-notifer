@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/document-control-specialist-%e2%80%94-quality-systems-compliance-at-hubot-tri-pac-inc-cdmo-4387441008": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-kintec-search-inc-4385029704": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-authorcmo-4385023256": 1,
     "https://www.linkedin.com/jobs/view/campaign-operations-specialist-at-lastpass-4354451186": 1,
     "https://www.linkedin.com/jobs/view/consultor-at-meu-cs-4385035482": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4392034261": 1,
     "https://www.linkedin.com/jobs/view/sourcer-forward-deployment-engineering-at-openai-4393155362": 1,
     "https://www.linkedin.com/jobs/view/founding-llm-agentic-engineer-stealth-billionaire-backed-at-monarch-4391244673": 1,
-    "https://www.linkedin.com/jobs/view/manager-campaign-operations-at-dandy-4372211519": 1
+    "https://www.linkedin.com/jobs/view/manager-campaign-operations-at-dandy-4372211519": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-cim-group-4391774139": 1,
+    "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392085101": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 50,
+    "cyclesToday": 51,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
