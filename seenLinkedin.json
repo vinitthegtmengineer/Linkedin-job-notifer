@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketplace-consultant-at-channelmojo-4386880342": 1,
-    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386880350": 1,
-    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386890037": 1,
-    "https://www.linkedin.com/jobs/view/operator-regional-head-of-growth-partnerships-pmc-at-truehoa-inc-4387419117": 1,
     "https://www.linkedin.com/jobs/view/operador-pedestre-at-lite-tech-formerly-lite-organiza%c3%a7%c3%a3o-ltda-4385008825": 1,
     "https://www.linkedin.com/jobs/view/demo-engineer-at-somnia-4387408497": 1,
     "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386878457": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-sprinto-4280850157": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-joblet-ai-4392086178": 1,
     "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-tiger-data-creators-of-timescaledb-4390986860": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-208405-at-aquent-4382346632": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-208405-at-aquent-4382346632": 1,
+    "https://www.linkedin.com/jobs/view/sr-consultant-customer-experience-at-nationwide-4392772518": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-snowflake-power-bi-at-fusion-consulting-4343018557": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4392097409": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-28",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
