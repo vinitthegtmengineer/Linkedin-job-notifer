@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-authentic-community-marketing-4387157263": 1,
-    "https://www.linkedin.com/jobs/view/anaplan-senior-consultant-at-3px-group-%e2%98%85-a-sunday-times-best-place-to-work-4387445655": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4387174329": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-engineer-at-wealthbox-4387160833": 1,
     "https://www.linkedin.com/jobs/view/director-customer-marketing-expansion-and-advocacy-at-vasion-4387427849": 1,
     "https://www.linkedin.com/jobs/view/%e8%87%aa%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%c3%97%e8%87%aa%e7%a4%be%e5%8b%a4%e5%8b%99%e3%80%80%e3%80%90%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e4%bc%9a%e8%a8%88%e3%82%bd%e3%83%95%e3%83%88%e5%bc%a5%e7%94%9f%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-%e4%bb%a5%e4%b8%8b%e7%95%a5-at-yayoi-co-ltd-4387491351": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392307780": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-creative-circle-4393363063": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-creative-circle-4393356171": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-at-nxtwave-4391619388": 1
+    "https://www.linkedin.com/jobs/view/chief-of-staff-at-nxtwave-4391619388": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-servicenow-at-nordic-global-4393136595": 1,
+    "https://www.linkedin.com/jobs/view/motor-engineer-at-intact-insurance-uk-4376499624": 1,
+    "https://www.linkedin.com/jobs/view/vp-enterprise-sales-at-milvian-group-4391604743": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
