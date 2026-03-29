@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-recskills-4387193035": 1,
-    "https://www.linkedin.com/jobs/view/life-insurance-agent-agency-builder-4387463252": 1,
     "https://www.linkedin.com/jobs/view/new-role%21-series-b-martech-leader%21-solutions-engineer-%24130k%2b-base-plus-generous-bonus-hybrid-nyc-relocation-at-scoutlab-io-4387663927": 1,
     "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386883268": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-executive-cx-solutions-at-distyl-4380211230": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4321058314": 1,
     "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392317616": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-sage-intacct-at-cbiz-4381074561": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-at-devuplink-4391672025": 1
+    "https://www.linkedin.com/jobs/view/engineering-specialist-at-devuplink-4391672025": 1,
+    "https://www.linkedin.com/jobs/view/operador-monitoramento-%e2%80%93-portaria-virtual-%e2%80%93-porto-alegre-%e2%80%93-rs-nova-vaga-dispon%c3%advel-at-buscarvagas-empregos-brasil-4394087395": 1,
+    "https://www.linkedin.com/jobs/view/vp-gtm-revops-at-strategic-employment-partners-sep-4382459690": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
