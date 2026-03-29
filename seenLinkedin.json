@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-platforms-manager-ai-at-webflow-4369407223": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-levels-4387388735": 1,
-    "https://www.linkedin.com/jobs/view/machine-safety-specialist-%e2%80%93-sales-engineering-at-grantek-4385471160": 1,
-    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378075392": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-pm-at-allyis-4385067847": 1,
-    "https://www.linkedin.com/jobs/view/operatore-operatrice-contatti-commerciali-at-sovera-credit-partners-4387864189": 1,
-    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378062584": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4387857438": 1,
-    "https://www.linkedin.com/jobs/view/wcs-consultant-at-yochana-4387396870": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-coordinator-contractor-generation-colombia-remote-consultant-at-generation-colombia-4385059752": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-dexian-4387395853": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-remote-at-crossing-hurdles-4387363884": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-mexico-remote-at-turnitin-4378062165": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-empire-clothing-club-4391677024": 1,
     "https://www.linkedin.com/jobs/view/associate-vice-president-clinical-services-market-access-marketing-at-precision-aq-4363447658": 1,
     "https://www.linkedin.com/jobs/view/operations-director-marketing-manager-business-development-executive-at-electrical-mirror-4394157237": 1,
-    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4364761016": 1,
+    "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4391677055": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391678046": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392346029": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-pinnacle-method-consulting-4391611314": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392328927": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-design-at-remotehunter-4391662852": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-fastspring-4355423402": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-xbow-4372019241": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-vaxcyte-4364520841": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
