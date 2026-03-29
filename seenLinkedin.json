@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-sf-onboarding-pleno-at-hr-path-4385475785": 1,
-    "https://www.linkedin.com/jobs/view/new-home-builder-consultant-at-new-home-star-4385488358": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-astraia-collective-4385433385": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108111": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387886936": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/soc-engineer-at-fetchjobs-co-4391693013": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324757915": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-ops-engineer-at-calix-4347161569": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391697029": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391697029": 1,
+    "https://www.linkedin.com/jobs/view/manhattan-active-wms-consultant-mawm-at-stanley-david-and-associates-4392350763": 1,
+    "https://www.linkedin.com/jobs/view/principal-automation-engineer-fixed-term-engineering-toronto-at-dept%c2%ae-4337102454": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-salary-20k-at-guava-digital-4394540607": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
