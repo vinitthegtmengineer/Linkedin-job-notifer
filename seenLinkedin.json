@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-engineer-at-wealthbox-4387160833": 1,
-    "https://www.linkedin.com/jobs/view/director-customer-marketing-expansion-and-advocacy-at-vasion-4387427849": 1,
-    "https://www.linkedin.com/jobs/view/%e8%87%aa%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%c3%97%e8%87%aa%e7%a4%be%e5%8b%a4%e5%8b%99%e3%80%80%e3%80%90%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e4%bc%9a%e8%a8%88%e3%82%bd%e3%83%95%e3%83%88%e5%bc%a5%e7%94%9f%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-%e4%bb%a5%e4%b8%8b%e7%95%a5-at-yayoi-co-ltd-4387491351": 1,
-    "https://www.linkedin.com/jobs/view/gtm-consultant-at-understanding-solutions-4385065618": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-gtm-tech-data-ops-at-a-lign-4377423793": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%92%bc-founding-gtm-systems-builder-at-zubai-business-technology-4387437426": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-hirexe-4387412932": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-tapcheck-4370891715": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-mento-4387107960": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-sales-automations-at-nuvemshop-4377546448": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-gtm-at-humansignal-4387295030": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-specterops-4370735504": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-squire-4374860372": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-gtm-at-pairpeo-4387617436": 1,
     "https://www.linkedin.com/jobs/view/head-of-gtm-go-to-market-at-sidetool-4387295687": 1,
     "https://www.linkedin.com/jobs/view/entrepreneur-in-residence-gtm-at-finmid-4387486389": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-%2475k-%2b-300%25-bonus-%2b-10%25-equity-at-peony-ink-at-jack-jill-4385021637": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/chief-of-staff-at-nxtwave-4391619388": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-servicenow-at-nordic-global-4393136595": 1,
     "https://www.linkedin.com/jobs/view/motor-engineer-at-intact-insurance-uk-4376499624": 1,
-    "https://www.linkedin.com/jobs/view/vp-enterprise-sales-at-milvian-group-4391604743": 1
+    "https://www.linkedin.com/jobs/view/vp-enterprise-sales-at-milvian-group-4391604743": 1,
+    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4392313932": 1,
+    "https://www.linkedin.com/jobs/view/pbi-remote-pilot-operator-at-lensa-4392329197": 1,
+    "https://www.linkedin.com/jobs/view/dtw-remote-pilot-operator-at-lensa-4392315637": 1,
+    "https://www.linkedin.com/jobs/view/batch-operator-at-jobs-via-dice-4390491233": 1,
+    "https://www.linkedin.com/jobs/view/icertis-consultant-remote-at-jobs-via-dice-4389844432": 1,
+    "https://www.linkedin.com/jobs/view/bio-solids-operations-support-engineer-remote-travel-at-lensa-4392328117": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392082262": 1,
+    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392079391": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-manager-remote-at-lensa-4392330188": 1,
+    "https://www.linkedin.com/jobs/view/technical-superintendent-singapore-based-at-comaea-consulting-4391627597": 1,
+    "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4392327156": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-strategic-partnerships-initiatives-at-lensa-4392327153": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-lensa-4392335048": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4392321373": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
