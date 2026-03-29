@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109037": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-at-hungryroot-4388125798": 1,
-    "https://www.linkedin.com/jobs/view/salesforce-engineer-at-vanta-4387752234": 1,
     "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4388137494": 1,
     "https://www.linkedin.com/jobs/view/director-affiliate-activation-at-highlevel-4375219517": 1,
     "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-at-nasuni-4378063705": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-out-story-india-formerly-fox-story-india-4391800108": 1,
     "https://www.linkedin.com/jobs/view/consulente-alimentazione-naturale-cane-e-gatto-opportunit%c3%a0-flessibile-nel-pet-care-4394562849": 1,
     "https://www.linkedin.com/jobs/view/observability-engineer-at-haystack-4392364393": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-pre-seed-part-time-at-srnd-ai-4391690266": 1
+    "https://www.linkedin.com/jobs/view/founding-engineer-pre-seed-part-time-at-srnd-ai-4391690266": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324775581": 1,
+    "https://www.linkedin.com/jobs/view/omnichannel-marketing-workfront-at-indegene-4391680374": 1,
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-celogen-lanka-4394558651": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 50,
+    "cyclesToday": 51,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
