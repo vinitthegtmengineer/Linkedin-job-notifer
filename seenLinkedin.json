@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/detection-engineer-remote-at-crowdstrike-4385487033": 1,
-    "https://www.linkedin.com/jobs/view/engineers-at-great-value-hiring-4376779470": 1,
-    "https://www.linkedin.com/jobs/view/cloudops-engineer-pleno-at-enghouse-systems-4256339317": 1,
     "https://www.linkedin.com/jobs/view/senior-open-source-engineer-remote-at-crossing-hurdles-4387370635": 1,
     "https://www.linkedin.com/jobs/view/senior-data-engineering-at-ci-t-4387840637": 1,
     "https://www.linkedin.com/jobs/view/senior-zendesk-engineer-at-telus-digital-4368770639": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/pim-consultant-all-genders-at-valantic-dxa-4392349585": 1,
     "https://www.linkedin.com/jobs/view/remote-scoop-operator-at-dumas-contracting-ltd-4391685012": 1,
     "https://www.linkedin.com/jobs/view/ai-red-team-operator-remote-or-hybrid-in-mn-or-dc-at-unitedhealth-group-4392360345": 1,
-    "https://www.linkedin.com/jobs/view/consultant-financiar-at-partener-destine-holding-4394532555": 1
+    "https://www.linkedin.com/jobs/view/consultant-financiar-at-partener-destine-holding-4394532555": 1,
+    "https://www.linkedin.com/jobs/view/sr-backend-engineer-platform-engineering-network-data-at-kentik-4363465429": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-de-processos-home-office-embarque-eventual-at-capco-4372746711": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324760839": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
