@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-events-at-bee-talent-solutions-4387887367": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-founders-team-ski-startup-at-snowgroup-4385486446": 1,
     "https://www.linkedin.com/jobs/view/consultor-sf-onboarding-pleno-at-hr-path-4385475785": 1,
     "https://www.linkedin.com/jobs/view/new-home-builder-consultant-at-new-home-star-4385488358": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/key-account-manager-at-lensa-4392320469": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-%e2%80%93-remote-at-quik-hire-staffing-4392342240": 1,
     "https://www.linkedin.com/jobs/view/soc-engineer-at-fetchjobs-co-4391693013": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324757915": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324757915": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-ops-engineer-at-calix-4347161569": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391697029": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
