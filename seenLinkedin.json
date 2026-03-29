@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/e-commerce-optimizely-engineer-at-comptia-4385445624": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-crossing-hurdles-4387347310": 1,
-    "https://www.linkedin.com/jobs/view/operations-specialist-remote-at-crossing-hurdles-4387342536": 1,
-    "https://www.linkedin.com/jobs/view/clickhouse-operations-engineer-at-posthog-4386879326": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-industrial-engineering-operations-design-at-kenco-group-4387644784": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-at-sspm-consultants-4385921373": 1,
-    "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4387378274": 1,
-    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-netdocuments-4376799351": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1,
-    "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-the-branding-people-4387377893": 1,
     "https://www.linkedin.com/jobs/view/op%c3%a9rateur-mise-sous-pli-f-h-at-docaposte-4385464481": 1,
     "https://www.linkedin.com/jobs/view/partnership-consultant-at-shopline-4387703021": 1,
     "https://www.linkedin.com/jobs/view/ops-engineer-m-w-d-remote-first-deutschland-at-adfinis-4334654630": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
     "https://www.linkedin.com/jobs/view/founding-account-executive-remote-at-crossing-hurdles-4372083689": 1,
     "https://www.linkedin.com/jobs/view/sales-director-at-chegg-inc-4381374107": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-caelum-group-gmbh-4394156806": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-caelum-group-gmbh-4394156806": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4394158784": 1,
+    "https://www.linkedin.com/jobs/view/senior-google-workspace-consultant-m-w-d-remote-oder-hybrid-bundesweit-at-pcg-public-cloud-group-4312812001": 1,
+    "https://www.linkedin.com/jobs/view/senior-sre-early-engineer-at-motion-recruitment-4365616715": 1,
+    "https://www.linkedin.com/jobs/view/remote-devsecops-engineer-at-lensa-4392316574": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-opportunity%21-at-jobot-4375250587": 1,
+    "https://www.linkedin.com/jobs/view/principal-i-o-engineering-remote-at-optum-4392097284": 1,
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-full-stack-at-doxel-4387232626": 1,
+    "https://www.linkedin.com/jobs/view/operations-director-marketing-manager-business-development-executive-at-nueva-wal-mart-de-m%c3%a9xico-s-de-r-l-de-c-v-4391646623": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391666775": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
