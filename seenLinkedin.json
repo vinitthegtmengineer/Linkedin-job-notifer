@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-director-of-gtm-revenue-operations-remote-at-lensa-4387640995": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-partsbase-inc-4385051983": 1,
-    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-haystack-4386859899": 1,
     "https://www.linkedin.com/jobs/view/linkedin-campaign-manager-at-russell-tobin-4385024664": 1,
     "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4386841002": 1,
     "https://www.linkedin.com/jobs/view/marketing-assistant-at-recskills-4387193035": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/finishing-operator-i-iii-at-biospace-4392327482": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392335407": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4392086236": 1,
-    "https://www.linkedin.com/jobs/view/cloudops-engineer-iii-at-noodle-4392318046": 1
+    "https://www.linkedin.com/jobs/view/cloudops-engineer-iii-at-noodle-4392318046": 1,
+    "https://www.linkedin.com/jobs/view/remote-genai-engineer-at-prosum-4391647769": 1,
+    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4321058314": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392317616": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
