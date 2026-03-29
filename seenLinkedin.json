@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cloud-native-engineer-at-quadsci-ai-4387609721": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4345985950": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-optimizely-engineer-at-comptia-4385445624": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-crossing-hurdles-4387347310": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/founding-ae-at-crossing-hurdles-4372086690": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-emp-global-4391669273": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
-    "https://www.linkedin.com/jobs/view/founding-account-executive-remote-at-crossing-hurdles-4372083689": 1
+    "https://www.linkedin.com/jobs/view/founding-account-executive-remote-at-crossing-hurdles-4372083689": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-at-chegg-inc-4381374107": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
