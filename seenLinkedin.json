@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-of-staff-at-atlantic-partners-corporation-4387861894": 1,
     "https://www.linkedin.com/jobs/view/head-of-regional-marketing-ams-at-digicert-4376900660": 1,
     "https://www.linkedin.com/jobs/view/b2b-product-marketing-manager-healthtech-remote-eu-at-mira-4387871601": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-sr-analyst-at-carrot-4375990942": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-content-manager-at-lensa-4392325265": 1,
     "https://www.linkedin.com/jobs/view/director-senior-manager-marketing-operations-at-certifid-4387302696": 1,
     "https://www.linkedin.com/jobs/view/sr-servicenow-engineer-at-mks-inc-4355346549": 1,
-    "https://www.linkedin.com/jobs/view/prognosis-engineer-at-odyssey-information-services-4390704962": 1
+    "https://www.linkedin.com/jobs/view/prognosis-engineer-at-odyssey-information-services-4390704962": 1,
+    "https://www.linkedin.com/jobs/view/aidc-engineer-at-contemporary-amperex-technology-usa-inc-4346638472": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
