@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%f0%9f%8c%90%f0%9f%93%88%f0%9f%8f%a2%f0%9f%8e%9e%ef%b8%8f-social-media-campaign-manager%f0%9f%95%b8%ef%b8%8f%f0%9f%aa%81%f0%9f%8e%af%e2%9a%96%ef%b8%8f%e2%9c%85-at-mayflower-case-4387276615": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-logicalis-uk-i-4387288372": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-the-fountain-group-4387436266": 1,
-    "https://www.linkedin.com/jobs/view/engineering-fabrication-estimator-wfh-at-deployed-4387181553": 1,
-    "https://www.linkedin.com/jobs/view/application-engineering-specialist-remote-or-hybrid-at-waltonen-engineering-4386484900": 1,
-    "https://www.linkedin.com/jobs/view/manager-gtm-systems-tools-at-ashby-4368025686": 1,
     "https://www.linkedin.com/jobs/view/operador-de-ecommerce-y-marketplaces-at-lluvia-digital-4387624857": 1,
     "https://www.linkedin.com/jobs/view/dca-remote-pilot-operator-at-lensa-4387651476": 1,
     "https://www.linkedin.com/jobs/view/zfw-remote-pilot-operator-at-lensa-4387657302": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-integration-platform-engineer-sales-team-at-semrush-4370750960": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392086178": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-biospace-4391563032": 1,
-    "https://www.linkedin.com/jobs/view/head-of-consumer-marketing-link-at-stripe-4288335961": 1
+    "https://www.linkedin.com/jobs/view/head-of-consumer-marketing-link-at-stripe-4288335961": 1,
+    "https://www.linkedin.com/jobs/view/competitive-intelligence-consultant-must-have-a-phd-in-the-life-sciences-at-brass-tacks-insights-4391605965": 1,
+    "https://www.linkedin.com/jobs/view/sr-consultant-early-adopters-at-bd-4392055920": 1,
+    "https://www.linkedin.com/jobs/view/digitaler-berater-m-w-d-servicekunden-at-michael-page-4393327883": 1,
+    "https://www.linkedin.com/jobs/view/consultant-notfallmanagement-produktmanagement-w-m-d-at-komm-one-4392303789": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-all-genders-pm-eam-at-orianda-solutions-ag-a-valantic-company-4393713649": 1,
+    "https://www.linkedin.com/jobs/view/digital-executive-remote-at-supercars-4391641836": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
