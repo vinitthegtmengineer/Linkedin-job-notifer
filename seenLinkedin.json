@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4388137494": 1,
-    "https://www.linkedin.com/jobs/view/director-affiliate-activation-at-highlevel-4375219517": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-at-nasuni-4378063705": 1,
-    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-ntop-4377265183": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-manager-at-zendesk-4359890240": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-operations-analyst-business-insurance-at-gusto-4388128403": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-strategic-accounts-at-twilio-4387679975": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-operations-manager-at-tidb-powered-by-pingcap-4373768861": 1,
-    "https://www.linkedin.com/jobs/view/growth-ai-lead-at-curri-4388102921": 1,
-    "https://www.linkedin.com/jobs/view/social-media-executive-at-hirex-4387703023": 1,
     "https://www.linkedin.com/jobs/view/head-of-global-channels-at-sapiens-4385497379": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-apartmentiq-4387752549": 1,
     "https://www.linkedin.com/jobs/view/ai-benchmarking-operations-engineer-at-ikuto-4388156104": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/founding-engineer-pre-seed-part-time-at-srnd-ai-4391690266": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324775581": 1,
     "https://www.linkedin.com/jobs/view/omnichannel-marketing-workfront-at-indegene-4391680374": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-celogen-lanka-4394558651": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-celogen-lanka-4394558651": 1,
+    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4394556182": 1,
+    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4394561586": 1,
+    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4392334422": 1,
+    "https://www.linkedin.com/jobs/view/senior-scientist-protein-science-engineering-large-molecule-biologics-at-biospace-4392337170": 1,
+    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4392321787": 1,
+    "https://www.linkedin.com/jobs/view/remote-c%23-net-engineer-at-lensa-4392317520": 1,
+    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4394567141": 1,
+    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4394563336": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391690315": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-design-at-remotehunter-4391680414": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-29",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
