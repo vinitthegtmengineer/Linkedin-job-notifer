@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-at-latitude-ai-4388516587": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-medtech-qms-complaints-at-veeva-systems-4377296726": 1,
-    "https://www.linkedin.com/jobs/view/remote-religious-studies-consultant-%2460-hr-at-mercor-4388391184": 1,
-    "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194193955": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-smart-work-power-plattform-ki-m-w-d-at-provectus-technologies-gmbh-4388384674": 1,
     "https://www.linkedin.com/jobs/view/new-technologyone-consultant-at-t1-4387795680": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105947710": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/consultant-en-recrutement-ind%c3%a9pendant-h-f-france-enti%c3%a8re-at-alveor-4392955434": 1,
     "https://www.linkedin.com/jobs/view/azure-operations-engineer-at-quantum-world-technologies-inc-4392947801": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tully-luxury-travel-4392944798": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-executive-intern-at-quantum-it-innovation-4391890308": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-executive-intern-at-quantum-it-innovation-4391890308": 1,
+    "https://www.linkedin.com/jobs/view/consultants-coach-entrepreneurs-leaders-at-masterminds-le-cercle-vertueux-4395076416": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392920669": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-team17-4392939944": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-quandri-4392942398": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
