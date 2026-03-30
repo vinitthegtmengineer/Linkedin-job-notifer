@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105945895": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105944954": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105951169": 1,
-    "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194198253": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-prosum-4387967718": 1,
     "https://www.linkedin.com/jobs/view/zfw-remote-pilot-operator-at-lensa-4388186347": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4380452803": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/software-quality-assurance-builder-at-graphite-connect-4392931222": 1,
     "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392932148": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-sira-4395040758": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395050015": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395050015": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-plentific-4391857932": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-new-wave-recruiting-4391869773": 1,
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4392933239": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4392920710": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
