@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388352230": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-twin-magazine-4388356448": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388337782": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388376422": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388378359": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388374485": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388372485": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388362970": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-engineer-ai-native-builder-at-bnberry-4388370617": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-ontap-4385732770": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-contract-at-pop-n-creative-4388362865": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-cookwise-ai-4387964226": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-telfer-partners-4385744340": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4378680638": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-at-storable-4377293309": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4392914152": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4392597949": 1,
     "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-methods-4382049692": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395051013": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395051013": 1,
+    "https://www.linkedin.com/jobs/view/konzultant-ka-pro-oblast-p%c5%99%c3%adm%c3%bdch-dan%c3%ad-at-pwc-czech-republic-4337129530": 1,
+    "https://www.linkedin.com/jobs/view/consultant-en-implantation-de-sage-intacct-bilingue-at-vision33-4369599392": 1,
+    "https://www.linkedin.com/jobs/view/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b5%d1%86%d1%8c-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d0%b0%d0%b2%d1%96%d0%b4%d1%83%d0%b2%d0%b0%d1%87-%d0%b2%d1%96%d0%b4%d0%b4%d1%96%d0%bb%d1%83-jysk-%d1%82%d1%86-veles-at-jysk-4395018079": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-bcm-isms-m-w-d-at-bdo-germany-4392588217": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-citrix-bedarfsanalyse-planung-umsetzung-projektleitung-remote-first-mwd-at-vesterling-ag-4338203567": 1,
+    "https://www.linkedin.com/jobs/view/consultant-mdg-at-syniti-4392394524": 1,
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-%e2%80%93-builder-plateforme-sant%c3%a9-at-relaisant%c3%a9-4392911578": 1,
+    "https://www.linkedin.com/jobs/view/senior-android-developer-reverse-engineering-or-custom-rom-engineering-focus-at-emma-of-torre-ai-4392914448": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hexa-solutions-4391859388": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-framework-4395054493": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-jobgether-4391854080": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395031902": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
