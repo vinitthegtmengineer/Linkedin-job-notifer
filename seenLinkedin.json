@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/walkme-builder-at-trident-consulting-4388384741": 1,
-    "https://www.linkedin.com/jobs/view/consultant-lims-at-veeva-systems-4377601632": 1,
-    "https://www.linkedin.com/jobs/view/french-stem-consultant-remote-%2443-hr-at-mercor-4388383597": 1,
-    "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194198252": 1,
-    "https://www.linkedin.com/jobs/view/consultant-veeva-rim-managed-services-remote-at-veeva-systems-4377299685": 1,
-    "https://www.linkedin.com/jobs/view/technologyone-techone-p-r-consultant-at-private-company-4387794648": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105945895": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105944954": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105951169": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-mappa-4391862561": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-creative-people-4395054614": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-excel-4391851648": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-lahzo-4395060373": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-lahzo-4395060373": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-techjays-4391869015": 1,
+    "https://www.linkedin.com/jobs/view/software-quality-assurance-builder-at-graphite-connect-4391850976": 1,
+    "https://www.linkedin.com/jobs/view/software-quality-assurance-builder-at-graphite-connect-4392931222": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392932148": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-sira-4395040758": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395050015": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
