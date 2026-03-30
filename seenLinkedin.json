@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-telfer-partners-4385744340": 1,
-    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4378680638": 1,
-    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-storable-4377293309": 1,
-    "https://www.linkedin.com/jobs/view/fintech-marketing-executive-b2b-at-northern-marketing-jobs-4388380011": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-lifecycle-marketing-at-simplepractice-4378631689": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-honeycomb-io-4377627070": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-huzzle-com-4388339698": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-executive-wfh-full-time-at-perfect-7-malaysia-singapore-4387963784": 1,
     "https://www.linkedin.com/jobs/view/walkme-builder-at-trident-consulting-4388384741": 1,
     "https://www.linkedin.com/jobs/view/consultant-lims-at-veeva-systems-4377601632": 1,
     "https://www.linkedin.com/jobs/view/french-stem-consultant-remote-%2443-hr-at-mercor-4388383597": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hexa-solutions-4391859388": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-framework-4395054493": 1,
     "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-jobgether-4391854080": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395031902": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395031902": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-celonis-at-genpact-4392918518": 1,
+    "https://www.linkedin.com/jobs/view/lead-ai-engineer-production-applied-ai-at-lumitech-4395039927": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4391872302": 1,
+    "https://www.linkedin.com/jobs/view/partner-growth-manager-at-merchante-4395043912": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-mappa-4391862561": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-creative-people-4395054614": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-excel-4391851648": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-lahzo-4395060373": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
