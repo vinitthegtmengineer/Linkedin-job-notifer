@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-associate-director-global-aesthetics-medical-affairs-%e2%80%93-facial-aesthetics-at-orion-group-4388144405": 1,
-    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4385499170": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-qualitas-executive-group-4387749872": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-zenity-4382421794": 1,
     "https://www.linkedin.com/jobs/view/social-media-channel-operations-manager-remote-eu-backfill-at-lensa-4388140503": 1,
     "https://www.linkedin.com/jobs/view/campaign-delivery-executive-at-vertical-advantage-3744568761": 1,
     "https://www.linkedin.com/jobs/view/senior-director-operations-dental-ortho-at-practicetek-4375747302": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/process-engineer-design-at-remotehunter-4391680414": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4391694295": 1,
     "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4391698334": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8fvpoe%e5%80%99%e8%a3%9c%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e7%b5%84%e7%b9%94%e8%b2%ac%e4%bb%bb%e8%80%85-at-persol-career-brs-bilingual-recruitment-solutions-4363670745": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8fvpoe%e5%80%99%e8%a3%9c%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e7%b5%84%e7%b9%94%e8%b2%ac%e4%bb%bb%e8%80%85-at-persol-career-brs-bilingual-recruitment-solutions-4363670745": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-gtm-base-4394539716": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-mlops-lead-at-solar-tech-energy-solutions-4391696383": 1,
+    "https://www.linkedin.com/jobs/view/gtm-at-mindra-4394193550": 1,
+    "https://www.linkedin.com/jobs/view/market-research-at-grow10x-4391655467": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-03-29",
-    "cyclesToday": 59,
+    "date": "2026-03-30",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
