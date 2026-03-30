@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369267738": 1,
-    "https://www.linkedin.com/jobs/view/security-project-engineer-estimating-focus-at-preceptor-4387748432": 1,
-    "https://www.linkedin.com/jobs/view/design-project-engineer-radio-frequency-at-eos-it-solutions-4387783990": 1,
-    "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-ardurra-4321906989": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369269652": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-i-secure-platform-operations-remote-eligible-at-smartsheet-4387718236": 1,
     "https://www.linkedin.com/jobs/view/sro-principal-engineer-nuclear-operations-at-laveer-engineering-4388128631": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-keystone-recruitment-4388332898": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-learn-life-in-new-way-4392551342": 1,
     "https://www.linkedin.com/jobs/view/people-culture-consultant-the-executive-shift-at-loving-life-now-4391820463": 1,
     "https://www.linkedin.com/jobs/view/production-systems-engineer-%e2%80%93-sre-monitoring-root-cause-analysis-ai-remote-at-crossing-hurdles-4391804334": 1,
-    "https://www.linkedin.com/jobs/view/content-strategist-social-media-manager-at-rooted-social-4392585460": 1
+    "https://www.linkedin.com/jobs/view/content-strategist-social-media-manager-at-rooted-social-4392585460": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4395037530": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%87%e3%83%bc%e3%82%bf%e5%88%a9%e6%b4%bb%e7%94%a8g-%e3%83%87%e3%83%bc%e3%82%bf%e5%9f%ba%e7%9b%a4%e9%96%8b%e7%99%ba%e6%8e%a8%e9%80%b2%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%aa%e3%82%b9%e3%83%88%ef%bc%88%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%ef%bc%89-at-%e4%b8%80%e8%88%ac%e8%b2%a1%e5%9b%a3%e6%b3%95%e4%ba%bagovtech%e6%9d%b1%e4%ba%ac-4331130247": 1,
+    "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4383787637": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395043226": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395048052": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
