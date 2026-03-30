@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387895710": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-research-engineer-at-hungryroot-4387772395": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-cookwise-ai-4387395110": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387889932": 1,
-    "https://www.linkedin.com/jobs/view/partner-go-to-market-gtm-lead-at-algorand-foundation-4387842321": 1,
     "https://www.linkedin.com/jobs/view/founding-head-of-sales-go-to-market-at-unicli-4387746445": 1,
     "https://www.linkedin.com/jobs/view/head-of-sales-uk-market-at-wrxflo-4383131525": 1,
     "https://www.linkedin.com/jobs/view/senior-airtable-builder-no-code-systems-architect-contract-remote-at-sogos-consulting-4387786184": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-reborn-4391695624": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-engineer-%e2%80%93-google-cloud-platform-ai-pilot-project-at-jobs-via-dice-4391690594": 1,
     "https://www.linkedin.com/jobs/view/kol-influencer-marketing-vietnamese-speaker-at-iux-4391681878": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4391683815": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4391683815": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-envato-4392376735": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-outreach-4391801107": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-meta-ads-%2b-seo-at-revelar-solutions-4391810037": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-brandline-media-4394899539": 1,
+    "https://www.linkedin.com/jobs/view/operations-director-marketing-manager-business-development-executive-at-protein-port-4394894522": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
