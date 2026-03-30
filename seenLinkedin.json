@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-channel-director-servicenow-at-rimini-street-4387774592": 1,
-    "https://www.linkedin.com/jobs/view/manager-customer-success-at-clickup-4368746920": 1,
-    "https://www.linkedin.com/jobs/view/cro-ceo-b2b-food-marketplace-startup-at-tradepronto-4387901107": 1,
-    "https://www.linkedin.com/jobs/view/siem-soar-engineer-at-sia-innovations-inc-4387877871": 1,
-    "https://www.linkedin.com/jobs/view/co-construtor-at-nored-brasil-4385749874": 1,
     "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-at-latitude-ai-4388516587": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-medtech-qms-complaints-at-veeva-systems-4377296726": 1,
     "https://www.linkedin.com/jobs/view/remote-religious-studies-consultant-%2460-hr-at-mercor-4388391184": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/demand-generation-manager-at-quandri-4392941436": 1,
     "https://www.linkedin.com/jobs/view/delivery-manager-shop-builder-at-xsolla-4395066561": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-installation-made-easy-inc-4392949449": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-process-manager-delhi-ncr-at-coursera-4381550784": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-process-manager-delhi-ncr-at-coursera-4381550784": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-implementazione-italia-at-softexpert-software-for-excellence-4392955355": 1,
+    "https://www.linkedin.com/jobs/view/consultant-en-recrutement-ind%c3%a9pendant-h-f-france-enti%c3%a8re-at-alveor-4392955434": 1,
+    "https://www.linkedin.com/jobs/view/azure-operations-engineer-at-quantum-world-technologies-inc-4392947801": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tully-luxury-travel-4392944798": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-executive-intern-at-quantum-it-innovation-4391890308": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
