@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-jensten-4388507295": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388533626": 1,
-    "https://www.linkedin.com/jobs/view/deployed-engineer-charlotte-at-langchain-4387744656": 1,
-    "https://www.linkedin.com/jobs/view/detection-and-response-engineer-at-dataannotation-4387893670": 1,
-    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388105348": 1,
     "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4387894688": 1,
     "https://www.linkedin.com/jobs/view/dx-engineer-at-vercel-4369671374": 1,
     "https://www.linkedin.com/jobs/view/senior-google-workspace-engineer-m-w-d-remote-oder-hybrid-bundesweit-at-pcg-public-cloud-group-4248524543": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/consulente-noleggio-a-lungo-termine-at-noleggiamola-4395090361": 1,
     "https://www.linkedin.com/jobs/view/owner-of-legacy-builder-program-2-0-4391887865": 1,
     "https://www.linkedin.com/jobs/view/senior-gamedev-engineer-c%2b%2b-at-plummy-games-4392109036": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-gossip-genie-4391894822": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-gossip-genie-4391894822": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-pesquisa-por-telefone-at-aftermarket-automotivo-4395140076": 1,
+    "https://www.linkedin.com/jobs/view/people-systems-analyst-ai-agent-builder-at-moody-s-corporation-4392989097": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
+    "https://www.linkedin.com/jobs/view/business-operations-bizops-engineer-at-tekwissen-%c2%ae-4392101278": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392919738": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
