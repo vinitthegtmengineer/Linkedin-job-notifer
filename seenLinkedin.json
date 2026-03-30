@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-industry-principal-%e2%80%94-gtm-manufacturing-building-materials-at-monarch-4387318661": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-gtm-systems-at-icims-4329132889": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-specialist-at-synack-4387477112": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-eptura-4378012893": 1,
-    "https://www.linkedin.com/jobs/view/campaign-executive-at-amplify-4387674880": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-kidsunited-4387806746": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-paid-search-at-gr0-4330421682": 1,
     "https://www.linkedin.com/jobs/view/google-advertisements-campaign-manager-%e2%80%93-search-and-shopping-remote-at-de-royal-prime-steakhouse-4387374765": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387893740": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-lensa-4392387183": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-analyst-capital-one-software-remote-at-lensa-4392368912": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4392376654": 1,
-    "https://www.linkedin.com/jobs/view/operations-coordinator-people-culture-at-lensa-4392372706": 1
+    "https://www.linkedin.com/jobs/view/operations-coordinator-people-culture-at-lensa-4392372706": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-engineer-at-building-and-industrial-control-system-bicsys-4392370939": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392382686": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-envato-4392378696": 1,
+    "https://www.linkedin.com/jobs/view/digital-executive-remote-at-conselheiras-%c2%ae-4394821403": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-marketing-executive-at-cloudek-4391692692": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-reborn-4391695624": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
