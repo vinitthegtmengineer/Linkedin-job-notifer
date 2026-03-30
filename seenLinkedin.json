@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%89%ef%bc%8d%ef%bd%90%ef%bd%8c%ef%bd%95%ef%bd%87-4388110729": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-morson-edge-technology-4387868333": 1,
-    "https://www.linkedin.com/jobs/view/golang-engineer-at-devquest-pk-4388329267": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-wave-group-4385483130": 1,
     "https://www.linkedin.com/jobs/view/engineering-specialist-at-smoothstack-4369620963": 1,
     "https://www.linkedin.com/jobs/view/fbs-ops-engineer-manager-at-capgemini-4385721872": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4388319633": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-outco-4392514141": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392518077": 1,
-    "https://www.linkedin.com/jobs/view/head-of-retention-at-caramel-talent-4392511482": 1
+    "https://www.linkedin.com/jobs/view/head-of-retention-at-caramel-talent-4392511482": 1,
+    "https://www.linkedin.com/jobs/view/consulente-didattico-full-remote-at-claire-joster-4395018847": 1,
+    "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4395028548": 1,
+    "https://www.linkedin.com/jobs/view/jr-gtm-engineer-at-coders-boutique-4395024739": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4392537127": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-30",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
