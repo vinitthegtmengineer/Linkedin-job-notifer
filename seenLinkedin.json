@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-gusto-4379256472": 1,
-    "https://www.linkedin.com/jobs/view/consultant-data-engineering-m-w-d-at-qunis-gmbh-4386173229": 1,
-    "https://www.linkedin.com/jobs/view/noc-support-engineer-software-at-hirenza-4388759295": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-executive-revenue-gtm-at-actively-ai-4369728391": 1,
-    "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4385799509": 1,
-    "https://www.linkedin.com/jobs/view/paid-search-campaign-manager-remote-at-forbes-advisor-4369826509": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362862345": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362755507": 1,
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386107082": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/vice-president-global-new-business-sales-at-cloudinary-4384211604": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393962245": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4392474180": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393954454": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393954454": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4392493082": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392488222": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392471640": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392470947": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392475497": 1,
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392488221": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
