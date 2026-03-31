@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-veeva-safety-managed-services-remote-at-veeva-systems-4377292900": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4387992700": 1,
-    "https://www.linkedin.com/jobs/view/aesthetic-consultant-new-york-city-at-sciton-4388538825": 1,
-    "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194195507": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-executive%ef%bc%88part-time-freelance%ef%bc%89-4385761541": 1,
     "https://www.linkedin.com/jobs/view/hunter-operator-not-gtm-regional-head-of-growth-partnerships-pmc-at-truehoa-inc-4388331415": 1,
     "https://www.linkedin.com/jobs/view/operador-de-marketing-at-genuine-school-4388389770": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4388200359": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-insight-global-4392104404": 1,
     "https://www.linkedin.com/jobs/view/member-marketing-operations-specialist-at-carrot-4392955377": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-pandadoc-4392965519": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-ai-operations-at-alvorada-dev-4392129475": 1
+    "https://www.linkedin.com/jobs/view/software-engineer-ai-operations-at-alvorada-dev-4392129475": 1,
+    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4393252583": 1,
+    "https://www.linkedin.com/jobs/view/meta-ads-operator-at-emma-of-torre-ai-4393236973": 1,
+    "https://www.linkedin.com/jobs/view/operator-highway-maintenance-fireside-alaska-highway-bc-at-ledcor-4393211988": 1,
+    "https://www.linkedin.com/jobs/view/investor-analyst-venture-builder-track-%e2%80%93-founder%e2%80%99s-office-at-vegah-4393247685": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4393249712": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
