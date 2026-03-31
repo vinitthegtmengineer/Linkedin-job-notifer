@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-automation-engineer-elektrotechnik-automatisierung-m-w-d-at-mce-gmbh-4387995363": 1,
     "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388745696": 1,
     "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4388740800": 1,
     "https://www.linkedin.com/jobs/view/in%c5%bcynier-in%c5%bcynierka-llm-at-astek-4375965209": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4382036841": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-levels-4392416766": 1,
     "https://www.linkedin.com/jobs/view/operator-formulation-prep-at-biospace-4393270656": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4392459010": 1
+    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4392459010": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-descon-conveyor-systems-a-pacteon-company-4393921576": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
