@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/national-accounts-manager-builder-midwest-at-lp-building-solutions-4385788372": 1,
-    "https://www.linkedin.com/jobs/view/partner-director-gsi%e2%80%99s-accenture-at-saviynt-4388510231": 1,
     "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4388377226": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-livingston-international-4388256306": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-blueberg-4366422285": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/mindset-and-wellbeing-consultant-remote-time-flexibility-at-creating-brighter-futures-4392174324": 1,
     "https://www.linkedin.com/jobs/view/data-ml-engineering-bd-solutioning-sm-ad-at-tiger-analytics-4392189142": 1,
     "https://www.linkedin.com/jobs/view/qa-engineer-platform-and-ops-tooling-at-serve-robotics-4395546118": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4395078325": 1
+    "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4395078325": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-developer-builder-contract-at-jobs-via-dice-4392142718": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-immo-4395647777": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
