@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-product-builder-south-africa-egypt-at-foundever-4388533871": 1,
-    "https://www.linkedin.com/jobs/view/tech-ops-builder-generalist-at-clipboard-4386137796": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-intern-student-project-3-months-at-transreport-4385753178": 1,
     "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4393297059": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383401129": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-nagarro-4392413694": 1,
-    "https://www.linkedin.com/jobs/view/it-process-engineer-proyecto-temporal-at-elaniin-4395069284": 1
+    "https://www.linkedin.com/jobs/view/it-process-engineer-proyecto-temporal-at-elaniin-4395069284": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-atenci%c3%b3n-al-cliente-espa%c3%b1ol-%e2%80%93-alem%c3%a1n-freelance-part-time-remoto-at-domus-global-4395865258": 1,
+    "https://www.linkedin.com/jobs/view/consulente-telefonico-full-remote-settore-education-at-mib-recruiting-4395856532": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
