@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-ops-engineer-bei-lector-ai-at-jaai-just-add-ai-gmbh-4388550664": 1,
-    "https://www.linkedin.com/jobs/view/remote-stem-engineer-india-%e2%80%94-ai-ml-data-operations-at-rex-zone-4388511784": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-operational-software-at-vector-solutions-4387986119": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4387994251": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-operational-software-at-vector-solutions-4388249295": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-marketing-at-moneyhero-group-nasdaq-mny-4363653396": 1,
-    "https://www.linkedin.com/jobs/view/consultor-vms-at-perceptio-s-a-s-4388283665": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-equity-only-build-grow-with-a-real-estate-startup-at-teo-4388502536": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-remote-at-emma-of-torre-ai-4388731175": 1,
     "https://www.linkedin.com/jobs/view/account-executive-portuguese-market-h-f-x-at-paack-4388722694": 1,
     "https://www.linkedin.com/jobs/view/salesforce-gtm-engineer-cpq-at-front-4363782708": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-partner-consultant-central-hub-at-admixer-media-4395681088": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-careerus-solutions-4395153829": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-alten-ltd-uk-4392194409": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-365-adventures-4395699895": 1
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-365-adventures-4395699895": 1,
+    "https://www.linkedin.com/jobs/view/senior-partner-consultant-remote-at-admixer-media-4395681088": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4395842425": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383386673": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-seraphis-4393557024": 1,
+    "https://www.linkedin.com/jobs/view/fbs-ops-engineer-manager-at-capgemini-4385721872": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-metric-geo-4393519309": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4392415574": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4395855148": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
