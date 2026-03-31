@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/stem-jobs-in-canada-%e2%80%94-remote-full-time-engineer-at-rex-zone-4388395392": 1,
-    "https://www.linkedin.com/jobs/view/alt2026-0186-ibm-watsonx-engineer-analyst-at-altherias-4388508180": 1,
-    "https://www.linkedin.com/jobs/view/electrodynamics-engineer-remote-at-mercor-4388393152": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-uplers-4369070598": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-campaigns-manager-at-augury-4369643634": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-atlanta-at-giga-4363520615": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/regionalny-konsultant-ds-wyrob%c3%b3w-medycznych-at-dr-weigert-polska-sp-z-o-o-4088252121": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395677188": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395675249": 1,
-    "https://www.linkedin.com/jobs/view/sr-engineer-net-devops-qa-ops-with-aws-expertise-sme-at-net2source-n2s-4392984870": 1
+    "https://www.linkedin.com/jobs/view/sr-engineer-net-devops-qa-ops-with-aws-expertise-sme-at-net2source-n2s-4392984870": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-operator-ai-first-at-revup-payments-4382965120": 1,
+    "https://www.linkedin.com/jobs/view/regional-sales-manager-at-marshalls-plc-4395682094": 1,
+    "https://www.linkedin.com/jobs/view/regional-sales-manager-at-marshalls-plc-4395674439": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
