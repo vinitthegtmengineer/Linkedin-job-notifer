@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/backend-engineer-lead-at-wiraa-4388289734": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-executive-at-pros2work-4385759514": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-i-at-creative-circle-4386145536": 1,
-    "https://www.linkedin.com/jobs/view/senior-programs-and-business-operations-lead-monthly-stays-at-airbnb-4388551524": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4388745050": 1,
-    "https://www.linkedin.com/jobs/view/ukg-ready-consultant-at-rockcrest-4385738970": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-technology-at-luxury-presence-4378237733": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386172480": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-consultant-%2473-hr-max-at-mercor-4386103243": 1,
-    "https://www.linkedin.com/jobs/view/mips-engagement-manager-and-consultant-at-guidance-analytics-llc-4387976641": 1,
-    "https://www.linkedin.com/jobs/view/pmis-consultant-at-innoactive-group-4387994088": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-fiji-transformation-project-po-9100298580-offshore-1-1-at-ascendion-4385775073": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-daniels-health-4369959043": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-dunhill-professional-search-government-solutions-4388394772": 1,
     "https://www.linkedin.com/jobs/view/oic-consultant-4388296112": 1,
     "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-lightspeed-dms-4382095721": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383402060": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
     "https://www.linkedin.com/jobs/view/iga-operations-engineer-remote-at-velera-4392428320": 1,
-    "https://www.linkedin.com/jobs/view/manager-enterprise-strategic-marketing-at-jobgether-4392407031": 1
+    "https://www.linkedin.com/jobs/view/manager-enterprise-strategic-marketing-at-jobgether-4392407031": 1,
+    "https://www.linkedin.com/jobs/view/operator-highway-maintenance-fireside-alaska-highway-bc-at-ledcor-4393217864": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-internship-operator-fellowship-at-blackmore-partners-inc-4226234902": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4392415060": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-rategain-4378865003": 1,
+    "https://www.linkedin.com/jobs/view/managing-director-crm-at-palo-alto-networks-4381769208": 1,
+    "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-scout-global-4384716069": 1,
+    "https://www.linkedin.com/jobs/view/lead-product-manager-partnerships-at-jobgether-4392183517": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-strategic-sales-at-ladders-4395069418": 1,
+    "https://www.linkedin.com/jobs/view/executive-account-sales-us-canada-b2b-saas-erp-at-talent-acquisition-specialist-4392420220": 1,
+    "https://www.linkedin.com/jobs/view/vp-market-leader-it-tech-vertical-b2b-at-future-4395145566": 1,
+    "https://www.linkedin.com/jobs/view/lead-product-manager-partnerships-at-jobgether-4392181475": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-scout-global-4385064237": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-chief-operating-officer-at-openworldtech-io-4393557826": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
