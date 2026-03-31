@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-genai-ops-at-epam-systems-4313347181": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-lucidlink-4386148727": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-bee-talent-solutions-4383837993": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-operations-new-york-at-metropolis-technologies-4369777163": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4388756178": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388283694": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1,
-    "https://www.linkedin.com/jobs/view/consultant-data-engineering-m-w-d-at-sanalytics-4388509124": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-api-and-connectivity-at-conversion-capital-4386114186": 1,
-    "https://www.linkedin.com/jobs/view/director-social-media-at-nielsen-4378118797": 1,
     "https://www.linkedin.com/jobs/view/volunteer-storyteller-marketing-and-branding-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4388723055": 1,
     "https://www.linkedin.com/jobs/view/campaign-operations-manager-egypt-at-bath-concepts-independent-dealers-4388278166": 1,
     "https://www.linkedin.com/jobs/view/volunteer-storyteller-marketing-and-branding-to-position-health-emergency-and-social-impact-across-nigeria-with-health-emergency-initiative-at-health-emergency-initiative-4388719348": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e9%b9%bf%e5%85%90%e5%b3%b6%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88pm%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%86%e3%83%a9%e3%82%b9%e3%82%ab%e3%82%a4-4393926817": 1,
     "https://www.linkedin.com/jobs/view/operations-senior-engineer-at-yondr-group-4393930824": 1,
     "https://www.linkedin.com/jobs/view/senior-partner-development-executive-strategic-resellers-growth-partnerships-remote-at-experian-4393933825": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-social-at-boulevard-4391876739": 1
+    "https://www.linkedin.com/jobs/view/media-manager-social-at-boulevard-4391876739": 1,
+    "https://www.linkedin.com/jobs/view/computor-operator-at-cypress-hcm-4392141036": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393965088": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393956434": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393944875": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393958347": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393953504": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393956424": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393957366": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393962248": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393962237": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
