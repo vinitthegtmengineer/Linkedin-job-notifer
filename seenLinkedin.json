@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-data-ops-engineer-at-we-are-meta-4388385350": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-support-engineer-at-bruntwork-4385745643": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-keck-medicine-of-usc-4387994146": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-ai-engineer-%e2%80%93-ai-native-product-100%25-remote-at-hyly-ai-4387990293": 1,
     "https://www.linkedin.com/jobs/view/ai-ops-engineer-bei-lector-ai-at-jaai-just-add-ai-gmbh-4388550664": 1,
     "https://www.linkedin.com/jobs/view/remote-stem-engineer-india-%e2%80%94-ai-ml-data-operations-at-rex-zone-4388511784": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-operational-software-at-vector-solutions-4387986119": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395686020": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-geo-aio-at-meg-healthcare-quality-management-software-4395677477": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-passive-4392410324": 1,
-    "https://www.linkedin.com/jobs/view/associate-marketing-analyst-at-aveniras-4392984055": 1
+    "https://www.linkedin.com/jobs/view/associate-marketing-analyst-at-aveniras-4392984055": 1,
+    "https://www.linkedin.com/jobs/view/senior-partner-consultant-central-hub-at-admixer-media-4395681088": 1,
+    "https://www.linkedin.com/jobs/view/production-engineer-at-careerus-solutions-4395153829": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-alten-ltd-uk-4392194409": 1,
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-365-adventures-4395699895": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
