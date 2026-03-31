@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-remote-at-emma-of-torre-ai-4388731175": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-portuguese-market-h-f-x-at-paack-4388722694": 1,
-    "https://www.linkedin.com/jobs/view/salesforce-gtm-engineer-cpq-at-front-4363782708": 1,
-    "https://www.linkedin.com/jobs/view/head-of-partnerships-emea-at-glean-4316939107": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-south-africa-egypt-at-foundever-4388533871": 1,
     "https://www.linkedin.com/jobs/view/tech-ops-builder-generalist-at-clipboard-4386137796": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-intern-student-project-3-months-at-transreport-4385753178": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/fbs-ops-engineer-manager-at-capgemini-4385721872": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-metric-geo-4393519309": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4392415574": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4395855148": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4395855148": 1,
+    "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4393297059": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383401129": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-nagarro-4392413694": 1,
+    "https://www.linkedin.com/jobs/view/it-process-engineer-proyecto-temporal-at-elaniin-4395069284": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
