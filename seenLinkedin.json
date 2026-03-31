@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chef-fe-de-projet-ing%c3%a9nieur-fa%c3%a7ade-80-100%25-at-wsp-in-switzerland-4335385462": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369261788": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-production-engineering-at-middle-point-4388386255": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369268677": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-octify-technologies-4388251764": 1,
-    "https://www.linkedin.com/jobs/view/french-writer-and-editor-consultant-at-reliefweb-4388594935": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-analyst-at-implus-4369696501": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-remote-at-pavago-4387994270": 1,
-    "https://www.linkedin.com/jobs/view/director-of-demand-generation-remote-at-teramind-4385741515": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-abm-at-ontra-4361678804": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-marketing-office-of-program-management-remote-at-lensa-4385789898": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-lensa-4386102448": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-vpm-solutions-4388374379": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-credit-union-partnerships-at-lendkey-technologies-inc-4388585159": 1,
     "https://www.linkedin.com/jobs/view/jr-outbound-commercial-operator-at-ottomatik-io-4388278312": 1,
     "https://www.linkedin.com/jobs/view/jr-outbound-commercial-operator-at-ottomatik-io-4388272582": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-immo-4395654877": 1,
     "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393515430": 1,
     "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393506251": 1,
-    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393509213": 1
+    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393509213": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-alpaca-4392982238": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-itrac-4395083132": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-siem-at-cloud-target-4392975170": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393525183": 1,
+    "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4392180770": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393519174": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393508776": 1,
+    "https://www.linkedin.com/jobs/view/chargebee-engineer-remote-work-at-bairesdev-4392117098": 1,
+    "https://www.linkedin.com/jobs/view/palantir-engineer-at-akkodis-4360533988": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-keystone-recruitment-4395675063": 1,
+    "https://www.linkedin.com/jobs/view/water-treatment-process-engineer-at-apex-companies-4391888752": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-rl-environments-at-huzzle-com-4395043798": 1,
+    "https://www.linkedin.com/jobs/view/marketing-event-planner-at-jobgether-4392163535": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
