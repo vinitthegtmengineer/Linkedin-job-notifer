@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-director-growth-marketing-at-talkdesk-4379026957": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4386134669": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-ebi-consulting-4194524135": 1,
-    "https://www.linkedin.com/jobs/view/project-technical-engineer-at-hitachi-energy-4387958251": 1,
     "https://www.linkedin.com/jobs/view/chef-fe-de-projet-ing%c3%a9nieur-fa%c3%a7ade-80-100%25-at-wsp-in-switzerland-4335385462": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369261788": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-production-engineering-at-middle-point-4388386255": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/creative-campaigns-manager-part-time-at-betteros-4392173753": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-india-at-flosum-4392997839": 1,
     "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393503883": 1,
-    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393518284": 1
+    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393518284": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-immo-4395654877": 1,
+    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393515430": 1,
+    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393506251": 1,
+    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393509213": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
