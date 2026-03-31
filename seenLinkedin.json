@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/stem-education-engineer-at-rex-zone-4388395394": 1,
-    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4345879551": 1,
-    "https://www.linkedin.com/jobs/view/senior-observability-engineer-f-m-x-at-sii-poland-4385734849": 1,
-    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4387889881": 1,
-    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4388107262": 1,
-    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388589222": 1,
-    "https://www.linkedin.com/jobs/view/soc-engineer-at-dataannotation-4388104310": 1,
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377997520": 1,
-    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4385740888": 1,
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377998462": 1,
-    "https://www.linkedin.com/jobs/view/crm-hubspot-marketing-manager-at-finn-partners-4385768557": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-cfgi-4335175134": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-ii-at-arco-educa%c3%a7%c3%a3o-4388589551": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4385779025": 1,
-    "https://www.linkedin.com/jobs/view/consultant-principal-en-s%c3%a9curit%c3%a9-des-applications-mandiant-at-google-4377652960": 1,
-    "https://www.linkedin.com/jobs/view/siemens-opcenter-consultant-at-alium-4350861255": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105947717": 1,
     "https://www.linkedin.com/jobs/view/consultant-veeva-safety-managed-services-remote-at-veeva-systems-4377292900": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-biospace-4387992700": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/operador-de-plataforma-remoto-at-confidential-4395168302": 1,
     "https://www.linkedin.com/jobs/view/consultant-nl-be-uk-de-at-ifs-4395160853": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392962980": 1,
-    "https://www.linkedin.com/jobs/view/social-influencer-marketing-manager-at-dxb-perfume-4393223403": 1
+    "https://www.linkedin.com/jobs/view/social-influencer-marketing-manager-at-dxb-perfume-4393223403": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-operator-fde-style-at-threatorb-4392950211": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-findymail-4392927616": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-outbound-pipeline-development-at-netrise-4391881176": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-fractional-demand-4392111555": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-hirexe-4392573159": 1,
+    "https://www.linkedin.com/jobs/view/gtm-sales-engineer-at-hirexe-4392914629": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-boulevard-4391883633": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-contract-at-fixify-4392992365": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-murf-ai-4384017261": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-%2b-paid-ads-at-troopr-labs-4391868021": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-gtm-solutions-architect-at-agent22-4391765009": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-us-at-stealth-ai-startup-4391807287": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-specialist-at-keeper-security-inc-4395060782": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-insight-global-4392104404": 1,
+    "https://www.linkedin.com/jobs/view/member-marketing-operations-specialist-at-carrot-4392955377": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-pandadoc-4392965519": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-03-30",
-    "cyclesToday": 43,
+    "date": "2026-03-31",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
