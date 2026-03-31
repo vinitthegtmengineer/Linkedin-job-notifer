@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362862345": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362755507": 1,
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4386107082": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-goodspace-ai-4388345727": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362930420": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-oliver-the-brandtech-group-4315499663": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-production-specialist-at-anaplan-4353581084": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392471640": 1,
     "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392470947": 1,
     "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392475497": 1,
-    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392488221": 1
+    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-langchain-4392488221": 1,
+    "https://www.linkedin.com/jobs/view/docente-de-gest%c3%a3o-financeira-de-operadoras-com-foco-em-cbr%0acapital-baseado-em-risco-%0aproje%c3%a7%c3%b5es-atuariais-%0agest%c3%a3o-de-sinistralidade%0a%0a-at-inforhealth-educa%c3%a7%c3%a3o-e-excel%c3%aancia-em-sa%c3%bade-4395874409": 1,
+    "https://www.linkedin.com/jobs/view/operator-highway-maintenance-fireside-alaska-highway-bc-at-ledcor-4393217863": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%81%ef%bc%88%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e9%a0%98%e5%9f%9f%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%a2%e3%82%a4-4393933463": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393966091": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
