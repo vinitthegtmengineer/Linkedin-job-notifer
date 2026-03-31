@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-dunhill-professional-search-government-solutions-4388394772": 1,
-    "https://www.linkedin.com/jobs/view/oic-consultant-4388296112": 1,
-    "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-lightspeed-dms-4382095721": 1,
-    "https://www.linkedin.com/jobs/view/head-of-sales-emea-at-dropbox-4369925644": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-shl-4369922723": 1,
     "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4386136958": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-growth-business-development-at-marketbridge-4377925638": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/vp-market-leader-it-tech-vertical-b2b-at-future-4395145566": 1,
     "https://www.linkedin.com/jobs/view/lead-product-manager-partnerships-at-jobgether-4392181475": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-scout-global-4385064237": 1,
-    "https://www.linkedin.com/jobs/view/co-founder-chief-operating-officer-at-openworldtech-io-4393557826": 1
+    "https://www.linkedin.com/jobs/view/co-founder-chief-operating-officer-at-openworldtech-io-4393557826": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-stord-4392435441": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383389585": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383399185": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-parloa-4393583692": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-03-31",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
