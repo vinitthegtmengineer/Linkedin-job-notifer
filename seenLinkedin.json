@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-audacy-inc-4362930420": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-oliver-the-brandtech-group-4315499663": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-production-specialist-at-anaplan-4353581084": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-snap-talent-co-4388282791": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4388733203": 1,
-    "https://www.linkedin.com/jobs/view/commercial-analyst-projects-at-kfc-4386139961": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-marketing-operations-at-korn-ferry-4388748417": 1,
-    "https://www.linkedin.com/jobs/view/data-engineering-specialist-at-mercor-4388607719": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388291403": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388600115": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388298189": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4388742435": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388298190": 1,
-    "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388286575": 1,
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388292406": 1,
     "https://www.linkedin.com/jobs/view/energy-engineering-python-expert-freelance-ai-trainer-at-mindrift-4388600120": 1,
     "https://www.linkedin.com/jobs/view/golang-engineer-at-canonical-4286649042": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/docente-de-gest%c3%a3o-financeira-de-operadoras-com-foco-em-cbr%0acapital-baseado-em-risco-%0aproje%c3%a7%c3%b5es-atuariais-%0agest%c3%a3o-de-sinistralidade%0a%0a-at-inforhealth-educa%c3%a7%c3%a3o-e-excel%c3%aancia-em-sa%c3%bade-4395874409": 1,
     "https://www.linkedin.com/jobs/view/operator-highway-maintenance-fireside-alaska-highway-bc-at-ledcor-4393217863": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%81%ef%bc%88%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e9%a0%98%e5%9f%9f%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%a2%e3%82%a4-4393933463": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393966091": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393966091": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-lead-growth-operator-at-minutes-mojo-4393543412": 1,
+    "https://www.linkedin.com/jobs/view/gtm-operator-at-raisi-4392160802": 1,
+    "https://www.linkedin.com/jobs/view/cs-team-operator-at-becklar-monitoring-4393985633": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-appgate-4393579449": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-at-gtmatiq-4396156324": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-redis-4395552341": 1,
+    "https://www.linkedin.com/jobs/view/experienced-gtm-engineer-at-redis-4395541791": 1,
+    "https://www.linkedin.com/jobs/view/vp-gtm-apac-saas-hcm-at-hyphen-partners-4393227995": 1,
+    "https://www.linkedin.com/jobs/view/gtm-manager-at-rex-4393977263": 1,
+    "https://www.linkedin.com/jobs/view/revenue-gtm-operations-manager-new-york-at-easol-4392443143": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-saas-at-altudo-4392199758": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-townsquare-ignite-4395886608": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-townsquare-ignite-4395896239": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-mind-friend-4393966090": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-03-31",
-    "cyclesToday": 46,
+    "date": "2026-04-01",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
