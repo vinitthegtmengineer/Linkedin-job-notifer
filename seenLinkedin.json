@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/regional-marketing-executive-great-lakes-at-blueprint-medicines-4379231363": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-manager-ph-at-bath-concepts-independent-dealers-4388274417": 1,
     "https://www.linkedin.com/jobs/view/consultor%c3%ada-revisi%c3%b3n-program%c3%a1tica-de-g%c3%a9nero-para-la-formulaci%c3%b3n-del-cpd-2028-2032-150-d%c3%adas-modalidad-remota-y-viajes-a-bolivia-at-unicef-4388759109": 1,
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388782200": 1,
     "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388780357": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-dexian-4392457848": 1,
     "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4392839039": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-insight-genesis-igai-4392845118": 1,
-    "https://www.linkedin.com/jobs/view/wms-consultant-%e2%80%93-manhattan-active-wms-specialist-at-tpi-global-solutions-4396424443": 1
+    "https://www.linkedin.com/jobs/view/wms-consultant-%e2%80%93-manhattan-active-wms-specialist-at-tpi-global-solutions-4396424443": 1,
+    "https://www.linkedin.com/jobs/view/growth-operator-e-commerce-tiktok-shop-at-minty-ad-4394361175": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-insight-global-4392484054": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
