@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-pinnacle-method-consulting-4388600184": 1,
     "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388629922": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-accolades-at-forbes-4369969292": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-associate-at-wally-health-4388719249": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4396470620": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4396284836": 1,
     "https://www.linkedin.com/jobs/view/associate-bi-analyst-at-freestar-4372551366": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-%e2%80%93-google-ads-paid-media-at-web-marketing-for-dentists-4393930996": 1
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-%e2%80%93-google-ads-paid-media-at-web-marketing-for-dentists-4393930996": 1,
+    "https://www.linkedin.com/jobs/view/refund-operator-at-microsourcing-4394623694": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
