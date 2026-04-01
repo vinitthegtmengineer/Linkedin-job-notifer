@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/environmental-engineering-ai-data-trainer-at-alignerr-4388785106": 1,
-    "https://www.linkedin.com/jobs/view/senior-node-js-engineer-remote-first-greenfield-development-at-techheads-4388793970": 1,
-    "https://www.linkedin.com/jobs/view/associate-engineer-fe-at-retas-4388654100": 1,
-    "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-avenga-4389011045": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4388594967": 1,
-    "https://www.linkedin.com/jobs/view/staff-full-stack-engineer-leading-emergent-engineering-taskforce-at-cloudera-4388649532": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-orbit-institute-4386621461": 1,
     "https://www.linkedin.com/jobs/view/sales-marketing-executive-assistant-at-autrix-4388795866": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4389009280": 1,
     "https://www.linkedin.com/jobs/view/paid-search-manager-at-stripe-4370105874": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/ai-native-builder-staff-at-neon-4393037775": 1,
     "https://www.linkedin.com/jobs/view/patient-and-digital-marketing-lead-at-pharvaris-4396708411": 1,
     "https://www.linkedin.com/jobs/view/marketing-performance-analyst-at-keyfactor-4383966118": 1,
-    "https://www.linkedin.com/jobs/view/lead-ai-engineer-enterprise-ai-operations-at-webflow-4382323291": 1
+    "https://www.linkedin.com/jobs/view/lead-ai-engineer-enterprise-ai-operations-at-webflow-4382323291": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-fermah-4393045474": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-varun-digital-media-4396471476": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-affiliates-at-1am-talent-group-4392464344": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-byroe-4392884515": 1,
+    "https://www.linkedin.com/jobs/view/acquisition-marketing-manager-at-classpass-4396151664": 1,
+    "https://www.linkedin.com/jobs/view/brand-channel-marketing-manager-at-impact-confections-inc-4396652200": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396456947": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
