@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/global-marketing-executive-at-vivian-studios-4388659455": 1,
-    "https://www.linkedin.com/jobs/view/media-supervisor-associate-dir-performance-media-at-r-r-partners-4388795270": 1,
-    "https://www.linkedin.com/jobs/view/senior-community-marketing-manager-accountants-at-gusto-4370113566": 1,
-    "https://www.linkedin.com/jobs/view/client-account-manager-msa-at-questpro-4374608906": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-manager-at-viva-talent-4388794960": 1,
     "https://www.linkedin.com/jobs/view/senior-national-account-manager-at-terracon-4388201243": 1,
     "https://www.linkedin.com/jobs/view/account-manager-inside-sales-at-forward-air-corporation-4363890886": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4394677612": 1,
     "https://www.linkedin.com/jobs/view/engineering-content-contributor-%e2%80%93-graduate-level-%2460-hr-remote-at-crossing-hurdles-4392873858": 1,
     "https://www.linkedin.com/jobs/view/mid-senior-marketing-executive-remote-%f0%9f%9a%80-at-burst-digital-4394961057": 1,
-    "https://www.linkedin.com/jobs/view/community-and-social-media-manager-at-pgedge-4394937529": 1
+    "https://www.linkedin.com/jobs/view/community-and-social-media-manager-at-pgedge-4394937529": 1,
+    "https://www.linkedin.com/jobs/view/grants-relationship-builder-fellowship-at-intuitive-solutions-4394975615": 1,
+    "https://www.linkedin.com/jobs/view/senior-swift-engineer-apple-tv-at-angel-4394989057": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-retention-marketing-manager-at-gardyn-4393014222": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-specialist-at-healthcare-financial-management-association-hfma-4393037957": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
