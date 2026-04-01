@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-taskus-4376292238": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-haystack-4388791967": 1,
-    "https://www.linkedin.com/jobs/view/bms-project-engineer-at-honeywell-4335775251": 1,
-    "https://www.linkedin.com/jobs/view/bms-project-engineer-at-honeywell-4361591878": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4388796565": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4388784514": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-va-at-s-kin-studio-jewelry-4388624512": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-confidential-4386617407": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-alexander-mcqueen-digital-solutions-4393009528": 1,
     "https://www.linkedin.com/jobs/view/ai-marketing-engineer-at-castor-4392898773": 1,
     "https://www.linkedin.com/jobs/view/technical-builder-at-blaney-4394686232": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-growth-sales-at-t2-systems-4393001971": 1
+    "https://www.linkedin.com/jobs/view/senior-director-growth-sales-at-t2-systems-4393001971": 1,
+    "https://www.linkedin.com/jobs/view/operational-engineer-i-at-csg-4359204314": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-engineering-contributors-at-scale-ai-4393003685": 1,
+    "https://www.linkedin.com/jobs/view/principal-ml-ops-engineer-at-pragmatike-4394661210": 1,
+    "https://www.linkedin.com/jobs/view/marketing-director-at-vib-4392899663": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-coordinator-at-the-giraffe-4396663319": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
