@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4389009156": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-consultant-max-%2473-hr-at-mercor-4389011123": 1,
-    "https://www.linkedin.com/jobs/view/graduate-production-engineer-at-haystack-4388796567": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-engineer-core-engineering-at-pinterest-4121965577": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286650004": 1,
-    "https://www.linkedin.com/jobs/view/chemistry-consultant-max-%2473-hr-at-mercor-4389007210": 1,
-    "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4388637962": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-fetchjobs-co-4388659214": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-social-media-manager-at-onesmarter-inc-4386618505": 1,
     "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388643938": 1,
     "https://www.linkedin.com/jobs/view/engineering-program-specialist-hardware-at-mercor-4389004397": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394669714": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e6%9c%aa%e7%b5%8c%e9%a8%93%e6%ad%93%e8%bf%8e%e3%80%91%e4%ba%ba%e4%ba%8b%e7%b5%8c%e9%a8%93%e3%82%92%e6%ad%a6%e5%99%a8%e3%81%ab%e2%80%9c%e4%bc%b4%e8%b5%b0%e5%9e%8b%e2%80%9d%e4%ba%ba%e4%ba%8b%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%81%b8%ef%bc%8f%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e3%83%a1%e3%82%a4%e3%83%b3%ef%bc%8f%e5%9c%a8%e5%ae%85%c3%97%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4394332260": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-ramp-talent-4382310266": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-ackerman-group-4389723004": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-ackerman-group-4389723004": 1,
+    "https://www.linkedin.com/jobs/view/berater-altersvorsorge-ohne-erfahrung-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4392893192": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-builder-at-neon-4393048157": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-techshack-4394638909": 1,
+    "https://www.linkedin.com/jobs/view/sr-ecommerce-engineer-at-tactacam-4374113489": 1,
+    "https://www.linkedin.com/jobs/view/engineering-selling-solutions-director-at-randstad-usa-4392467907": 1,
+    "https://www.linkedin.com/jobs/view/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4392818519": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-continental-carbonic-products-a-matheson-company-4394671825": 1,
+    "https://www.linkedin.com/jobs/view/principal-ml-ops-engineer-at-pragmatike-4394648913": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394672600": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
