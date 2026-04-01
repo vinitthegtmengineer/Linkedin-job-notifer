@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tapcart-4388773847": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-monopoly-go%21-at-scopely-4369767691": 1,
-    "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388656162": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-%e2%80%93-fully-remote-at-fgs-recruitment-4386619433": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386622275": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-internships-south-africa-4386605890": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-coordinator-at-the-giraffe-4396663319": 1,
     "https://www.linkedin.com/jobs/view/t%c3%a9cnico-operador-de-ptari-at-todo-iaguas-ingenier%c3%ada-y-construcci%c3%b3n-soluciones-hidr%c3%a1ulicas-tratamiento-de-aguas-4394691672": 1,
     "https://www.linkedin.com/jobs/view/senior-systems-engineer-artificial-intelligence-operations-at-nvidia-4383899364": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-singlesignal-ai-4393030206": 1
+    "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-singlesignal-ai-4393030206": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4393014991": 1,
+    "https://www.linkedin.com/jobs/view/field-services-practice-builder-at-ulteig-4394921205": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394669714": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
