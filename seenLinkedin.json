@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-agent-operator-at-unimount-4388798000": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-balm-health-4388630825": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4388781648": 1,
-    "https://www.linkedin.com/jobs/view/sr-account-based-marketing-manager-at-ping-identity-4369930983": 1,
-    "https://www.linkedin.com/jobs/view/senior-partner-marketing-manager-at-tebra-4363760915": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4388648282": 1,
-    "https://www.linkedin.com/jobs/view/agentic-ai-trading-desk-operator-at-traderclaw-4389000002": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4375692900": 1,
     "https://www.linkedin.com/jobs/view/online-marketing-executive-at-nova-centre-for-the-study-of-gender-family-and-the-law-4386607715": 1,
     "https://www.linkedin.com/jobs/view/12%2b-year-wm-consultant-us-citizen-or-green-card-holder-at-arkisol-inc-4388788694": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386614456": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/local-consultant-at-globalicious-4396492498": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91cx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e2%97%86zendesk%e3%83%91%e3%83%bc%e3%83%88%e3%83%8a%e3%83%bc5%e5%b9%b4%e9%80%a3%e7%b6%9a%e9%81%b8%e5%87%ba%ef%bc%8f%e5%a4%a7%e6%89%8b%e5%a4%9a%e6%95%b0%e6%94%af%e6%8f%b4%e5%ae%9f%e7%b8%be%e5%a4%9a%e6%95%b0%e2%97%8e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4394320651": 1,
     "https://www.linkedin.com/jobs/view/global-sales-enablement-leader-at-wellhub-4382829330": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-unite-us-4382473981": 1
+    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-unite-us-4382473981": 1,
+    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
+    "https://www.linkedin.com/jobs/view/agentic-operator-growth-marketing-at-ramp-4244901850": 1,
+    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-quereinstieg-m%c3%b6glich-%c2%b7-flexible-arbeitszeiten-at-convit-central-gmbh-4392894065": 1,
+    "https://www.linkedin.com/jobs/view/berater-finanzstrategie-quereinstieg-m%c3%b6glich-%c2%b7-10%e2%80%93100-%25-%c2%b7-fixum-%2b-boni-at-convit-central-gmbh-4392878682": 1,
+    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-ohne-erfahrung-%c2%b7-10%e2%80%9360-%25-%c2%b7-homeoffice-at-convit-central-gmbh-4392881546": 1,
+    "https://www.linkedin.com/jobs/view/berater-finanzstrategie-quereinstieg-m%c3%b6glich-%c2%b7-ote-bis-7-500-chf-at-convit-central-gmbh-4392890368": 1,
+    "https://www.linkedin.com/jobs/view/berater-finanzstrategie-ohne-erfahrung-%c2%b7-10%e2%80%93100-%25-%c2%b7-fixum-%2b-boni-at-convit-central-gmbh-4392876724": 1,
+    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-teilzeit-nebenjob-%c2%b7-10%e2%80%9360-%25-%c2%b7-homeoffice-at-convit-central-gmbh-4392876743": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
