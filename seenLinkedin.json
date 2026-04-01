@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-gitlab-4369978689": 1,
     "https://www.linkedin.com/jobs/view/banking-operator-m-w-d-at-finwyz-gmbh-4386616570": 1,
     "https://www.linkedin.com/jobs/view/rcd-project-systems-engineer-nete-at-weir-minerals-4314912318": 1,
     "https://www.linkedin.com/jobs/view/senior-cluster-site-reliability-engineer-at-the-voleon-group-4379274919": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-ontra-4383840734": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-executive-at-digihyre-4394651891": 1,
     "https://www.linkedin.com/jobs/view/marketing-e-commerce-executive-at-mixwork-4396638998": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1,
+    "https://www.linkedin.com/jobs/view/marketing-event-coordinator-at-aegis-ai-security-4392894106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
