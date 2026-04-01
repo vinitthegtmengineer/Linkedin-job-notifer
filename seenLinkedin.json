@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-social-media-manager-at-onesmarter-inc-4386618505": 1,
-    "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388643938": 1,
-    "https://www.linkedin.com/jobs/view/engineering-program-specialist-hardware-at-mercor-4389004397": 1,
-    "https://www.linkedin.com/jobs/view/attack-engineer-at-horizon3-ai-4243610725": 1,
     "https://www.linkedin.com/jobs/view/senior-fullstack-engineer-typescript-ai-engineering-editor-extensions-at-gitlab-4389002539": 1,
     "https://www.linkedin.com/jobs/view/environmental-engineering-ai-data-trainer-at-alignerr-4388785106": 1,
     "https://www.linkedin.com/jobs/view/senior-node-js-engineer-remote-first-greenfield-development-at-techheads-4388793970": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4392818519": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-continental-carbonic-products-a-matheson-company-4394671825": 1,
     "https://www.linkedin.com/jobs/view/principal-ml-ops-engineer-at-pragmatike-4394648913": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394672600": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394672600": 1,
+    "https://www.linkedin.com/jobs/view/konsultant-konsultantka-ds-obs%c5%82ugi-klienta-z-j%c4%99zykiem-rosyjskim-at-praca-pl-4394938938": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-builder-staff-at-neon-4393037775": 1,
+    "https://www.linkedin.com/jobs/view/patient-and-digital-marketing-lead-at-pharvaris-4396708411": 1,
+    "https://www.linkedin.com/jobs/view/marketing-performance-analyst-at-keyfactor-4383966118": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
