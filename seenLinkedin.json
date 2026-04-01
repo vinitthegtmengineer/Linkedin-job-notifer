@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-marketing-officer-all-genders-at-maniko-nails-4386612233": 1,
-    "https://www.linkedin.com/jobs/view/consultant-solicitor-at-alexander-lyons-solutions-4388629842": 1,
-    "https://www.linkedin.com/jobs/view/chromium-engineer-4388639435": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-bigid-4360006032": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-em-casa-e-lazer-4386619082": 1,
     "https://www.linkedin.com/jobs/view/senior-director-digital-marketing-at-gitlab-4369971818": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
     "https://www.linkedin.com/jobs/view/project-coordinator-computer-engineering-background-at-nucleus-ventures-4396458461": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-web3-ai-at-blockdelta-4394339655": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
+    "https://www.linkedin.com/jobs/view/live-chat-agent-operator-at-medical-marijuana-clinic-4392846881": 1,
+    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371969378": 1,
+    "https://www.linkedin.com/jobs/view/lead-marketing-growth-operations-analyst-at-tebra-4383804214": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
