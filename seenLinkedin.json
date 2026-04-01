@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388772623": 1,
     "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-4388603886": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-yum%21-brands-4386608349": 1,
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-all-genders-at-maniko-nails-4386612233": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-insight-global-4392484054": 1,
     "https://www.linkedin.com/jobs/view/senior-amazon-consultant-100%25-remote-at-atlas-operations-4396460153": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-at-complexio-4394398088": 1,
-    "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1
+    "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
+    "https://www.linkedin.com/jobs/view/project-coordinator-computer-engineering-background-at-nucleus-ventures-4396458461": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
