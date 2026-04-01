@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/systems-software-engineer-machine-learning-ops-at-alignerr-4388778445": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-de-proyectos-5x2-remoto-at-tres60-4388602570": 1,
-    "https://www.linkedin.com/jobs/view/systems-engineer-production-at-clio-4377987539": 1,
     "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-pinnacle-method-consulting-4388600184": 1,
     "https://www.linkedin.com/jobs/view/comunity-manager-digital-marketing-executive-at-bytescare-4388629922": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-accolades-at-forbes-4369969292": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/process-engineer-wastewater-at-csg-talent-4394626000": 1,
     "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1,
     "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1,
-    "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4396470620": 1
+    "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4396470620": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4396284836": 1,
+    "https://www.linkedin.com/jobs/view/associate-bi-analyst-at-freestar-4372551366": 1,
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-%e2%80%93-google-ads-paid-media-at-web-marketing-for-dentists-4393930996": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
