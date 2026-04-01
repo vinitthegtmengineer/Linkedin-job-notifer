@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-booking-scheduling-consultant-at-traveling-with-michaila-4388644627": 1,
-    "https://www.linkedin.com/jobs/view/manager-growth-community-engagement-must-reside-in-fl-at-molina-healthcare-4379207882": 1,
     "https://www.linkedin.com/jobs/view/operational-engineer-i-at-csg-4359204314": 1,
     "https://www.linkedin.com/jobs/view/remote-o365-engineer-at-lensa-4388609784": 1,
     "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-taskus-4376292238": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394678220": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394663910": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-beaucoup-4394667527": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-coordinator-at-weekday-ai-yc-w21-4394633710": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-coordinator-at-weekday-ai-yc-w21-4394633710": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-alexander-mcqueen-digital-solutions-4393009528": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-engineer-at-castor-4392898773": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
