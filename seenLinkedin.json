@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-wordpress%2bseo-at-agilegrid-solutions-4388770015": 1,
     "https://www.linkedin.com/jobs/view/remote-software-engineer-iii-ios-at-lensa-4388623321": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-coterie-insurance-4388718138": 1,
     "https://www.linkedin.com/jobs/view/chief-operating-officer-at-crowned-skin-4388616116": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sales-director-at-gtm-talent-llc-4392140872": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-exactius-4393505418": 1,
     "https://www.linkedin.com/jobs/view/client-experience-operations-director-at-zeta-global-4392471452": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-prc-at-propharma-4393906546": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-prc-at-propharma-4393906546": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88gmo%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e6%b5%81%e9%80%9a%e9%a1%8d12%e5%b9%b4%e9%80%a3%e7%b6%9a%e6%a5%ad%e7%95%8cno-1%ef%bc%89-at-gmo%e3%83%a1%e3%82%a4%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4393941276": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-01",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
