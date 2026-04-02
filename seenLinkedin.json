@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386780578": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1,
-    "https://www.linkedin.com/jobs/view/ai-growth-operator-europe-at-acquism-sarl-4389063985": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4388914160": 1,
-    "https://www.linkedin.com/jobs/view/snowflake-platform-engineering-at-adroit-india-4386674632": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4386687174": 1,
     "https://www.linkedin.com/jobs/view/strategic-platform-consultant-dallas-at-capital-group-4378495562": 1,
     "https://www.linkedin.com/jobs/view/process-engineers-refinery-operations-consulting-at-trindent-consulting-4373095934": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-kodixal-4386680562": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-esp-utilities-group-ltd-4395341000": 1,
     "https://www.linkedin.com/jobs/view/solar-operations-engineer-at-oxbo-4383721125": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-social-reputation-at-airbnb-4395324356": 1,
-    "https://www.linkedin.com/jobs/view/director-services-operations-planning-at-rithum-4395207354": 1
+    "https://www.linkedin.com/jobs/view/director-services-operations-planning-at-rithum-4395207354": 1,
+    "https://www.linkedin.com/jobs/view/lead-product-builder-at-mews-4397054258": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-recommendation-strategy-engine-at-binance-4321096036": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-uberall-4395324633": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-uberall-4395327504": 1,
+    "https://www.linkedin.com/jobs/view/b2b-marketing-executive-at-sibylline-4395345041": 1,
+    "https://www.linkedin.com/jobs/view/sr-demand-generation-manager-at-blackthorn-4395281827": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
