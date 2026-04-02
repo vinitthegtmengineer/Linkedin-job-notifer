@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cmc-consultant-at-apsida-life-science-4387504171": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-ranger-technical-resources-4389283628": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4389309052": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-senior-associate-at-baretz%2bbrunelle-4388993850": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-sbcollective-4388998423": 1,
-    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4388947807": 1,
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389082284": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-ruby-on-rails-trabajo-remoto-at-bairesdev-4388959170": 1,
-    "https://www.linkedin.com/jobs/view/senior-adyen-engineer-remote-at-piper-companies-4388954627": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387001210": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4388999383": 1,
     "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4388943971": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393488820": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-xsolla-4397166497": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-baku-at-xsolla-4397171496": 1,
-    "https://www.linkedin.com/jobs/view/vp-segment-sales-americas-at-energy-exemplar-4395337540": 1
+    "https://www.linkedin.com/jobs/view/vp-segment-sales-americas-at-energy-exemplar-4395337540": 1,
+    "https://www.linkedin.com/jobs/view/digital-and-marketing-manager-at-haystack-4395334552": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-bitget-4395228742": 1,
+    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4396951720": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-music-remote-at-twine-4397073203": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-archerreview-4395265548": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-marketing-manager-at-steadman-hub-4396974556": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-full-time-intermediate-at-awerti-4395266347": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategy-social-director-at-jump-450-4377790571": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-b2b-kampagnen-m-w-d-100-%25-remote-at-jmvision-gmbh-4396968540": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
