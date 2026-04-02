@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4389039166": 1,
     "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4389034323": 1,
     "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4389041088": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-france-f-m-d-at-placetel-4386622140": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4393015958": 1,
     "https://www.linkedin.com/jobs/view/berater-altersvorsorge-quereinstieg-m%c3%b6glich-%c2%b7-festanstellung-at-convit-central-gmbh-4393067748": 1,
     "https://www.linkedin.com/jobs/view/berater-3a-3b-quereinstieg-m%c3%b6glich-at-convit-central-gmbh-4393069637": 1,
-    "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-quereinstieg-m%c3%b6glich-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4393087023": 1
+    "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-quereinstieg-m%c3%b6glich-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4393087023": 1,
+    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-qatar-at-bitget-4381947617": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
