@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-haystack-4388795637": 1,
-    "https://www.linkedin.com/jobs/view/resource-coordinator-at-ferrilli-4388674231": 1,
-    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4389022624": 1,
-    "https://www.linkedin.com/jobs/view/bna-remote-pilot-operator-at-lensa-4389041087": 1,
     "https://www.linkedin.com/jobs/view/atl-remote-pilot-operator-at-lensa-4389021753": 1,
     "https://www.linkedin.com/jobs/view/ewr-remote-pilot-operator-at-lensa-4389026563": 1,
     "https://www.linkedin.com/jobs/view/application-engineering-specialist-remote-or-hybrid-at-lensa-4389034316": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-outsourced-4396661907": 1,
     "https://www.linkedin.com/jobs/view/eloqua-campaign-manager-at-mavlers-4394343515": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-campaign-manager-at-customersai-4392472565": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4382039677": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4382039677": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4393023497": 1,
+    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4396747999": 1,
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4394691368": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-ping-identity-4394982713": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
