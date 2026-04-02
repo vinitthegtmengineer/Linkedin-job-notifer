@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/i4-0-engineer-at-flowers-foods-subsidiaries-4388951590": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387005155": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389094016": 1,
     "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389089472": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/chief-executive-assistant-marketing-growth-focus-at-squared-away-4395372764": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393800370": 1,
     "https://www.linkedin.com/jobs/view/operations-support-engineer-at-baylor-genetics-4358454257": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393804284": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393804284": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-seo-digital-marketing-at-huzzle-com-4395294585": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
