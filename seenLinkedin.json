@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4387509101": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-qaz-hunters-4388976928": 1,
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-orange-logic-4388970413": 1,
     "https://www.linkedin.com/jobs/view/director-of-saas-at-ladders-4387500943": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-new-product-development-at-starface-world-4378186826": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91netsuite%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%86%e3%82%af%e3%83%8e%e3%82%b9%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3-4395398584": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%8c%ef%bd%89%ef%bd%94%ef%bd%81%ef%bd%8c%ef%bd%89%ef%bd%83%ef%bd%8f-4395709176": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91netsuite%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%86%e3%82%af%e3%83%8e%e3%82%b9%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3-4395701454": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%8c%ef%bd%89%ef%bd%94%ef%bd%81%ef%bd%8c%ef%bd%89%ef%bd%83%ef%bd%8f-4395701411": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%8c%ef%bd%89%ef%bd%94%ef%bd%81%ef%bd%8c%ef%bd%89%ef%bd%83%ef%bd%8f-4395701411": 1,
+    "https://www.linkedin.com/jobs/view/paid-channels-marketing-manager-at-harvest-hosts-4397068525": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393804280": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
