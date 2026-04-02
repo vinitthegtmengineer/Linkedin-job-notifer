@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-designrush-4386790358": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730228": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377736149": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377719786": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730227": 1,
     "https://www.linkedin.com/jobs/view/ignition-engineer-scada-epms-at-sr2-socially-responsible-recruitment-certified-b-corporation%e2%84%a2-4386683663": 1,
     "https://www.linkedin.com/jobs/view/senior-waf-engineer-at-us-tech-solutions-4364115301": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4395339423": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-topix-skin-health-4397040771": 1,
     "https://www.linkedin.com/jobs/view/remote-ai-project-grafana-expert-software-engineer-%e2%80%93%2490-%24150-per-hour-at-boutique-lab-4396946462": 1,
-    "https://www.linkedin.com/jobs/view/assistant-manager-partnership-marketing-at-women-s-pro-baseball-league-4395327811": 1
+    "https://www.linkedin.com/jobs/view/assistant-manager-partnership-marketing-at-women-s-pro-baseball-league-4395327811": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-specialist-at-castor-4392898773": 1,
+    "https://www.linkedin.com/jobs/view/director-services-operations-planning-at-rithum-4395200790": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
