@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-business-growth-at-revolut-4377730227": 1,
-    "https://www.linkedin.com/jobs/view/ignition-engineer-scada-epms-at-sr2-socially-responsible-recruitment-certified-b-corporation%e2%84%a2-4386683663": 1,
     "https://www.linkedin.com/jobs/view/senior-waf-engineer-at-us-tech-solutions-4364115301": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-executive-at-centre-of-excellence-4389076639": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4387000007": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
     "https://www.linkedin.com/jobs/view/ai-marketing-specialist-at-castor-4392898773": 1,
     "https://www.linkedin.com/jobs/view/director-services-operations-planning-at-rithum-4395200790": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1,
+    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4396774002": 1,
+    "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
