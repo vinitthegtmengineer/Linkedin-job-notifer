@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineer-remote-at-get-offers-4389003628": 1,
-    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387012466": 1,
-    "https://www.linkedin.com/jobs/view/secops-engineer-at-remotehunter-4388905251": 1,
-    "https://www.linkedin.com/jobs/view/amazon-connect-engineer-at-optimum-healthcare-it-4387019174": 1,
-    "https://www.linkedin.com/jobs/view/national-manager-email-marketing-at-jobgether-4389047529": 1,
-    "https://www.linkedin.com/jobs/view/south-asia-geopolitical-consultant-remote-at-japan-security-strategy-research-institute-4389203529": 1,
-    "https://www.linkedin.com/jobs/view/consulente-at-espa%c3%b1oles-en-alemania-4385326853": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-bitsight-4389206566": 1,
-    "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-softserve-4388970003": 1,
-    "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-softserve-4388968024": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-solovis-4388544836": 1,
-    "https://www.linkedin.com/jobs/view/marketing-research-brand-manager-at-the-fountain-group-4389093453": 1,
-    "https://www.linkedin.com/jobs/view/sr-consultant-at-public-consulting-group-4388967231": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-tekmetric-4389216371": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4387070925": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-microtech-global-ltd-4389091673": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-uk-at-bolt6-4389222333": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-enablement-at-lucidlink-4397053032": 1,
     "https://www.linkedin.com/jobs/view/sales-and-partner-enablement-lead-at-jobgether-4393099825": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-and-growth-at-ldx-digital-4395358414": 1
+    "https://www.linkedin.com/jobs/view/head-of-marketing-and-growth-at-ldx-digital-4395358414": 1,
+    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4393488437": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-livingston-international-4393079785": 1,
+    "https://www.linkedin.com/jobs/view/head-of-technology-transformation-full-stack-builder-at-workleap-4395356646": 1,
+    "https://www.linkedin.com/jobs/view/senior-adyen-engineer-at-genius-match-4397080107": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-sustainability-at-tate-4371269575": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-007-742-at-hunt-st-4395338159": 1,
+    "https://www.linkedin.com/jobs/view/marketing-admin-at-koin-limited-4395298233": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-communications-coordinator-at-independent-insurance-agents-and-brokers-of-america-4394930581": 1,
+    "https://www.linkedin.com/jobs/view/director-of-organic-growth-at-jobgether-4393467589": 1,
+    "https://www.linkedin.com/jobs/view/home-based-salesforce-administrative-support-specialist-at-dcx-ph-inc-4393416412": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-remote-at-crossing-hurdles-4384178517": 1,
+    "https://www.linkedin.com/jobs/view/marketing-admin-latam-at-koin-limited-4395291682": 1,
+    "https://www.linkedin.com/jobs/view/vp-product-marketing-at-6sense-4387291681": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
