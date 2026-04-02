@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4387001210": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4388999383": 1,
     "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4388943971": 1,
     "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-at-latitude-ai-4389221159": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4389292622": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/hubspot-marketing-manager-at-steadman-hub-4396974556": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-full-time-intermediate-at-awerti-4395266347": 1,
     "https://www.linkedin.com/jobs/view/senior-strategy-social-director-at-jump-450-4377790571": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-b2b-kampagnen-m-w-d-100-%25-remote-at-jmvision-gmbh-4396968540": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-b2b-kampagnen-m-w-d-100-%25-remote-at-jmvision-gmbh-4396968540": 1,
+    "https://www.linkedin.com/jobs/view/large-wallet-on-chain-operator-at-blockchain-event-centre-4395725895": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-builder-mindset-ai-first-delivery-full-ownership-pk-at-wizdaa-4397183126": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 47,
+    "cyclesToday": 48,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
