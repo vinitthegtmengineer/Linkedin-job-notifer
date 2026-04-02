@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4389023982": 1,
-    "https://www.linkedin.com/jobs/view/pv-engineer-at-booth-4384995261": 1,
-    "https://www.linkedin.com/jobs/view/remote-project-engineer-at-lensa-4389020816": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4389023737": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-biospace-4389036611": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-turvo-4389040505": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396472323": 1,
     "https://www.linkedin.com/jobs/view/executive-account-operators-brasil-at-inlaze-4393092948": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-ibm-4396760423": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gotocatalyst-4354043876": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gotocatalyst-4354043876": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-sponsoring-partenariats-freelance-at-plan-p-vos-finances-%c3%a0-360%c2%b0-4396938078": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-accountancy-action-your-specialist-finance-recruitment-partner-4394674288": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-net-core-4393402348": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
