@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/rcm-consultant-at-infospeed-services-inc-4388691238": 1,
-    "https://www.linkedin.com/jobs/view/consultants-es-de-ventes-et-r%c3%a9servations-de-luxe-h%c3%b4tel-at-accor-4388691456": 1,
-    "https://www.linkedin.com/jobs/view/vertriebsingenieur-mensch-prozesstechnik-norddeutschland-100%25-remote-at-sommer-hinst-gmbh-headhunter-4386653811": 1,
-    "https://www.linkedin.com/jobs/view/operador-monitoramento-%e2%80%93-portaria-virtual-%e2%80%93-porto-alegre-%e2%80%93-rs-at-buscarvagas-empregos-brasil-4386659625": 1,
     "https://www.linkedin.com/jobs/view/cloudops-engineer-at-hyqoo-4388685705": 1,
     "https://www.linkedin.com/jobs/view/reverse-engineer-at-group-ib-4386666312": 1,
     "https://www.linkedin.com/jobs/view/svp-enablement-transformation-at-onestream-software-4388580083": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4395265892": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-clerk-tech-4393023608": 1,
     "https://www.linkedin.com/jobs/view/e-mail-marketer-at-scale-army-careers-4393026395": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4395275111": 1
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4395275111": 1,
+    "https://www.linkedin.com/jobs/view/associate-engineer-at-harman-india-4396947845": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-ii-at-samsara-4382733210": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-marketing-manager-at-ingenious-4395292121": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4393415284": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
