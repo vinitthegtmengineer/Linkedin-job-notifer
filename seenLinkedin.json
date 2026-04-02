@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-interface-ai-4389250225": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4309687830": 1,
     "https://www.linkedin.com/jobs/view/efront-invest-sme-consultant-at-largeton-group-4389245725": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-juni-adaptogenic-sparkling-tea-4389249573": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/paving-operator-at-quik-hire-staffing-4395376061": 1,
     "https://www.linkedin.com/jobs/view/consultant-verm%c3%b6gensplanung-quereinstieg-m%c3%b6glich-%c2%b7-mentoring-tools-at-convit-central-gmbh-4393066791": 1,
     "https://www.linkedin.com/jobs/view/staff-product-manager-%e2%80%93-builder-solutions-onboarding-and-builder-tools-at-paradigm-4393495951": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-onboarding-at-nice-4382719157": 1,
+    "https://www.linkedin.com/jobs/view/head-of-technology-transformation-full-stack-builder-at-workleap-4397140528": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-02",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
