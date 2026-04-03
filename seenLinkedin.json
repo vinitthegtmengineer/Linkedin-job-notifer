@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/role-finops-consultant-remote-at-jobs-via-dice-4387535608": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-quik-hire-staffing-4389072953": 1,
-    "https://www.linkedin.com/jobs/view/gcp-consultant-at-srm-digital-llc-4389282371": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-oracle-4387517324": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-remote-denmark-at-veeva-systems-4377602586": 1,
-    "https://www.linkedin.com/jobs/view/volunteer-entrepreneurship-consultant-move-ong-at-move-ong-4389295277": 1,
-    "https://www.linkedin.com/jobs/view/ncr-radiant-consultant-at-comtech-global-inc-4389210069": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-talent-bridge-4389079759": 1,
-    "https://www.linkedin.com/jobs/view/director-of-gtm-systems-architecture-at-nav-technologies-inc-4389245668": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-ops-international-at-dandy-4389420589": 1,
     "https://www.linkedin.com/jobs/view/senior-sage-300-cre-upgrade-consultant-at-robert-half-4388994591": 1,
     "https://www.linkedin.com/jobs/view/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%bf%d0%be-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b5-%d1%82%d1%83%d1%80%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d1%83%d1%81%d0%bb%d1%83%d0%b3-%d0%b2-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b5-%d0%b5%d1%81-at-alliance-tk-4387569846": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389431357": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/assistant-manager-marketing-at-the-ritz-carlton-hotel-company-l-l-c-4395718823": 1,
     "https://www.linkedin.com/jobs/view/treasury-operator-night-shift-new-grad-welcome-at-bitazza-4397515386": 1,
     "https://www.linkedin.com/jobs/view/consultor-at-grupo-allpa-4393497352": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-ethos-software-4397516230": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-ethos-software-4397516230": 1,
+    "https://www.linkedin.com/jobs/view/sls-consultant-at-teamware-solutions-4396073357": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-coda-at-superhuman-4397036824": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-and-planning-analyst-at-remotehunter-4397181222": 1,
+    "https://www.linkedin.com/jobs/view/alliance-lead-americas-at-ververica-original-creators-of-apache-flink%c2%ae-4397068281": 1,
+    "https://www.linkedin.com/jobs/view/svp-revenue-operations-and-commercial-strategy-at-onestream-software-4397154698": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-we-are-insurtech-women-4393475636": 1,
+    "https://www.linkedin.com/jobs/view/sr-demand-generation-manager-at-blackthorn-4395348842": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-us-at-h-company-4366349788": 1,
+    "https://www.linkedin.com/jobs/view/managing-principal-ai-driven-commercial-effectiveness-at-odaia-4395373098": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-wuffes-4397500022": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
