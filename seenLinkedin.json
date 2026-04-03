@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551444": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389556166": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389555137": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389470755": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479460": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479459": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/revops-analyst-with-hubspot-expertise-at-revinfinity-4397157526": 1,
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-jobgether-4393469545": 1,
     "https://www.linkedin.com/jobs/view/reservoir-engineer-operational-exploration-at-fervo-energy-4397516380": 1,
-    "https://www.linkedin.com/jobs/view/minicab-dispatch-operator-controller-at-ona-communication-4397533875": 1
+    "https://www.linkedin.com/jobs/view/minicab-dispatch-operator-controller-at-ona-communication-4397533875": 1,
+    "https://www.linkedin.com/jobs/view/ai-research-and-data-sample-builder-at-united-carbon-technologies-private-limited-4397538775": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-ai-at-delta-exchange-4396581414": 1,
+    "https://www.linkedin.com/jobs/view/group-product-manager-growth-crm-at-mindbody-4372600666": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
