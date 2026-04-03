@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/rancher-operator-up-to-%2470-hr-at-mercor-4389727836": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tully-luxury-travel-4388993312": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-mk-art-publicity-4388453692": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-raleigh-carolinas-%234675-at-grail-4379111312": 1,
-    "https://www.linkedin.com/jobs/view/sr-databricks-engineer-at-weekday-yc-w21-4388034687": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-fetchjobs-co-4389820236": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-mass-club-at-feel-good-foods-4389733702": 1,
-    "https://www.linkedin.com/jobs/view/brand-and-marketing-manager-at-harry-brompton-s-iced-tea-4389478546": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-manager-at-quandri-4389757203": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-builder-ai-native-serbia-at-customgpt-ai-4389715756": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sbh-fashion-4389786081": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-lbc-mortgage-4396590267": 1,
     "https://www.linkedin.com/jobs/view/hubspot-administrator-lead-%e2%80%94-india-at-databahn-ai-4394200212": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330118": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4397350220": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4397350220": 1,
+    "https://www.linkedin.com/jobs/view/highspot-consultant-at-captivate-staffing-group-4393892407": 1,
+    "https://www.linkedin.com/jobs/view/senior-revops-engineer-at-bettercomp-4393884578": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330078": 1,
+    "https://www.linkedin.com/jobs/view/marketing-technology-operations-manager-209114-at-aquent-4397328475": 1,
+    "https://www.linkedin.com/jobs/view/social-creative-lead-at-koala%c2%ae-4383066936": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-ecommerce-at-inno-supps-4397158691": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-and-ecommerce-manager-website-at-colorescience-4393811928": 1,
+    "https://www.linkedin.com/jobs/view/digital-growth-and-performance-specialist-at-andatech-4396038167": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-development-europe-at-biorce-4397569780": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-at-harvey-nash-4397527202": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
