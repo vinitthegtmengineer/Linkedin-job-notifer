@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1,
-    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-product-builder-ai-first-at-docusketch-4389551841": 1,
-    "https://www.linkedin.com/jobs/view/remote-project-engineer-at-lensa-4387548168": 1,
-    "https://www.linkedin.com/jobs/view/working-student-intern-social-media-manager-at-gamingcenter-4389080285": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4309802380": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-otra-eyewear-4388683528": 1,
     "https://www.linkedin.com/jobs/view/marketing-content-execution-manager-at-sourcedpeople-4389431857": 1,
     "https://www.linkedin.com/jobs/view/corporate-marketing-growth-manager-at-digital-silk-growing-brands-online-4380380097": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-buildinggreen-4395734239": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-strategic-operations-manager-at-twilio-4385314423": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-it-4393873246": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4375073537": 1
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4375073537": 1,
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-i-ai-feature-builder-at-storyblok-4298762873": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393837573": 1,
+    "https://www.linkedin.com/jobs/view/app-ops-sap-basis-%e2%80%93-l2-support-engineer-at-hcltech-4393491544": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-ozone-at-trojan-technologies-4366602133": 1,
+    "https://www.linkedin.com/jobs/view/e-mail-marketer-at-scale-army-careers-4393842981": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
