@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-anaconda-inc-4389333295": 1,
-    "https://www.linkedin.com/jobs/view/marketing-gtm-engineer-at-quadsci-ai-4389770201": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-collectionhq-4389405713": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-mono-supplies-4389560988": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-hubspot-4382116507": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-at-plentyone-4389928423": 1,
     "https://www.linkedin.com/jobs/view/gtm-growth-lead-abm-at-forager-4389705091": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-gtm-enablement-manager-at-jobgether-4389520428": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4396559989": 1,
     "https://www.linkedin.com/jobs/view/principal-engineer-platform-engineering-at-netskope-4375668506": 1,
     "https://www.linkedin.com/jobs/view/remote-engineer-at-agilent-technologies-4394986253": 1,
-    "https://www.linkedin.com/jobs/view/data-engineering-director-at-courier-4396023097": 1
+    "https://www.linkedin.com/jobs/view/data-engineering-director-at-courier-4396023097": 1,
+    "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397375713": 1,
+    "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397366934": 1,
+    "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4393864886": 1,
+    "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4393865807": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-data-engineering-specialist-at-snowflake-4397353791": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 53,
+    "cyclesToday": 54,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
