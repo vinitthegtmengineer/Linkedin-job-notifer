@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-grail-4379123142": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-jacksonville-florida-east-%234679-at-grail-4379115348": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-richmond-%234674-at-grail-4379119216": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-ann-arbor-mi-%234667-at-grail-4379118302": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558031": 1,
     "https://www.linkedin.com/jobs/view/remote-soar-developer-engineer-at-wavestrong-inc-4389492197": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-development-at-cyberscope-a-tac-security-company-4388043105": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/founding-engineer-at-decky-4395725409": 1,
     "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-siemens-4374097052": 1,
     "https://www.linkedin.com/jobs/view/social-media-executive-brand-operations-at-1xl-infra-4397561188": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-atrium-4383936210": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-atrium-4383936210": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-at-moltiply-group-4393856986": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-food-beverage-and-clean-process-nordics-at-watson-marlow-fluid-technology-solutions-4397059224": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-refrigeration-design-at-the-haskell-company-4356531520": 1,
+    "https://www.linkedin.com/jobs/view/director-commercial-enablement-direct-sales-and-partnership-motions-at-%c5%8dura-4383055086": 1,
+    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
