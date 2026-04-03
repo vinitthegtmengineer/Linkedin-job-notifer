@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558031": 1,
-    "https://www.linkedin.com/jobs/view/remote-soar-developer-engineer-at-wavestrong-inc-4389492197": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-development-at-cyberscope-a-tac-security-company-4388043105": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-safely-systems-4389478765": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-social-media-influencer-at-wallisto-4387577186": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-rochester-mn-%234669-at-grail-4379101834": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-salt-lake-north-%234682-at-grail-4379124042": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558033": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389480632": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-revenue-strategy-enablement-at-jobgether-4389521319": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirex-4389542465": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-engineer-food-beverage-and-clean-process-nordics-at-watson-marlow-fluid-technology-solutions-4397059224": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-refrigeration-design-at-the-haskell-company-4356531520": 1,
     "https://www.linkedin.com/jobs/view/director-commercial-enablement-direct-sales-and-partnership-motions-at-%c5%8dura-4383055086": 1,
-    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1
+    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1,
+    "https://www.linkedin.com/jobs/view/founding-tiktok-shop-operator-us-based-at-soda-4397562469": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-full-stack-engineering-product-builder-at-diggi-growth-4393858220": 1,
+    "https://www.linkedin.com/jobs/view/launch-engineer-at-harman-international-4397157954": 1,
+    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1,
+    "https://www.linkedin.com/jobs/view/metallurgist-process-engineer-at-molycop-4395329889": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-planergy-spend-management-4396592785": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-it-4393843975": 1,
+    "https://www.linkedin.com/jobs/view/partner-marketing-manager-at-schoox-4397196654": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-brite-4393829142": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
