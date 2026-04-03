@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4388415208": 1,
     "https://www.linkedin.com/jobs/view/rancher-operator-up-to-%2470-hr-at-mercor-4389727836": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tully-luxury-travel-4388993312": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-mk-art-publicity-4388453692": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-plugandplay-talent-4397157370": 1,
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-lbc-mortgage-4396590267": 1,
     "https://www.linkedin.com/jobs/view/hubspot-administrator-lead-%e2%80%94-india-at-databahn-ai-4394200212": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330118": 1
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330118": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4397350220": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
