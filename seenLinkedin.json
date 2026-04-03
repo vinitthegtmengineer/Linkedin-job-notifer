@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-engineer-at-lookahead-4389308722": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389473754": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389469847": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389473753": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389478555": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389476693": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4393875280": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-marketing-manager-kewdc5782435-at-compunnel-inc-4397353356": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1,
+    "https://www.linkedin.com/jobs/view/kinatrax-operator-at-hawk-eye-innovations-4397367016": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90crm%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e4%b8%8a%e6%b5%81%e5%b7%a5%e7%a8%8b%e3%81%8b%e3%82%89%e6%90%ba%e3%82%8f%e3%82%8c%e3%82%8b%ef%bc%8f%e6%9c%80%e6%96%b0%e6%8a%80%e8%a1%93%e3%81%ab%e8%a7%a6%e3%82%8c%e3%82%8b%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e3%83%9f%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8f%e3%82%a4%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e6%b1%82%e4%ba%ba-at-yayoi-co-ltd-4397342906": 1,
+    "https://www.linkedin.com/jobs/view/influencer-and-social-media-marketing-manager-at-the-fountain-group-4397344761": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
