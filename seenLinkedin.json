@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operador-ia-para-video-generativo-proyecto-puntual-de-dos-semanas-comienzo-inmediato-4387089916": 1,
-    "https://www.linkedin.com/jobs/view/it-system-engineer-at-agilegrid-solutions-4389449999": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-jobgether-4389554019": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jet-ave-4389529857": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551444": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389556166": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-jobgether-4393481301": 1,
     "https://www.linkedin.com/jobs/view/remote-ecommerce-operator-fresher-%7e10m-brand-house-of-balance-at-pickdi-4393850243": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4396576325": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396028030": 1
+    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396028030": 1,
+    "https://www.linkedin.com/jobs/view/toeroperateur-konsultant-at-highline-tours-travel-4397543567": 1,
+    "https://www.linkedin.com/jobs/view/revops-analyst-with-hubspot-expertise-at-revinfinity-4397157526": 1,
+    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-jobgether-4393469545": 1,
+    "https://www.linkedin.com/jobs/view/reservoir-engineer-operational-exploration-at-fervo-energy-4397516380": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
