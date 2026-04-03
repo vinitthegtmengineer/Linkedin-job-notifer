@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-otra-eyewear-4388683528": 1,
     "https://www.linkedin.com/jobs/view/marketing-content-execution-manager-at-sourcedpeople-4389431857": 1,
     "https://www.linkedin.com/jobs/view/corporate-marketing-growth-manager-at-digital-silk-growing-brands-online-4380380097": 1,
     "https://www.linkedin.com/jobs/view/corporate-marketing-growth-manager-at-digital-silk-growing-brands-online-4389247289": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393837573": 1,
     "https://www.linkedin.com/jobs/view/app-ops-sap-basis-%e2%80%93-l2-support-engineer-at-hcltech-4393491544": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-ozone-at-trojan-technologies-4366602133": 1,
-    "https://www.linkedin.com/jobs/view/e-mail-marketer-at-scale-army-careers-4393842981": 1
+    "https://www.linkedin.com/jobs/view/e-mail-marketer-at-scale-army-careers-4393842981": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393852564": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
