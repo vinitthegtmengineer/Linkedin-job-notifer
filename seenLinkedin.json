@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389470755": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479460": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389479459": 1,
     "https://www.linkedin.com/jobs/view/knowledge-engineer-at-remotehunter-4389554072": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389473710": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389467871": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/minicab-dispatch-operator-controller-at-ona-communication-4397533875": 1,
     "https://www.linkedin.com/jobs/view/ai-research-and-data-sample-builder-at-united-carbon-technologies-private-limited-4397538775": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-ai-at-delta-exchange-4396581414": 1,
-    "https://www.linkedin.com/jobs/view/group-product-manager-growth-crm-at-mindbody-4372600666": 1
+    "https://www.linkedin.com/jobs/view/group-product-manager-growth-crm-at-mindbody-4372600666": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-at-highlevel-4382799571": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4320734663": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-leader-at-databricks-4343969602": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
