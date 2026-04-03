@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-content-execution-manager-at-sourcedpeople-4389431857": 1,
-    "https://www.linkedin.com/jobs/view/corporate-marketing-growth-manager-at-digital-silk-growing-brands-online-4380380097": 1,
-    "https://www.linkedin.com/jobs/view/corporate-marketing-growth-manager-at-digital-silk-growing-brands-online-4389247289": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4309800466": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-lead-generation-at-twine-4386675839": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-at-navero-4389485556": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-at-navero-4389489271": 1,
-    "https://www.linkedin.com/jobs/view/technical-co-founder-builder-type-eval-workflow-start-with-part-time-at-shopint-4389526463": 1,
-    "https://www.linkedin.com/jobs/view/head-of-strategy-growth-%e2%80%93-beauty-division-luxury-skincare-beauty-tech-at-harpar-grace-international-4389493362": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4371964923": 1,
-    "https://www.linkedin.com/jobs/view/student-placement-operations-engineer-at-bolt6-4389488109": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-kore-4388074809": 1,
     "https://www.linkedin.com/jobs/view/smm-social-media-manager-remote-at-smart-content-4389559183": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4388091229": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-pt-union-sampoerna-triputra-persada-4387599134": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/app-ops-sap-basis-%e2%80%93-l2-support-engineer-at-hcltech-4393491544": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-ozone-at-trojan-technologies-4366602133": 1,
     "https://www.linkedin.com/jobs/view/e-mail-marketer-at-scale-army-careers-4393842981": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393852564": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393852564": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-bayforce-4397315418": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397320346": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397311712": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397324210": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397316376": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397311711": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397308800": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397308812": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397328061": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397317358": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397322321": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-it-4393858538": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
