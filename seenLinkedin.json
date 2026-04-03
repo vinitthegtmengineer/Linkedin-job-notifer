@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389413702": 1,
-    "https://www.linkedin.com/jobs/view/production-control-engineer-ii-at-centene-corporation-4380178995": 1,
-    "https://www.linkedin.com/jobs/view/substation-project-engineer-at-premier-finder-llc-4389424342": 1,
-    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-enterprise-storage-and-backups-at-healthfirst-4378895308": 1,
-    "https://www.linkedin.com/jobs/view/procesn%c3%ad-in%c5%been%c3%bdr-vhodn%c3%a9-i-pro-absolventy-at-magna-international-4389702746": 1,
-    "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-lensa-4387542205": 1,
-    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-enterprise-storage-and-backups-at-healthfirst-4378884476": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-at-stord-4389850814": 1,
-    "https://www.linkedin.com/jobs/view/genai-solutions-builder-ignitetech-remote-%2460-000-year-usd-at-crossover-4389838776": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-anaconda-inc-4389333295": 1,
     "https://www.linkedin.com/jobs/view/marketing-gtm-engineer-at-quadsci-ai-4389770201": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-collectionhq-4389405713": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397356661": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393882951": 1,
     "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4393885828": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-inspired-interiors-4393891981": 1
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-inspired-interiors-4393891981": 1,
+    "https://www.linkedin.com/jobs/view/b1-3-licensed-engineers-military-project-in-the-netherlands-at-wfs-pro-4376751714": 1,
+    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4397366287": 1,
+    "https://www.linkedin.com/jobs/view/self-hosted-logscale-engineer-at-vailexa-4393880918": 1,
+    "https://www.linkedin.com/jobs/view/programador-staff-data-engineering-at-inetum-4264876204": 1,
+    "https://www.linkedin.com/jobs/view/engineer-surveyor-lev-nw-home-counties-at-zurich-insurance-4366462865": 1,
+    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4396559989": 1,
+    "https://www.linkedin.com/jobs/view/principal-engineer-platform-engineering-at-netskope-4375668506": 1,
+    "https://www.linkedin.com/jobs/view/remote-engineer-at-agilent-technologies-4394986253": 1,
+    "https://www.linkedin.com/jobs/view/data-engineering-director-at-courier-4396023097": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
