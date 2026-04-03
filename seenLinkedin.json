@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359834758": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360573977": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001917": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360592611": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544758": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544801": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001762": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359844809": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001711": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-mk-art-publicity-4388406291": 1,
-    "https://www.linkedin.com/jobs/view/ceo%e2%80%93operator-platform-level-at-the-recruiting-squad-4389751014": 1,
     "https://www.linkedin.com/jobs/view/ceo%e2%80%93operator-platform-level-at-the-recruiting-squad-4389745113": 1,
     "https://www.linkedin.com/jobs/view/ceo%e2%80%93operator-platform-level-at-the-recruiting-squad-4389748065": 1,
     "https://www.linkedin.com/jobs/view/remote-closer-and-client-relations-specialist-at-stone-meets-clay-pottery-4388415208": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/operator-clinical-supply-line-at-biospace-4396071345": 1,
     "https://www.linkedin.com/jobs/view/geopolitical-consultant-at-daybie-4397564859": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397316528": 1,
-    "https://www.linkedin.com/jobs/view/creative-social-media-manager-24k-28k-per-year-at-the-glasshouse-agency-ltd-4397307449": 1
+    "https://www.linkedin.com/jobs/view/creative-social-media-manager-24k-28k-per-year-at-the-glasshouse-agency-ltd-4397307449": 1,
+    "https://www.linkedin.com/jobs/view/skid-steer-operator-at-quik-hire-staffing-4397325450": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-german-speaker-at-clinisys-4358972831": 1,
+    "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-freestar-4396060141": 1,
+    "https://www.linkedin.com/jobs/view/implementation-engineer-philippines-at-chartbeat-4397336029": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4397523366": 1,
+    "https://www.linkedin.com/jobs/view/industrial-engineer-operations-optimization-integration-at-dwyeromega-4396598900": 1,
+    "https://www.linkedin.com/jobs/view/operations-marketing-executive-assistant-at-cherry-assistant-4393882183": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-it-4393865976": 1,
+    "https://www.linkedin.com/jobs/view/director-creative-operations-remote-at-american-cancer-society-4397184269": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-plugandplay-talent-4397157370": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-lbc-mortgage-4396590267": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
