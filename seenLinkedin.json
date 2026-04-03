@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4387548092": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-social-jd-at-rowabi-4389510619": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389427411": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389422565": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%243m-pre-seed-at-clera-4389429380": 1,
     "https://www.linkedin.com/jobs/view/data-warehouse-operations-senior-engineer-at-motorola-solutions-4372226692": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-digitalisierung-strategie-m-w-d-at-sopra-steria-4389230929": 1,
     "https://www.linkedin.com/jobs/view/senior-sozialversicherung-consultant-at-jam-4389253718": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e7%a4%be%e5%86%85dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88ai%e6%b4%bb%e7%94%a8%ef%bc%89-at-%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%bc%e3%82%b9%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4395714080": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e6%8e%a8%e9%80%b2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%95%e3%82%a7%e3%82%ba-4395713098": 1,
     "https://www.linkedin.com/jobs/view/fbs-database-operations-engineer-at-capgemini-4387081804": 1,
-    "https://www.linkedin.com/jobs/view/partner-channel-manager-at-schoox-4397501649": 1
+    "https://www.linkedin.com/jobs/view/partner-channel-manager-at-schoox-4397501649": 1,
+    "https://www.linkedin.com/jobs/view/asset-operations-coordinator-manager-real-estate-platform-at-allurean-fund-4396052754": 1,
+    "https://www.linkedin.com/jobs/view/consultant-distributeur-h-f-at-chogan-group-2026-essenza-beauty-network-4380504577": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-sdr-at-huzzle-com-4397052829": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-enablement-at-ada-cx-4397159958": 1,
+    "https://www.linkedin.com/jobs/view/assistant-manager-marketing-at-the-ritz-carlton-hotel-company-l-l-c-4395718823": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
