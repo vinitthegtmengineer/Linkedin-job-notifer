@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389473753": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389478555": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389476693": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-direct-mail-at-jobgether-4389537717": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-oliver-the-brandtech-group-4389579596": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1,
     "https://www.linkedin.com/jobs/view/kinatrax-operator-at-hawk-eye-innovations-4397367016": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90crm%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e4%b8%8a%e6%b5%81%e5%b7%a5%e7%a8%8b%e3%81%8b%e3%82%89%e6%90%ba%e3%82%8f%e3%82%8c%e3%82%8b%ef%bc%8f%e6%9c%80%e6%96%b0%e6%8a%80%e8%a1%93%e3%81%ab%e8%a7%a6%e3%82%8c%e3%82%8b%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e3%83%9f%e3%83%89%e3%83%ab%e3%83%bb%e3%83%8f%e3%82%a4%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e6%b1%82%e4%ba%ba-at-yayoi-co-ltd-4397342906": 1,
-    "https://www.linkedin.com/jobs/view/influencer-and-social-media-marketing-manager-at-the-fountain-group-4397344761": 1
+    "https://www.linkedin.com/jobs/view/influencer-and-social-media-marketing-manager-at-the-fountain-group-4397344761": 1,
+    "https://www.linkedin.com/jobs/view/revenue-systems-lead-at-eve-4397592167": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%82%af%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e6%96%b0%e6%a9%9f%e8%83%bd%e9%96%8b%e7%99%ba%e3%82%84%e6%97%a2%e5%ad%98%e6%a9%9f%e8%83%bd%e3%81%ae%e6%94%b9%e4%bf%ae%e3%82%92%e4%b8%ad%e5%bf%83%e3%81%a8%e3%81%97%e3%81%a6%e4%bc%81%e7%94%bb%e3%83%bb%e8%a8%ad%e8%a8%88%e3%83%bb%e9%96%8b%e7%99%ba%e3%83%bb%e9%81%8b%e7%94%a8%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%90%ef%bd%8c%ef%bd%81%ef%bd%99-4397339992": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
