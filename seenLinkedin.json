@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-operator-at-navero-4389490235": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-santa-monica-ca-%234680-at-grail-4379106782": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-grail-4379123142": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-jacksonville-florida-east-%234679-at-grail-4379115348": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/value-engineering-director-remote-united-states-at-dynatrace-4396550947": 1,
     "https://www.linkedin.com/jobs/view/temenos-consultant-at-syscort-technologies-4397531838": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-decky-4395725409": 1,
-    "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-siemens-4374097052": 1
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-siemens-4374097052": 1,
+    "https://www.linkedin.com/jobs/view/social-media-executive-brand-operations-at-1xl-infra-4397561188": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-atrium-4383936210": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
