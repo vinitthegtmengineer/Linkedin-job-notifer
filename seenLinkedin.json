@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389476542": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389467808": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-eden-4389324522": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389489056": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-lookahead-4389308722": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389473754": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389469847": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/kraftwerksbau-projektingenieur-hoai-vob-planung-leistungsphasen-mwd-at-vesterling-ag-4337122062": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4397508823": 1,
     "https://www.linkedin.com/jobs/view/project-engineering-manager-at-bechtel-corporation-4387105029": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-support-engineer-l2-european-institution-at-seidor-4397337526": 1
+    "https://www.linkedin.com/jobs/view/senior-operations-support-engineer-l2-european-institution-at-seidor-4397337526": 1,
+    "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4393875280": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-marketing-manager-kewdc5782435-at-compunnel-inc-4397353356": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-brand-experience-at-twin-health-4364482733": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
