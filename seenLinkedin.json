@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-growth-events-marketing-manager-social-impact-at-twilio-4389427198": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-expansion-at-jobgether-4388960415": 1,
     "https://www.linkedin.com/jobs/view/director-outreach-and-marketing-at-aspire-institute-4388684718": 1,
     "https://www.linkedin.com/jobs/view/procurement-specialist-4-remote-at-lensa-4387530549": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-magnet-4396067869": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-development-representative-sdr-at-huzzle-com-4397050796": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4397521806": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396011718": 1
+    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396011718": 1,
+    "https://www.linkedin.com/jobs/view/operatore-mezzi-speciali-at-ricercamy-srl-4396555315": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
