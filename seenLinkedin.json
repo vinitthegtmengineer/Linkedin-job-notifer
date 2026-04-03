@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4387540229": 1,
-    "https://www.linkedin.com/jobs/view/operations-coordinator-at-wit-4389322429": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-at-navero-4389483477": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-at-metropolitan-foot-care-4389431025": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-houston-tx-metro-%234673-at-grail-4379103837": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-uk-based-company-4388064910": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineering-python-expert-freelance-ai-trainer-at-mindrift-4389475718": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-ai-ops-at-knowit-4389081611": 1,
-    "https://www.linkedin.com/jobs/view/gm-energy-group-manager-direct-sales-at-general-motors-4389444136": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-executive-at-indya-lights-4388998633": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-creative-circle-4387564987": 1,
     "https://www.linkedin.com/jobs/view/senior-business-program-manager-at-rover-com-4387542921": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/revenue-enablement-consultant-at-salsify-4393489960": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393847605": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4393840623": 1,
-    "https://www.linkedin.com/jobs/view/seeking-an-exceptional-technical-builder-at-reink-publications-executive-authority-programme-4396575811": 1
+    "https://www.linkedin.com/jobs/view/seeking-an-exceptional-technical-builder-at-reink-publications-executive-authority-programme-4396575811": 1,
+    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4395384996": 1,
+    "https://www.linkedin.com/jobs/view/programador-senior-data-engineering-at-inetum-4271052498": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-store-efficiency-at-foot-locker-4382741150": 1,
+    "https://www.linkedin.com/jobs/view/associate-engineer-2-at-boyd-4339123011": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4393807948": 1,
+    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4394898630": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-engineering-medical-device-at-kelly-science-engineering-technology-telecom-4387387525": 1,
+    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4395010216": 1,
+    "https://www.linkedin.com/jobs/view/value-engineering-director-remote-united-states-at-dynatrace-4396550947": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-03",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
