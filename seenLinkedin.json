@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/meta-and-google-advertisements-performance-builder-%e2%80%93-remote-at-novel-energy-distribution-systems-4389659566": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-jobs-ai-4390321231": 1,
     "https://www.linkedin.com/jobs/view/infrastructure-and-operations-engineer-system-admin-and-monitoring-at-healthfirst-4379455412": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-jobs-ai-4390318315": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397591146": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397584392": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397580451": 1,
-    "https://www.linkedin.com/jobs/view/creator-marketing-manager-at-think-jam-4385385264": 1
+    "https://www.linkedin.com/jobs/view/creator-marketing-manager-at-think-jam-4385385264": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4358784104": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
