@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-haystack-4390026703": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-vivid-technology-4390016700": 1,
-    "https://www.linkedin.com/jobs/view/associate-influencer-marketing-manager-at-the-outloud-group-4390161841": 1,
-    "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-apexon-4390392424": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390390435": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390382752": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390373963": 1,
     "https://www.linkedin.com/jobs/view/strategic-consultant-at-tailored-management-4389786058": 1,
     "https://www.linkedin.com/jobs/view/remote-destination-consultant-at-travel-more-stress-less-agency-by-melissa-buresh-4390145146": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-intaghire-4394249336": 1,
     "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367167221": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1,
+    "https://www.linkedin.com/jobs/view/partner-engineer-at-transmit-security-4375610282": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367168398": 1,
+    "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
+    "https://www.linkedin.com/jobs/view/principal-field-marketing-manager-public-sector-at-smartsheet-4380083111": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397369836": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 55,
+    "cyclesToday": 56,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
