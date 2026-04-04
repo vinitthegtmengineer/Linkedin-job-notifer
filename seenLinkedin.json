@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-process-engineer-3-at-lam-research-4379147221": 1,
-    "https://www.linkedin.com/jobs/view/services-sales-engineer-at-piper-maddox-4390130330": 1,
-    "https://www.linkedin.com/jobs/view/commissioning-project-engineer-at-jll-4389797030": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-social-media-executive-remote-%e2%80%93-full-time-at-jifjaff-mybotgp-range-4390348030": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4390334540": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4362090137": 1,
     "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-teleport-4370939175": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-at-fts-inc-4390334933": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4358784104": 1,
     "https://www.linkedin.com/jobs/view/cdi-consultant-second-level-review-slr-sign-on-bonus-eligible-at-e4health-4393893052": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397570996": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarter-technologies-4375469163": 1
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarter-technologies-4375469163": 1,
+    "https://www.linkedin.com/jobs/view/remote-koc-booking-operator-influencer-marketing-%7e16m-brand-seoulskin-at-pickdi-4394266694": 1,
+    "https://www.linkedin.com/jobs/view/onboarding-consultant-bilingual-usa-remote-at-turnitin-4385586521": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397840451": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-saint-kaizen-4397478055": 1,
+    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
