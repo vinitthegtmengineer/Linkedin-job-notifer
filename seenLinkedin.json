@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sec-ops-engineer-full-time-with-the-fortune-500-companies-at-harp-4389687089": 1,
-    "https://www.linkedin.com/jobs/view/distinguished-project-engineer-data-center-power-plant-primoris-energy-services-at-primoris-services-corporation-4389781794": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390157003": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-one-identity-4378179722": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-processos-pgn-at-tecservice-engenharia-e-consultoria-4389967849": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-bluehost-4317059832": 1,
     "https://www.linkedin.com/jobs/view/director-of-enterprise-sales-at-eve-4397399771": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-strategic-sales-at-motive-4356506907": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-growth-business-development-at-marketbridge-4394202579": 1
+    "https://www.linkedin.com/jobs/view/vice-president-growth-business-development-at-marketbridge-4394202579": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategy-business-partner-at-zillow-4358751782": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397833780": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
