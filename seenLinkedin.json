@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-coupa-at-maarut-inc-4389782026": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-atlanta-metro-ga-south-birmingham-al-%234666-at-grail-4379121256": 1,
     "https://www.linkedin.com/jobs/view/sierra-leone-senior-consultant-eof-freetown-sierra-leone-3-months-remote-%23591897-at-unicef-4389783190": 1,
     "https://www.linkedin.com/jobs/view/projektleiter-in-bauherr-in-at-swiss-post-4390120344": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397831292": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-hybrid-at-crossing-hurdles-4394244630": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4383156607": 1,
-    "https://www.linkedin.com/jobs/view/junior-project-manager-at-kreps-co-4393899211": 1
+    "https://www.linkedin.com/jobs/view/junior-project-manager-at-kreps-co-4393899211": 1,
+    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374351767": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
