@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-project-manager-100%25-remote-at-tether-io-4377881345": 1,
-    "https://www.linkedin.com/jobs/view/senior-analyst-marketing-analytics-at-jobgether-4389589000": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-coordinator-at-anchorgrid-inc-4389574957": 1,
     "https://www.linkedin.com/jobs/view/marketing-intern-creative-operations-at-circle-4363011536": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-manager-at-uplers-4389795059": 1,
     "https://www.linkedin.com/jobs/view/senior-netsuite-consultant-at-jackson-james-4389747685": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/consultant-sme-at-cloudsufi-4394256613": 1,
     "https://www.linkedin.com/jobs/view/geopolitical-consultant-at-daybie-4397831573": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-vaupell-4397344168": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394273461": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397316480": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fyerx-4394271479": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
