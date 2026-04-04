@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sierra-leone-senior-consultant-eof-freetown-sierra-leone-3-months-remote-%23591897-at-unicef-mk-4389820390": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4390146405": 1,
     "https://www.linkedin.com/jobs/view/eu-residency-consultant-%e2%80%93-east-africa-at-passbeyond-4390002889": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-india-march-2026-at-redsol-pte-ltd-4390146054": 1,
     "https://www.linkedin.com/jobs/view/remote-chat-operator-dutch-speaking-in-poland-at-keyence-corporation-4389986993": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397326306": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397313763": 1,
     "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-snorkel-ai-4383169575": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385367595": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360752": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
