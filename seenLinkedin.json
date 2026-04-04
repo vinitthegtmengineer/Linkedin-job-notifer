@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/eu-residency-consultant-%e2%80%93-east-africa-at-passbeyond-4390002889": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-india-march-2026-at-redsol-pte-ltd-4390146054": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-dutch-speaking-in-poland-at-keyence-corporation-4389986993": 1,
-    "https://www.linkedin.com/jobs/view/mia-remote-pilot-operator-at-lensa-4390324628": 1,
-    "https://www.linkedin.com/jobs/view/german-speaking-customer-support-operator-at-autodoc-4390130628": 1,
-    "https://www.linkedin.com/jobs/view/claude-code-operator-at-dtc-vikings-4388457755": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-operator-specialist-at-ayn-rand-institute-ari-4389818191": 1,
-    "https://www.linkedin.com/jobs/view/dtw-remote-pilot-operator-at-lensa-4390316984": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-engineer-agent-builder-at-led-esthetics-4390377011": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-revenue-payments-at-openloop-4370417997": 1,
-    "https://www.linkedin.com/jobs/view/operational-engineer-ii-at-csg-4379641348": 1,
-    "https://www.linkedin.com/jobs/view/ai-production-engineer-ai-workflow-lead-at-and-4389784650": 1,
     "https://www.linkedin.com/jobs/view/sec-ops-engineer-full-time-with-the-fortune-500-companies-at-harp-4389687089": 1,
     "https://www.linkedin.com/jobs/view/distinguished-project-engineer-data-center-power-plant-primoris-energy-services-at-primoris-services-corporation-4389781794": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390157003": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-snorkel-ai-4383169575": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385367595": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360752": 1
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360752": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4394272736": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4384283572": 1,
+    "https://www.linkedin.com/jobs/view/member-of-engineering-agent-harness-at-poolside-4390566667": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-loop-4356477834": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-commercialization-at-toast-4397339171": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
+    "https://www.linkedin.com/jobs/view/global-head-of-revenue-operations-at-ping-identity-4385594816": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-bluehost-4317059832": 1,
+    "https://www.linkedin.com/jobs/view/director-of-enterprise-sales-at-eve-4397399771": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-strategic-sales-at-motive-4356506907": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-growth-business-development-at-marketbridge-4394202579": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
