@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388080809": 1,
-    "https://www.linkedin.com/jobs/view/gcp-data-engineering-bigquery-looker-storage-expert-remote-pay-per-ticket-planbnext-at-planbnext-4390100331": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-part-time-at-twine-4388095008": 1,
     "https://www.linkedin.com/jobs/view/analytics-engineer-4-member-insights-engineering-at-netflix-4378500909": 1,
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4389558364": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-french-speaking-at-vantage-4396571485": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
     "https://www.linkedin.com/jobs/view/vice-president-cyber-strategy-at-shi-international-corp-4397571931": 1,
-    "https://www.linkedin.com/jobs/view/gbs-marketing-business-development-executive-le-at-gartner-3973085860": 1
+    "https://www.linkedin.com/jobs/view/gbs-marketing-business-development-executive-le-at-gartner-3973085860": 1,
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4397801760": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393837558": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
