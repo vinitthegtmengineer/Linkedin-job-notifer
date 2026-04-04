@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4389558364": 1,
-    "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4389568048": 1,
     "https://www.linkedin.com/jobs/view/associate-engineer-at-anko-gcc-4370796896": 1,
     "https://www.linkedin.com/jobs/view/senior-open-source-engineer-remote-at-crossing-hurdles-4389558368": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-mkonnekt-4389887198": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4397801760": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393837558": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-logile-inc-4397373686": 1,
-    "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4397422965": 1
+    "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4397422965": 1,
+    "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4397426764": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397575696": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
