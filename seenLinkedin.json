@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sage-300-people-consultant-at-everything-people-pty-ltd-payroll-hr-4389199411": 1,
-    "https://www.linkedin.com/jobs/view/senior-data-ops-engineer-at-irium-portugal-4390153905": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380358104": 1,
-    "https://www.linkedin.com/jobs/view/search-marketing-manager-at-madrivo-4390136717": 1,
-    "https://www.linkedin.com/jobs/view/manager-customer-account-remote-at-nestl%c3%a9-4389904594": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-cato-networks-4378198835": 1,
-    "https://www.linkedin.com/jobs/view/consultor-fi-senior-hibrido-bogot%c3%a0-at-jessica-4389926163": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380348297": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4380346317": 1,
-    "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-eteam-4390028548": 1,
     "https://www.linkedin.com/jobs/view/corso-di-formazione-gratuito-per-operatore-trice-di-patronato-e-caf-26-maggio-2026-at-openjobmetis-spa-4390355936": 1,
     "https://www.linkedin.com/jobs/view/copilot-consultant-at-cognitive-group-part-of-the-focus-cloud-group-4390152809": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-haystack-4390026703": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397411941": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397421617": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-automation-specialist-at-the-plumtree-group-global-4397365028": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-intern-remote-at-pashet-4394245657": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-intern-remote-at-pashet-4394245657": 1,
+    "https://www.linkedin.com/jobs/view/engineer-iii-us-at-intepros-4397863046": 1,
+    "https://www.linkedin.com/jobs/view/sr-snowflake-developer-aws-data-engineering-at-boston-data-pro-llc-4394263440": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367148270": 1,
+    "https://www.linkedin.com/jobs/view/%e9%a1%b9%e7%9b%ae%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86%ef%bc%88%e5%88%b6%e5%8a%a8%e7%b1%bb%e4%ba%a7%e5%93%81%e8%ae%a4%e8%af%81%ef%bc%89-at-%e6%9d%ad%e5%b7%9e%e6%b1%89%e5%be%b7%e8%b4%a8%e9%87%8f%e8%ae%a4%e8%af%81%e6%9c%8d%e5%8a%a1%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8%e4%b8%8a%e6%b5%b7%e5%88%86%e5%85%ac%e5%8f%b8-4397803382": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-remote-at-equestever-4397837355": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397370745": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397865047": 1,
+    "https://www.linkedin.com/jobs/view/digital-strategy-and-content-manager-at-compass-health-center-4359602442": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-intaghire-4394249336": 1,
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 51,
+    "cyclesToday": 52,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
