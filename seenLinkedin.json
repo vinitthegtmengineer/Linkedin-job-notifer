@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4390373963": 1,
-    "https://www.linkedin.com/jobs/view/strategic-consultant-at-tailored-management-4389786058": 1,
-    "https://www.linkedin.com/jobs/view/remote-destination-consultant-at-travel-more-stress-less-agency-by-melissa-buresh-4390145146": 1,
     "https://www.linkedin.com/jobs/view/consulente-beauty-at-natural-beauty-community-4390012553": 1,
     "https://www.linkedin.com/jobs/view/app-engineer-kotlin-%e5%90%88%e7%ba%a6%e5%bc%95%e6%93%8e2-0-at-web3-4390229679": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-bossjob-4390240091": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
     "https://www.linkedin.com/jobs/view/principal-field-marketing-manager-public-sector-at-smartsheet-4380083111": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397369836": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-dqx-consulting-inc-4397480579": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394284244": 1,
+    "https://www.linkedin.com/jobs/view/social-media-partnership-manager-at-lively-root-4397470766": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-04",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
