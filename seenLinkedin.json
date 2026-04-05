@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-sales-engineering-at-cedar-4378973274": 1,
-    "https://www.linkedin.com/jobs/view/partner-success-manager-at-appdirect-4379693839": 1,
-    "https://www.linkedin.com/jobs/view/junior-social-media-manager-at-bored-panda-4390466952": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4390707656": 1,
-    "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4390496840": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4390702883": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362510178": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362019729": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390495864": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-pizza-hut-singapore-4390852593": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-at-dragos-inc-4390164592": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-grc-consultant-at-buguard-4397588483": 1,
     "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385887477": 1,
     "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385887483": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367517903": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367517903": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304476033": 1,
+    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-fokus-auf-performance-seo-social-media-at-mod-education-4397484513": 1,
+    "https://www.linkedin.com/jobs/view/industry-marketing-manager-at-veriforce-4367568614": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-social-media-m-w-d-fokus-auf-datengest%c3%bctztes-marketing-at-mod-education-4397479836": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-social-media-m-w-d-fokus-auf-datengest%c3%bctztes-marketing-at-mod-education-4397483600": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-at-mod-education-4397482655": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304455515": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-temenos-4373768188": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
