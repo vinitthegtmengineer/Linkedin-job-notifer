@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/shopper-insights-consultant-at-numerator-4390396456": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391460128": 1,
-    "https://www.linkedin.com/jobs/view/ai-growth-executive-outbound-email-at-envizon-b2b-marketing-and-fractional-cmo-services-4390428569": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-12-month-ftc-at-active-care-group-4391099257": 1,
     "https://www.linkedin.com/jobs/view/zendesk-consultant-at-peaple-talent-4391477676": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391446696": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397734626": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895536": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4397736674": 1,
-    "https://www.linkedin.com/jobs/view/specifications-engineer-at-armacell-4328161249": 1
+    "https://www.linkedin.com/jobs/view/specifications-engineer-at-armacell-4328161249": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-cloudnausor-technologies-4397899526": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-engineering-at-daice-labs-4397742468": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-remote-at-gardrops-4397887729": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 51,
+    "cyclesToday": 52,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
