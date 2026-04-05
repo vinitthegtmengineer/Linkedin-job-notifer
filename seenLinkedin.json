@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-dutch-speaking-in-poland-at-keyence-corporation-4390437878": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-executiveplacements-com-4390413859": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-french-speaking-in-poland-at-keyence-corporation-4390437877": 1,
     "https://www.linkedin.com/jobs/view/m-e-consultant-at-quorsus-results-management-llc-4390839137": 1,
     "https://www.linkedin.com/jobs/view/yardi-consultant-at-vdart-academy-4390438204": 1,
     "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4390447004": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-customer-service-specialist-at-linglong-tire-4383384225": 1,
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385896287": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-wastewater-at-nicholas-o-dwyer-ltd-4331062556": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895006": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895006": 1,
+    "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
+    "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-olsson-4385395059": 1,
+    "https://www.linkedin.com/jobs/view/strategic-customer-success-manager-at-atlan-4213141520": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
