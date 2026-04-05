@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-octane-marketing-4390277898": 1,
-    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-pagerduty-4383819633": 1,
-    "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-remote-at-tarlogic-4390756062": 1,
-    "https://www.linkedin.com/jobs/view/ai-marketing-engineer-at-pindrop-4390736262": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-lifecycle-marketing-at-corporation-psi-intl-inc-4390606636": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390758137": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-noblesoft-technologies-4390758104": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-malaysia-at-claas2saas-4390472821": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/network-engineer-operations-and-field-support-at-american-systems-4315749774": 1,
     "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385882703": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-executive-at-incrementumx-4394413244": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-blackowl-group-4394410859": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-blackowl-group-4394410859": 1,
+    "https://www.linkedin.com/jobs/view/atlassian-consultants-ongoing-contracts-at-praecipio-4394280342": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-sailpoint-isc-at-cyderes-4383844337": 1,
+    "https://www.linkedin.com/jobs/view/senior-jedox-consultant-at-pwc-czech-republic-4367710586": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-benefits-insuretech-at-futuresight-4397744160": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397894465": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sierentz-agro-brasil-4394408887": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
