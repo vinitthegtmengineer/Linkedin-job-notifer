@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/infrastructure-and-operation-engineer-remote-at-lensa-4390696656": 1,
-    "https://www.linkedin.com/jobs/view/pbi-remote-pilot-operator-at-jobs-via-dice-4389541514": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390428249": 1,
     "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-brightspeed-4390176069": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-at-sciencelogic-4378584958": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4397714249": 1,
     "https://www.linkedin.com/jobs/view/global-account-director-gsi-at-cato-networks-4383165217": 1,
-    "https://www.linkedin.com/jobs/view/design-lifecycle-lead-at-transform-by-fitaz-4394293176": 1
+    "https://www.linkedin.com/jobs/view/design-lifecycle-lead-at-transform-by-fitaz-4394293176": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4394403436": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
