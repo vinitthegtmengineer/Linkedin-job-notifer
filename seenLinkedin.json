@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390750370": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738441": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-singlesignal-ai-4390755381": 1,
     "https://www.linkedin.com/jobs/view/channel-director-at-cyberforce-global-4391117662": 1,
     "https://www.linkedin.com/jobs/view/shopper-insights-consultant-at-numerator-4390396456": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391460128": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/community-manager-social-media-%e2%80%93-part-time-remote-at-wildfleur-4394430015": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4397710672": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-stuffbox-studios-4397890439": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-phifer-company-4397486156": 1
+    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-phifer-company-4397486156": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397734626": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895536": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4397736674": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
