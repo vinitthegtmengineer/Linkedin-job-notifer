@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390844723": 1,
-    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4390862949": 1,
     "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-affiliate-advertising-lead-buy-content-syndication-at-samsara-4390045647": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362109887": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-world-wide-technology-4370701823": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4397906242": 1,
     "https://www.linkedin.com/jobs/view/remote-highspot-consultant-av-at-jobs-via-dice-4394414545": 1,
     "https://www.linkedin.com/jobs/view/ai-data-engineering-specialist-at-yc-bench-4397720952": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-learn-english-in-90-days-4397898273": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-learn-english-in-90-days-4397898273": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projet-project-management-officer-at-scalian-4334583872": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
