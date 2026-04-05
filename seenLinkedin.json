@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362098108": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4391049734": 1,
     "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-mitecs-inc-4390868528": 1,
     "https://www.linkedin.com/jobs/view/strategic-email-deliverability-consultant-at-bloomreach-4380965337": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/retail-media-reporting-insights-analyst-remote-at-dick-s-sporting-goods-4352316489": 1,
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385853809": 1,
     "https://www.linkedin.com/jobs/view/bio-solids-operations-support-engineer-remote-travel-at-waste-management-inc-4367631929": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-solomon-page-4373722793": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895279": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
