@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362109887": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-world-wide-technology-4370701823": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-cdata-software-4364943932": 1,
-    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-cctv-at-brink%e2%80%99s-inc-4381424393": 1,
-    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-saisie-de-commande-at-agriberia-4390876728": 1,
-    "https://www.linkedin.com/jobs/view/corso-di-formazione-gratuito-per-operatore-trice-di-patronato-e-caf-8-maggio-2026-at-openjobmetis-spa-4390880701": 1,
-    "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-citnow-group-4390291200": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-at-improbable-4390869671": 1,
-    "https://www.linkedin.com/jobs/view/sr-elastic-engineer-at-ecs-4342984249": 1,
-    "https://www.linkedin.com/jobs/view/martech-email-template-engineer-all-genders-at-hrs-group-4380955300": 1,
-    "https://www.linkedin.com/jobs/view/%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%8f%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%97-4390654567": 1,
-    "https://www.linkedin.com/jobs/view/threat-collections-engineer-at-anthropic-4361926297": 1,
     "https://www.linkedin.com/jobs/view/sr-revenue-operations-data-engineer-hybrid-in-bangalore-at-smartsheet-4381127340": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069835": 1,
     "https://www.linkedin.com/jobs/view/amazon-marketing-executive-1-5-yrs-full-time-remote-at-profitpixel-ecommerce-growth-partners-4390493327": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-learn-english-in-90-days-4397898273": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projet-project-management-officer-at-scalian-4334583872": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1,
-    "https://www.linkedin.com/jobs/view/senior-github-consultant-at-infomagnus-4394297184": 1
+    "https://www.linkedin.com/jobs/view/senior-github-consultant-at-infomagnus-4394297184": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4394415712": 1,
+    "https://www.linkedin.com/jobs/view/senior-endpoint-engineer-at-centegix-4374620082": 1,
+    "https://www.linkedin.com/jobs/view/dataops-engineer-at-consultec-ti-corp-4397887229": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-sme-careers-4328170608": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4397739027": 1,
+    "https://www.linkedin.com/jobs/view/pmo-ing%c3%a9nieur-projet-at-scalian-4334622680": 1,
+    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4397896260": 1,
+    "https://www.linkedin.com/jobs/view/director-new-technologies-business-development-at-twilio-4385869522": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-dfw-angels-4394416671": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-learn-english-in-90-days-4397904326": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-google%c2%ae-ad-grant-ai-4394411711": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-strategic-marketing-at-tynebrae-capital-4394419682": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
