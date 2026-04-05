@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391446696": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391459145": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738442": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-avanza-sports-4390845031": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/ai-ml-engineering-at-daice-labs-4397742468": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-remote-at-gardrops-4397887729": 1,
     "https://www.linkedin.com/jobs/view/ai-data-engineering-principal-at-yc-bench-4397734796": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-growth-executive-at-thom-browne-ecommerce-group-4397899597": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-growth-executive-at-thom-browne-ecommerce-group-4397899597": 1,
+    "https://www.linkedin.com/jobs/view/bizops-engineer-at-fetchjobs-co-4394430164": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 54,
+    "cyclesToday": 55,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
