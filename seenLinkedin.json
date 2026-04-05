@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390495864": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-pizza-hut-singapore-4390852593": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-dragos-inc-4390164592": 1,
-    "https://www.linkedin.com/jobs/view/crm-marketing-operations-manager-at-solomon-page-4378580683": 1,
-    "https://www.linkedin.com/jobs/view/senior-value-engineer-at-disco-4380995237": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362190628": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-emea-at-kraken-4362098107": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4390850834": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4391075234": 1,
     "https://www.linkedin.com/jobs/view/senior-field-marketing-specialist-at-medallion-4379449964": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-social-media-m-w-d-fokus-auf-datengest%c3%bctztes-marketing-at-mod-education-4397483600": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-at-mod-education-4397482655": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304455515": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-temenos-4373768188": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-temenos-4373768188": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-kaleris-4203550988": 1,
+    "https://www.linkedin.com/jobs/view/consultant-strasbourg-at-red-hat-4394422483": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385864445": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-trattamento-acque-industriali-at-solenis-4373495680": 1,
+    "https://www.linkedin.com/jobs/view/startup-customer-success-manager-americas-at-ashby-4367504507": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-google%c2%ae-ad-grant-ai-4394421454": 1,
+    "https://www.linkedin.com/jobs/view/retail-media-reporting-insights-analyst-remote-at-dick-s-sporting-goods-4352316489": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
