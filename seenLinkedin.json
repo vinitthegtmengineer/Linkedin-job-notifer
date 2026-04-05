@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-avanza-sports-4390845031": 1,
     "https://www.linkedin.com/jobs/view/campaign-operations-manager-at-stripe-4381174279": 1,
     "https://www.linkedin.com/jobs/view/lead-operator-utilities-at-biospace-4390869575": 1,
     "https://www.linkedin.com/jobs/view/opcon-batch-operator-at-genuineit-llc-4391401650": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/ecommerce-growth-executive-at-thom-browne-ecommerce-group-4397899597": 1,
     "https://www.linkedin.com/jobs/view/bizops-engineer-at-fetchjobs-co-4394430164": 1,
     "https://www.linkedin.com/jobs/view/sr-employee-benefits-consultant-voluntary-benefits-at-the-standard-4283069544": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394443012": 1
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394443012": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-remotehunter-4394439086": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
