@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-manipal-4391081726": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-kasm-technologies-4390736393": 1,
-    "https://www.linkedin.com/jobs/view/workfront-coordinator-at-bcforward-4390872275": 1,
-    "https://www.linkedin.com/jobs/view/operator-central-inspection-ipm-days-fulltime-at-biospace-4390877220": 1,
-    "https://www.linkedin.com/jobs/view/expensepoint-consultant-at-robert-half-4390612427": 1,
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-founding-builder-stage-at-security-2-0-4390756410": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391454139": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391448450": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sierentz-agro-brasil-4394408887": 1,
     "https://www.linkedin.com/jobs/view/shopify-store-operator-remote-part-time-at-neutriherbs-4394411879": 1,
     "https://www.linkedin.com/jobs/view/ai-llm-ops-engineer-at-superreply-ai-4394413886": 1,
-    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-ballard-clinic-4394408969": 1
+    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-ballard-clinic-4394408969": 1,
+    "https://www.linkedin.com/jobs/view/aerospace-development-program-engineering-summer-2026-intern-urdp-us-person-required-at-honeywell-4294673446": 1,
+    "https://www.linkedin.com/jobs/view/qa-ai-technical-professional-at-perficient-4345483712": 1,
+    "https://www.linkedin.com/jobs/view/integrity-engineer-at-addison-group-4284483230": 1,
+    "https://www.linkedin.com/jobs/view/engineer-automation-engineering-%e2%80%93-small-molecule-api-lilly-medicine-foundry-at-biospace-4397412782": 1,
+    "https://www.linkedin.com/jobs/view/visual-inspection-engineering-sme-parenteral-at-biospace-4397495783": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
