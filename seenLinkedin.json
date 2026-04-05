@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/strategic-alliance-gtm-manager-%e2%80%93-europe-at-citrix-4370741483": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-isv-partnerships-gtm-at-polyai-4390372354": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-growth-valere-evolve-at-valere-4390619090": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-fyxer-4344252087": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-clariti-4389199258": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-campaign-manager-at-eci-software-solutions-4379680311": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-splunk-engineer-infrastructure-operations-at-govcio-4367418617": 1,
     "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-temenos-4373755521": 1,
-    "https://www.linkedin.com/jobs/view/technologyone-consultants-at-ethos-beathchapman-4394278848": 1
+    "https://www.linkedin.com/jobs/view/technologyone-consultants-at-ethos-beathchapman-4394278848": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-builder-llms-for-game-development-at-naphora-games-group-4394405172": 1,
+    "https://www.linkedin.com/jobs/view/marketing-reporting-executive-at-ot-gr-4394418030": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4397865843": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
