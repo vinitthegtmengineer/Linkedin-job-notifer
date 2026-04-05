@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-bdr-us-at-fingerprint-4390619792": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-bitmart-4390282113": 1,
     "https://www.linkedin.com/jobs/view/recreation-consultant-fully-remote-at-mercor-4390676506": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390420109": 1,
     "https://www.linkedin.com/jobs/view/senior-value-engineer-at-twilio-4390695513": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/member-of-engineering-pre-training-data-research-at-poolside-4390583323": 1,
     "https://www.linkedin.com/jobs/view/subject-matter-experts-for-applied-ai-engineering-at-western-governors-university-4394270724": 1,
     "https://www.linkedin.com/jobs/view/environmental-engineering-ai-data-trainer-at-alignerr-4397701682": 1,
-    "https://www.linkedin.com/jobs/view/nuclear-engineering-specialist-freelance-ai-trainer-project-at-meridial-marketplace-by-invisible-4263629676": 1
+    "https://www.linkedin.com/jobs/view/nuclear-engineering-specialist-freelance-ai-trainer-project-at-meridial-marketplace-by-invisible-4263629676": 1,
+    "https://www.linkedin.com/jobs/view/loader-operator-at-quik-hire-staffing-4397461057": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specialist-at-careerxperts-consulting-4397871808": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
