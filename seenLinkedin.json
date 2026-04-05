@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e6%8a%80%e8%a1%93%e7%b3%bb%e5%85%b1%e5%90%8c%e5%89%b5%e6%a5%ad%e8%80%85%ef%bc%88ai%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%82%a2%e3%83%83%e3%83%97-%e8%8b%b1%e6%97%a5%e3%83%90%e3%82%a4%e3%83%aa%e3%83%b3%e3%82%ac%e3%83%ab%e5%bf%85%e9%a0%88%ef%bc%89-at-deta-4390680749": 1,
     "https://www.linkedin.com/jobs/view/infrastructure-and-operation-engineer-remote-at-lensa-4390696656": 1,
     "https://www.linkedin.com/jobs/view/pbi-remote-pilot-operator-at-jobs-via-dice-4389541514": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-build-production-ai-systems-remote-at-vikara-ai-4390428249": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/controls-bas-project-engineer-at-jobot-4383632624": 1,
     "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4397714249": 1,
-    "https://www.linkedin.com/jobs/view/global-account-director-gsi-at-cato-networks-4383165217": 1
+    "https://www.linkedin.com/jobs/view/global-account-director-gsi-at-cato-networks-4383165217": 1,
+    "https://www.linkedin.com/jobs/view/design-lifecycle-lead-at-transform-by-fitaz-4394293176": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
