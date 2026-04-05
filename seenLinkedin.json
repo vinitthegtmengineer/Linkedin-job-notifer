@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/manager-field-marketing-remote-opportunity-at-lensa-4390333267": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-latam-at-estoy-4390618564": 1,
-    "https://www.linkedin.com/jobs/view/senior-revenue-operations-analyst-tvscientific-at-pinterest-4380967489": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-administrator-at-robert-half-4390606739": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-octane-marketing-4390277898": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-pagerduty-4383819633": 1,
     "https://www.linkedin.com/jobs/view/loyalty-engagement-strategy-manager-at-olo-4390604741": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/ad-operations-associate-at-groundtruth-4359617362": 1,
     "https://www.linkedin.com/jobs/view/geopolitical-consultant-at-daybie-4397908272": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-ii-iii-cleaning-validation-at-biospace-4397425289": 1,
-    "https://www.linkedin.com/jobs/view/projektingenieur-tga-rechenzentren-datacenter-m-w-d-at-zwp-ingenieur-ag-4397907152": 1
+    "https://www.linkedin.com/jobs/view/projektingenieur-tga-rechenzentren-datacenter-m-w-d-at-zwp-ingenieur-ag-4397907152": 1,
+    "https://www.linkedin.com/jobs/view/network-engineer-operations-and-field-support-at-american-systems-4315749774": 1,
+    "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385882703": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-executive-at-incrementumx-4394413244": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-blackowl-group-4394410859": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-05",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
