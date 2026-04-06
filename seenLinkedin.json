@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ediscovery-senior-consultant-%24150-000-remote-at-apt-search-4391947012": 1,
-    "https://www.linkedin.com/jobs/view/logging-while-drilling-remote-operation-engineer-at-baker-hughes-4391399073": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-irc291933-at-globallogic-4391946136": 1,
-    "https://www.linkedin.com/jobs/view/nemt-routingbox-expert-operator-broker-at-twocents-4391390368": 1,
     "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391929793": 1,
     "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391924802": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-remote-eu-m-f-d-at-weflow-4390751129": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/startup-founder-ceo-at-dqventures-4397765060": 1,
     "https://www.linkedin.com/jobs/view/startup-founder-ceo-at-dqventures-4397749861": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-u-beauty-4397892803": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-coordinator-at-careerscape-4397892872": 1
+    "https://www.linkedin.com/jobs/view/sales-operations-coordinator-at-careerscape-4397892872": 1,
+    "https://www.linkedin.com/jobs/view/child-welfare-consultant-12-at-state-of-michigan-4397886980": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-rebel-4397766196": 1,
+    "https://www.linkedin.com/jobs/view/junior-mine-engineer-eit-at-alpine-consulting-mining-engineering-plc-4394446460": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-technology-industry-at-scale-up-recruiting-partners-4394411182": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
