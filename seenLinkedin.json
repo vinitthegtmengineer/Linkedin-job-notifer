@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%8f%af%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-global%e5%b1%95%e9%96%8b%e6%97%a5%e7%b3%bb%e5%a4%a7%e6%89%8bit%e4%bc%9a%e7%a4%be%e3%80%81600-1250%e4%b8%87%e5%86%86-at-michael-page-4391118481": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-channel-at-netwrix-corporation-4391508270": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-indonesia-at-claas2saas-4390466827": 1,
     "https://www.linkedin.com/jobs/view/ai-consultant-%2b-builder-ai-implementation-consultant-remoto-at-nationmkt-4391957680": 1,
     "https://www.linkedin.com/jobs/view/senior-data-engineer-data-ops-m-f-d-at-kayzen-4391504893": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4397911322": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-ubique-systems-4397917240": 1,
     "https://www.linkedin.com/jobs/view/consulente-finanza-agevolata-at-consulenteideale-4397762905": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-agilegrid-solutions-4397772486": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-agilegrid-solutions-4397772486": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-gem-vision-technology-s-pte-ltd-4394470079": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-exec-at-the-financial-coconut-4394438917": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
