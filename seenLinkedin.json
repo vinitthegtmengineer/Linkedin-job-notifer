@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391929793": 1,
-    "https://www.linkedin.com/jobs/view/crm-specialist-hubspot-at-the-wfs-group-4391924802": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-eu-m-f-d-at-weflow-4390751129": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sprinto-4390424624": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-jobgether-4391182031": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-m-f-d-at-zvoove-4390561377": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-pre-sale-at-wrapbook-4365140304": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-manos-software-group-4381128799": 1,
-    "https://www.linkedin.com/jobs/view/revops-gtm-engineer-at-roboflow-4391941019": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lorum-4390830317": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-costa-rica-remote-at-singlestore-4391493909": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390749328": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-gtm-engineer-%e2%80%93-ai-automation-salesforce-revenue-operations-at-sky-systems-inc-skysys-4390882674": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-and-operations-enterprise-sales-at-vantor-4364976222": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/child-welfare-consultant-12-at-state-of-michigan-4397886980": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-rebel-4397766196": 1,
     "https://www.linkedin.com/jobs/view/junior-mine-engineer-eit-at-alpine-consulting-mining-engineering-plc-4394446460": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-technology-industry-at-scale-up-recruiting-partners-4394411182": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-technology-industry-at-scale-up-recruiting-partners-4394411182": 1,
+    "https://www.linkedin.com/jobs/view/weighbridge-operator-4397897980": 1,
+    "https://www.linkedin.com/jobs/view/saba-lms-consultant-at-tribolatech-inc-4397752874": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4397766245": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4397766246": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-%e2%80%93-remote-at-quik-hire-staffing-4397764337": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-wealthtech-at-futuresight-4397762448": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-wealthtech-at-futuresight-4397755613": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-wealthtech-at-futuresight-4397760514": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-benefits-insuretech-at-futuresight-4397771192": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-wealthtech-at-futuresight-4397760505": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-technology-industry-at-scale-up-recruiting-partners-4394421092": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
