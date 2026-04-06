@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/principal-engineer-forward-deployment-engineering-at-toast-4391196027": 1,
-    "https://www.linkedin.com/jobs/view/prospect-list-builder-at-profitpath-growth-partners-4391910078": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-emerging-blue-4390043800": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-bilingual-mexico-remote-at-turnitin-4391918365": 1,
     "https://www.linkedin.com/jobs/view/azure-operations-engineer-at-inficare-software-technologies-private-limited-4391901819": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-huzzle-com-4390843421": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/manager-search-engine-marketing-seo-sem-aeo-geo-at-apryse-4383919747": 1,
     "https://www.linkedin.com/jobs/view/sr-director-marketing-operations-at-korn-ferry-4397742470": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-at-swooped-4397733147": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-brown-brown-4367633471": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-brown-brown-4367633471": 1,
+    "https://www.linkedin.com/jobs/view/technologyone-techone-p-r-consultant-at-asqot-4394433292": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-refine-ink-4397745687": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-executive-at-thom-browne-digital-commerce-4397894754": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
