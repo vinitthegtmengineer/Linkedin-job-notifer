@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-content-executive-at-we-are-loka-4391721309": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-community-gtm-at-sprinto-4330434138": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-mcclatchy-media-4380222008": 1,
-    "https://www.linkedin.com/jobs/view/experienced-jumbo-robolter-operators-needed-at-thyssen-mining-4381609902": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4390962883": 1,
     "https://www.linkedin.com/jobs/view/senior-cpq-consultant-dealhub-at-newedge-growth-4390968743": 1,
     "https://www.linkedin.com/jobs/view/engineering-director-at-hackajob-4379126827": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/vice-president-marketing-at-cyberguard-advantage-4398008993": 1,
     "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4398028022": 1,
     "https://www.linkedin.com/jobs/view/fractional-social-media-manager-4393950684": 1,
-    "https://www.linkedin.com/jobs/view/saas-social-media-manager-at-butterknife%c2%ae-4398002852": 1
+    "https://www.linkedin.com/jobs/view/saas-social-media-manager-at-butterknife%c2%ae-4398002852": 1,
+    "https://www.linkedin.com/jobs/view/martech-consultant-at-bloomreach-4345182350": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-builder-software-developers-at-mlg-international-4398032109": 1,
+    "https://www.linkedin.com/jobs/view/amazon-connect-engineer-at-global-technical-talent-an-inc-5000-company-4388871740": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-leantaas-4397955343": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-robert-half-4394483570": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
