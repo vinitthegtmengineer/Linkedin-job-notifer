@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-north-america-sales-at-trulioo-4369702773": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-with-ghl-experience-ph-at-bath-concepts-independent-dealers-4391311190": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4391927683": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-manager-at-haystack-4391925717": 1,
-    "https://www.linkedin.com/jobs/view/junior-operator-renewable-energy-operations-center-remote-at-lensa-4391523766": 1,
-    "https://www.linkedin.com/jobs/view/bna-remote-pilot-operator-at-lensa-4391519848": 1,
-    "https://www.linkedin.com/jobs/view/practice-builder-geotechnical-geostructural-engineering-at-geosyntec-consultants-4391929645": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391445879": 1,
     "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4391533174": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-india-at-claas2saas-4390781713": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371144035": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/consultant-e-digital-ind%c3%a9pendant-100%25-en-ligne-secteur-du-voyage-at-flolysis-communication-4397766980": 1,
     "https://www.linkedin.com/jobs/view/applied-ai-engineer-internal-operations-at-workflex-4397784202": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397931368": 1,
-    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4394442915": 1
+    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4394442915": 1,
+    "https://www.linkedin.com/jobs/view/non-english-german-chat-operator-at-new-media-services-pty-ltd-4394462226": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-team-of-one-prospecting-at-highlevel-4397920514": 1,
+    "https://www.linkedin.com/jobs/view/social-media-builder-part-time-israel-at-bitget-4370503008": 1,
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-at-seesaw-learning-4397767185": 1,
+    "https://www.linkedin.com/jobs/view/abm-demand-generation-manager-at-flock-4375855172": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-digital-marketing-agency-sales-at-jumpfactor-marketing-4397754791": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-london-nyc-remote-at-quik-hire-staffing-4397708822": 1,
+    "https://www.linkedin.com/jobs/view/ea-to-head-of-commercial-at-manukora-4397773053": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
