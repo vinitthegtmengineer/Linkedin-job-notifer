@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-payscale-4391937454": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-inbound-strategy-at-creative-niche-4377607900": 1,
     "https://www.linkedin.com/jobs/view/manager-logistics-operations-at-starface-world-4391074644": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%ac%ac%e4%ba%8c%e6%96%b0%e5%8d%92%e5%8f%af-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%a1%88%e4%bb%b6%e3%80%91m365%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%ae%9a%e7%9d%80%e7%8e%8790%ef%bc%85-%e5%b9%b3%e5%9d%87%e5%8b%a4%e7%b6%9a%e5%b9%b4%e6%95%b010%e5%b9%b4%e8%b6%85-%e5%9c%a8%e5%ae%85%e5%8f%af-%e5%a4%a7%e6%89%8b%e5%8f%96%e5%bc%95-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4397761650": 1,
     "https://www.linkedin.com/jobs/view/estimator-engineer-us-at-heliverse-technologies-4392830083": 1,
     "https://www.linkedin.com/jobs/view/csirt%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e9%80%b14%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e2%97%86%e7%b5%84%e7%b9%94%e6%a8%aa%e6%96%ad%e3%81%a7%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88%e5%af%be%e5%bf%9c%e3%83%aa%e3%83%bc%e3%83%89%e2%97%86%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e2%97%86%e3%81%93%e3%81%a9%e3%82%82%e6%89%8b%e5%bd%93%e4%bb%96%e5%a4%9a%e6%95%b0-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4397764548": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e5%a4%a7%e9%98%aa%e3%82%ac%e3%82%b9g%e3%81%a7%e5%ae%89%e5%ae%9a%e6%80%a7%e2%97%8e%ef%bc%8f%e7%a9%8d%e6%a5%b5%e7%9a%84%e3%81%aait%e6%8a%95%e8%b3%87%e3%81%82%e3%82%8a-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4397765427": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e5%a4%a7%e9%98%aa%e3%82%ac%e3%82%b9g%e3%81%a7%e5%ae%89%e5%ae%9a%e6%80%a7%e2%97%8e%ef%bc%8f%e7%a9%8d%e6%a5%b5%e7%9a%84%e3%81%aait%e6%8a%95%e8%b3%87%e3%81%82%e3%82%8a-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4397765427": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-full-stack-engineer-product-builder-at-siyantech-global-innovations-4394444852": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
