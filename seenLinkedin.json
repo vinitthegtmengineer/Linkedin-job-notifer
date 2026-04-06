@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-and-growth-strategy-at-pmg-executive-search-recruiting-4391743284": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4390982833": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-marketing-focus-at-solvo-global-4390958584": 1,
     "https://www.linkedin.com/jobs/view/founding-builder%e2%80%94-signal-tracker-no-code-mvp-4390775148": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4390995595": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4397770451": 1,
     "https://www.linkedin.com/jobs/view/snowflake-engineer-rate-doe-on-c2c-remote-role-at-jobs-via-dice-4394705513": 1,
     "https://www.linkedin.com/jobs/view/pessoa-especialista-em-engenharia-de-analytics-e-ia-at-banco-bv-4398038615": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1
+    "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1,
+    "https://www.linkedin.com/jobs/view/ai-operator-100%25-remote-at-wisevas-virtual-assistants-4397978129": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-ai-operator-100%25-remote-at-wisevas-virtual-assistants-4397968254": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
