@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-analyst-direct-mail-at-ramp-4372130936": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390756267": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-ii-hybrid-in-bangalore-at-smartsheet-4380693672": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-systems-at-hyperproof-4385133357": 1,
-    "https://www.linkedin.com/jobs/view/channel-sales-manager-at-eplan-4392650915": 1,
-    "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4390948685": 1,
     "https://www.linkedin.com/jobs/view/north-slope-operator-intern-2026-at-conocophillips-4390795072": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-hypergen-b2b-cold-email-4390955283": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-remote-at-engine-4381915455": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/walkme-builder-at-trident-consulting-4397797983": 1,
     "https://www.linkedin.com/jobs/view/graph-ql-engineer-at-new-york-technology-partners-4398010183": 1,
     "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4397789937": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-mariadb-4394495225": 1
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-mariadb-4394495225": 1,
+    "https://www.linkedin.com/jobs/view/remote-closer-client-relations-specialist-at-stone-meets-clay-pottery-4397954358": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-staff-engineer-at-housesigma-4394492392": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-goliath-partners-4398010626": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-remote-at-hepmil-singapore-4394496209": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1,
+    "https://www.linkedin.com/jobs/view/digital-operations-martech-specialist-at-escapology-4394411986": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
