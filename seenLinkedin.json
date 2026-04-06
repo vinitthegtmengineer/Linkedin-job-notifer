@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-indonesia-at-claas2saas-4390466827": 1,
-    "https://www.linkedin.com/jobs/view/ai-consultant-%2b-builder-ai-implementation-consultant-remoto-at-nationmkt-4391957680": 1,
-    "https://www.linkedin.com/jobs/view/senior-data-engineer-data-ops-m-f-d-at-kayzen-4391504893": 1,
-    "https://www.linkedin.com/jobs/view/head-of-emea-sales-at-trulioo-4386984212": 1,
     "https://www.linkedin.com/jobs/view/vp-north-america-sales-at-trulioo-4369702773": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-with-ghl-experience-ph-at-bath-concepts-independent-dealers-4391311190": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4391927683": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/consulente-finanza-agevolata-at-consulenteideale-4397762905": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-agilegrid-solutions-4397772486": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-gem-vision-technology-s-pte-ltd-4394470079": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-exec-at-the-financial-coconut-4394438917": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-exec-at-the-financial-coconut-4394438917": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-digital-ind%c3%a9pendant-100%25-en-ligne-secteur-du-voyage-at-flolysis-communication-4397766980": 1,
+    "https://www.linkedin.com/jobs/view/applied-ai-engineer-internal-operations-at-workflex-4397784202": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397931368": 1,
+    "https://www.linkedin.com/jobs/view/relationship-manager-at-petpooja-4394442915": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
