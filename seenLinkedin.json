@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4391450329": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362551757": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-jobgether-4391166608": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-canada-at-nextlink-labs-4391934612": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-usa-at-nextlink-labs-4391921915": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4391742160": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/techops-engineer-at-bayforce-4393589953": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sbm-management-services-lp-4385264678": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-atenci%c3%b3n-al-cliente-espa%c3%b1ol-%e2%80%93-alem%c3%a1n-freelance-part-time-remoto-at-domus-global-4397948960": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-agi-genai-builders-at-telus-digital-4394488924": 1
+    "https://www.linkedin.com/jobs/view/senior-account-executive-agi-genai-builders-at-telus-digital-4394488924": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4398046394": 1,
+    "https://www.linkedin.com/jobs/view/shopify-developer-engineer-at-esteemit-4394716004": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4394494971": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
