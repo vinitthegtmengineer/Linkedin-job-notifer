@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-canada-at-nextlink-labs-4391934612": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-%e2%80%94-usa-at-nextlink-labs-4391921915": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4391742160": 1,
-    "https://www.linkedin.com/jobs/view/director-customer-success-at-wrike-4391731357": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-emea-all-genders-at-teamviewer-4390974724": 1,
     "https://www.linkedin.com/jobs/view/rubber-compound-engineers-at-sunset-tires-corporation-limited-4392680476": 1,
     "https://www.linkedin.com/jobs/view/knowledge-engineer-at-remotehunter-4390747890": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-account-executive-agi-genai-builders-at-telus-digital-4394488924": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4398046394": 1,
     "https://www.linkedin.com/jobs/view/shopify-developer-engineer-at-esteemit-4394716004": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4394494971": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4394494971": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-operator-at-thom-browne-marketing-analytics-4394710089": 1,
+    "https://www.linkedin.com/jobs/view/talkdesk-consultant-at-insight-global-4393887607": 1,
+    "https://www.linkedin.com/jobs/view/sr-national-accounts-manager-builder-midwest-at-lp-building-solutions-4394722019": 1,
+    "https://www.linkedin.com/jobs/view/freelance-engineering-experts-at-ai-startup-at-lightly-4397953664": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-06",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
