@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-operations-engineer-crypto-at-career-renew-4391735501": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372122798": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4392089135": 1,
-    "https://www.linkedin.com/jobs/view/ess-pm-engineer-at-contemporary-amperex-technology-usa-inc-4346662213": 1,
-    "https://www.linkedin.com/jobs/view/security-detection-engineer-at-movable-ink-4355849240": 1,
-    "https://www.linkedin.com/jobs/view/it-operations-analyst-workplace-engineering-senior-at-peloton-consulting-group-4380606143": 1,
-    "https://www.linkedin.com/jobs/view/talent-acquisition-specialist-at-hearth-4391252536": 1,
-    "https://www.linkedin.com/jobs/view/founding-software-engineer-at-berkley-hunt-4391771354": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-de-proyecto-at-efiempresa-4391754019": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-genedx-4372950130": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1,
     "https://www.linkedin.com/jobs/view/proje-m%c3%bchendisi-at-telosteq-4393635763": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-social-at-rowabi-4390927212": 1,
     "https://www.linkedin.com/jobs/view/business-development-manager-marketing-services-at-keywords-studios-4391705367": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-noark-electric-4398261722": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-house-of-sledis-4398395701": 1,
     "https://www.linkedin.com/jobs/view/offshore-marketing-operations-coordinator-at-cloudstaff-4395450108": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-rvc-and-marine-at-storable-4395434523": 1
+    "https://www.linkedin.com/jobs/view/director-marketing-rvc-and-marine-at-storable-4395434523": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gabete-4398508981": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-teilur-talent-4398339318": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-6sense-4387403281": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-zeal-group-4284098053": 1,
+    "https://www.linkedin.com/jobs/view/industry-marketing-manager-at-bayone-solutions-4393465701": 1,
+    "https://www.linkedin.com/jobs/view/senior-amazon-ads-manager-at-pare-4398537580": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398255166": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-cn-at-core-code-io-4394743443": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-linkedin-at-lago-4395444459": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-freelancer-at-deccan-ai-experts-4398369473": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-4398378016": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-specialist-at-ever-ag-4386550209": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
