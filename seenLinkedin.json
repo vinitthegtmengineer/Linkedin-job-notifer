@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726868": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-bw-packaging-4362158336": 1,
-    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4392675286": 1,
-    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4392678335": 1,
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4392671476": 1,
     "https://www.linkedin.com/jobs/view/betriebliche-altersvorsorge-berater-bav-berater-ai-trainer-freelance-8-20hr-p-w-remote-at-10x-team-4386076101": 1,
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4392676394": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-connect-plus-exchange-4395463321": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4395463555": 1,
     "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395449765": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-platform-engineer-applied-ai-llm-ops-at-ifit-4395445873": 1
+    "https://www.linkedin.com/jobs/view/senior-ai-platform-engineer-applied-ai-llm-ops-at-ifit-4395445873": 1,
+    "https://www.linkedin.com/jobs/view/concrete-mixer-operator-4398547552": 1,
+    "https://www.linkedin.com/jobs/view/airtable-consultant-at-mbo-partners-4395457658": 1,
+    "https://www.linkedin.com/jobs/view/workflow-orchestration-engineer-at-begig-4398252727": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-strategic-planning-at-bodily-4398552959": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
