@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-pipehack-4392672527": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-go-to-market-systems-revenue-automation-at-roger-4392617510": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-systems-%2b-paid-ads-at-troopr-labs-4390994162": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-revboss-4391740931": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%ef%bc%89-at-sc%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%ef%bc%88-sc-digital-co-ltd-%ef%bc%89-4392009523": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ml%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88r%ef%bc%86d%ef%bc%89-at-yayoi-co-ltd-4392013442": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/veeva-vault-consultant-at-focalcxm-4394769756": 1,
     "https://www.linkedin.com/jobs/view/demand-gen-leader-at-arborxr-4398372011": 1,
     "https://www.linkedin.com/jobs/view/campaigns-manager-at-asiaverify-4398354720": 1,
-    "https://www.linkedin.com/jobs/view/campaigns-manager-at-asiaverify-4398368108": 1
+    "https://www.linkedin.com/jobs/view/campaigns-manager-at-asiaverify-4398368108": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-e-commerce-at-hungry-minds-4398224449": 1,
+    "https://www.linkedin.com/jobs/view/creative-operations-resource-planning-lead-at-who-gives-a-crap-4398362575": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-administrator-at-asiaverify-4398369106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
