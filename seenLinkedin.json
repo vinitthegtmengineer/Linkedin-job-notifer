@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-alignerr-4391953896": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4391536912": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-at-jobgether-4390924431": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-assistant-at-kuubiik-4392272254": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-pipehack-4392672527": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-go-to-market-systems-revenue-automation-at-roger-4392617510": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-outbound-systems-%2b-paid-ads-at-troopr-labs-4390994162": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-4394741008": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-remote-at-outsource-access-careers-4394760604": 1,
     "https://www.linkedin.com/jobs/view/operador-de-plataforma-remoto-at-confidential-4398223023": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-glints-4394759867": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-glints-4394759867": 1,
+    "https://www.linkedin.com/jobs/view/veeva-vault-consultant-at-focalcxm-4394769756": 1,
+    "https://www.linkedin.com/jobs/view/demand-gen-leader-at-arborxr-4398372011": 1,
+    "https://www.linkedin.com/jobs/view/campaigns-manager-at-asiaverify-4398354720": 1,
+    "https://www.linkedin.com/jobs/view/campaigns-manager-at-asiaverify-4398368108": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
