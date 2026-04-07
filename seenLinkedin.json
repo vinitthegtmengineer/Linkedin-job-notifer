@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-208405-at-aquent-4382346632": 1,
-    "https://www.linkedin.com/jobs/view/sr-consultant-customer-experience-at-nationwide-4392772518": 1,
-    "https://www.linkedin.com/jobs/view/data-operations-engineer-snowflake-power-bi-at-fusion-consulting-4343018557": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-home-based-at-outsourced-4392097409": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4382165320": 1,
-    "https://www.linkedin.com/jobs/view/s-4-sap-sd-consultant-at-evolvic-4391774662": 1,
-    "https://www.linkedin.com/jobs/view/defined-contribution-consultant-sms-at-strongpoint-partners-4391747582": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-studio-legale-gierrelex-4393725332": 1,
-    "https://www.linkedin.com/jobs/view/wfm-consultant-dayforce-at-infospeed-services-inc-4391628157": 1,
-    "https://www.linkedin.com/jobs/view/senior-staff-platform-ops-engineer-at-press-ganey-4362556554": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392024542": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392025460": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4392040097": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/product-engineer-at-net2source-n2s-4398927427": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-trifactor-4398930239": 1,
     "https://www.linkedin.com/jobs/view/social-media-community-manager-at-flint-me-4398931186": 1,
-    "https://www.linkedin.com/jobs/view/data-specialist-at-revver-4395461351": 1
+    "https://www.linkedin.com/jobs/view/data-specialist-at-revver-4395461351": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4395499407": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398349328": 1,
+    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4398257997": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398346426": 1,
+    "https://www.linkedin.com/jobs/view/traveling-project-engineer-at-vcc-construction-4398419394": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398342714": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398351253": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398348378": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398242064": 1,
+    "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-workflow-systems-at-mindmaven-4398951032": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
