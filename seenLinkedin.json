@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-executive-remote-at-wallisto-4391900052": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-biohacking-bestie-4391393485": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-travl-love-4392071773": 1,
-    "https://www.linkedin.com/jobs/view/event-coordinator-at-payroc-4391253230": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290930597": 1,
-    "https://www.linkedin.com/jobs/view/people-systems-analyst-ai-agent-builder-at-mygwork-lgbtq%2b-business-community-4393633881": 1,
-    "https://www.linkedin.com/jobs/view/growth-partner-development-manager-at-omnissa-4381321314": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4392082616": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-media-marketing-manager-at-admixt-4391224048": 1,
-    "https://www.linkedin.com/jobs/view/growth-ai-operator-at-bitso-4382186767": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-crypto-at-career-renew-4391735501": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372122798": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4392089135": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/director-growth-marketing-at-omada-health-4384089681": 1,
     "https://www.linkedin.com/jobs/view/creator-acquisition-operator-at-chitchat-4395441497": 1,
     "https://www.linkedin.com/jobs/view/lead-operations-engineer-at-brightspeed-4386515687": 1,
-    "https://www.linkedin.com/jobs/view/reliability-operations-engineer-mexico-at-serve-robotics-4397999042": 1
+    "https://www.linkedin.com/jobs/view/reliability-operations-engineer-mexico-at-serve-robotics-4397999042": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-demand-gen-operator-at-troopr-labs-4395444022": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-systems-engineer-at-wiz-4373151562": 1,
+    "https://www.linkedin.com/jobs/view/data-engineering-at-ceo-foundry-llc-4398256849": 1,
+    "https://www.linkedin.com/jobs/view/operations-and-automation-engineer-at-provisions-group-4383225290": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-pion-4395439808": 1,
+    "https://www.linkedin.com/jobs/view/business-operations-specialist-at-swooped-4398531371": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-noark-electric-4398261722": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-house-of-sledis-4398395701": 1,
+    "https://www.linkedin.com/jobs/view/offshore-marketing-operations-coordinator-at-cloudstaff-4395450108": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-rvc-and-marine-at-storable-4395434523": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
