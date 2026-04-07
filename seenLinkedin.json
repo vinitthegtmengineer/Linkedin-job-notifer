@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380826452": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
-    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-remote-at-wallisto-4391900052": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-biohacking-bestie-4391393485": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-travl-love-4392071773": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398260301": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398252551": 1,
     "https://www.linkedin.com/jobs/view/us-revenue-enablement-systems-specialist-at-pointclickcare-4395423360": 1,
-    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-omada-health-4384089681": 1
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-omada-health-4384089681": 1,
+    "https://www.linkedin.com/jobs/view/creator-acquisition-operator-at-chitchat-4395441497": 1,
+    "https://www.linkedin.com/jobs/view/lead-operations-engineer-at-brightspeed-4386515687": 1,
+    "https://www.linkedin.com/jobs/view/reliability-operations-engineer-mexico-at-serve-robotics-4397999042": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
