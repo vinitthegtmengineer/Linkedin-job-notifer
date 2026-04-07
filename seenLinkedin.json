@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4391782545": 1,
-    "https://www.linkedin.com/jobs/view/revops-analyst-%e2%80%94-hubspot-specialist-at-revinfinity-4391211690": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-associate-at-backblaze-4380204881": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726874": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e9%b9%bf%e5%85%90%e5%b3%b6%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%86%e3%83%a9%e3%82%b9%e3%82%ab%e3%82%a4-4392016379": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%ac%a1%e4%b8%96%e4%bb%a3%e7%b5%a6%e4%b8%8e%e3%83%81%e3%83%bc%e3%83%a0%ef%bc%89-at-yayoi-co-ltd-4391795925": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a5%9e%e5%a5%88%e5%b7%9d%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e4%b8%bb%e4%bb%bb%e3%82%af%e3%83%a9%e3%82%b9%e3%83%bb%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e6%97%a5%e7%ab%8b%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba%e3%83%bb%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88-4392008519": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%8f%e3%83%87%e3%82%b9%e3%82%af%e3%83%88%e3%83%83%e3%83%97%e8%a3%bd%e5%93%81%ef%bc%89%e2%80%bb%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%80%99%e8%a3%9c-at-yayoi-co-ltd-4391796860": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-redy-4398058915": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-81218-at-onward-search-4397954609": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-brown-brown-4373545833": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-esusu-4397959154": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-esusu-4397959154": 1,
+    "https://www.linkedin.com/jobs/view/operator-seefracht-export-import-m-w-d-n%c3%bcrnberg-at-lifa-logistics-tr-4394736641": 1,
+    "https://www.linkedin.com/jobs/view/underwriter-consultant-at-rose-international-4397985118": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-ai-automation-at-opensesame-4394736579": 1,
+    "https://www.linkedin.com/jobs/view/nominee-builder-qbcc-open-licence-%e2%80%93-partnership-opportunity-at-bikucroc-business-advisory-page-4394729788": 1,
+    "https://www.linkedin.com/jobs/view/ai-driven-full-stack-builder-startup-execution-role-at-vegah-4398324130": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
