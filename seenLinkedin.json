@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-creative-circle-4393348507": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311751462": 1,
-    "https://www.linkedin.com/jobs/view/pam-consultant-manager-at-querentia-4390994724": 1,
-    "https://www.linkedin.com/jobs/view/walkme-consultant-developer-at-red-global-4392274752": 1,
-    "https://www.linkedin.com/jobs/view/zoho-consultant-at-the-desk-zoho-partner-4391263095": 1,
-    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390976064": 1,
-    "https://www.linkedin.com/jobs/view/product-owner-shop-builder-at-xsolla-4349581983": 1,
-    "https://www.linkedin.com/jobs/view/hyper-v-consultant-urgent-need-at-smx-services-consulting-inc-4391731370": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-digital-brand-media-at-fanatics-4380826452": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
     "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398257413": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398271109": 1,
     "https://www.linkedin.com/jobs/view/national-channel-sales-manager-us-remote-at-verkada-4386714199": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-you-collective-4398388446": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-you-collective-4398388446": 1,
+    "https://www.linkedin.com/jobs/view/loader-operator-dfw-at-quik-hire-staffing-4398508836": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-valorant-4395425334": 1,
+    "https://www.linkedin.com/jobs/view/varian-aria-application-analyst-builder-at-the-planet-group-4395430433": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-techshack-4398380828": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398260301": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398252551": 1,
+    "https://www.linkedin.com/jobs/view/us-revenue-enablement-systems-specialist-at-pointclickcare-4395423360": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-omada-health-4384089681": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
