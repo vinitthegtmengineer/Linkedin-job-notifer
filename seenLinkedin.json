@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-joblet-ai-4391756306": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-presshop-4392087889": 1,
-    "https://www.linkedin.com/jobs/view/sports-social-media-manager-at-sports-culture-4391517427": 1,
-    "https://www.linkedin.com/jobs/view/crm-marketing-manager-at-solomon-page-4380816240": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-operations-at-smartsheet-4381034492": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-at-kyra-4382123417": 1,
     "https://www.linkedin.com/jobs/view/consultant-brokerage-excess-uw-e-s-specialty-new-business-at-nationwide-4392763813": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/airtable-consultant-at-automation-helpers-4398589079": 1,
     "https://www.linkedin.com/jobs/view/tech-engagement-lead-model-builder-at-nvidia-4395486150": 1,
     "https://www.linkedin.com/jobs/view/desenvolvedor-power-builder-at-conquest-one-4398576783": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-program-manager-at-rover-com-4387542921": 1
+    "https://www.linkedin.com/jobs/view/senior-business-program-manager-at-rover-com-4387542921": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-at-anagh-technologies-inc-4398406390": 1,
+    "https://www.linkedin.com/jobs/view/sr-rpg-developer-engineer-using-ai-tools-to-analyze-code-4395456929": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-ai-programs-sales-enablement-at-synodex-4395439895": 1,
+    "https://www.linkedin.com/jobs/view/specialist-retail-trade-marketing-at-chanel-4395468866": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
