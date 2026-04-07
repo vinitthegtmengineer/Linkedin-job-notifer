@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-devsecops-engineer-at-versa-ai-4391222920": 1,
-    "https://www.linkedin.com/jobs/view/value-engineer-emea-all-genders-at-teamviewer-4390976718": 1,
-    "https://www.linkedin.com/jobs/view/ping-engineer-at-teksystems-4392030458": 1,
-    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392051308": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-at-jobgether-4390925413": 1,
-    "https://www.linkedin.com/jobs/view/senior-quadient-inspire-engineer-remote-at-ideahelix-4390956145": 1,
-    "https://www.linkedin.com/jobs/view/vibe-coding-engineer-at-lexsi-labs-4391201315": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4390944291": 1,
-    "https://www.linkedin.com/jobs/view/in%c5%bcynier-wdro%c5%bceniowy-wazuh-proxmox-zabbix-at-stellarity-4392289131": 1,
-    "https://www.linkedin.com/jobs/view/mechanical-engineer-natural-gas-projects-at-tpi-global-solutions-4392742895": 1,
-    "https://www.linkedin.com/jobs/view/operator-fill-finish-ops-nights-at-biospace-4392065312": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-consultante-senior-at-cedec-s-a-suisse-france-4385435660": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-at-arco-educa%c3%a7%c3%a3o-4381670627": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
     "https://www.linkedin.com/jobs/view/we-are-hiring%21-cerchiamo-ingegnere-per-lezioni-di-matematica-at-letuelezioni-4390937145": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-de-dados-s%c3%aanior-remoto-at-localiza-co-4392282033": 1,
     "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-sureserve-4391217402": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/high-speed-balancing-engineer-at-siemens-energy-4376068119": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-ai-business-at-prolific-4376596211": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384036506": 1,
-    "https://www.linkedin.com/jobs/view/strategy-operations-special-projects-associate-at-hh-global-4375733000": 1
+    "https://www.linkedin.com/jobs/view/strategy-operations-special-projects-associate-at-hh-global-4375733000": 1,
+    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4394781914": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-senior-%e2%80%93-secteur-public-immobilier-h-f-at-lastep-4388986133": 1,
+    "https://www.linkedin.com/jobs/view/amazon-connect-engineer-at-brooksource-4394789691": 1,
+    "https://www.linkedin.com/jobs/view/vibe-coding-engineer-work-from-shanghai-china-at-evoria-health-4394764124": 1,
+    "https://www.linkedin.com/jobs/view/sr-data-sre-platform-engineering-at-netskope-4194795124": 1,
+    "https://www.linkedin.com/jobs/view/activemq-engineer-at-kpg99-inc-4398054522": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-a-de-dados-at-gedanken-gcertifica-4397968792": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398359802": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398375107": 1,
+    "https://www.linkedin.com/jobs/view/senior-developer-advocacy-engineer-germany-remote-at-grafana-labs-4398328333": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398368344": 1,
+    "https://www.linkedin.com/jobs/view/snowflake-engineer-at-millennium-software-and-staffing-inc-4394721759": 1,
+    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4398344813": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-infrastructure-engineer-at-deepgram-4394485606": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
