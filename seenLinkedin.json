@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/we-are-hiring%21-cerchiamo-ingegnere-per-lezioni-di-matematica-at-letuelezioni-4390937145": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-dados-s%c3%aanior-remoto-at-localiza-co-4392282033": 1,
-    "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-sureserve-4391217402": 1,
-    "https://www.linkedin.com/jobs/view/join-our-medtech-talent-pool-engineers-scientists-clinical-and-r-d-experts-at-t45-labs-4391797383": 1,
-    "https://www.linkedin.com/jobs/view/sandbox-agentic-engineer-remote-can-at-crowdstrike-4393166061": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-at-jobgether-4390917485": 1,
-    "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390937297": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-creative-circle-4393348507": 1,
     "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311751462": 1,
     "https://www.linkedin.com/jobs/view/pam-consultant-manager-at-querentia-4390994724": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398368344": 1,
     "https://www.linkedin.com/jobs/view/snowflake-engineer-at-millennium-software-and-staffing-inc-4394721759": 1,
     "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4398344813": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-infrastructure-engineer-at-deepgram-4394485606": 1
+    "https://www.linkedin.com/jobs/view/ml-ops-infrastructure-engineer-at-deepgram-4394485606": 1,
+    "https://www.linkedin.com/jobs/view/chauffeur-op%c3%a9rateur-h-f-at-suez-4398387539": 1,
+    "https://www.linkedin.com/jobs/view/pigment-consultant-at-codex-4398395982": 1,
+    "https://www.linkedin.com/jobs/view/lead-sales-engineer-at-afiniti-4381707953": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398257413": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398271109": 1,
+    "https://www.linkedin.com/jobs/view/national-channel-sales-manager-us-remote-at-verkada-4386714199": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-you-collective-4398388446": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
