@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-organic-growth-marketing-at-jobgether-4390917676": 1,
-    "https://www.linkedin.com/jobs/view/crm-operations-manager-at-jobgether-4390794379": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-specialist-sales-solutions-at-stitch-4391750820": 1,
     "https://www.linkedin.com/jobs/view/vp-marketing-at-g2-startup-advisors-4392008417": 1,
     "https://www.linkedin.com/jobs/view/ecommerce-operations-assistant-at-kuubiik-4392273250": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-of-ecommerce-at-scout-bags-4391544147": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4398063298": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398337854": 1,
     "https://www.linkedin.com/jobs/view/ai-llm-ops-engineer-at-elixirr-digital-4304874515": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-myntra-ads-4398377344": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-myntra-ads-4398377344": 1,
+    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375703584": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-aimi-4398242018": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-operations-at-edged-4384455517": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-07",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
