@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultancy-to-develop-a-strategic-communications-and-market-engagement-framework-for-access-to-finance-rwanda-afr-at-findev-gateway-4393148639": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-wati-4392057531": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-technology-ai-automation-at-wati-4392050629": 1,
-    "https://www.linkedin.com/jobs/view/m365-engineer-at-teksystems-4392021744": 1,
-    "https://www.linkedin.com/jobs/view/corporate-solutions-engineering-dach-at-postman-4337175171": 1,
-    "https://www.linkedin.com/jobs/view/senior-observability-engineer-new-relic-at-epam-systems-4288859646": 1,
-    "https://www.linkedin.com/jobs/view/native-app-engineer-at-ewtn-4383313809": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372066633": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
-    "https://www.linkedin.com/jobs/view/especialista-em-engenharia-de-dados-remoto-at-localiza-co-4393349649": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-6297-at-metrostar-4350779614": 1,
-    "https://www.linkedin.com/jobs/view/sr-data-engineering-principal-at-general-dynamics-information-technology-4392081194": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-strategy-operations-manager-at-traliant-4392043572": 1,
     "https://www.linkedin.com/jobs/view/gtm-account-executive-multiple-levels-at-burq-4380296852": 1,
     "https://www.linkedin.com/jobs/view/svp-partners-alliances-ecosystems-remote-usa-at-lensa-4392039853": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392307780": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-freelancer-at-deccan-ai-experts-4398378098": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-wiz-4384405674": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-caret-4398927542": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-consultant-at-24-seven-talent-4395478548": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-consultant-at-24-seven-talent-4395478548": 1,
+    "https://www.linkedin.com/jobs/view/pessoa-consultor-a-em-comercializa%c3%a7%c3%a3o-at-ises-instituto-de-socioeconomia-solid%c3%a1ria-4398972047": 1,
+    "https://www.linkedin.com/jobs/view/senior-genai-engineer-full-stack-%2b-agentic-ai-%2b-aws-at-iris-by-steam-a-4398375943": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-remote-work-at-bairesdev-4395406576": 1,
+    "https://www.linkedin.com/jobs/view/senior-finops-engineer-aws-at-jobs-via-dice-4395480390": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398364586": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398374162": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-a-aplica%c3%a7%c3%a3o-pl-at-metso-valmet-4395423065": 1,
+    "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4398217174": 1,
+    "https://www.linkedin.com/jobs/view/aveva-pi-engineer-at-cognizant-life-sciences-manufacturing-4303090133": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sur-global-4398903781": 1,
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-ml-ops-engineer-at-bizmoni-the-next-gen-ai-super-app-4395926304": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-greenfi-4395930071": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-studio-yellow-4395932265": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
