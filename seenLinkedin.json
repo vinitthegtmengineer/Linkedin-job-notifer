@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-sre-early-engineer-at-motion-recruitment-4365616715": 1,
-    "https://www.linkedin.com/jobs/view/remote-devsecops-engineer-at-lensa-4392316574": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-opportunity%21-at-jobot-4375250587": 1,
-    "https://www.linkedin.com/jobs/view/principal-i-o-engineering-remote-at-optum-4392097284": 1,
-    "https://www.linkedin.com/jobs/view/staff-software-engineer-full-stack-at-doxel-4387232626": 1,
-    "https://www.linkedin.com/jobs/view/operations-director-marketing-manager-business-development-executive-at-nueva-wal-mart-de-m%c3%a9xico-s-de-r-l-de-c-v-4391646623": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4329898674": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391666775": 1,
-    "https://www.linkedin.com/jobs/view/remote-booking-scheduling-consultant-at-traveling-with-michaila-4391676668": 1,
-    "https://www.linkedin.com/jobs/view/join-elastic-engineering-global-talent-community-at-elastic-4138097473": 1,
     "https://www.linkedin.com/jobs/view/sales-development-manager-eastern-time-zone-at-go1-4355470365": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sundayy-4392333953": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-justrite-safety-group-4365568136": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/dual-entry-plan-builder-at-cvs-health-4399407243": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399271619": 1,
     "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4399415104": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-mint-partnership-4399286873": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-mint-partnership-4399286873": 1,
+    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4399281217": 1,
+    "https://www.linkedin.com/jobs/view/ai-cloud-engineering-at-remote-raven-4398497203": 1,
+    "https://www.linkedin.com/jobs/view/dremio-privacera-engineer-at-intuition-it-%e2%80%93-intuitive-technology-recruitment-4395956860": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-at-dcg-4399224962": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%8f%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%97-4398596290": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%8f%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%97-4398594363": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%8f%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%97-4398590519": 1,
+    "https://www.linkedin.com/jobs/view/associate-consultant-engineer-remote-at-rancho-biosciences-4380556385": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-ads-at-rowabi-4396317773": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-bwc-beth-whiffen-communications-4399283181": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
