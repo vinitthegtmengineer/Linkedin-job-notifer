@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-manager-eastern-time-zone-at-go1-4355470365": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sundayy-4392333953": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-justrite-safety-group-4365568136": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4391660838": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%8f%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%97-4398590519": 1,
     "https://www.linkedin.com/jobs/view/associate-consultant-engineer-remote-at-rancho-biosciences-4380556385": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-paid-ads-at-rowabi-4396317773": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-bwc-beth-whiffen-communications-4399283181": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-bwc-beth-whiffen-communications-4399283181": 1,
+    "https://www.linkedin.com/jobs/view/marketing-administrator-at-two-point-conversions-inc-4398496885": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
