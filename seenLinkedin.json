@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineering-specialist-at-devuplink-4391672025": 1,
     "https://www.linkedin.com/jobs/view/operador-monitoramento-%e2%80%93-portaria-virtual-%e2%80%93-porto-alegre-%e2%80%93-rs-nova-vaga-dispon%c3%advel-at-buscarvagas-empregos-brasil-4394087395": 1,
     "https://www.linkedin.com/jobs/view/vp-gtm-revops-at-strategic-employment-partners-sep-4382459690": 1,
     "https://www.linkedin.com/jobs/view/consultant-principal-ou-consultante-principale-fabrication-et-production-microsoft-d365-f-o-at-alithya-4392306525": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4398454869": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4398452931": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-hirexe-4399228895": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-activants-4395978192": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-activants-4395978192": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-at-veritone-4384488277": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
