@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-cybersecurity-engineer-security-operations-at-general-motors-4373213549": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-programs-at-samsara-4355344657": 1,
-    "https://www.linkedin.com/jobs/view/founding-account-executive-at-crossing-hurdles-4372092630": 1,
-    "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392338593": 1,
-    "https://www.linkedin.com/jobs/view/global-campaigns-manager-at-outsystems-4372787579": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054659": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-crossing-hurdles-2147622960": 1,
-    "https://www.linkedin.com/jobs/view/head-of-commercial-at-crossing-hurdles-4372059805": 1,
     "https://www.linkedin.com/jobs/view/founding-ae-at-crossing-hurdles-4372086690": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-emp-global-4391669273": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/vp-revenue-operations-at-drata-4386986356": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-uk-at-think-jam-4386860629": 1,
     "https://www.linkedin.com/jobs/view/technical-builder-at-blaney-4399286253": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-begood-4399278440": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-begood-4399278440": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399295164": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399291514": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399287533": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399279919": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399289512": 1,
+    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399295166": 1,
+    "https://www.linkedin.com/jobs/view/founding-ai-builder-head-of-ai-at-young-4399289214": 1,
+    "https://www.linkedin.com/jobs/view/graduate-operations-engineer-at-hyra-4399297031": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
