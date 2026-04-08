@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automation-engineer-at-enzo-4391677055": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4391678046": 1,
     "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-projects-remote-at-quik-hire-staffing-4392346029": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
     "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-pinnacle-method-consulting-4391611314": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%bb%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc-%e5%ae%9f%e5%83%8d7%e6%99%82%e9%96%93%ef%bc%8f%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9%e3%81%8b%e3%82%89%e5%ae%9f%e8%a3%85%e3%81%be%e3%81%a7-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b4%e3%83%bc%e3%82%ac-4399443343": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%bb%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc-%e5%ae%9f%e5%83%8d7%e6%99%82%e9%96%93%ef%bc%8f%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9%e3%81%8b%e3%82%89%e5%ae%9f%e8%a3%85%e3%81%be%e3%81%a7-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b4%e3%83%bc%e3%82%ac-4399434699": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4399447249": 1,
-    "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4396356467": 1
+    "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4396356467": 1,
+    "https://www.linkedin.com/jobs/view/director-crm-at-jobgether-4395979778": 1,
+    "https://www.linkedin.com/jobs/view/marketing-development-representative-remote-at-ezcater-4395902312": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
