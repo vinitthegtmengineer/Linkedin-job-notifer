@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-notfallmanagement-produktmanagement-w-m-d-at-komm-one-4392303789": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-all-genders-pm-eam-at-orianda-solutions-ag-a-valantic-company-4393713649": 1,
     "https://www.linkedin.com/jobs/view/digital-executive-remote-at-supercars-4391641836": 1,
     "https://www.linkedin.com/jobs/view/finishing-operator-i-iii-at-biospace-4392327482": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4398468598": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4398469607": 1,
     "https://www.linkedin.com/jobs/view/pv-project-engineer-at-ewi-recruitment-4398465532": 1,
-    "https://www.linkedin.com/jobs/view/online-marketing-executive-media-buyer-google-ads-at-netmedias-4395950773": 1
+    "https://www.linkedin.com/jobs/view/online-marketing-executive-media-buyer-google-ads-at-netmedias-4395950773": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineer-at-yc-bench-4399235049": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-08",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
