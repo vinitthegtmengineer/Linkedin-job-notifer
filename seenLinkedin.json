@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395043226": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395048052": 1,
-    "https://www.linkedin.com/jobs/view/partner-managing-director-consultant-leading-life-science-and-healthcare-executive-search-firm-at-higher-group-3802113678": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-aimi-4392909088": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4392902707": 1,
     "https://www.linkedin.com/jobs/view/strategic-finance-engineer-at-jobgether-4391842818": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-director-at-jobgether-4391849777": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398827793": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398835545": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398828761": 1,
-    "https://www.linkedin.com/jobs/view/brand-strategy-manager-at-celarity-4397288316": 1
+    "https://www.linkedin.com/jobs/view/brand-strategy-manager-at-celarity-4397288316": 1,
+    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-arom-grips-4398833968": 1,
+    "https://www.linkedin.com/jobs/view/workflow-builder-at-nscale-4398803940": 1,
+    "https://www.linkedin.com/jobs/view/project-support-office-%e2%80%93-process-engineer-at-harman-india-4398830855": 1,
+    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4398838096": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
