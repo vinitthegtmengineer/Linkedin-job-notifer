@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-en-implantation-de-sage-intacct-bilingue-at-vision33-4369599392": 1,
-    "https://www.linkedin.com/jobs/view/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b5%d1%86%d1%8c-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d0%b0%d0%b2%d1%96%d0%b4%d1%83%d0%b2%d0%b0%d1%87-%d0%b2%d1%96%d0%b4%d0%b4%d1%96%d0%bb%d1%83-jysk-%d1%82%d1%86-veles-at-jysk-4395018079": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-bcm-isms-m-w-d-at-bdo-germany-4392588217": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-citrix-bedarfsanalyse-planung-umsetzung-projektleitung-remote-first-mwd-at-vesterling-ag-4338203567": 1,
-    "https://www.linkedin.com/jobs/view/consultant-mdg-at-syniti-4392394524": 1,
-    "https://www.linkedin.com/jobs/view/senior-backend-engineer-%e2%80%93-builder-plateforme-sant%c3%a9-at-relaisant%c3%a9-4392911578": 1,
-    "https://www.linkedin.com/jobs/view/senior-android-developer-reverse-engineering-or-custom-rom-engineering-focus-at-emma-of-torre-ai-4392914448": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hexa-solutions-4391859388": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-framework-4395054493": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-jobgether-4391854080": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395031902": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-celonis-at-genpact-4392918518": 1,
     "https://www.linkedin.com/jobs/view/lead-ai-engineer-production-applied-ai-at-lumitech-4395039927": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/ai-growth-lead-at-influur-4400217220": 1,
     "https://www.linkedin.com/jobs/view/channel-director-at-cyberforce-global-4399859516": 1,
     "https://www.linkedin.com/jobs/view/operador-supermercado-12x36-carrefour-bairro-asa-sul-at-grupo-carrefour-brasil-4400273145": 1,
-    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400261355": 1
+    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400261355": 1,
+    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-peoplewiz-consulting-llp-4398848342": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399880284": 1,
+    "https://www.linkedin.com/jobs/view/dataops-engineer-remote-latin-america-at-fullstack-4377510424": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineering-director-at-ispot-4385895232": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4399883287": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399882216": 1,
+    "https://www.linkedin.com/jobs/view/framecore-farm-engineer-at-akkodis-4398832643": 1,
+    "https://www.linkedin.com/jobs/view/aiops-mlops-engineer-at-logicalis-spain-4397616102": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399869659": 1,
+    "https://www.linkedin.com/jobs/view/quadient-inspire-engineer-at-flexton-inc-4400258557": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
