@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/prognosis-engineer-at-odyssey-information-services-4390704962": 1,
-    "https://www.linkedin.com/jobs/view/aidc-engineer-at-contemporary-amperex-technology-usa-inc-4346638472": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-jobs-via-dice-4391699118": 1,
     "https://www.linkedin.com/jobs/view/junior-pr-manager-at-haystack-4392356378": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-lmu-munich-international-office-4391688205": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/senior-customer-marketing-manager-at-oro-labs-4398482675": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-ai-creative-content-systems-at-cash-app-4398453018": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-cannabis-industry-at-trip-studio-4392307726": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-strategy-operations-at-storable-4396366648": 1
+    "https://www.linkedin.com/jobs/view/senior-director-strategy-operations-at-storable-4396366648": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%8f%e3%83%87%e3%82%b9%e3%82%af%e3%83%88%e3%83%83%e3%83%97%e8%a3%bd%e5%93%81%ef%bc%89%e2%80%bb%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%80%99%e8%a3%9c-at-yayoi-co-ltd-4399447259": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4398640780": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
