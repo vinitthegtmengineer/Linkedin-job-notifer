@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/builder-developer-devops-product-owner-%40-trilix-io-at-trilix-io-4392348830": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-pre-seed-part-time-at-srnd-ai-4391696016": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-caelum-group-gmbh-4394543513": 1,
-    "https://www.linkedin.com/jobs/view/social-content-manager-at-lensa-4392325265": 1,
-    "https://www.linkedin.com/jobs/view/director-senior-manager-marketing-operations-at-certifid-4387302696": 1,
-    "https://www.linkedin.com/jobs/view/sr-servicenow-engineer-at-mks-inc-4355346549": 1,
     "https://www.linkedin.com/jobs/view/prognosis-engineer-at-odyssey-information-services-4390704962": 1,
     "https://www.linkedin.com/jobs/view/aidc-engineer-at-contemporary-amperex-technology-usa-inc-4346638472": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-jobs-via-dice-4391699118": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-at-fieldguide-4396382068": 1,
     "https://www.linkedin.com/jobs/view/head-of-retention-at-dtc-e-commerce-business-remote-us-based-at-paired-4398432681": 1,
     "https://www.linkedin.com/jobs/view/sr-people-relations-consultant-at-harvey-nash-4396382560": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4399440709": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4399440709": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-customs-at-livingston-international-4398966760": 1,
+    "https://www.linkedin.com/jobs/view/quest-campaign-manager-at-nordic-node-4398557459": 1,
+    "https://www.linkedin.com/jobs/view/senior-customer-marketing-manager-at-oro-labs-4398482675": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-ai-creative-content-systems-at-cash-app-4398453018": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-cannabis-industry-at-trip-studio-4392307726": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-strategy-operations-at-storable-4396366648": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
