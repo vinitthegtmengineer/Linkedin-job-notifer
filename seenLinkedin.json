@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-sira-4395040758": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395050015": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-plentific-4391857932": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-new-wave-recruiting-4391869773": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-manager-at-parloa-4392933239": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4392920710": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-vacantes-rep-dom-4395077029": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4392931696": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91python%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e5%9b%bd%e5%86%85%e3%83%88%e3%83%83%e3%83%97%e3%82%b7%e3%82%a7%e3%82%a2%e9%81%a0%e9%9a%94%e7%94%bb%e5%83%8f%e8%a8%ba%e6%96%ad%e6%94%af%e6%8f%b4%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9-at-doctor-net-inc-4400273872": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8f%e8%8c%97%e8%8d%b7%e8%b0%b7%e9%a7%852%e5%88%86%e3%80%91%e9%96%8b%e7%99%ba%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%aa%e3%82%b9%e3%83%88%e2%97%86%e8%87%aa%e7%a4%be%e5%8b%a4%e5%8b%99%e3%83%bb%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%a1%88%e4%bb%b6%ef%bc%8f%e5%bb%ba%e8%a8%ad%e6%a5%ad%e7%95%8c%e3%81%aedx%e6%8e%a8%e9%80%b2-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4399842268": 1,
     "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4398692257": 1,
-    "https://www.linkedin.com/jobs/view/customer-marketing-executive-remote-at-jobgether-4397625206": 1
+    "https://www.linkedin.com/jobs/view/customer-marketing-executive-remote-at-jobgether-4397625206": 1,
+    "https://www.linkedin.com/jobs/view/systems-administrator-at-bloomerang-4398653110": 1,
+    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400291315": 1,
+    "https://www.linkedin.com/jobs/view/senior-vp-of-revenue-operations-svp-revops-at-jobgether-4397224202": 1,
+    "https://www.linkedin.com/jobs/view/junior-event-producer-at-bucket-listers-4397606953": 1,
+    "https://www.linkedin.com/jobs/view/marketing-ops-associate-at-crux-4400297149": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
