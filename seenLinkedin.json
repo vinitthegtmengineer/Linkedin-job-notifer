@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/entry-level-engineer-at-building-and-industrial-control-system-bicsys-4392370939": 1,
-    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392382686": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-envato-4392378696": 1,
-    "https://www.linkedin.com/jobs/view/digital-executive-remote-at-conselheiras-%c2%ae-4394821403": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-marketing-executive-at-cloudek-4391692692": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-reborn-4391695624": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-engineer-%e2%80%93-google-cloud-platform-ai-pilot-project-at-jobs-via-dice-4391690594": 1,
     "https://www.linkedin.com/jobs/view/kol-influencer-marketing-vietnamese-speaker-at-iux-4391681878": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-head-of-content-creation-at-nerveli-techstars-24-4391683815": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/stone-masons-fixers-builders-at-carrek-limited-4399878161": 1,
     "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387461693": 1,
     "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397221761": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-pixel-mechanics-4399874296": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-pixel-mechanics-4399874296": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-acquisition-focus-at-leadtech-group-4399864452": 1,
+    "https://www.linkedin.com/jobs/view/engineer-data-operations-in-finance-at-coda-technology-solutions-pvt-ltd-4397220717": 1,
+    "https://www.linkedin.com/jobs/view/principal-horizon-engineer-%e2%80%93-vdi-operations-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4399881225": 1,
+    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387475289": 1,
+    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397218793": 1,
+    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397223698": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
