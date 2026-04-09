@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395031902": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-celonis-at-genpact-4392918518": 1,
-    "https://www.linkedin.com/jobs/view/lead-ai-engineer-production-applied-ai-at-lumitech-4395039927": 1,
-    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4391872302": 1,
-    "https://www.linkedin.com/jobs/view/partner-growth-manager-at-merchante-4395043912": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-mappa-4391862561": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-creative-people-4395054614": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-excel-4391851648": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-lahzo-4395060373": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/framecore-farm-engineer-at-akkodis-4398832643": 1,
     "https://www.linkedin.com/jobs/view/aiops-mlops-engineer-at-logicalis-spain-4397616102": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399869659": 1,
-    "https://www.linkedin.com/jobs/view/quadient-inspire-engineer-at-flexton-inc-4400258557": 1
+    "https://www.linkedin.com/jobs/view/quadient-inspire-engineer-at-flexton-inc-4400258557": 1,
+    "https://www.linkedin.com/jobs/view/consultor-de-expans%c3%a3o-pj-at-rodney-company-4398836574": 1,
+    "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e6%8a%80%e8%a1%93%e5%bf%97%e5%90%91%e3%83%bb%e3%83%9e%e3%83%8d%e3%82%b8%e3%83%a1%e3%83%b3%e3%83%88%e5%bf%97%e5%90%91%e3%81%84%e3%81%9a%e3%82%8c%e3%82%82%e6%ad%93%e8%bf%8e%ef%bc%8f%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%aa%e3%82%b9%e3%83%88%e5%80%99%e8%a3%9c%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%90%ef%bd%92%ef%bd%8f%ef%bd%96%ef%bd%89%ef%bd%93%ef%bd%89%ef%bd%8f%ef%bd%8e-4400280405": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e9%98%aa-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-fenrir-inc-4400273813": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%a5%ad%e7%95%8cno-1-m-a%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0batonz%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%90%e3%83%88%e3%83%b3%e3%82%ba-4400266933": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e4%ba%ac%e9%83%bd-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91-%e3%82%b9%e3%83%9e%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%b3%e3%82%a2%e3%83%97%e3%83%aa-%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-fenrir-inc-4400269911": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4400250737": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
