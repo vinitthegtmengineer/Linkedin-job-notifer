@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-pilot-operator-at-l30-at-lensa-4392371778": 1,
-    "https://www.linkedin.com/jobs/view/consultant-cyberark-remote-usa-at-lensa-4392380596": 1,
-    "https://www.linkedin.com/jobs/view/application-engineering-specialist-remote-or-hybrid-at-lensa-4392366985": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-chemical-engineer-petroleum-engineer-at-e-mart-4392369761": 1,
     "https://www.linkedin.com/jobs/view/remote-project-engineer-at-lensa-4392381594": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-lensa-4392387183": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/1012-information-processing-operator-%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b0-%d0%b7-%d0%b4%d0%be%d0%bc%d1%83-%d0%b1%d0%b5%d0%b7-%d0%b4%d0%be%d1%81%d0%b2%d1%96%d0%b4%d1%83-%d0%bd%d1%96%d1%87%d0%bd%d0%b0-%d0%b7%d0%bc%d1%96%d0%bd%d0%b0-at-intetics-4399291514": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-ltimindtree-4398682850": 1,
     "https://www.linkedin.com/jobs/view/senior-data-platform-operations-engineer-at-epam-systems-4398673961": 1,
-    "https://www.linkedin.com/jobs/view/lead-data-platform-operations-engineer-at-epam-systems-4398675841": 1
+    "https://www.linkedin.com/jobs/view/lead-data-platform-operations-engineer-at-epam-systems-4398675841": 1,
+    "https://www.linkedin.com/jobs/view/entrepreneurial-operator-searcher-%e2%80%94-acquire-lead-an-sme-at-casellia-4399875001": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-platform-operations-engineer-at-epam-systems-4398671928": 1,
+    "https://www.linkedin.com/jobs/view/integrated-campaigns-manager-account-based-marketing-at-stripe-4387404942": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
