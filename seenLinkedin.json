@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/roll-out-consultant-m-w-d-f%c3%bcr-europa-at-evosec-gmbh-co-kg-4349302540": 1,
-    "https://www.linkedin.com/jobs/view/paco-integrator-engineer-at-capgemini-engineering-4379656089": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4392505091": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-4392392287": 1,
-    "https://www.linkedin.com/jobs/view/director-%e2%80%93-sales-partnerships-north-america-at-dwao-4392500371": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-sales-at-amagi-4391687298": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-bhawani-fitness-4395018002": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-business-development-executive-at-jobgether-4395003776": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-consultant-at-letstrike-4392500396": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-growth-strategist-at-mach-media-4391705117": 1,
-    "https://www.linkedin.com/jobs/view/prims-consultant-workday-at-ubique-systems-4395010880": 1,
     "https://www.linkedin.com/jobs/view/sap-senior-lead-consultant-pp-w-m-d-at-cnt-management-consulting-4279205732": 1,
     "https://www.linkedin.com/jobs/view/elastic-engineer-at-techshack-4392512102": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-halon-4379926631": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/rvp-strategic-sales-west-at-cresta-4340789547": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-roocru-4400200340": 1,
     "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397229554": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-cint-4398806823": 1
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-cint-4398806823": 1,
+    "https://www.linkedin.com/jobs/view/social-media-builder-part-time-israel-at-bitget-4386739474": 1,
+    "https://www.linkedin.com/jobs/view/cursor-%2b-supabase-%2b-vercel-ai-first-dev-stack-experienced-builder-at-empowered-cooks-4397263790": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-object-first-4399873839": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4399449211": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4399442339": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-work-on-agentic-healthcare-products-%24200-000-%24300-000-base-plus-bonus%21-at-saragossa-4398827214": 1,
+    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4399894997": 1,
+    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4400210376": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieur-in-umweltmanagement-und-landschaftsplanung-m-w-d-at-lurberg-4398829209": 1,
+    "https://www.linkedin.com/jobs/view/social-media-strategist-at-h-a-resources-llc-4398817320": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
