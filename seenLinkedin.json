@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-chemical-engineer-petroleum-engineer-at-e-mart-4392369761": 1,
-    "https://www.linkedin.com/jobs/view/remote-project-engineer-at-lensa-4392381594": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-lensa-4392387183": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-analyst-capital-one-software-remote-at-lensa-4392368912": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-lensa-4392376654": 1,
-    "https://www.linkedin.com/jobs/view/operations-coordinator-people-culture-at-lensa-4392372706": 1,
     "https://www.linkedin.com/jobs/view/entry-level-engineer-at-building-and-industrial-control-system-bicsys-4392370939": 1,
     "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4392382686": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-at-envato-4392378696": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/lead-data-platform-operations-engineer-at-epam-systems-4398675841": 1,
     "https://www.linkedin.com/jobs/view/entrepreneurial-operator-searcher-%e2%80%94-acquire-lead-an-sme-at-casellia-4399875001": 1,
     "https://www.linkedin.com/jobs/view/senior-data-platform-operations-engineer-at-epam-systems-4398671928": 1,
-    "https://www.linkedin.com/jobs/view/integrated-campaigns-manager-account-based-marketing-at-stripe-4387404942": 1
+    "https://www.linkedin.com/jobs/view/integrated-campaigns-manager-account-based-marketing-at-stripe-4387404942": 1,
+    "https://www.linkedin.com/jobs/view/growth-operator-digital-retail-operations-at-reset-4399293844": 1,
+    "https://www.linkedin.com/jobs/view/senior-hubspot-solutions-consultant-remote-executive-workshops-%2b-revops-at-pave-talent-4397233417": 1,
+    "https://www.linkedin.com/jobs/view/stone-masons-fixers-builders-at-carrek-limited-4399878161": 1,
+    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387461693": 1,
+    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397221761": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-pixel-mechanics-4399874296": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
