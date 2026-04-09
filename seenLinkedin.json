@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4392597949": 1,
-    "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-methods-4382049692": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4395051013": 1,
     "https://www.linkedin.com/jobs/view/konzultant-ka-pro-oblast-p%c5%99%c3%adm%c3%bdch-dan%c3%ad-at-pwc-czech-republic-4337129530": 1,
     "https://www.linkedin.com/jobs/view/consultant-en-implantation-de-sage-intacct-bilingue-at-vision33-4369599392": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/regional-sales-engineer-chillers-western-us-at-lg-electronics-north-america-4329171537": 1,
     "https://www.linkedin.com/jobs/view/cruise-marketing-content-executive-at-cruise-circle-4400259044": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4398836452": 1,
-    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4398832656": 1
+    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4398832656": 1,
+    "https://www.linkedin.com/jobs/view/ai-growth-lead-at-influur-4400217220": 1,
+    "https://www.linkedin.com/jobs/view/channel-director-at-cyberforce-global-4399859516": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
