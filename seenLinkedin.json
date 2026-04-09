@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-tully-luxury-travel-4392944798": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-executive-intern-at-quantum-it-innovation-4391890308": 1,
     "https://www.linkedin.com/jobs/view/consultants-coach-entrepreneurs-leaders-at-masterminds-le-cercle-vertueux-4395076416": 1,
     "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392920669": 1,
     "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-team17-4392939944": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/sales-support-specialist-at-wherewework-4396380584": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-generalist-at-rex-zone-4399888452": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-remotehunter-4397610636": 1,
-    "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397235222": 1
+    "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397235222": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-ethos-software-4397629525": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-fowler-o-sullivan-foundation-4400241611": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-09",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
