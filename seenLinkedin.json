@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4393275423": 1,
-    "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4389742597": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-klaviyo-at-uplers-4392573963": 1,
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-4391880390": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-marketo-at-uplers-4392590263": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-sfmc-at-uplers-4392583418": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-sfmc-at-uplers-4392591083": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-pardot-at-uplers-4392595040": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-sfmc-at-uplers-4392575960": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-account-executive-digital-marketing-focus-at-hawksem-4392918730": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-klaviyo-at-uplers-4392586298": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4392158592": 1,
     "https://www.linkedin.com/jobs/view/mindset-and-wellbeing-consultant-remote-time-flexibility-at-creating-brighter-futures-4392174324": 1,
     "https://www.linkedin.com/jobs/view/data-ml-engineering-bd-solutioning-sm-ad-at-tiger-analytics-4392189142": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/renewals-retention-manager-renewals-strategy-specialist-at-samsara-4375589029": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4399023279": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-pt-union-sampoerna-triputra-persada-4398109017": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-vp-of-marketing-at-boldr-4397638436": 1
+    "https://www.linkedin.com/jobs/view/vice-president-vp-of-marketing-at-boldr-4397638436": 1,
+    "https://www.linkedin.com/jobs/view/amazon-marketplace-consultant-german-spanish-italian-at-virtuhire-4400510986": 1,
+    "https://www.linkedin.com/jobs/view/in-dealership-consultant-minnesota-at-jackson-dawson-4400344763": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286649035": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369269652": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369270659": 1,
+    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397623602": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-port-engineer-remote-at-v2x-inc-4387881018": 1,
+    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397629434": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-rithum-4378049877": 1,
+    "https://www.linkedin.com/jobs/view/remote-operation-engineer-at-linde-europe-4369087422": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
