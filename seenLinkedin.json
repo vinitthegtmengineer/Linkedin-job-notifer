@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-operator-fde-style-at-threatorb-4392950211": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-findymail-4392927616": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-outbound-pipeline-development-at-netrise-4391881176": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-fractional-demand-4392111555": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-hirexe-4392573159": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/sales-engineer-at-rithum-4341097320": 1,
     "https://www.linkedin.com/jobs/view/b2b-digital-marketing-executive-at-kkbc-b2b-marketing-agency-4397669537": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4397679927": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-at-ekloud-inc-4397695047": 1
+    "https://www.linkedin.com/jobs/view/ai-ml-ops-engineer-at-ekloud-inc-4397695047": 1,
+    "https://www.linkedin.com/jobs/view/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80-%d0%bf%d0%be%d0%b4%d0%b4%d1%80%d1%8a%d0%b6%d0%ba%d0%b0-%d0%b4%d0%b8%d1%81%d1%82%d0%b0%d0%bd%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%be-%d0%be%d1%82%d1%87%d0%b8%d1%82%d0%b0%d0%bd%d0%b5-%d0%bd%d0%bd-%d0%b7%d0%b0-%d0%b3%d1%80-%d1%81%d0%be%d1%84%d0%b8%d1%8f-at-electrohold-4400213054": 1,
+    "https://www.linkedin.com/jobs/view/director-of-product-strategy-sales-engagement-at-outreach-4397678641": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
