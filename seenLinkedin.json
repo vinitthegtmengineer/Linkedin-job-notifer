@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395687027": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395686020": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-geo-aio-at-meg-healthcare-quality-management-software-4395677477": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-passive-4392410324": 1,
-    "https://www.linkedin.com/jobs/view/associate-marketing-analyst-at-aveniras-4392984055": 1,
-    "https://www.linkedin.com/jobs/view/senior-partner-consultant-central-hub-at-admixer-media-4395681088": 1,
-    "https://www.linkedin.com/jobs/view/production-engineer-at-careerus-solutions-4395153829": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-alten-ltd-uk-4392194409": 1,
     "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-365-adventures-4395699895": 1,
     "https://www.linkedin.com/jobs/view/senior-partner-consultant-remote-at-admixer-media-4395681088": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/slalom-flex-project-based-full-stack-stripe-engineer-at-slalom-4397618731": 1,
     "https://www.linkedin.com/jobs/view/sr-software-engineer-platform-at-neogov-4369464598": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369256846": 1,
-    "https://www.linkedin.com/jobs/view/distinguished-project-engineer-data-center-power-plant-primoris-energy-services-at-primoris-services-corporation-4389781794": 1
+    "https://www.linkedin.com/jobs/view/distinguished-project-engineer-data-center-power-plant-primoris-energy-services-at-primoris-services-corporation-4389781794": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109028": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387899548": 1,
+    "https://www.linkedin.com/jobs/view/software-developers-openclaw-agent-builder-at-mlg-international-4400574425": 1,
+    "https://www.linkedin.com/jobs/view/canva-video-builder-animator-intern-remote-project-contract-at-zillyplanet-4398141862": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-huntsville-4398144675": 1,
+    "https://www.linkedin.com/jobs/view/senior-martech-operations-manager-at-airbnb-4388184512": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-seh-4400343432": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
