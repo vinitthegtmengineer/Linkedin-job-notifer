@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-regulatory-reporting-m-w-d-at-x1f-4383310804": 1,
-    "https://www.linkedin.com/jobs/view/life-cycle-consultant-at-adp-4395580088": 1,
-    "https://www.linkedin.com/jobs/view/wound-closure-consultant-m-w-d-surgery-region-s%c3%bcdliches-baden-w%c3%bcrttemberg-t%c3%bcbingen-%e2%80%93-konstanz-%e2%80%93-villingen-schwenningen-%e2%80%93-l%c3%b6rrach-at-johnson-johnson-medtech-4392903399": 1,
     "https://www.linkedin.com/jobs/view/ocm-consultant-at-ntt-data-north-america-4367179195": 1,
     "https://www.linkedin.com/jobs/view/regionalny-konsultant-ds-wyrob%c3%b3w-medycznych-at-dr-weigert-polska-sp-z-o-o-4088252121": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4395677188": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388106296": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102443": 1,
     "https://www.linkedin.com/jobs/view/salesforce-engineer-at-vanta-4387752234": 1,
-    "https://www.linkedin.com/jobs/view/director-of-saas-at-ptc-4398114764": 1
+    "https://www.linkedin.com/jobs/view/director-of-saas-at-ptc-4398114764": 1,
+    "https://www.linkedin.com/jobs/view/consumer-app-growth-operator-at-ezcare-ai-4398147512": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-paid-media-creative-operator-at-podpitch-4398143584": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387886936": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
