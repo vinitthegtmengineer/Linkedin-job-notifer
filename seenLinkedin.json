@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-marketing-%e2%80%93-demand-generation-growth-b2b-b2c-saas-ai-higher-ed-at-blackbelthelp-4392957995": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-twine-4382055004": 1,
-    "https://www.linkedin.com/jobs/view/partner-marketing-manager-at-lingaro-4382895079": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-specialist-at-forte-4392110980": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4382036841": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-levels-4392416766": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361639400": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-go-to-market-at-apilayer-4398178473": 1,
     "https://www.linkedin.com/jobs/view/sales-agent-at-giga-it-4400643410": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-social-media-manager-at-revolut-4398164522": 1
+    "https://www.linkedin.com/jobs/view/global-social-media-social-media-manager-at-revolut-4398164522": 1,
+    "https://www.linkedin.com/jobs/view/ai-sales-development-manager-at-motion-creative-analytics-4400637812": 1,
+    "https://www.linkedin.com/jobs/view/ai-sales-development-manager-at-motion-creative-analytics-4400646440": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-social-media-manager-at-revolut-4398169524": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
