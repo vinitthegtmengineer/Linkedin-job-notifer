@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/seconde-activit%c3%a9-%e2%80%93-devenir-consultant-e-bien-%c3%aatre-en-ligne-%f0%9f%92%bb-flexible-ind%c3%a9pendant-form%c3%a9-e-%e2%80%93-5-%c3%a0-15h-semaine-at-cap%c3%a9lya-4395647470": 1,
-    "https://www.linkedin.com/jobs/view/creative-campaigns-manager-part-time-at-betteros-4392173753": 1,
-    "https://www.linkedin.com/jobs/view/director-revenue-operations-india-at-flosum-4392997839": 1,
-    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393503883": 1,
-    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393518284": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-immo-4395654877": 1,
-    "https://www.linkedin.com/jobs/view/marketing-branding-executive-at-petronex-4393515430": 1,
-    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393506251": 1,
-    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393509213": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-alpaca-4392982238": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-itrac-4395083132": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-siem-at-cloud-target-4392975170": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393525183": 1,
     "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4392180770": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393519174": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378062584": 1,
     "https://www.linkedin.com/jobs/view/director-channel-alliances-emea-at-vanta-4387784601": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4400397548": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-contenido-%2b-landings-%2b-ia-at-docdigitales-4400529894": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387895676": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387889932": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108044": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387893697": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102447": 1,
+    "https://www.linkedin.com/jobs/view/new-home-builder-consultant-at-new-home-star-4385488358": 1,
+    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388108320": 1,
+    "https://www.linkedin.com/jobs/view/junior-performance-marketing-executive-real-estate-at-formule-ai-4399034201": 1,
+    "https://www.linkedin.com/jobs/view/part-time-marketing-manager-at-marlo-marketing-4400245871": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-peek-4398849775": 1,
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-highlights-4399016795": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
