@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e9%80%b12%e7%a8%8b%e5%ba%a6%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e4%b8%8a%e5%a0%b4%e4%bc%81%e6%a5%ad%ef%bc%8f%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e8%b3%87%e6%a0%bc%e8%ac%9b%e5%ba%a7%e3%80%8c%e3%82%b9%e3%82%bf%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%80%8d%ef%bc%89-at-%ef%bd%8b%ef%bd%89%ef%bd%99%ef%bd%8f%e3%83%a9%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%ef%bc%88%e6%a0%aa%ef%bc%89-4392997388": 1,
-    "https://www.linkedin.com/jobs/view/director-of-product-management-at-omatic-4395151890": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-mining-operations-at-saasa-b2e-4392119328": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-owner-com-4393206191": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-owner-com-4393206216": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-canals-4392982990": 1,
     "https://www.linkedin.com/jobs/view/marketing-events-operations-manager-at-clearml-4392999760": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-careerus-solutions-4395155860": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397222697": 1,
     "https://www.linkedin.com/jobs/view/business-operations-manager-at-premier-talent-partners-4397626630": 1,
     "https://www.linkedin.com/jobs/view/regional-general-manager-alberta-atlantic-canada-at-uride-4397608966": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-virtustant-4398822511": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-virtustant-4398822511": 1,
+    "https://www.linkedin.com/jobs/view/date-entry-operator-at-jobs-via-dice-4397668335": 1,
+    "https://www.linkedin.com/jobs/view/in-dealership-consultant-minnesota-at-transcend-creative-group-4400344763": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mash-4382491921": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-operations-coordinator-at-jobgether-4397617459": 1,
+    "https://www.linkedin.com/jobs/view/paid-digital-marketing-manager-at-stripe-4378080528": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
