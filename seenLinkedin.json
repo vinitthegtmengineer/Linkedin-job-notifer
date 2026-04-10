@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393525183": 1,
-    "https://www.linkedin.com/jobs/view/applied-engineer-remote-at-crossing-hurdles-4392180770": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393519174": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4393508776": 1,
-    "https://www.linkedin.com/jobs/view/chargebee-engineer-remote-work-at-bairesdev-4392117098": 1,
     "https://www.linkedin.com/jobs/view/palantir-engineer-at-akkodis-4360533988": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-keystone-recruitment-4395675063": 1,
     "https://www.linkedin.com/jobs/view/water-treatment-process-engineer-at-apex-companies-4391888752": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/junior-performance-marketing-executive-real-estate-at-formule-ai-4399034201": 1,
     "https://www.linkedin.com/jobs/view/part-time-marketing-manager-at-marlo-marketing-4400245871": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-peek-4398849775": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-highlights-4399016795": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-highlights-4399016795": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108171": 1,
+    "https://www.linkedin.com/jobs/view/policy-and-gesi-barrier-analysis-consultancy-at-snv-4399000143": 1,
+    "https://www.linkedin.com/jobs/view/operational-engr-i-at-csg-4387939036": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-growth-at-jobgether-4397694979": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4398102925": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
