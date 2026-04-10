@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4392158592": 1,
-    "https://www.linkedin.com/jobs/view/mindset-and-wellbeing-consultant-remote-time-flexibility-at-creating-brighter-futures-4392174324": 1,
-    "https://www.linkedin.com/jobs/view/data-ml-engineering-bd-solutioning-sm-ad-at-tiger-analytics-4392189142": 1,
-    "https://www.linkedin.com/jobs/view/qa-engineer-platform-and-ops-tooling-at-serve-robotics-4395546118": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%e2%80%93-ai-inference-at-lightbits-labs-4395078325": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-developer-builder-contract-at-jobs-via-dice-4392142718": 1,
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-ht-immo-4395647777": 1,
     "https://www.linkedin.com/jobs/view/seconde-activit%c3%a9-%e2%80%93-devenir-consultant-e-bien-%c3%aatre-en-ligne-%f0%9f%92%bb-flexible-ind%c3%a9pendant-form%c3%a9-e-%e2%80%93-5-%c3%a0-15h-semaine-at-cap%c3%a9lya-4395647470": 1,
     "https://www.linkedin.com/jobs/view/creative-campaigns-manager-part-time-at-betteros-4392173753": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-india-at-flosum-4392997839": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/project-manager-port-engineer-remote-at-v2x-inc-4387881018": 1,
     "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397629434": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-rithum-4378049877": 1,
-    "https://www.linkedin.com/jobs/view/remote-operation-engineer-at-linde-europe-4369087422": 1
+    "https://www.linkedin.com/jobs/view/remote-operation-engineer-at-linde-europe-4369087422": 1,
+    "https://www.linkedin.com/jobs/view/copilot-consultant-at-primeit-espa%c3%b1a-4400537264": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-delivery-manager-at-jobgether-4398104984": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-at-hadron-talent-hadronfinsys-4400375647": 1,
+    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378062584": 1,
+    "https://www.linkedin.com/jobs/view/director-channel-alliances-emea-at-vanta-4387784601": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4400397548": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
