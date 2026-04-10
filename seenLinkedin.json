@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/water-treatment-process-engineer-at-apex-companies-4391888752": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-rl-environments-at-huzzle-com-4395043798": 1,
-    "https://www.linkedin.com/jobs/view/marketing-event-planner-at-jobgether-4392163535": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-at-nooks-4372569372": 1,
-    "https://www.linkedin.com/jobs/view/facebook-ad-manager-at-creative-chaos-4393294946": 1,
     "https://www.linkedin.com/jobs/view/wound-closure-consultant-m-w-d-surgery-region-s%c3%bcdliches-baden-w%c3%bcrttemberg-t%c3%bcbingen-%e2%80%93-konstanz-%e2%80%93-villingen-schwenningen-%e2%80%93-l%c3%b6rrach-at-johnson-johnson-medtech-4392588807": 1,
     "https://www.linkedin.com/jobs/view/profee-coding-consultant-full-time-at-datavant-4392146857": 1,
     "https://www.linkedin.com/jobs/view/lims-consultant-samplemanager-thermofisher-at-red-global-4395656646": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/vice-president-growth-at-jobgether-4397694979": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4398102925": 1,
     "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4398147220": 1,
-    "https://www.linkedin.com/jobs/view/remote-content-marketing-manager-at-jobgether-4397626204": 1
+    "https://www.linkedin.com/jobs/view/remote-content-marketing-manager-at-jobgether-4397626204": 1,
+    "https://www.linkedin.com/jobs/view/consultant-mag-uk-strategic-reward-review-at-mag-mines-advisory-group-4400561187": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4398153169": 1,
+    "https://www.linkedin.com/jobs/view/production-systems-engineer-data-application-support-at-gitmax-4398134408": 1,
+    "https://www.linkedin.com/jobs/view/observability-operations-engineer-at-fullbay-4400565168": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-pangaea-4398147085": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
