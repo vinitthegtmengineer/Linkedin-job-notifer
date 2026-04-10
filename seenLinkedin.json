@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-lensa-4393249712": 1,
-    "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-alexander-mcqueen-commerce-technologies-4392112471": 1,
-    "https://www.linkedin.com/jobs/view/dealer-consultant-pittsburgh-at-forddirect-4393261384": 1,
-    "https://www.linkedin.com/jobs/view/campaign-director-100%25-remote-at-lensa-4393245843": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-tqg-4392122874": 1,
     "https://www.linkedin.com/jobs/view/associate-online-tom-ford-couture-brands-at-the-est%c3%a9e-lauder-companies-inc-4392139877": 1,
     "https://www.linkedin.com/jobs/view/founding-operator-%e2%80%94-product-growth-co-founder-track-at-coinedone-4392170291": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387879305": 1,
     "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387865909": 1,
     "https://www.linkedin.com/jobs/view/projects-engineering-general-manager-at-dragon-oil-4400376340": 1,
-    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387880664": 1
+    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387880664": 1,
+    "https://www.linkedin.com/jobs/view/product-sales-specialist-at-grotech-search-4389612154": 1,
+    "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4400508357": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-fully-remote-part-time-4400349729": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-manager-at-huzzle-com-4400509184": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
