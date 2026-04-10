@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4392148709": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-software-development-engineer-at-kagaar-4392171239": 1,
     "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4393275423": 1,
     "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4389742597": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-operations-executive-klaviyo-at-uplers-4392573963": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/lead-engineer-workflow-builder-dsl-at-highlevel-4353431272": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-boston-at-giga-4363620496": 1,
     "https://www.linkedin.com/jobs/view/renewals-retention-manager-renewals-strategy-specialist-at-samsara-4375589029": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4399023279": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4399023279": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-pt-union-sampoerna-triputra-persada-4398109017": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-vp-of-marketing-at-boldr-4397638436": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
