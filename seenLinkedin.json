@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/fintech-engineer-at-seraphis-4393557024": 1,
-    "https://www.linkedin.com/jobs/view/fbs-ops-engineer-manager-at-capgemini-4385721872": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-metric-geo-4393519309": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4392415574": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4395855148": 1,
     "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4393297059": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383401129": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/solr-consultant-at-pineq-lab-technology-4399045755": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-long-island-east-%234750-at-grail-4398165245": 1,
     "https://www.linkedin.com/jobs/view/ai-native-paid-media-meta-operator-at-podpitch-4398158409": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-bloom-at-sword-health-4400579366": 1
+    "https://www.linkedin.com/jobs/view/head-of-marketing-bloom-at-sword-health-4400579366": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-paid-media-meta-operator-at-podpitch-4398163425": 1,
+    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378075392": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-kelleher-international-4397670462": 1,
+    "https://www.linkedin.com/jobs/view/loyalty-crm-coordinator-at-qdoba-restaurant-corporation-4398162411": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
