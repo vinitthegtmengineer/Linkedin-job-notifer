@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-alten-ltd-uk-4392194409": 1,
-    "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-365-adventures-4395699895": 1,
-    "https://www.linkedin.com/jobs/view/senior-partner-consultant-remote-at-admixer-media-4395681088": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listlab-4395842425": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-workplace-ai-search-at-elastic-4383386673": 1,
     "https://www.linkedin.com/jobs/view/fintech-engineer-at-seraphis-4393557024": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/canva-video-builder-animator-intern-remote-project-contract-at-zillyplanet-4398141862": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-huntsville-4398144675": 1,
     "https://www.linkedin.com/jobs/view/senior-martech-operations-manager-at-airbnb-4388184512": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-seh-4400343432": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-seh-4400343432": 1,
+    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4398157120": 1,
+    "https://www.linkedin.com/jobs/view/solr-consultant-at-pineq-lab-technology-4399045755": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-long-island-east-%234750-at-grail-4398165245": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-10",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
