@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-operator-at-raisi-4392160802": 1,
-    "https://www.linkedin.com/jobs/view/cs-team-operator-at-becklar-monitoring-4393985633": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-appgate-4393579449": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-at-gtmatiq-4396156324": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-redis-4395552341": 1,
     "https://www.linkedin.com/jobs/view/experienced-gtm-engineer-at-redis-4395541791": 1,
     "https://www.linkedin.com/jobs/view/vp-gtm-apac-saas-hcm-at-hyphen-partners-4393227995": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-entertainment-freelance-at-unfold-4398727574": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362314112": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-dallas-at-giga-4363540661": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1,
+    "https://www.linkedin.com/jobs/view/pre-sales-it-solutions-engineer-at-das-health-4388502681": 1,
+    "https://www.linkedin.com/jobs/view/technical-customer-engineer-at-ascertain-4400626163": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-westinghouse-electric-company-4384287501": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-mivaura-talent-4400915007": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
