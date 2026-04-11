@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-2-indianapolis-%234713-at-grail-4393012332": 1,
-    "https://www.linkedin.com/jobs/view/value-builder-at-exelab-4396644893": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394675567": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394662920": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394678220": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394663910": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-beaucoup-4394667527": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-coordinator-at-weekday-ai-yc-w21-4394633710": 1,
     "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-alexander-mcqueen-digital-solutions-4393009528": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/head-of-retention-operations-at-dtc-e-commerce-business-remote-worldwide-at-paired-4399097809": 1,
     "https://www.linkedin.com/jobs/view/analyst-sales-ops-at-slice-4388550958": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400685608": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4400931801": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4400931801": 1,
+    "https://www.linkedin.com/jobs/view/native-app-engineer-at-bridge-business-support-solutions-4400691295": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4400930765": 1,
+    "https://www.linkedin.com/jobs/view/subscription-lifecycle-marketing-manager-%2435-%2475-hr-at-dtcpg-4398759513": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592347": 1,
+    "https://www.linkedin.com/jobs/view/manager-partner-strategy-and-operations-at-hyperproof-4400595951": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-content-marketing-manager-at-tebra-4379038399": 1,
+    "https://www.linkedin.com/jobs/view/director-of-product-management-%e2%80%93-digital-marketing-automotive-insights-remote-at-experian-4388700216": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 57,
+    "cyclesToday": 58,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
