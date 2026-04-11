@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-coordinator-computer-engineering-background-at-nucleus-ventures-4396458461": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-web3-ai-at-blockdelta-4394339655": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
-    "https://www.linkedin.com/jobs/view/live-chat-agent-operator-at-medical-marijuana-clinic-4392846881": 1,
     "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371969378": 1,
     "https://www.linkedin.com/jobs/view/lead-marketing-growth-operations-analyst-at-tebra-4383804214": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4392871019": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/partner-director-gsi%e2%80%99s-accenture-at-saviynt-4388510231": 1,
     "https://www.linkedin.com/jobs/view/konsultant-konsultantka-ds-ryzyka-psychospo%c5%82ecznego-w-organizacjach%c2%a0-at-eap24-employee-assistance-program-4400618284": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400690256": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-social-at-boulevard-4398190732": 1
+    "https://www.linkedin.com/jobs/view/media-manager-social-at-boulevard-4398190732": 1,
+    "https://www.linkedin.com/jobs/view/big-data-operations-engineer-at-temu-4398766040": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-lumicity-4398734977": 1,
+    "https://www.linkedin.com/jobs/view/graduate-marketing-analyst-aso-executive-at-the-opportunity-hub-uk-4399071059": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-100%25-remote-at-tether-io-4359447384": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
