@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/local-consultant-at-globalicious-4396492498": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91cx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e2%97%86zendesk%e3%83%91%e3%83%bc%e3%83%88%e3%83%8a%e3%83%bc5%e5%b9%b4%e9%80%a3%e7%b6%9a%e9%81%b8%e5%87%ba%ef%bc%8f%e5%a4%a7%e6%89%8b%e5%a4%9a%e6%95%b0%e6%94%af%e6%8f%b4%e5%ae%9f%e7%b8%be%e5%a4%9a%e6%95%b0%e2%97%8e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4394320651": 1,
     "https://www.linkedin.com/jobs/view/global-sales-enablement-leader-at-wellhub-4382829330": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-unite-us-4382473981": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-fossa-4398187093": 1,
     "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377986850": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-technology-at-luxury-presence-4378237733": 1,
-    "https://www.linkedin.com/jobs/view/navitaire-consultant-at-forcecraver-technologies-4398755196": 1
+    "https://www.linkedin.com/jobs/view/navitaire-consultant-at-forcecraver-technologies-4398755196": 1,
+    "https://www.linkedin.com/jobs/view/senior-programs-and-business-operations-lead-monthly-stays-at-airbnb-4388551524": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
