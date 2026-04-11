@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-quereinstieg-m%c3%b6glich-%c2%b7-flexible-arbeitszeiten-at-convit-central-gmbh-4392894065": 1,
     "https://www.linkedin.com/jobs/view/berater-finanzstrategie-quereinstieg-m%c3%b6glich-%c2%b7-10%e2%80%93100-%25-%c2%b7-fixum-%2b-boni-at-convit-central-gmbh-4392878682": 1,
     "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-ohne-erfahrung-%c2%b7-10%e2%80%9360-%25-%c2%b7-homeoffice-at-convit-central-gmbh-4392881546": 1,
     "https://www.linkedin.com/jobs/view/berater-finanzstrategie-quereinstieg-m%c3%b6glich-%c2%b7-ote-bis-7-500-chf-at-convit-central-gmbh-4392890368": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400691240": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-sales-enablement-at-stackadapt-4388234899": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-great-lakes-at-blueprint-medicines-4379231363": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-veracity-insurance-solutions-llc-4379203819": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-veracity-insurance-solutions-llc-4379203819": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-%c2%a350k-%2b-0-5%25-equity-at-meshedcover-com-at-jack-jill-4400928711": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
