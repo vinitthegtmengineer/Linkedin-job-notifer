@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-insight-global-4392484054": 1,
     "https://www.linkedin.com/jobs/view/senior-amazon-consultant-100%25-remote-at-atlas-operations-4396460153": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-at-complexio-4394398088": 1,
     "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-manos-software-group-4388179192": 1,
     "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377995578": 1,
     "https://www.linkedin.com/jobs/view/entry-level-process-engineer-at-united-consulting-hub-4400579392": 1,
-    "https://www.linkedin.com/jobs/view/brand-operations-manager-at-holistic-industries-4400632819": 1
+    "https://www.linkedin.com/jobs/view/brand-operations-manager-at-holistic-industries-4400632819": 1,
+    "https://www.linkedin.com/jobs/view/partner-director-gsi%e2%80%99s-accenture-at-saviynt-4388510231": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-11",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
