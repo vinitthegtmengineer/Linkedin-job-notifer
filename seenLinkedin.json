@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-marketing-specialist-at-castor-4392898773": 1,
-    "https://www.linkedin.com/jobs/view/director-services-operations-planning-at-rithum-4395200790": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1,
     "https://www.linkedin.com/jobs/view/partner-manager-at-square-4396774002": 1,
     "https://www.linkedin.com/jobs/view/campaigns-community-coordinator-at-hue-4372650447": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-secured-approach-4393487084": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-growth-manager-organic-strategy-4400998445": 1,
     "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399106318": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineering-at-yc-bench-4400994839": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400994779": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400994779": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400997694": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-tj-1837306-at-agay-barho%21-4400979605": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-holland-oil-partners-llc-4399105364": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
