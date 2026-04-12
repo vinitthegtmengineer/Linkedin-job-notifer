@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-hybrid-homeoffice-%c2%b7-flexible-arbeitszeiten-at-convit-central-gmbh-4392873805": 1,
-    "https://www.linkedin.com/jobs/view/berater-altersvorsorge-hybrid-homeoffice-%c2%b7-festanstellung-at-convit-central-gmbh-4393085099": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395286701": 1,
-    "https://www.linkedin.com/jobs/view/berater-3a-3b-junior-%c2%b7-mentoring-tools-at-convit-central-gmbh-4393064965": 1,
-    "https://www.linkedin.com/jobs/view/berater-budget-planung-teilzeit-nebenjob-%c2%b7-mentoring-tools-at-convit-central-gmbh-4392872797": 1,
-    "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-homeoffice-m%c3%b6glich-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4392880637": 1,
-    "https://www.linkedin.com/jobs/view/consultant-finanzen-vorsorge-teilzeit-nebenjob-%c2%b7-festanstellung-at-convit-central-gmbh-4392880653": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395282808": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395280946": 1,
-    "https://www.linkedin.com/jobs/view/model-builders-architects-at-jobs-via-dice-4393465481": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e4%b8%ad%e5%bf%83%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e7%8b%ac%e8%87%aa%e3%81%ae%e5%8d%a0%e3%81%84%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%82%92%e5%b1%95%e9%96%8b%e3%81%99%e3%82%8b%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e4%b8%8a%e5%a0%b4%e4%bc%81%e6%a5%ad%e2%97%86%e5%83%8d%e3%81%8d%e3%82%84%e3%81%99%e3%81%95%e3%81%8c%e9%ad%85%e5%8a%9b%e2%97%86-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4395222873": 1,
     "https://www.linkedin.com/jobs/view/director-channel-operations-and-enablement-at-paylocity-4384518426": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-toothlens-4393408794": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4399356952": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400975029": 1,
     "https://www.linkedin.com/jobs/view/event-operations-coordinator-logistics-management-philippines-remote-at-growthassistant-4400953778": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketplaces-manager-at-manscaped-4379226021": 1
+    "https://www.linkedin.com/jobs/view/senior-marketplaces-manager-at-manscaped-4379226021": 1,
+    "https://www.linkedin.com/jobs/view/lead-digital-marketing-manager-paid-media-at-applied-systems-4377928490": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-northeast-at-nutrabolt-4400991065": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-organic-food-cpg-grocery-retail-at-mediabistro-4399363776": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-manager-at-bracco-imaging-4360985269": 1,
+    "https://www.linkedin.com/jobs/view/territory-account-manager-il-at-agero-inc-4378675391": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-regional-marketing-emea-central-at-elastic-4362863081": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-europe-at-cytiva-4388581304": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-korean-speaker-at-maf-4399365265": 1,
+    "https://www.linkedin.com/jobs/view/key-account-manager-germany-fmcg-at-zuru-edge-4398789404": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304474049": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
