@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4392818519": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-continental-carbonic-products-a-matheson-company-4394671825": 1,
     "https://www.linkedin.com/jobs/view/principal-ml-ops-engineer-at-pragmatike-4394648913": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-specialist-at-runware-4394672600": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-handel-all-genders-at-adesso-se-4171757453": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-4398761541": 1,
     "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
-    "https://www.linkedin.com/jobs/view/ai-corporate-consultant-pre-sales-at-futurescale-digital-technology-4398773903": 1
+    "https://www.linkedin.com/jobs/view/ai-corporate-consultant-pre-sales-at-futurescale-digital-technology-4398773903": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-jobs-ai-4400923920": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
