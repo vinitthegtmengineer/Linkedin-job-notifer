@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395290676": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395288654": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395296261": 1,
-    "https://www.linkedin.com/jobs/view/technologyone-techone-p-r-consultant-at-private-company-4393076955": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-fully-remote-eu-top-growing-ai-scaleup%21-profitable-at-opus-recruitment-solutions-4397043545": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393428650": 1,
-    "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-enablement-at-lucidlink-4397053032": 1,
     "https://www.linkedin.com/jobs/view/sales-and-partner-enablement-lead-at-jobgether-4393099825": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-and-growth-at-ldx-digital-4395358414": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4400999944": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineering-at-yc-bench-4401016189": 1,
     "https://www.linkedin.com/jobs/view/educational-content-strategist-at-dale-workforce-solutions-4399102471": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-confluence-management-consulting-4399108451": 1
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-confluence-management-consulting-4399108451": 1,
+    "https://www.linkedin.com/jobs/view/consultant-v-for-national-channel-strategy-at-national-association-of-latino-healthcare-executives-4400989341": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-vmware-cloud-foundation-m-w-d-at-medialine-group-4399389007": 1,
+    "https://www.linkedin.com/jobs/view/matem%c3%a1tico-consultor-at-cyti-4386777046": 1,
+    "https://www.linkedin.com/jobs/view/konzultant-ka-pro-oblast-p%c5%99%c3%adm%c3%bdch-dan%c3%ad-at-pwc-czech-republic-4322202314": 1,
+    "https://www.linkedin.com/jobs/view/consultant-handel-und-omni-channel-commerce-all-genders-at-adesso-se-4203241545": 1,
+    "https://www.linkedin.com/jobs/view/consultant-principal-ou-consultante-principale-fabrication-et-production-microsoft-d365-f-o-at-alithya-4398969456": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-sales-northeast-at-trubridge-4400996587": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 54,
+    "cyclesToday": 55,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
