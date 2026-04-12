@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/staff-engineer-%e2%80%93-gtm-ai-at-tria-tech-network-4393038078": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-zygo-people-4395320732": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-esp-utilities-group-ltd-4395341000": 1,
     "https://www.linkedin.com/jobs/view/solar-operations-engineer-at-oxbo-4383721125": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-social-reputation-at-airbnb-4395324356": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4399374913": 1,
     "https://www.linkedin.com/jobs/view/social-media-strategist-at-exl-4398758542": 1,
     "https://www.linkedin.com/jobs/view/area-director-of-marketing-hawaii-locations-at-pm-hotel-group-4356568109": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-manager-at-enzo-4398785964": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-manager-at-enzo-4398785964": 1,
+    "https://www.linkedin.com/jobs/view/sr-vp-global-marketing-at-myriad-genetics-4359172144": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401005222": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
