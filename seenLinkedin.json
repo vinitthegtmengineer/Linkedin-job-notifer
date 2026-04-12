@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-cold-chain-engineer-at-planet-pharma-4392891467": 1,
-    "https://www.linkedin.com/jobs/view/ssd-engineer-at-biblioso-4393052193": 1,
-    "https://www.linkedin.com/jobs/view/pie-engineer-at-boyd-4181161994": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-midnight-foundation-at-input-output-group-4365303997": 1,
-    "https://www.linkedin.com/jobs/view/senior-cloud-engineer-at-pragmatike-4394661276": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-ardanis-4394677612": 1,
     "https://www.linkedin.com/jobs/view/engineering-content-contributor-%e2%80%93-graduate-level-%2460-hr-remote-at-crossing-hurdles-4392873858": 1,
     "https://www.linkedin.com/jobs/view/mid-senior-marketing-executive-remote-%f0%9f%9a%80-at-burst-digital-4394961057": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/partnership-sales-director-higher-ed-at-partner-in-publishing-4398775065": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-ops-manager-at-deel-4383958052": 1,
     "https://www.linkedin.com/jobs/view/b2b-marketing-manager-at-viva-talent-4400916994": 1,
-    "https://www.linkedin.com/jobs/view/lead-recruiter-gtm-at-charlie-health-4325656166": 1
+    "https://www.linkedin.com/jobs/view/lead-recruiter-gtm-at-charlie-health-4325656166": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400960651": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400966400": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400967252": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400952954": 1,
+    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400961612": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
