@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-quereinstieg-m%c3%b6glich-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4393087023": 1,
-    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-qatar-at-bitget-4381947617": 1,
-    "https://www.linkedin.com/jobs/view/web3-campaign-growth-operator-at-ever-trade-option-4394991686": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%9c%a8%e5%ae%85%e5%8f%af%e3%80%91erp%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%8f40%e4%bb%a3%e6%b4%bb%e8%ba%8d%e4%b8%ad%e2%97%8e%e5%b9%b3%e5%9d%87%e6%ae%8b%e6%a5%ad10h%e6%9c%aa%e6%ba%80%ef%bc%8f%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%a1%88%e4%bb%b6%e6%9c%89%ef%bc%8f%e5%89%8d%e5%b9%b4%e5%8f%8eup%e3%82%aa%e3%83%95%e3%82%a1%e3%83%bc-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4395238142": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-follett-software-4393038484": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4393027357": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4393015959": 1,
-    "https://www.linkedin.com/jobs/view/mlops-engineer-relocation-to-serbia-at-akvelon-inc-4396672227": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-avenue-code-4328241412": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396472323": 1,
     "https://www.linkedin.com/jobs/view/executive-account-operators-brasil-at-inlaze-4393092948": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-ibm-4396760423": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-at-omnissa-4369836057": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-%e2%80%93-vinyl-flooring-europe-at-ado-group-4400971557": 1,
     "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400978650": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-operations-new-york-at-metropolis-technologies-4369777163": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-operations-new-york-at-metropolis-technologies-4369777163": 1,
+    "https://www.linkedin.com/jobs/view/anaplan-consultant-remote-portugal-at-match-profiler-4400983762": 1,
+    "https://www.linkedin.com/jobs/view/consultant-smart-plan-credential-discovery-transfer-remote-anywhere-in-the-us-at-mygwork-lgbtq%2b-business-community-4399373008": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-monopoly-go%21-at-scopely-4369767691": 1,
+    "https://www.linkedin.com/jobs/view/analytics-engineer-5-media-science-data-science-engineering-at-netflix-4348571084": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-at-omnissa-4369822398": 1,
+    "https://www.linkedin.com/jobs/view/community-engagement-manager-los-angeles-at-lime-4381086235": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-lagos-4398785858": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
