@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-a-servicenow-at-dxc-technology-4383263101": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395294379": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395276953": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395290676": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395288654": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399120201": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-catapult-solutions-group-4399110344": 1,
     "https://www.linkedin.com/jobs/view/current-nemt-operator-broker-or-dispatcher-experience-with-routingbox-at-twocents-4400999952": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4400999944": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4400999944": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineering-at-yc-bench-4401016189": 1,
+    "https://www.linkedin.com/jobs/view/educational-content-strategist-at-dale-workforce-solutions-4399102471": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 51,
+    "cyclesToday": 52,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
