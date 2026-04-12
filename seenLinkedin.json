@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4372858527": 1,
-    "https://www.linkedin.com/jobs/view/creative-operations-supervisor-at-codeword-4383258055": 1,
-    "https://www.linkedin.com/jobs/view/regulatory-lead-operator-at-wing-4366763507": 1,
-    "https://www.linkedin.com/jobs/view/berater-verm%c3%b6gensaufbau-ohne-erfahrung-%c2%b7-flexible-arbeitszeiten-at-convit-central-gmbh-4393067758": 1,
     "https://www.linkedin.com/jobs/view/berater-finanzstrategie-homeoffice-m%c3%b6glich-%c2%b7-10%e2%80%93100-%25-%c2%b7-fixum-%2b-boni-at-convit-central-gmbh-4393075400": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-commercial-excellence-at-prominence-advisors-4394960000": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-kastech-software-solutions-group-4392883911": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineer-at-yc-bench-4400989734": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-oliver-the-brandtech-group-4315499663": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399111038": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400991638": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400991638": 1,
+    "https://www.linkedin.com/jobs/view/country-heads-sales-%e2%80%93-global-markets-ai-powered-tech-talent-startup-at-skillscapital-4398790289": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-executive-at-compute-forecast-4399021572": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-3search-4395152894": 1,
+    "https://www.linkedin.com/jobs/view/associate-social-media-manager-at-meridianlink-4388749115": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
