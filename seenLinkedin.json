@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396472323": 1,
-    "https://www.linkedin.com/jobs/view/executive-account-operators-brasil-at-inlaze-4393092948": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-ibm-4396760423": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-gotocatalyst-4354043876": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-sponsoring-partenariats-freelance-at-plan-p-vos-finances-%c3%a0-360%c2%b0-4396938078": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-accountancy-action-your-specialist-finance-recruitment-partner-4394674288": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/community-engagement-manager-los-angeles-at-lime-4381086235": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-lagos-4398785858": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1,
+    "https://www.linkedin.com/jobs/view/secops-engineer-at-great-value-hiring-4398790790": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-fanos-4400992370": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-uva-wellassa-university-badulla-4398795723": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
