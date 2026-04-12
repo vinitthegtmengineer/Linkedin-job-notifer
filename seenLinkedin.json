@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-gtm-engineering-department-founder-at-bx-studio-4396647337": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-engineering-department-founder-at-bx-studio-4396636273": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-bx-studio-4396653113": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-bx-studio-4396642778": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-nexabyte-4396233988": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/transportation-project-engineer-at-michael-baker-international-4385774298": 1,
     "https://www.linkedin.com/jobs/view/project-design-engineering-manager-remote-at-enersys-4388529500": 1,
     "https://www.linkedin.com/jobs/view/coach-consulant-4398790189": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-seattle-at-giga-4363550599": 1
+    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-seattle-at-giga-4363550599": 1,
+    "https://www.linkedin.com/jobs/view/energy-storage-engineering-service-operations-data-systems-sales-security-roles-%e2%80%94-sungrow-remote-at-women-in-cleantech-and-sustainability-4399342391": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592391": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
