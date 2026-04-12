@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-finanzstrategie-homeoffice-m%c3%b6glich-%c2%b7-ote-bis-7-500-chf-at-convit-central-gmbh-4393066790": 1,
-    "https://www.linkedin.com/jobs/view/consultant-finance-%e2%80%93-t%c3%a9l%c3%a9travail-possible-at-convit-central-gmbh-4393086093": 1,
     "https://www.linkedin.com/jobs/view/consultor-a-servicenow-at-dxc-technology-4383263101": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395294379": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395276953": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/senior-community-marketing-manager-accountants-at-gusto-4370123099": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-chem-pharma-at-gea-group-4399120204": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399120201": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-catapult-solutions-group-4399110344": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-catapult-solutions-group-4399110344": 1,
+    "https://www.linkedin.com/jobs/view/current-nemt-operator-broker-or-dispatcher-experience-with-routingbox-at-twocents-4400999952": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4400999944": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
