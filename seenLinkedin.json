@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-native-builder-at-neon-4393048157": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-techshack-4394638909": 1,
-    "https://www.linkedin.com/jobs/view/sr-ecommerce-engineer-at-tactacam-4374113489": 1,
-    "https://www.linkedin.com/jobs/view/engineering-selling-solutions-director-at-randstad-usa-4392467907": 1,
     "https://www.linkedin.com/jobs/view/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-inspline-4392818519": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-continental-carbonic-products-a-matheson-company-4394671825": 1,
     "https://www.linkedin.com/jobs/view/principal-ml-ops-engineer-at-pragmatike-4394648913": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/associate-director-marketing-operations-at-ionis-pharmaceuticals-inc-4399320030": 1,
     "https://www.linkedin.com/jobs/view/senior-event-marketing-manager-emea-at-bloomreach-4378396457": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-consultant-at-autotrader-ca-4361060223": 1,
-    "https://www.linkedin.com/jobs/view/event-coordinator-at-teneo-hospitality-group-4398753180": 1
+    "https://www.linkedin.com/jobs/view/event-coordinator-at-teneo-hospitality-group-4398753180": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-handel-all-genders-at-adesso-se-4171757453": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-4398761541": 1,
+    "https://www.linkedin.com/jobs/view/saas-operations-engineer-at-stripe-4345465410": 1,
+    "https://www.linkedin.com/jobs/view/ai-corporate-consultant-pre-sales-at-futurescale-digital-technology-4398773903": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
