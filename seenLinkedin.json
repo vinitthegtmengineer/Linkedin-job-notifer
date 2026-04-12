@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-3a-3b-quereinstieg-m%c3%b6glich-at-convit-central-gmbh-4393069637": 1,
     "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-quereinstieg-m%c3%b6glich-%c2%b7-karrierewechsel-willkommen-at-convit-central-gmbh-4393087023": 1,
     "https://www.linkedin.com/jobs/view/bitget-builder-part-time-qatar-at-bitget-4381947617": 1,
     "https://www.linkedin.com/jobs/view/web3-campaign-growth-operator-at-ever-trade-option-4394991686": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-fanos-4400969946": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-at-omnissa-4369836057": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-%e2%80%93-vinyl-flooring-europe-at-ado-group-4400971557": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400978650": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400978650": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-operations-new-york-at-metropolis-technologies-4369777163": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-12",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
