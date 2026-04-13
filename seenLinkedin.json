@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-organic-growth-at-jobgether-4393467589": 1,
     "https://www.linkedin.com/jobs/view/home-based-salesforce-administrative-support-specialist-at-dcx-ph-inc-4393416412": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
     "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-remote-at-crossing-hurdles-4384178517": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-datasite-4364003365": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-dijitally-4398789408": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketplace-at-staples-4400975868": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-remotehunter-4399119284": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-remotehunter-4399119284": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-holland-oil-partners-llc-4399104690": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
