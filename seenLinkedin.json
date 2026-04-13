@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-revenue-enablement-at-lucidlink-4397053032": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-partner-enablement-lead-at-jobgether-4393099825": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-and-growth-at-ldx-digital-4395358414": 1,
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4393488437": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-livingston-international-4393079785": 1,
-    "https://www.linkedin.com/jobs/view/head-of-technology-transformation-full-stack-builder-at-workleap-4395356646": 1,
-    "https://www.linkedin.com/jobs/view/senior-adyen-engineer-at-genius-match-4397080107": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-sustainability-at-tate-4371269575": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-007-742-at-hunt-st-4395338159": 1,
-    "https://www.linkedin.com/jobs/view/marketing-admin-at-koin-limited-4395298233": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-communications-coordinator-at-independent-insurance-agents-and-brokers-of-america-4394930581": 1,
     "https://www.linkedin.com/jobs/view/director-of-organic-growth-at-jobgether-4393467589": 1,
     "https://www.linkedin.com/jobs/view/home-based-salesforce-administrative-support-specialist-at-dcx-ph-inc-4393416412": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/konzultant-ka-pro-oblast-p%c5%99%c3%adm%c3%bdch-dan%c3%ad-at-pwc-czech-republic-4322202314": 1,
     "https://www.linkedin.com/jobs/view/consultant-handel-und-omni-channel-commerce-all-genders-at-adesso-se-4203241545": 1,
     "https://www.linkedin.com/jobs/view/consultant-principal-ou-consultante-principale-fabrication-et-production-microsoft-d365-f-o-at-alithya-4398969456": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-sales-northeast-at-trubridge-4400996587": 1
+    "https://www.linkedin.com/jobs/view/regional-vice-president-sales-northeast-at-trubridge-4400996587": 1,
+    "https://www.linkedin.com/jobs/view/sage-100-consultant-at-rand-group-4399106488": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-remotehunter-4399103462": 1,
+    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-gusto-4379256472": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-us-at-mon%c5%8d-ai-4399118188": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-executive-revenue-gtm-at-actively-ai-4369728391": 1,
+    "https://www.linkedin.com/jobs/view/head-of-enterprise-gtm-%e2%80%93-shelby-platform-at-aptos-labs-4399120148": 1,
+    "https://www.linkedin.com/jobs/view/outbound-campaign-manager-at-transcend-consulting-4400947153": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-datasite-4364003365": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-dijitally-4398789408": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketplace-at-staples-4400975868": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-remotehunter-4399119284": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-04-12",
-    "cyclesToday": 55,
+    "date": "2026-04-13",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
