@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-info-way-solutions-4395352477": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393488820": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-xsolla-4397166497": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-baku-at-xsolla-4397171496": 1,
-    "https://www.linkedin.com/jobs/view/vp-segment-sales-americas-at-energy-exemplar-4395337540": 1,
-    "https://www.linkedin.com/jobs/view/digital-and-marketing-manager-at-haystack-4395334552": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-bitget-4395228742": 1,
     "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4396951720": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-music-remote-at-twine-4397073203": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-archerreview-4395265548": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401034617": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4399146209": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-employer-branding-manager-at-sie-group-4399395833": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-employer-branding-manager-at-sie-group-4399395833": 1,
+    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4401040606": 1,
+    "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-scout-global-4398671937": 1,
+    "https://www.linkedin.com/jobs/view/founding-channel-account-manager-at-scout-global-4388082857": 1,
+    "https://www.linkedin.com/jobs/view/growth-executive-sales-marketing-at-eola-4400522630": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-world-trippin-media-4399136505": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4399147491": 1,
+    "https://www.linkedin.com/jobs/view/commercial-strategy-director-at-lime-talent-4399512244": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
