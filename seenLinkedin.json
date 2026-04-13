@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/full-stack-builder-at-highlevel-4382799571": 1,
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4320734663": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-leader-at-databricks-4343969602": 1,
-    "https://www.linkedin.com/jobs/view/onboarding-consultant-india-remote-at-turnitin-4397195460": 1,
-    "https://www.linkedin.com/jobs/view/devops-engineer-telco-operations-at-zoom-4384803288": 1,
-    "https://www.linkedin.com/jobs/view/paid-marketing-ppc-executive-manager-at-carousel-consultancy-ltd-4393856564": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
-    "https://www.linkedin.com/jobs/view/revenue-enablement-consultant-at-salsify-4393489960": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393847605": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4393840623": 1,
     "https://www.linkedin.com/jobs/view/seeking-an-exceptional-technical-builder-at-reink-publications-executive-authority-programme-4396575811": 1,
     "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4395384996": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401068776": 1,
     "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-the-worthy-studio-4399608791": 1,
-    "https://www.linkedin.com/jobs/view/senior-creative-strategist-at-jobgether-4399137346": 1
+    "https://www.linkedin.com/jobs/view/senior-creative-strategist-at-jobgether-4399137346": 1,
+    "https://www.linkedin.com/jobs/view/temenos-senior-consultant-at-test-yantra-4399641067": 1,
+    "https://www.linkedin.com/jobs/view/principal-engineer-packaging-engineering-at-sandisk-4401082987": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-developer-colombia-at-evaluar-4401094017": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-ai-saas-aec-tech-at-3i-people-4399621814": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-%e2%80%93-the-card-payments-awards-at-the-card-payments-awards-4401303125": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401087617": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401301009": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-email-marketing-manager-at-core-covers-4401091340": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-pdac-at-jobgether-4399138822": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
