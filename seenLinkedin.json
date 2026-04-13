@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4393840623": 1,
-    "https://www.linkedin.com/jobs/view/seeking-an-exceptional-technical-builder-at-reink-publications-executive-authority-programme-4396575811": 1,
-    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4395384996": 1,
-    "https://www.linkedin.com/jobs/view/programador-senior-data-engineering-at-inetum-4271052498": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-store-efficiency-at-foot-locker-4382741150": 1,
     "https://www.linkedin.com/jobs/view/associate-engineer-2-at-boyd-4339123011": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4393807948": 1,
     "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4394898630": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401087617": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401301009": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-email-marketing-manager-at-core-covers-4401091340": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-pdac-at-jobgether-4399138822": 1
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-pdac-at-jobgether-4399138822": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4399635154": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4399631696": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-futran-solutions-4401095805": 1,
+    "https://www.linkedin.com/jobs/view/partner-marketing-specialist-at-wiz-4399530606": 1,
+    "https://www.linkedin.com/jobs/view/marketing-leader-at-anthony-s-goods-4399651071": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
