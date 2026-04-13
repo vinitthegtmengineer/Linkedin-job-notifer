@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397316376": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397311711": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397308800": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397308812": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397328061": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-playsmol-4400002425": 1,
     "https://www.linkedin.com/jobs/view/vice-president-strategy-at-aspen-hill-club-4401395467": 1,
     "https://www.linkedin.com/jobs/view/head-of-sales-alliances-americas-at-sios-technology-corp-4399683933": 1,
-    "https://www.linkedin.com/jobs/view/llm-rl-engineer-at-yc-bench-4401506088": 1
+    "https://www.linkedin.com/jobs/view/llm-rl-engineer-at-yc-bench-4401506088": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-square-4399575256": 1,
+    "https://www.linkedin.com/jobs/view/growth-strategy-lead-at-hatch-4399663284": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
