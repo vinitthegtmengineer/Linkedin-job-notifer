@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/paid-channels-marketing-manager-at-harvest-hosts-4397068525": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393804280": 1,
-    "https://www.linkedin.com/jobs/view/controller-operator-first-high-growth-startups-100%25-remote-at-b-consulting-4395396984": 1,
-    "https://www.linkedin.com/jobs/view/consultant-finance-%e2%80%93-t%c3%a9l%c3%a9travail-possible-at-convit-central-gmbh-4393086092": 1,
-    "https://www.linkedin.com/jobs/view/berater-sparen-vorsorge-ohne-erfahrung-%c2%b7-festanstellung-at-convit-central-gmbh-4393087024": 1,
     "https://www.linkedin.com/jobs/view/slate-communications-email-builder-at-carnegie-4395700838": 1,
     "https://www.linkedin.com/jobs/view/chief-executive-assistant-marketing-growth-focus-at-squared-away-4395372764": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-jobgether-4393800370": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%a1%e3%82%a4%e3%83%b3%e3%80%91google-cloud%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e5%9f%ba%e7%9b%a4%e8%a8%ad%e8%a8%88%e3%83%bb%e9%81%8b%e7%94%a8%e3%81%aa%e3%81%a9%e2%97%86%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e5%9c%9f%e6%97%a5%e4%bc%91-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4401022796": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-executive-at-incrementumx-4399148163": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sellioiq-4399379920": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-mexc-4386066193": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-mexc-4386066193": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-qalyup-4401033514": 1,
+    "https://www.linkedin.com/jobs/view/security-and-threat-operations-engineer-at-jobgether-4399154289": 1,
+    "https://www.linkedin.com/jobs/view/genai-engineer-project-based-ref-az6as-at-rsight%c2%ae-4335484822": 1,
+    "https://www.linkedin.com/jobs/view/genai-engineer-project-based-ref-az6as-at-rsight%c2%ae-4335444998": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-4399152031": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
