@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-b2b-list-builder-ai-personalization-specialist-at-heavn-media-4396964051": 1,
-    "https://www.linkedin.com/jobs/view/growth-specialist-gtm-at-hirexe-4395270823": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-2x-4378539250": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-paralleldots-4395342379": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-mews-4397045277": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-or-ai-engineer-at-sagan-recruitment-4397152500": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-revenue-intelligence-gtm-analytics-at-oro-labs-4397041588": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-isv-partnerships-gtm-at-polyai-4394666426": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-operations-at-diligent-4395222606": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-technology-operations-at-fleetio-4395723300": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-lead-gtm-at-block-4397075284": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-msp-talent-bridge-ltd-4395340219": 1,
     "https://www.linkedin.com/jobs/view/remote-campaign-manager-google-certified-%2b-dv360-specialist-at-executiveplacements-com-4393091527": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-azira-4395379461": 1,
     "https://www.linkedin.com/jobs/view/research-and-data-executive-digital-marketing-at-carousel-consultancy-ltd-4393488766": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/%f0%9f%8e%a5-social-media-manager-%e2%80%94-tiktok-instagram-at-wcrew-4399513320": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399144673": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-bingx-4399154623": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-growth-operations-at-succeed-recruitment-solutions-4401053435": 1
+    "https://www.linkedin.com/jobs/view/head-of-marketing-growth-operations-at-succeed-recruitment-solutions-4401053435": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401058400": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401054527": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401053587": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401050673": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401064102": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401050660": 1,
+    "https://www.linkedin.com/jobs/view/resume-review-operator-ai-enabled-at-jobhire-ai-4401046797": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-content-manager-execution-%2b-systems-builder-4399520361": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401050720": 1,
+    "https://www.linkedin.com/jobs/view/head-of-business-development-at-jobgether-4399159441": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-for-a-marketing-agency-us-based-remote-at-paired-4399504449": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-performance-marketing-subscription-apps-at-fabulous-4401049358": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
