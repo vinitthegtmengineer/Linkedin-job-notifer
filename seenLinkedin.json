@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/svp-revenue-operations-and-commercial-strategy-at-jobgether-4397524490": 1,
-    "https://www.linkedin.com/jobs/view/work-from-home-digital-sales-marketing-executive-at-parami-phyae-phat-4396059696": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-magnet-4396067869": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-sdr-at-huzzle-com-4397050796": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4397521806": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396011718": 1,
     "https://www.linkedin.com/jobs/view/operatore-mezzi-speciali-at-ricercamy-srl-4396555315": 1,
     "https://www.linkedin.com/jobs/view/demo-trainer-sr-consultant-at-primepathway-4396074268": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395283776": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sales-engineer-at-calderys-4401065482": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401051859": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399165269": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399165269": 1,
+    "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-taskus-4376292238": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401056926": 1,
+    "https://www.linkedin.com/jobs/view/partner-director-emea-at-qad-4336056001": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-at-jobgether-4399190465": 1,
+    "https://www.linkedin.com/jobs/view/social-marketing-executive-at-battle-cancer-4399537045": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
