@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-native-full-stack-engineering-product-builder-at-diggi-growth-4393858220": 1,
-    "https://www.linkedin.com/jobs/view/launch-engineer-at-harman-international-4397157954": 1,
-    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1,
-    "https://www.linkedin.com/jobs/view/metallurgist-process-engineer-at-molycop-4395329889": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-planergy-spend-management-4396592785": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-learn-it-4393843975": 1,
-    "https://www.linkedin.com/jobs/view/partner-marketing-manager-at-schoox-4397196654": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-brite-4393829142": 1,
     "https://www.linkedin.com/jobs/view/sales-director-revenue-operator-builder-at-sierra-talent-group-4396596674": 1,
     "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4397568329": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4399655453": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-sav-gc-gc-ms-confirm%c3%a9-e-at-ric-group-4401328003": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-executive-analyst-for-a-digital-growth-agency-at-avanzar-health-4399639536": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4399644684": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4399644684": 1,
+    "https://www.linkedin.com/jobs/view/founding-operator-intern-entrepreneur-in-residence-startup-helpothon-ai-powered-help-marketplace-type-remote-high-ownership-0%e2%80%93low-pay-%2b-high-upside-at-helpothon-4399181047": 1,
+    "https://www.linkedin.com/jobs/view/healthcare-marketing-operator-at-xpose-solutions-4399519471": 1,
+    "https://www.linkedin.com/jobs/view/staffing-independent-operator-at-atwork-group-4386391107": 1,
+    "https://www.linkedin.com/jobs/view/soc-engineer-m-w-d-at-glueckkanja-ag-4401324488": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineering-at-yc-bench-4401323678": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-account-manager-at-infobahn-softworld-inc-4401326697": 1,
+    "https://www.linkedin.com/jobs/view/director-lifecycle-marketing-at-andmore%c2%ae-4401323580": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
