@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/associate-engineer-2-at-boyd-4339123011": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4393807948": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4394898630": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-engineering-medical-device-at-kelly-science-engineering-technology-telecom-4387387525": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4395010216": 1,
-    "https://www.linkedin.com/jobs/view/value-engineering-director-remote-united-states-at-dynatrace-4396550947": 1,
     "https://www.linkedin.com/jobs/view/temenos-consultant-at-syscort-technologies-4397531838": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-decky-4395725409": 1,
     "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-siemens-4374097052": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4399631696": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-futran-solutions-4401095805": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-specialist-at-wiz-4399530606": 1,
-    "https://www.linkedin.com/jobs/view/marketing-leader-at-anthony-s-goods-4399651071": 1
+    "https://www.linkedin.com/jobs/view/marketing-leader-at-anthony-s-goods-4399651071": 1,
+    "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4401319012": 1,
+    "https://www.linkedin.com/jobs/view/dataiku-engineer-at-maganti-it-resources-llc-4399547756": 1,
+    "https://www.linkedin.com/jobs/view/app-engineer-kotlin-%3f%3f%3f%3f2-0-at-web3-tmg-4399637504": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-jobgether-4399646462": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4309687830": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-coordinator-at-fujifilm-healthcare-europe-4401306555": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
