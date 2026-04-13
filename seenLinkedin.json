@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-engineer-food-beverage-and-clean-process-nordics-at-watson-marlow-fluid-technology-solutions-4397059224": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-refrigeration-design-at-the-haskell-company-4356531520": 1,
-    "https://www.linkedin.com/jobs/view/director-commercial-enablement-direct-sales-and-partnership-motions-at-%c5%8dura-4383055086": 1,
-    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4375020315": 1,
-    "https://www.linkedin.com/jobs/view/founding-tiktok-shop-operator-us-based-at-soda-4397562469": 1,
     "https://www.linkedin.com/jobs/view/ai-native-full-stack-engineering-product-builder-at-diggi-growth-4393858220": 1,
     "https://www.linkedin.com/jobs/view/launch-engineer-at-harman-international-4397157954": 1,
     "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374363593": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/customer-success-engineer-at-cyberforce-global-4401303049": 1,
     "https://www.linkedin.com/jobs/view/senior-nice-cxone-engineer-at-miratech-4399654666": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401306753": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-vc-backed-saas-roles-%24200k%2b-ote-at-recruiterforceai-4401087830": 1
+    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-vc-backed-saas-roles-%24200k%2b-ote-at-recruiterforceai-4401087830": 1,
+    "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4399670017": 1,
+    "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4399655453": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-sav-gc-gc-ms-confirm%c3%a9-e-at-ric-group-4401328003": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-executive-analyst-for-a-digital-growth-agency-at-avanzar-health-4399639536": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4399644684": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
