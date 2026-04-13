@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393852564": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-bayforce-4397315418": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397320346": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397311712": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397324210": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/brand-director-%e2%80%94-snoozy-remote-at-snoozy-4401351604": 1,
     "https://www.linkedin.com/jobs/view/zscaler-engineer-zia-zpa-zdx-zcc-agent-are-a-must-at-spectraforce-4401364320": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-clerk-tech-4399698107": 1,
-    "https://www.linkedin.com/jobs/view/director-of-social-media-at-truheight-vitamins-4399674787": 1
+    "https://www.linkedin.com/jobs/view/director-of-social-media-at-truheight-vitamins-4399674787": 1,
+    "https://www.linkedin.com/jobs/view/experienced-robolter-operators-needed-at-thyssen-mining-4399559831": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-playsmol-4400002425": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
