@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operatore-mezzi-speciali-at-ricercamy-srl-4396555315": 1,
-    "https://www.linkedin.com/jobs/view/demo-trainer-sr-consultant-at-primepathway-4396074268": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4395283776": 1,
-    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-jobgether-4393481301": 1,
-    "https://www.linkedin.com/jobs/view/remote-ecommerce-operator-fresher-%7e10m-brand-house-of-balance-at-pickdi-4393850243": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4396576325": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sourcing-specialist-ii-at-pinterest-4396028030": 1,
-    "https://www.linkedin.com/jobs/view/toeroperateur-konsultant-at-highline-tours-travel-4397543567": 1,
     "https://www.linkedin.com/jobs/view/revops-analyst-with-hubspot-expertise-at-revinfinity-4397157526": 1,
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-jobgether-4393469545": 1,
     "https://www.linkedin.com/jobs/view/reservoir-engineer-operational-exploration-at-fervo-energy-4397516380": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/partner-director-emea-at-qad-4336056001": 1,
     "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-at-jobgether-4399190465": 1,
     "https://www.linkedin.com/jobs/view/social-marketing-executive-at-battle-cancer-4399537045": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-specialist-colombia-at-spotlight-media-4346355125": 1,
+    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4270250753": 1,
+    "https://www.linkedin.com/jobs/view/loyalty-consultants-with-talon-one-experience-at-kps-ag-4399176009": 1,
+    "https://www.linkedin.com/jobs/view/remote-booking-consultant-at-curator-compass-travel-4399539070": 1,
+    "https://www.linkedin.com/jobs/view/ia-engineer-at-kelea-4399188811": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partner-director-csps-apj-at-saviynt-4370133298": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401084108": 1,
+    "https://www.linkedin.com/jobs/view/community-social-media-manager-freelance-at-make-banking-for-creators-4399600791": 1,
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-madras-knights-4399194809": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
