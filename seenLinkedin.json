@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4396951720": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-music-remote-at-twine-4397073203": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-archerreview-4395265548": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-marketing-manager-at-steadman-hub-4396974556": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-full-time-intermediate-at-awerti-4395266347": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategy-social-director-at-jump-450-4377790571": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-b2b-kampagnen-m-w-d-100-%25-remote-at-jmvision-gmbh-4396968540": 1,
-    "https://www.linkedin.com/jobs/view/large-wallet-on-chain-operator-at-blockchain-event-centre-4395725895": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-builder-mindset-ai-first-delivery-full-ownership-pk-at-wizdaa-4397183126": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac-%e5%9c%a8%e5%ae%85%e5%8f%af%e3%80%91%e6%b6%88%e8%b2%bb%e8%b2%a1%e6%a5%ad%e7%95%8c%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e2%97%86%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9-%e8%8b%b1%e8%aa%9e%e5%8a%9b%e3%81%8c%e6%b4%bb%e3%81%8b%e3%81%9b%e3%82%8b-%e7%94%9f%e6%88%90ai%e6%b4%bb%e7%94%a8%ef%bc%9ccw%ef%bc%9e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4395239306": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-b2b-list-builder-ai-personalization-specialist-at-heavn-media-4396964051": 1,
     "https://www.linkedin.com/jobs/view/growth-specialist-gtm-at-hirexe-4395270823": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-2x-4378539250": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/growth-executive-sales-marketing-at-eola-4400522630": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-world-trippin-media-4399136505": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4399147491": 1,
-    "https://www.linkedin.com/jobs/view/commercial-strategy-director-at-lime-talent-4399512244": 1
+    "https://www.linkedin.com/jobs/view/commercial-strategy-director-at-lime-talent-4399512244": 1,
+    "https://www.linkedin.com/jobs/view/personal-assistant-executive-operator-at-voie-digital-4399520197": 1,
+    "https://www.linkedin.com/jobs/view/capital-transmission-trimmer-operator-union-ate-at-asplundh-tree-expert-llc-4401059058": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineering-agent-engineer-at-yc-bench-4401047665": 1,
+    "https://www.linkedin.com/jobs/view/spares-engineer-at-atexis-4401040685": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-%e2%80%93-leadership-sector-at-mindset-elysian-4401026270": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401039830": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%8e%a5-social-media-manager-%e2%80%94-tiktok-instagram-at-wcrew-4399513320": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399144673": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-bingx-4399154623": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-growth-operations-at-succeed-recruitment-solutions-4401053435": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
