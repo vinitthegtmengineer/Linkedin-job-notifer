@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/home-based-salesforce-administrative-support-specialist-at-dcx-ph-inc-4393416412": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-events-operations-manager-at-abnormal-ai-4373008988": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-remote-at-crossing-hurdles-4384178517": 1,
-    "https://www.linkedin.com/jobs/view/marketing-admin-latam-at-koin-limited-4395291682": 1,
-    "https://www.linkedin.com/jobs/view/vp-product-marketing-at-6sense-4387291681": 1,
-    "https://www.linkedin.com/jobs/view/site-operator-and-driver-4393064567": 1,
-    "https://www.linkedin.com/jobs/view/skid-steer-operator-at-quik-hire-staffing-4395363530": 1,
-    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4395310224": 1,
-    "https://www.linkedin.com/jobs/view/operator-i-utility-rms-nights-at-biospace-4395240576": 1,
-    "https://www.linkedin.com/jobs/view/loader-operator-dfw-at-quik-hire-staffing-4395354784": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-guardz-4394925653": 1,
     "https://www.linkedin.com/jobs/view/senior-global-campaign-manager-customers-at-okta-4396764354": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-executive-at-hyra-4395374050": 1,
     "https://www.linkedin.com/jobs/view/sr-digital-marketing-manager-organic-at-socure-4395205006": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-dijitally-4398789408": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketplace-at-staples-4400975868": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-remotehunter-4399119284": 1,
-    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-holland-oil-partners-llc-4399104690": 1
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-holland-oil-partners-llc-4399104690": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-sdr-at-polar-analytics-%f0%9f%90%bb%e2%80%8d%e2%9d%84%ef%b8%8f-4401013709": 1,
+    "https://www.linkedin.com/jobs/view/driver-operator-at-downer-4401009789": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400984407": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400973842": 1,
+    "https://www.linkedin.com/jobs/view/senior-quadient-inspire-engineer-at-tranzeal-incorporated-4390735387": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4400963427": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400988233": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4400958769": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400983477": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4400953907": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4399106375": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
