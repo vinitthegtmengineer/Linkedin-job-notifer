@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-at-grupo-allpa-4393497352": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-ethos-software-4397516230": 1,
-    "https://www.linkedin.com/jobs/view/sls-consultant-at-teamware-solutions-4396073357": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-coda-at-superhuman-4397036824": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-and-planning-analyst-at-remotehunter-4397181222": 1,
-    "https://www.linkedin.com/jobs/view/alliance-lead-americas-at-ververica-original-creators-of-apache-flink%c2%ae-4397068281": 1,
-    "https://www.linkedin.com/jobs/view/svp-revenue-operations-and-commercial-strategy-at-onestream-software-4397154698": 1,
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-we-are-insurtech-women-4393475636": 1,
     "https://www.linkedin.com/jobs/view/sr-demand-generation-manager-at-blackthorn-4395348842": 1,
     "https://www.linkedin.com/jobs/view/sales-director-us-at-h-company-4366349788": 1,
     "https://www.linkedin.com/jobs/view/managing-principal-ai-driven-commercial-effectiveness-at-odaia-4395373098": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-accolades-at-forbes-4369969292": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-latamcent-4393263753": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-latamcent-4393215506": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-madras-knights-4399172056": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-madras-knights-4399172056": 1,
+    "https://www.linkedin.com/jobs/view/shape-your-future-of-consultancy-with-us-at-isg-international-service-group-4399519513": 1,
+    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-ukraine-at-bitget-4401066126": 1,
+    "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399118341": 1,
+    "https://www.linkedin.com/jobs/view/perception-engineer-remote-at-crossing-hurdles-4388687845": 1,
+    "https://www.linkedin.com/jobs/view/director-go-to-market-business-applications-remote-at-ladders-4399514639": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-executive-at-automation-consultants-4399511773": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4399169251": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-infatica-io-4401065194": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-13",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
