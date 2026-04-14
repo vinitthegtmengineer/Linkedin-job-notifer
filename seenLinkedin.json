@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-saint-kaizen-4397478055": 1,
-    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1,
-    "https://www.linkedin.com/jobs/view/sr-cyberark-iam-engineer-at-mondo-4397344055": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-agilegrid-solutions-4397459476": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397323416": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397320469": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397316530": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397318520": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397310884": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397326306": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397313763": 1,
     "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-snorkel-ai-4383169575": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/process-engineer-at-kelly-science-engineering-technology-telecom-4401102836": 1,
     "https://www.linkedin.com/jobs/view/strategic-scoring-consultant-at-jobgether-4400777699": 1,
     "https://www.linkedin.com/jobs/view/lead-operator-utilities-at-biospace-4401584368": 1,
-    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-prokatchers-llc-4402058477": 1
+    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-prokatchers-llc-4402058477": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4401132143": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402057789": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402066328": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067293": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067295": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402064407": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402070213": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-growth-marketing-content-at-neighborhoods-com-4402073050": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
