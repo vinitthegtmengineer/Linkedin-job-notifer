@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397575696": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397570997": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-senior-excellence-op%c3%a9rationnelle-at-julhiet-sterwen-4074851216": 1,
-    "https://www.linkedin.com/jobs/view/consulting-director-%e2%80%93-innosight-healthcare-provider-strategy-innovation-nationwide-at-huron-4347615988": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-process-engineer-at-oracle-4383166854": 1,
-    "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4393868871": 1,
-    "https://www.linkedin.com/jobs/view/turbine-operator-abilene-tx-at-oracle-4373734293": 1,
-    "https://www.linkedin.com/jobs/view/lead-operator-formulation-day-shift-at-biospace-4397421517": 1,
     "https://www.linkedin.com/jobs/view/tangible-assets-consultant-at-cfgi-4304181099": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397831292": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-hybrid-at-crossing-hurdles-4394244630": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/operador-online-at-filgud-studio-4399772397": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-futureplus-4401314949": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551444": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-tampa-fl-%234747-at-grail-4400794701": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389555137": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551443": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4402010129": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4401798664": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4401799506": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4401791834": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-media-account-manager-at-gutenberg-4399767830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
