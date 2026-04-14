@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385366601": 1,
-    "https://www.linkedin.com/jobs/view/computational-astronomy-engineer-remote-at-crossing-hurdles-4374364575": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-entry-level-at-united-consulting-hub-4397367208": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397356661": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393882951": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286650004": 1,
     "https://www.linkedin.com/jobs/view/production-technologist-engineer-mechanical-at-kuka-4401312110": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-managing-composites-4401393753": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401593629": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401593629": 1,
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-add-on-operations-at-jobgether-4399643781": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400702384": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
