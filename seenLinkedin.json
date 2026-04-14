@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-entry-level-at-united-consulting-hub-4397367208": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397356661": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4393882951": 1,
-    "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4393885828": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-inspired-interiors-4393891981": 1,
     "https://www.linkedin.com/jobs/view/b1-3-licensed-engineers-military-project-in-the-netherlands-at-wfs-pro-4376751714": 1,
     "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4397366287": 1,
     "https://www.linkedin.com/jobs/view/self-hosted-logscale-engineer-at-vailexa-4393880918": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-managing-composites-4401393753": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401593629": 1,
     "https://www.linkedin.com/jobs/view/staff-software-engineer-add-on-operations-at-jobgether-4399643781": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400702384": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400702384": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-senior-at-randstad-italia-4399725864": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-data-engineering-partner-at-tryhackme-4400708594": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-managing-composites-4401395695": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-jobgether-4400706529": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400705298": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
