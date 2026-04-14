@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397575700": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-jobgether-4393837331": 1,
-    "https://www.linkedin.com/jobs/view/marketing-associate-at-solace-4383531325": 1,
-    "https://www.linkedin.com/jobs/view/builder-architect-engineer-expert-consultant-part-time-contractor-at-brain-co-4397393968": 1,
-    "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397378581": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-storm2-4397302678": 1,
-    "https://www.linkedin.com/jobs/view/business-operations-specialist-at-wisp-4397403817": 1,
-    "https://www.linkedin.com/jobs/view/strategy-business-operations-lead-engineering-at-nextdeavor-4397812399": 1,
-    "https://www.linkedin.com/jobs/view/gn-t-o-%e2%80%93-consultant-hrt-at-accenture-in-india-4397568737": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-richmond-%234674-at-biospace-4396063679": 1,
-    "https://www.linkedin.com/jobs/view/nebenberuflicher-berater-m-w-d-4397362352": 1,
-    "https://www.linkedin.com/jobs/view/platform-consultant-at-magnet-forensics-4396015565": 1,
     "https://www.linkedin.com/jobs/view/consultant-fonctionnel-finance-d365-h-f-at-hso-4344410843": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-south-front-range-%234685-at-biospace-4396078092": 1,
     "https://www.linkedin.com/jobs/view/rent-a-car-consultant-with-german-and-english-work-remote-in-greece-at-mercier-consultancy-md-4397414749": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/internship-process-engineer-at-flowbrave-4397589692": 1,
     "https://www.linkedin.com/jobs/view/senior-machine-learning-ml-ops-engineer-at-bizmoni-the-next-gen-ai-super-app-4400765260": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-at-jobgether-4400753412": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4401768077": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4401768077": 1,
+    "https://www.linkedin.com/jobs/view/sideboom-operator-at-ogrc-ltd-4401769139": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4382124005": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389540802": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-engineering-fulltime-role-at-noblesoft-technologies-4400769356": 1,
+    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-imcs-group-4400771122": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-%c2%a350k-%2b-0-5%25-equity-at-meshedcover-com-at-jack-jill-4400750545": 1,
+    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4392082616": 1,
+    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-h-proof-4401741286": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-mappa-4400756196": 1,
+    "https://www.linkedin.com/jobs/view/social-media-creator-partnerships-manager-at-adfix-4401751062": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
