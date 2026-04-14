@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397326306": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397313763": 1,
     "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-snorkel-ai-4383169575": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402064407": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402070213": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-growth-marketing-content-at-neighborhoods-com-4402073050": 1
+    "https://www.linkedin.com/jobs/view/sr-manager-growth-marketing-content-at-neighborhoods-com-4402073050": 1,
+    "https://www.linkedin.com/jobs/view/builder-io-cms-migration-lead-ecommerce-manager-at-the-connors-group-4402048104": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
