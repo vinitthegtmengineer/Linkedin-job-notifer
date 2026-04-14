@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/skid-steer-operator-at-quik-hire-staffing-4397325450": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-german-speaker-at-clinisys-4358972831": 1,
     "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-freestar-4396060141": 1,
     "https://www.linkedin.com/jobs/view/implementation-engineer-philippines-at-chartbeat-4397336029": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4397523366": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-manager-marketing-operations-at-zerohash-4399565959": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-analyst-remote-work-from-anywhere-at-xapo-bank-4401371556": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-hr-solutions-at-jobgether-4399137008": 1,
-    "https://www.linkedin.com/jobs/view/engineering-sales-representative-at-ellsworth-adhesives-4401556165": 1
+    "https://www.linkedin.com/jobs/view/engineering-sales-representative-at-ellsworth-adhesives-4401556165": 1,
+    "https://www.linkedin.com/jobs/view/survey-instrument-operator-at-bowman-consulting-4399550811": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-wfg-at-transamerica-4400022953": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
