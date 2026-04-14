@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ejecutivo-a-comercial-%e2%80%93-prospecting-growth-at-marketers-by-adlatina-4397317983": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-french-speaking-at-vantage-4396571485": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-cyber-strategy-at-shi-international-corp-4397571931": 1,
-    "https://www.linkedin.com/jobs/view/gbs-marketing-business-development-executive-le-at-gartner-3973085860": 1,
-    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4397801760": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-fini-4393837558": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-logile-inc-4397373686": 1,
     "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4397422965": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/freelance-digital-marketing-executive-at-bwbmart-4401774589": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-make-me-local-4400789345": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-true-legacy-sports-marketing-4401765852": 1,
-    "https://www.linkedin.com/jobs/view/events-marketing-coordinator-at-happyco-4401780413": 1
+    "https://www.linkedin.com/jobs/view/events-marketing-coordinator-at-happyco-4401780413": 1,
+    "https://www.linkedin.com/jobs/view/crusher-operator-at-american-iron-metal-aim-4400788441": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558031": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558033": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389556166": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-inworld-ai-4360055693": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-make-me-local-4401799027": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
