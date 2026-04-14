@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-engineering-director-at-courier-4396023097": 1,
-    "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397375713": 1,
     "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397366934": 1,
     "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4393864886": 1,
     "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4393865807": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/mci-consultant-at-nielseniq-4400707779": 1,
     "https://www.linkedin.com/jobs/view/ai-systems-builder-at-confidential-4401507301": 1,
     "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-xcede-4400707823": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4401707893": 1
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4401707893": 1,
+    "https://www.linkedin.com/jobs/view/consultor-at-be-in-travel-portugal-4401587919": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-mitel-4399755099": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
