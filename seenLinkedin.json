@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397577598": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397576715": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sourceco-4397309600": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-gc-ai-4397581206": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-revops-consultant-at-braintrust-4397319806": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/1061-plc-engineer-at-intetics-4401732509": 1,
     "https://www.linkedin.com/jobs/view/quantum-platform-ops-engineer-at-aricoma-4400733178": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-tbi-communications-4401077393": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-marketing-at-digimarc-4401741238": 1
+    "https://www.linkedin.com/jobs/view/sr-director-of-marketing-at-digimarc-4401741238": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-data-engineering-partner-at-tryhackme-4400734495": 1,
+    "https://www.linkedin.com/jobs/view/crm-lifecycle-marketing-manager-at-finn-4401707763": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
