@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-lbc-mortgage-4396590267": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-administrator-lead-%e2%80%94-india-at-databahn-ai-4394200212": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330118": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4397350220": 1,
-    "https://www.linkedin.com/jobs/view/highspot-consultant-at-captivate-staffing-group-4393892407": 1,
-    "https://www.linkedin.com/jobs/view/senior-revops-engineer-at-bettercomp-4393884578": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-ote-%24300-000-year-usd-%40cxt-software-at-cxt-software-4397330078": 1,
-    "https://www.linkedin.com/jobs/view/marketing-technology-operations-manager-209114-at-aquent-4397328475": 1,
-    "https://www.linkedin.com/jobs/view/social-creative-lead-at-koala%c2%ae-4383066936": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-ecommerce-at-inno-supps-4397158691": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-and-ecommerce-manager-website-at-colorescience-4393811928": 1,
-    "https://www.linkedin.com/jobs/view/digital-growth-and-performance-specialist-at-andatech-4396038167": 1,
     "https://www.linkedin.com/jobs/view/director-of-business-development-europe-at-biorce-4397569780": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-at-harvey-nash-4397527202": 1,
     "https://www.linkedin.com/jobs/view/associate-operations-engineering-at-arevon-4397355318": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/ad-operations-executive-at-rtbdemand-com-4400058998": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-remote-east-coast-usa-at-pallet-4401528251": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-jobgether-4400083509": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401091305": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-freedx-4401091305": 1,
+    "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-allcares-4399666203": 1,
+    "https://www.linkedin.com/jobs/view/opcenter-engineer-at-e-solutions-4401348697": 1,
+    "https://www.linkedin.com/jobs/view/senior-genai-ingenieur-mit-deutsch-ref-qcfxq-at-rsight%c2%ae-4393513624": 1,
+    "https://www.linkedin.com/jobs/view/dual-fuel-engineer-at-sureserve-4399697188": 1,
+    "https://www.linkedin.com/jobs/view/engineer-camunda-hiperautomatizaci%ef%bf%bdn-at-grupo-ns-4399564086": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specialist-mandarin-%2470-hr-remote-at-crossing-hurdles-4399634395": 1,
+    "https://www.linkedin.com/jobs/view/threat-detection-and-hunt-engineer-at-blackthorne-consulting-4401571873": 1,
+    "https://www.linkedin.com/jobs/view/senior-identity-engineer-at-sophos-4341785087": 1,
+    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4401592298": 1,
+    "https://www.linkedin.com/jobs/view/engineering-template-at-upstart-4399570710": 1,
+    "https://www.linkedin.com/jobs/view/paid-social-media-strategist-remote-at-laurel-and-grey-4400087640": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-atrium-4383936210": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
