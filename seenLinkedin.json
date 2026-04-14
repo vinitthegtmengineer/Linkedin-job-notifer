@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-fonctionnel-finance-d365-h-f-at-hso-4344410843": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-south-front-range-%234685-at-biospace-4396078092": 1,
     "https://www.linkedin.com/jobs/view/rent-a-car-consultant-with-german-and-english-work-remote-in-greece-at-mercier-consultancy-md-4397414749": 1,
     "https://www.linkedin.com/jobs/view/senior-mes-consultant-werum-pasx-siemens-opcenter-at-intelligenz-it-4393837172": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4394241178": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4392082616": 1,
     "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-h-proof-4401741286": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-mappa-4400756196": 1,
-    "https://www.linkedin.com/jobs/view/social-media-creator-partnerships-manager-at-adfix-4401751062": 1
+    "https://www.linkedin.com/jobs/view/social-media-creator-partnerships-manager-at-adfix-4401751062": 1,
+    "https://www.linkedin.com/jobs/view/presales-engineer-at-uneek-global-4401770665": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-4401540077": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
