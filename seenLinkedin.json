@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-event-videographer-livestream-operator-at-mind-circles-talks-4397466493": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397409962": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397572905": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397421618": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397581467": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397591146": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397584392": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397580451": 1,
     "https://www.linkedin.com/jobs/view/creator-marketing-manager-at-think-jam-4385385264": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4358784104": 1,
     "https://www.linkedin.com/jobs/view/cdi-consultant-second-level-review-slr-sign-on-bonus-eligible-at-e4health-4393893052": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4401793840": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hyde-johannesburg-rosebank-4401118246": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-coordinator-at-the-wellness-company-4401115308": 1,
-    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4399787173": 1
+    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4399787173": 1,
+    "https://www.linkedin.com/jobs/view/paycor-consultant-at-rockcrest-4399900210": 1,
+    "https://www.linkedin.com/jobs/view/builder-ecommerce-manager-at-the-connors-group-4402048104": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-at-mpower-plus-4402046210": 1,
+    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-us-tech-solutions-4399904079": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-associate-at-huron-4399798167": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-harmonic-security-4402042251": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-strategist-at-carnegie-4402019527": 1,
+    "https://www.linkedin.com/jobs/view/marketing-director-at-flerish-hydration-4401361118": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
