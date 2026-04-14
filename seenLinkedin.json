@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/b1-3-licensed-engineers-military-project-in-the-netherlands-at-wfs-pro-4376751714": 1,
-    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4397366287": 1,
-    "https://www.linkedin.com/jobs/view/self-hosted-logscale-engineer-at-vailexa-4393880918": 1,
-    "https://www.linkedin.com/jobs/view/programador-staff-data-engineering-at-inetum-4264876204": 1,
-    "https://www.linkedin.com/jobs/view/engineer-surveyor-lev-nw-home-counties-at-zurich-insurance-4366462865": 1,
-    "https://www.linkedin.com/jobs/view/engineering-design-specialist-72123-at-turing-4396559989": 1,
-    "https://www.linkedin.com/jobs/view/principal-engineer-platform-engineering-at-netskope-4375668506": 1,
-    "https://www.linkedin.com/jobs/view/remote-engineer-at-agilent-technologies-4394986253": 1,
     "https://www.linkedin.com/jobs/view/data-engineering-director-at-courier-4396023097": 1,
     "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397375713": 1,
     "https://www.linkedin.com/jobs/view/berater-m-w-d-im-vertrieb-f%c3%bcr-massivh%c3%a4user-%e2%80%93-gestalte-deinen-weg-in-die-selbstst%c3%a4ndigkeit-mit-uns%21-at-town-country-haus-franchisepartner-4397366934": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-data-engineering-partner-at-tryhackme-4400708594": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-managing-composites-4401395695": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-jobgether-4400706529": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400705298": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400705298": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-demand-gen-operator-b2b-saas-at-troopr-labs-4400711695": 1,
+    "https://www.linkedin.com/jobs/view/operator-gn-lebensmittel-at-the-quality-group-4317811368": 1,
+    "https://www.linkedin.com/jobs/view/marketing-generalist-growth-operator-at-simplifi-iq-4399728743": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-henderson-drake-4399748050": 1,
+    "https://www.linkedin.com/jobs/view/mci-consultant-at-nielseniq-4400707779": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-builder-at-confidential-4401507301": 1,
+    "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-xcede-4400707823": 1,
+    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4401707893": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-14",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
