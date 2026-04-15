@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397370745": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397865047": 1,
     "https://www.linkedin.com/jobs/view/digital-strategy-and-content-manager-at-compass-health-center-4359602442": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-intaghire-4394249336": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-manager-growth-marketing-campaigns-at-bolt-4402227615": 1,
     "https://www.linkedin.com/jobs/view/%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd-%d1%87%d0%b0%d1%82%d0%b0-%d1%81%d0%be-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc-%d1%82%d0%b0%d0%b4%d0%b6%d0%b8%d0%ba%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d1%8f%d0%b7%d1%8b%d0%ba%d0%b0-at-talk-with-us-4402244028": 1,
     "https://www.linkedin.com/jobs/view/pressure-vessel-engineer-at-lloyds-british-4402231627": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-tripyog-4401190116": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-tripyog-4401190116": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-via-4402247188": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
