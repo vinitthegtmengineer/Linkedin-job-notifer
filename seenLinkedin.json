@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-f%c3%bcr-betriebliche-altersversorgung-m-w-d-in-voll-teilzeit-at-korbel-gmbh-4397842390": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-lead-at-nexhealth-4385841621": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394423383": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-supply-chain-4385894023": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-google%c2%ae-ad-grant-ai-4394413444": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397902090": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-strategy-operations-consumer-business-at-ethos-4328266393": 1,
     "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385859659": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-remotehunter-4394409562": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/analista-financeiro-de-operadora-de-viagem-at-panrotas-4402627493": 1,
     "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402624616": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4402588549": 1,
-    "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4402627507": 1
+    "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4402627507": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4401809671": 1,
+    "https://www.linkedin.com/jobs/view/remote-hiring-consultant-at-ascenturi-4401804872": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-at-webindia-inc-4402583427": 1,
+    "https://www.linkedin.com/jobs/view/delay-start-up-builders-risk-insurance-claims-director-of-quantum-delay-at-rimkus-4399963899": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-one-identity-4378179722": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-head-of-revenue-at-cgs-computer-generated-solutions-4401476120": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
