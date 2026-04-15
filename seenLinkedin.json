@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-cyber-focus-ai-4394243836": 1,
-    "https://www.linkedin.com/jobs/view/consultor-chogan-4397465743": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-pyrovio-4394269952": 1,
-    "https://www.linkedin.com/jobs/view/geopolitical-consultant-at-daybie-4388481162": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-director-incentives-workday-remote-at-varicent-4374685691": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-director-incentives-workday-remote-at-varicent-4374682773": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397831971": 1,
-    "https://www.linkedin.com/jobs/view/agent-builder-at-bold-communications-ltd-4375856374": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397426381": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397431206": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397420638": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397415761": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397411941": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/associate-marketing-manager-at-craftsman%2b-4402074927": 1,
     "https://www.linkedin.com/jobs/view/airtable-builder-at-jobs-via-dice-4401152009": 1,
     "https://www.linkedin.com/jobs/view/senior-account-manager-ksa-at-anomali-4402082849": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-grow-pronto-4401135368": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-grow-pronto-4401135368": 1,
+    "https://www.linkedin.com/jobs/view/survey-instrument-operator-at-actalent-4402202032": 1,
+    "https://www.linkedin.com/jobs/view/survey-instrument-operator-at-actalent-4402096285": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-at-insight-global-4400766725": 1,
+    "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389284269": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-cei-engineering-associates-inc-4400799970": 1,
+    "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389283254": 1,
+    "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389413702": 1,
+    "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389270707": 1,
+    "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389419387": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
