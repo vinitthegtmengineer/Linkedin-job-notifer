@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/regional-director-enterprise-at-fivetran-4359930817": 1,
     "https://www.linkedin.com/jobs/view/social-media-growth-manager-at-breakintotech-4397718494": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1,
     "https://www.linkedin.com/jobs/view/marketing-business-analyst-at-binance-4324846156": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-revenue-insights-analyst-at-engine-4402628243": 1,
     "https://www.linkedin.com/jobs/view/tier-1-operations-support-engineer-at-jonas-software-4402059236": 1,
     "https://www.linkedin.com/jobs/view/senior-platform-ops-engineer-at-press-ganey-4389806503": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4402627108": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4402627108": 1,
+    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4385279555": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
