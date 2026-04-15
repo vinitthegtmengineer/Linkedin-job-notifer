@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
-    "https://www.linkedin.com/jobs/view/principal-field-marketing-manager-public-sector-at-smartsheet-4380083111": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397369836": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-dqx-consulting-inc-4397480579": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394284244": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4402003318": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-lvi-associates-4399784243": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-h-a-resources-llc-4399787117": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1
+    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
+    "https://www.linkedin.com/jobs/view/solana-rust-engineer-at-eos-talent-4399941979": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-vadodara-4399953850": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
