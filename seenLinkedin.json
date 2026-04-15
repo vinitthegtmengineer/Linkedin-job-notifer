@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-digital-campaign-manager-at-acxiom-4397479398": 1,
-    "https://www.linkedin.com/jobs/view/senior-ad-operations-specialist-programmatic-campaign-manager-at-jointcommerce-4394243440": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-abm-in-house-at-ledger-bennett-4385539830": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-lawnstarter-4397848061": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-marketing-operations-at-korn-ferry-4397485286": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-coordinator-at-vanta-4394292169": 1,
     "https://www.linkedin.com/jobs/view/vp-of-performance-marketing-at-honor-4397806259": 1,
     "https://www.linkedin.com/jobs/view/golang-engineer-at-teksystems-4397460102": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-optimite-4401431406": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-brightspeed-4402502073": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-xcelsus-hellas-4399974096": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-debo-4401430469": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-debo-4401430469": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mro-storerooms-at-total-resource-management-4402043270": 1,
+    "https://www.linkedin.com/jobs/view/llm-rl-engineer-agents-engineering-at-yc-bench-4402505098": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-remote-at-recruiting-solutions-4401446340": 1,
+    "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-porcellia-4401434493": 1,
+    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
