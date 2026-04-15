@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/electrical-engineering-department-manager-at-ssoe-group-4334420780": 1,
-    "https://www.linkedin.com/jobs/view/engineer-ii-at-biospace-4397487951": 1,
-    "https://www.linkedin.com/jobs/view/senior-devops-engineer-aws-remote-colombia-costa-rica-full-time-cloud-engineering-at-gorilla-logic-4324416256": 1,
-    "https://www.linkedin.com/jobs/view/member-of-engineering-pre-training-data-engineering-at-poolside-4390569541": 1,
-    "https://www.linkedin.com/jobs/view/member-of-engineering-pre-training-data-research-at-poolside-4390583323": 1,
-    "https://www.linkedin.com/jobs/view/subject-matter-experts-for-applied-ai-engineering-at-western-governors-university-4394270724": 1,
-    "https://www.linkedin.com/jobs/view/environmental-engineering-ai-data-trainer-at-alignerr-4397701682": 1,
-    "https://www.linkedin.com/jobs/view/nuclear-engineering-specialist-freelance-ai-trainer-project-at-meridial-marketplace-by-invisible-4263629676": 1,
-    "https://www.linkedin.com/jobs/view/loader-operator-at-quik-hire-staffing-4397461057": 1,
-    "https://www.linkedin.com/jobs/view/engineering-specialist-at-careerxperts-consulting-4397871808": 1,
-    "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4397882812": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-orrest-digital-4397704829": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397875760": 1,
     "https://www.linkedin.com/jobs/view/controls-bas-project-engineer-at-jobot-4383632624": 1,
     "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4397714249": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4399909934": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-freitag-marketing-4402029639": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-binance-4389558167": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-remote-at-viva-talent-4402513806": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-remote-at-viva-talent-4402513806": 1,
+    "https://www.linkedin.com/jobs/view/utilities-operator-night-shift-at-biospace-4402232063": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-netherlands-at-flosum-4402539318": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-uk-at-flosum-4402541140": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-serbia-at-flosum-4402528817": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-poland-at-flosum-4402523869": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-belgium-at-flosum-4402520939": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-portugal-at-flosum-4402531489": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-ukraine-at-flosum-4402540192": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-at-flosum-4402542120": 1,
+    "https://www.linkedin.com/jobs/view/operations-senior-engineer-at-yondr-group-4393930824": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-%e2%80%93-pakistan-based-at-solpro-digital-4401469191": 1,
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4394682655": 1,
+    "https://www.linkedin.com/jobs/view/omnichannel-activation-manager-at-del-monte-foods-4401469175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
