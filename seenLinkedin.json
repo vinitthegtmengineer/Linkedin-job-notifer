@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/workforce-management-analyst-at-relativity-4367650660": 1,
-    "https://www.linkedin.com/jobs/view/digital-customer-success-content-strategist-at-provation-4385553554": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-remotehunter-4394288241": 1,
-    "https://www.linkedin.com/jobs/view/remote-area-director-of-marketing-schulte-hospitality-group-at-schulte-hospitality-group-4397447567": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-remotehunter-4394288231": 1,
     "https://www.linkedin.com/jobs/view/permitting-consultant-fully-remote-upto-%2490-hr-hourly-at-mercor-4397433003": 1,
     "https://www.linkedin.com/jobs/view/ivalua-consultant-l3-ivalua-certified-in-integration-at-gc-technologies-pvt-ltd-4397499428": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/llm-rl-engineer-agent-engineering-at-yc-bench-4402501710": 1,
     "https://www.linkedin.com/jobs/view/engineering-expert-fully-remote-upto-%2475-hr-hourly-at-mercor-4401443132": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-social-media-guest-care-at-panera-bread-4401446467": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-debo-4401447472": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-debo-4401447472": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-insight-global-4402521321": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-dotdigital-4399981359": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4399979649": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-gvi-4399997013": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
