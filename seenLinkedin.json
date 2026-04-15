@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-growth-manager-at-breakintotech-4397718494": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1,
-    "https://www.linkedin.com/jobs/view/marketing-business-analyst-at-binance-4324846156": 1,
-    "https://www.linkedin.com/jobs/view/sfcc-engineer-at-ott-consulting-llc-4394420404": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-new-verticals-sales-at-flex-4334590369": 1,
     "https://www.linkedin.com/jobs/view/berater-f%c3%bcr-betriebliche-altersversorgung-m-w-d-in-voll-teilzeit-at-korbel-gmbh-4397842390": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-lead-at-nexhealth-4385841621": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-remotehunter-4394423383": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/tier-1-operations-support-engineer-at-jonas-software-4402059236": 1,
     "https://www.linkedin.com/jobs/view/senior-platform-ops-engineer-at-press-ganey-4389806503": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4402627108": 1,
-    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4385279555": 1
+    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4385279555": 1,
+    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402599789": 1,
+    "https://www.linkedin.com/jobs/view/analista-financeiro-de-operadora-de-viagem-at-panrotas-4402627493": 1,
+    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402624616": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4402588549": 1,
+    "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4402627507": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
