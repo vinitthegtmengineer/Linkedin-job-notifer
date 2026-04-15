@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397420638": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397415761": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397411941": 1,
     "https://www.linkedin.com/jobs/view/ai-agent-builder-software-developers-openclaw-at-braintrust-4397421617": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-automation-specialist-at-the-plumtree-group-global-4397365028": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389413702": 1,
     "https://www.linkedin.com/jobs/view/senior-typescript-backend-engineer-response-ops-at-elastic-4389270707": 1,
     "https://www.linkedin.com/jobs/view/upgrade-operations-field-engineer-at-motorola-solutions-4389419387": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-operator-finance-growth-at-valerie-group-4401181224": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-gazi-ai-4401123096": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
