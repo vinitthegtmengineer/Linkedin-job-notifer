@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/servicenow-vulnerability-response-specialist-engineer-at-traxccel-4397888158": 1,
-    "https://www.linkedin.com/jobs/view/founding-ai-systems-engineer-usa-only-100%25-remote-at-close-4373852414": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4328118417": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384674414": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-university-of-new-england-work-to-learn-4397839665": 1,
-    "https://www.linkedin.com/jobs/view/consulente-haccp-at-tersa-haccp-4397834548": 1,
     "https://www.linkedin.com/jobs/view/associate-engineer-at-boyd-4306234131": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4384666982": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-google%c2%ae-ad-grant-ai-4394410401": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-impactech-digital-4400108002": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1,
     "https://www.linkedin.com/jobs/view/konzultant-konzultantka-klientsk%c3%a9ho-centra-allianz-100%25-home-office-at-ministry-of-the-interior-of-the-czech-republic-4402544330": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4399981937": 1
+    "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4399981937": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e3%82%b4%e3%82%a6%e3%83%aa%e3%82%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4402585601": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%ef%bc%89-at-%ef%bd%87%ef%bd%92%ef%bd%8f%ef%bd%95%ef%bd%8e%ef%bd%84%ef%bc%88%e6%a0%aa%ef%bc%89-4402586549": 1,
+    "https://www.linkedin.com/jobs/view/trax-consultant-at-galactic-minds-inc-4402574633": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%81%e3%83%bc%e3%83%a0%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e6%83%85%e5%a0%b1%e6%88%a6%e7%95%a5%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc-4402569731": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%81%e3%83%bc%e3%83%a0%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e6%83%85%e5%a0%b1%e6%88%a6%e7%95%a5%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc-4402585617": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jscreen-4401482551": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
