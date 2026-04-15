@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-intaghire-4394249336": 1,
-    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367167221": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-cybercoders-4383612816": 1,
-    "https://www.linkedin.com/jobs/view/partner-engineer-at-transmit-security-4375610282": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367168398": 1,
     "https://www.linkedin.com/jobs/view/operations-electrical-engineer-nashville-tn-at-oracle-4373743245": 1,
     "https://www.linkedin.com/jobs/view/principal-field-marketing-manager-public-sector-at-smartsheet-4380083111": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397369836": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-tripyog-4401190116": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-via-4402247188": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-mexc-4387238548": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-inara-digital-4399933841": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-inara-digital-4399933841": 1,
+    "https://www.linkedin.com/jobs/view/survey-instrument-operator-at-actalent-4402232966": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-ann-arbor-mi-%234667-at-grail-4379118302": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4402003318": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-lvi-associates-4399784243": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-h-a-resources-llc-4399787117": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
