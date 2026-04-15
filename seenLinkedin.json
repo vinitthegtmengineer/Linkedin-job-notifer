@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-wastewater-at-nicholas-o-dwyer-ltd-4331062556": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895006": 1,
-    "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
-    "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-olsson-4385395059": 1,
-    "https://www.linkedin.com/jobs/view/strategic-customer-success-manager-at-atlan-4213141520": 1,
     "https://www.linkedin.com/jobs/view/regional-director-enterprise-at-fivetran-4359930817": 1,
     "https://www.linkedin.com/jobs/view/social-media-growth-manager-at-breakintotech-4397718494": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%89-at-%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%b5%e3%83%bc%e3%82%ab%e3%82%b9%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4402576679": 1,
     "https://www.linkedin.com/jobs/view/senior-director-partner-marketing-at-actionstep-4402075198": 1,
     "https://www.linkedin.com/jobs/view/brand-strategist-at-celarity-4401490204": 1,
-    "https://www.linkedin.com/jobs/view/visual-builder-cloud-services-vbcs-architect-at-apex-it-4401800076": 1
+    "https://www.linkedin.com/jobs/view/visual-builder-cloud-services-vbcs-architect-at-apex-it-4401800076": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91mlops%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-timee-inc-4402567654": 1,
+    "https://www.linkedin.com/jobs/view/senior-revenue-insights-analyst-at-engine-4402628243": 1,
+    "https://www.linkedin.com/jobs/view/tier-1-operations-support-engineer-at-jonas-software-4402059236": 1,
+    "https://www.linkedin.com/jobs/view/senior-platform-ops-engineer-at-press-ganey-4389806503": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-at-stripe-4402627108": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
