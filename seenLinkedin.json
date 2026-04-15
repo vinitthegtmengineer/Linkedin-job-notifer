@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/controls-bas-project-engineer-at-jobot-4383632624": 1,
-    "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-seh-4314819301": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4397714249": 1,
     "https://www.linkedin.com/jobs/view/global-account-director-gsi-at-cato-networks-4383165217": 1,
     "https://www.linkedin.com/jobs/view/design-lifecycle-lead-at-transform-by-fitaz-4394293176": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/operations-senior-engineer-at-yondr-group-4393930824": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-%e2%80%93-pakistan-based-at-solpro-digital-4401469191": 1,
     "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4394682655": 1,
-    "https://www.linkedin.com/jobs/view/omnichannel-activation-manager-at-del-monte-foods-4401469175": 1
+    "https://www.linkedin.com/jobs/view/omnichannel-activation-manager-at-del-monte-foods-4401469175": 1,
+    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-romania-at-flosum-4402520944": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4401456551": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
