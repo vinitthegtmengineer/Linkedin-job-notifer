@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4394403436": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1,
     "https://www.linkedin.com/jobs/view/servicenow-vulnerability-response-specialist-engineer-at-traxccel-4397888158": 1,
     "https://www.linkedin.com/jobs/view/founding-ai-systems-engineer-usa-only-100%25-remote-at-close-4373852414": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4328118417": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4401456551": 1,
     "https://www.linkedin.com/jobs/view/palantir-foundry-consultant-at-airswift-4399992308": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-impactech-digital-4400108002": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1,
+    "https://www.linkedin.com/jobs/view/konzultant-konzultantka-klientsk%c3%a9ho-centra-allianz-100%25-home-office-at-ministry-of-the-interior-of-the-czech-republic-4402544330": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4399981937": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
