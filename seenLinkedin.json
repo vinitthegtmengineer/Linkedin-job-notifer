@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-customer-engagement-d365-at-hso-4331240106": 1,
     "https://www.linkedin.com/jobs/view/consultor-digibee-at-conquest-one-4393471641": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-director-incentives-workday-remote-at-varicent-4374683802": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-colibri-group-4385854154": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-nashville-tn-east-%234677-at-grail-4379123142": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-richmond-%234674-at-grail-4379119216": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-south-front-range-%234685-at-grail-4379110469": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-at-aliqan-technologies-4401438248": 1
+    "https://www.linkedin.com/jobs/view/ai-builder-at-aliqan-technologies-4401438248": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-indonesia-at-redsol-pte-ltd-4400721853": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
