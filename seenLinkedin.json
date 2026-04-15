@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-ml-data-ops-engineer-ii-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4367148270": 1,
-    "https://www.linkedin.com/jobs/view/%e9%a1%b9%e7%9b%ae%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86%ef%bc%88%e5%88%b6%e5%8a%a8%e7%b1%bb%e4%ba%a7%e5%93%81%e8%ae%a4%e8%af%81%ef%bc%89-at-%e6%9d%ad%e5%b7%9e%e6%b1%89%e5%be%b7%e8%b4%a8%e9%87%8f%e8%ae%a4%e8%af%81%e6%9c%8d%e5%8a%a1%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8%e4%b8%8a%e6%b5%b7%e5%88%86%e5%85%ac%e5%8f%b8-4397803382": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-remote-at-equestever-4397837355": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-huzzle-com-4397370745": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397865047": 1,
     "https://www.linkedin.com/jobs/view/digital-strategy-and-content-manager-at-compass-health-center-4359602442": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-financial-analyst-fp-a-operator-fractional-cfo-support-at-quintessence-consulting-4402223709": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-campaign-manager-at-horizon3-ai-4401106707": 1,
     "https://www.linkedin.com/jobs/view/amazon-brand-growth-manager-client-communications-specialist-at-advance-amazon-agency-4399911974": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-marketing-campaigns-at-bolt-4402227615": 1
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-marketing-campaigns-at-bolt-4402227615": 1,
+    "https://www.linkedin.com/jobs/view/%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd-%d1%87%d0%b0%d1%82%d0%b0-%d1%81%d0%be-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc-%d1%82%d0%b0%d0%b4%d0%b6%d0%b8%d0%ba%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d1%8f%d0%b7%d1%8b%d0%ba%d0%b0-at-talk-with-us-4402244028": 1,
+    "https://www.linkedin.com/jobs/view/pressure-vessel-engineer-at-lloyds-british-4402231627": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-tripyog-4401190116": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
