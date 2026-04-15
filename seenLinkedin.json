@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4397714249": 1,
-    "https://www.linkedin.com/jobs/view/global-account-director-gsi-at-cato-networks-4383165217": 1,
-    "https://www.linkedin.com/jobs/view/design-lifecycle-lead-at-transform-by-fitaz-4394293176": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4394403436": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1,
     "https://www.linkedin.com/jobs/view/servicenow-vulnerability-response-specialist-engineer-at-traxccel-4397888158": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4394682655": 1,
     "https://www.linkedin.com/jobs/view/omnichannel-activation-manager-at-del-monte-foods-4401469175": 1,
     "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-romania-at-flosum-4402520944": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4401456551": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4401456551": 1,
+    "https://www.linkedin.com/jobs/view/palantir-foundry-consultant-at-airswift-4399992308": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-impactech-digital-4400108002": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-15",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
