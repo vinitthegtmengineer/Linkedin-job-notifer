@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineer-iii-%e2%80%93-senior-database-application-developer-at-conduent-4376180845": 1,
-    "https://www.linkedin.com/jobs/view/senior-react-engineer-remote-at-first-citizens-bank-4367630618": 1,
-    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-agilegrid-solutions-4397753463": 1,
     "https://www.linkedin.com/jobs/view/senior-enterprise-customer-success-manager-at-outreach-4392463092": 1,
     "https://www.linkedin.com/jobs/view/startup-founder-ceo-at-dqventures-4397765060": 1,
     "https://www.linkedin.com/jobs/view/startup-founder-ceo-at-dqventures-4397749861": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4402168453": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-client-manager-at-jobgether-4401853975": 1,
     "https://www.linkedin.com/jobs/view/director-growth-marketing-at-vasion-4402641303": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-manager-at-stripe-4402664498": 1
+    "https://www.linkedin.com/jobs/view/campaign-operations-manager-at-stripe-4402664498": 1,
+    "https://www.linkedin.com/jobs/view/security-access-operator-argentina-at-tiendanube-4402171549": 1,
+    "https://www.linkedin.com/jobs/view/field-sales-rep-iii-dekalb-asgrow-southern-il-at-bayer-4402988690": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91aws%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-sp-links%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-sp-links-inc-4403109011": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-16",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
