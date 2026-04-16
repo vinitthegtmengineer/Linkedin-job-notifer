@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e5%a4%a7%e9%98%aa%e3%82%ac%e3%82%b9g%e3%81%a7%e5%ae%89%e5%ae%9a%e6%80%a7%e2%97%8e%ef%bc%8f%e7%a9%8d%e6%a5%b5%e7%9a%84%e3%81%aait%e6%8a%95%e8%b3%87%e3%81%82%e3%82%8a-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4397765427": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-full-stack-engineer-product-builder-at-siyantech-global-innovations-4394444852": 1,
-    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4397911322": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-ubique-systems-4397917240": 1,
     "https://www.linkedin.com/jobs/view/consulente-finanza-agevolata-at-consulenteideale-4397762905": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-agilegrid-solutions-4397772486": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403108427": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-biorender-4402318068": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-biorender-4402307064": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-amicus-4400429597": 1
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-amicus-4400429597": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-cloudbees-4403131461": 1,
+    "https://www.linkedin.com/jobs/view/operational-engineer-at-csg-4402310280": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-inteleccess-4400463640": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-16",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
