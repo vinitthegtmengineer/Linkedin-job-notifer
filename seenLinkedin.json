@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-endpoint-engineer-at-centegix-4374620082": 1,
-    "https://www.linkedin.com/jobs/view/dataops-engineer-at-consultec-ti-corp-4397887229": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-at-sme-careers-4328170608": 1,
     "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4397739027": 1,
     "https://www.linkedin.com/jobs/view/pmo-ing%c3%a9nieur-projet-at-scalian-4334622680": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/operator-at-drill-corp-sahara-saudi-4400140794": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-second-talent-4402669916": 1,
     "https://www.linkedin.com/jobs/view/confidential-process-engineer-%e6%a9%9f%e5%af%86%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-semiconductor-%e5%8d%8a%e5%b0%8e%e4%bd%93-20m%2b-jpy-full-remote-shanghai-trips-at-specialized-group-4402696390": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4400139864": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4400139864": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%ad%a6%e8%94%b5%e9%87%8e%e3%80%91%e9%9b%bb%e6%b0%97cad%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e2%80%bbrebro%e3%83%bbtfas%e7%b5%8c%e9%a8%93%e8%80%85%e6%ad%93%e8%bf%8e%ef%bc%8f%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%8f%e5%9c%9f%e6%97%a5%e7%a5%9d%e4%bc%91%ef%bc%8f%e5%9f%ba%e6%9c%ac%e5%ae%9a%e6%99%82%e9%80%80%e7%a4%be-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4402692455": 1,
+    "https://www.linkedin.com/jobs/view/country-operations-lead-thailand-at-tantan-%e6%8e%a2%e6%8e%a2-4400154894": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-16",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
