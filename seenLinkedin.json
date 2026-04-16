@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-business-operations-at-common-room-4397743323": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4397747154": 1,
-    "https://www.linkedin.com/jobs/view/community-manager-social-media-%e2%80%93-part-time-remote-at-wildfleur-4394430015": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4397710672": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-stuffbox-studios-4397890439": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-phifer-company-4397486156": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-haystack-4397734626": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397895536": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-haystack-4397736674": 1,
     "https://www.linkedin.com/jobs/view/specifications-engineer-at-armacell-4328161249": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/global-digital-marketing-campaign-manager-at-intellias-4402619561": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
     "https://www.linkedin.com/jobs/view/personal-assistant-project-operator-to-founder-at-ltk-food-group-4400190836": 1,
-    "https://www.linkedin.com/jobs/view/senior-concur-consultant-at-nityo-infotech-4402115154": 1
+    "https://www.linkedin.com/jobs/view/senior-concur-consultant-at-nityo-infotech-4402115154": 1,
+    "https://www.linkedin.com/jobs/view/consultor-ssff-at-perceptio-s-a-s-4402122137": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400400913": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400404912": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400403946": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400410084": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-bayforce-4402949908": 1,
+    "https://www.linkedin.com/jobs/view/channel-operations-and-enablement-manager-at-paylocity-4390370575": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-16",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
