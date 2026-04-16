@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineer-automation-engineering-%e2%80%93-small-molecule-api-lilly-medicine-foundry-at-biospace-4397412782": 1,
-    "https://www.linkedin.com/jobs/view/visual-inspection-engineering-sme-parenteral-at-biospace-4397495783": 1,
     "https://www.linkedin.com/jobs/view/head-of-business-operations-at-common-room-4397743323": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4397747154": 1,
     "https://www.linkedin.com/jobs/view/community-manager-social-media-%e2%80%93-part-time-remote-at-wildfleur-4394430015": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400198772": 1,
     "https://www.linkedin.com/jobs/view/content-executive-at-flexiple-4401439462": 1,
     "https://www.linkedin.com/jobs/view/global-digital-marketing-campaign-manager-at-intellias-4402619561": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
+    "https://www.linkedin.com/jobs/view/personal-assistant-project-operator-to-founder-at-ltk-food-group-4400190836": 1,
+    "https://www.linkedin.com/jobs/view/senior-concur-consultant-at-nityo-infotech-4402115154": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-16",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
