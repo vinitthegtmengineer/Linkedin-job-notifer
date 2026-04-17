@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-engineering-experts-at-ai-startup-at-lightly-4397953664": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-operator-at-thom-browne-marketing-analytics-4394710263": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4398055546": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirex-4394713033": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-brr-exchange-4398049482": 1,
-    "https://www.linkedin.com/jobs/view/sr-growth-marketing-lead-at-oleria-4394704369": 1,
     "https://www.linkedin.com/jobs/view/consultor-fi-senior-hibrido-bogot%c3%a0-at-jessica-4398055578": 1,
     "https://www.linkedin.com/jobs/view/qa-automation-at-jobs-via-dice-4394719371": 1,
     "https://www.linkedin.com/jobs/view/hci-sr-compute-engineer-red-hat-openshift-at-stefanini-emea-4385203497": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-jobgether-4402387731": 1,
     "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4390948685": 1,
     "https://www.linkedin.com/jobs/view/security-access-operator-argentina-at-tiendanube-4403114393": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400837146": 1
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400837146": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4402710518": 1,
+    "https://www.linkedin.com/jobs/view/national-builder-account-manager-at-whirlpool-corporation-4382158258": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738442": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738441": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-enablement-at-greenway-health-4403444752": 1,
+    "https://www.linkedin.com/jobs/view/director-category-management-store-growth-at-jobgether-4402361771": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
