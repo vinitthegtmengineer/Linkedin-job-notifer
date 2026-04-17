@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/techops-engineer-at-bayforce-4393589953": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sbm-management-services-lp-4385264678": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-atenci%c3%b3n-al-cliente-espa%c3%b1ol-%e2%80%93-alem%c3%a1n-freelance-part-time-remoto-at-domus-global-4397948960": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-agi-genai-builders-at-telus-digital-4394488924": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-trinity-life-sciences-4398046394": 1,
     "https://www.linkedin.com/jobs/view/shopify-developer-engineer-at-esteemit-4394716004": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-fresher-at-superwork-4394494971": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-smartcat-4402395619": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-vibe-coder-at-altagic-ai-performance-agency-4402386201": 1,
     "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362029745": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069835": 1
+    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069835": 1,
+    "https://www.linkedin.com/jobs/view/chat-operator-remote-%e2%80%93-strong-earning-potential-at-elance-models-4403433944": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390750370": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
+    "https://www.linkedin.com/jobs/view/head-of-emea-sales-at-trulioo-4386984212": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
