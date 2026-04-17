@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-paw-some-4397974409": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-paw-some-4397977450": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a6%8f%e5%b2%a1-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4398069358": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e9%98%aa-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4398064591": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-activejunky-com-4394719894": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4392266743": 1,
     "https://www.linkedin.com/jobs/view/director-client-strategy-and-growth-at-jobgether-4402390140": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-hotels-at-kinship-4402732383": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402734346": 1
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402734346": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-relocation-to-serbia-at-akvelon-inc-4400845048": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-trojan-battery-company-4403164059": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
