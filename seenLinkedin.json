@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-oracle-visual-builder-developer-at-worktrust-solutions-4397946155": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-techshack-4397796771": 1,
-    "https://www.linkedin.com/jobs/view/senior-android-developer-reverse-engineering-or-custom-rom-engineering-focus-at-emma-of-torre-ai-4397789931": 1,
-    "https://www.linkedin.com/jobs/view/co-founder-ceo-ai-wealthtech-at-futuresight-4397766268": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-mappa-4394491068": 1,
-    "https://www.linkedin.com/jobs/view/junior-operations-marketing-coordinator-web-ai-at-blockdelta-4394488004": 1,
     "https://www.linkedin.com/jobs/view/walkme-builder-at-trident-consulting-4397797983": 1,
     "https://www.linkedin.com/jobs/view/graph-ql-engineer-at-new-york-technology-partners-4398010183": 1,
     "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4397789937": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-harris-computer-4400444197": 1,
     "https://www.linkedin.com/jobs/view/creative-%2b-executive-assistant-mentee-at-zebrosys-4401870578": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-emea-at-ashby-4390295375": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-at-bond-touch-4401797897": 1
+    "https://www.linkedin.com/jobs/view/head-of-marketing-at-bond-touch-4401797897": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403199055": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403400037": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403400038": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403185981": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403178987": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-ai-automation-manager-at-checkmarx-4380467287": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
