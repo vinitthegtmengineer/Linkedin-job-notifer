@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/pessoa-especialista-em-engenharia-de-analytics-e-ia-at-banco-bv-4398038615": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1,
-    "https://www.linkedin.com/jobs/view/ai-operator-100%25-remote-at-wisevas-virtual-assistants-4397978129": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-ai-operator-100%25-remote-at-wisevas-virtual-assistants-4397968254": 1,
     "https://www.linkedin.com/jobs/view/director-of-ai-operations-go-to-market-at-pearl-4398070422": 1,
     "https://www.linkedin.com/jobs/view/director-channel-sales-at-cyber-defense-group-4394486288": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-paw-some-4397974409": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/email-marketing-executive-at-brand-hackers-4402716801": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-career-development-program-at-burgeon-palms-4403486605": 1,
     "https://www.linkedin.com/jobs/view/sales-leader-%e2%80%93-ai-edtech-corporate-l-d-at-fractal-4402708523": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-ii-at-amazon-4402726992": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-ii-at-amazon-4402726992": 1,
+    "https://www.linkedin.com/jobs/view/growth-qualification-operator-at-quaro-x-4402731014": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-spectraforce-4403492414": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4392266743": 1,
+    "https://www.linkedin.com/jobs/view/director-client-strategy-and-growth-at-jobgether-4402390140": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
