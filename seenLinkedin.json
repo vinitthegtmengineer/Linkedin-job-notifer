@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-cyberguard-advantage-4398008993": 1,
-    "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4398028022": 1,
     "https://www.linkedin.com/jobs/view/fractional-social-media-manager-4393950684": 1,
     "https://www.linkedin.com/jobs/view/saas-social-media-manager-at-butterknife%c2%ae-4398002852": 1,
     "https://www.linkedin.com/jobs/view/martech-consultant-at-bloomreach-4345182350": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/principal-engineer-forward-deployment-engineering-at-toast-4391196027": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-unearthed-4403422124": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-roebuck-estates-4403406978": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-det-india-at-duolingo-4342792965": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-det-india-at-duolingo-4342792965": 1,
+    "https://www.linkedin.com/jobs/view/support-operator-at-patriot-enterprises-llc-4403108017": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
