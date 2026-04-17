@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/walkme-builder-at-trident-consulting-4397797983": 1,
-    "https://www.linkedin.com/jobs/view/graph-ql-engineer-at-new-york-technology-partners-4398010183": 1,
-    "https://www.linkedin.com/jobs/view/corporate-brand-growth-marketing-manager-at-digital-silk-growing-brands-online-4397789937": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-mariadb-4394495225": 1,
     "https://www.linkedin.com/jobs/view/remote-closer-client-relations-specialist-at-stone-meets-clay-pottery-4397954358": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-staff-engineer-at-housesigma-4394492392": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403400038": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403185981": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4403178987": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-ai-automation-manager-at-checkmarx-4380467287": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-ai-automation-manager-at-checkmarx-4380467287": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4402340860": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%a5%ad%e5%8b%99%e7%b3%bb%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%b8%80%e6%ac%a1%e9%9d%a2%e6%8e%a5%e3%81%8b%e3%82%89%e7%a4%be%e9%95%b7%e3%81%a8%e4%bc%9a%e3%81%88%e3%82%8b%ef%bc%81%ef%bc%8f%e3%81%bb%e3%81%bc%e6%ae%8b%e6%a5%ad%e7%84%a1%e3%81%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%ba-4403105057": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4403415175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
