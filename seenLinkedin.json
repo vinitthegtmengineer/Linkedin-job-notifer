@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384022953": 1,
-    "https://www.linkedin.com/jobs/view/marketo-consultant-at-penbrothers-4394469705": 1,
-    "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4386075180": 1,
-    "https://www.linkedin.com/jobs/view/brand-onboarding-executive-influencer-marketing-at-whyshy-media-4391807644": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hrd-human-resources-development-4397914893": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4384041131": 1,
     "https://www.linkedin.com/jobs/view/channel-director-at-scout-global-4390041679": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-influencer-marketing-executive-flexi-remote-%e2%80%93-india-at-lovenspire-4402344098": 1,
     "https://www.linkedin.com/jobs/view/staff-software-engineer-builder-tools-at-temporal-technologies-4403190051": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-builder-tools-at-temporal-technologies-4403185190": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-demand-generation-at-zonar-systems-4400470999": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-demand-generation-at-zonar-systems-4400470999": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4402346824": 1,
+    "https://www.linkedin.com/jobs/view/coo-execution-operator-operatif-index-at-operatif-4402348658": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4403157352": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4403156370": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
