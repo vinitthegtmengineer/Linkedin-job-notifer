@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4394702071": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-outreach-4394437443": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-redy-4398058915": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-81218-at-onward-search-4397954609": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-brown-brown-4373545833": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-esusu-4397959154": 1,
-    "https://www.linkedin.com/jobs/view/operator-seefracht-export-import-m-w-d-n%c3%bcrnberg-at-lifa-logistics-tr-4394736641": 1,
-    "https://www.linkedin.com/jobs/view/underwriter-consultant-at-rose-international-4397985118": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-ai-automation-at-opensesame-4394736579": 1,
     "https://www.linkedin.com/jobs/view/nominee-builder-qbcc-open-licence-%e2%80%93-partnership-opportunity-at-bikucroc-business-advisory-page-4394729788": 1,
     "https://www.linkedin.com/jobs/view/ai-driven-full-stack-builder-startup-execution-role-at-vegah-4398324130": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4397996047": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4403532165": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4403537099": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4403526293": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4400857767": 1
+    "https://www.linkedin.com/jobs/view/senior-technical-manager-%e2%80%93-construction-gcl-products-at-solmax-4400857767": 1,
+    "https://www.linkedin.com/jobs/view/global-security-operations-center-operator-at-twilio-4403507549": 1,
+    "https://www.linkedin.com/jobs/view/junior-project-manager-operator-at-solvo-global-4400851592": 1,
+    "https://www.linkedin.com/jobs/view/przedstawiciel-konsultant-medyczny-przedstawicielka-konsultantka-medyczna-at-oncogene-4400816821": 1,
+    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-m-w-d-remote-und-vor-ort-beim-kunden-at-mhlr-advisory-4400840010": 1,
+    "https://www.linkedin.com/jobs/view/consultant-en-recrutement-ind%c3%a9pendant-h-f-at-ikiway-cabinet-de-recrutement-4403422198": 1,
+    "https://www.linkedin.com/jobs/view/holiday-consultant-at-boundless-adventures-travel-4402719061": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
+    "https://www.linkedin.com/jobs/view/him-consultant-at-mindseeker-4400863819": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-4403445416": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-17",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
