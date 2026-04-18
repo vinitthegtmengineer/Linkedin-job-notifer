@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-pion-4398356266": 1,
-    "https://www.linkedin.com/jobs/view/automotive-engineer-python-required-ai-project-at-myremoteteam-inc-4398353126": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4398063298": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4398337854": 1,
     "https://www.linkedin.com/jobs/view/ai-llm-ops-engineer-at-elixirr-digital-4304874515": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-myntra-ads-4398377344": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-rockwell-automation-4390799181": 1,
     "https://www.linkedin.com/jobs/view/founding-builder-engineer-at-sunlight-technologies-4403553729": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-builder-i-at-rappi-4391979101": 1,
-    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-limble-4403506272": 1
+    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-limble-4403506272": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-inteleccess-4400885471": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402733360": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-evidence-solutions-inc-4402773002": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
