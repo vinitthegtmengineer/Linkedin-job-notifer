@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-de-estadias-at-anfitri%c3%a3o-prime-4398231850": 1,
     "https://www.linkedin.com/jobs/view/senior-siu-consultant-national-general-at-national-general-4385647712": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-insightsoftware-4386578168": 1,
     "https://www.linkedin.com/jobs/view/high-speed-balancing-engineer-at-siemens-energy-4376068119": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4403512907": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4403592866": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4403559681": 1,
-    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-skinspirit-4349190903": 1
+    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-skinspirit-4349190903": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-of-marketing-at-inogen-4403595929": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
