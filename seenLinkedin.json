@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-zeal-group-4284098053": 1,
     "https://www.linkedin.com/jobs/view/industry-marketing-manager-at-bayone-solutions-4393465701": 1,
     "https://www.linkedin.com/jobs/view/senior-amazon-ads-manager-at-pare-4398537580": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398255166": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-fully-remote-at-telleroo-4403485222": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-manager-brand-partnerships-at-consiglieri-4402788699": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371139317": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371138363": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371138363": 1,
+    "https://www.linkedin.com/jobs/view/client-experience-operations-manager-at-zeta-global-4391203938": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
