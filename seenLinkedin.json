@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engenheiro-a-de-dados-at-gedanken-gcertifica-4397968792": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398359802": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398375107": 1,
-    "https://www.linkedin.com/jobs/view/senior-developer-advocacy-engineer-germany-remote-at-grafana-labs-4398328333": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398368344": 1,
-    "https://www.linkedin.com/jobs/view/snowflake-engineer-at-millennium-software-and-staffing-inc-4394721759": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4398344813": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-infrastructure-engineer-at-deepgram-4394485606": 1,
     "https://www.linkedin.com/jobs/view/chauffeur-op%c3%a9rateur-h-f-at-suez-4398387539": 1,
     "https://www.linkedin.com/jobs/view/pigment-consultant-at-codex-4398395982": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sr-devsecops-engineer-us-at-craft-co-4403565828": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-f-m-at-mytraffic-4387858954": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-at-kyra-4382123417": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-google-bing-ads-specialist-at-fmca-filings-4403516959": 1
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-google-bing-ads-specialist-at-fmca-filings-4403516959": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403036507": 1,
+    "https://www.linkedin.com/jobs/view/specialty-consultant-at-leidos-4403815182": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-team-of-one-at-highlevel-4380254435": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-shipbob-4371716149": 1,
+    "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390953065": 1,
+    "https://www.linkedin.com/jobs/view/director-global-strategy-planning-business-insights-at-the-coca-cola-company-4403555398": 1,
+    "https://www.linkedin.com/jobs/view/product-manager-latam-mexico-city-mexico-at-airbnb-4371008157": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
