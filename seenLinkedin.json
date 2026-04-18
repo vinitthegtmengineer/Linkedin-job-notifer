@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-marketing-marketing-manager-at-jobgether-4395459133": 1,
-    "https://www.linkedin.com/jobs/view/marketing-associate-at-corex-corp-4395456404": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-connect-plus-exchange-4395463321": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4395463555": 1,
     "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395449765": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390749329": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390751325": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-quik-hire-staffing-4403814124": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4403053273": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4403053273": 1,
+    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-land-at-fugro-4395435786": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4403065234": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
