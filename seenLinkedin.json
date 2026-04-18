@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4395463555": 1,
-    "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395449765": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-platform-engineer-applied-ai-llm-ops-at-ifit-4395445873": 1,
-    "https://www.linkedin.com/jobs/view/concrete-mixer-operator-4398547552": 1,
-    "https://www.linkedin.com/jobs/view/airtable-consultant-at-mbo-partners-4395457658": 1,
-    "https://www.linkedin.com/jobs/view/workflow-orchestration-engineer-at-begig-4398252727": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-strategic-planning-at-bodily-4398552959": 1,
     "https://www.linkedin.com/jobs/view/travel-skid-steer-operator-at-knobelsdorff-4398556494": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-demand-gen-operator-b2b-saas-at-troopr-labs-4395444022": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4403053273": 1,
     "https://www.linkedin.com/jobs/view/airborne-sensor-operator-land-at-fugro-4395435786": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4403065234": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4391776545": 1
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4391776545": 1,
+    "https://www.linkedin.com/jobs/view/aus-remote-pilot-operator-at-saic-4403835139": 1,
+    "https://www.linkedin.com/jobs/view/biologics-engineer-remote-at-crossing-hurdles-4403806973": 1,
+    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4403834804": 1,
+    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4403828998": 1,
+    "https://www.linkedin.com/jobs/view/biologics-engineer-remote-at-crossing-hurdles-4403822139": 1,
+    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4403825947": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
