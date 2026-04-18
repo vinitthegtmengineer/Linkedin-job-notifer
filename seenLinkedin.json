@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-systems-engineer-artificial-intelligence-operations-at-nvidia-4395468652": 1,
-    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-at-jobgether-4394776237": 1,
-    "https://www.linkedin.com/jobs/view/product-engineer-at-net2source-n2s-4398927427": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-trifactor-4398930239": 1,
     "https://www.linkedin.com/jobs/view/social-media-community-manager-at-flint-me-4398931186": 1,
     "https://www.linkedin.com/jobs/view/data-specialist-at-revver-4395461351": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-united-states-at-panther-4403587561": 1,
     "https://www.linkedin.com/jobs/view/full-time-email-sms-marketing-manager-40h-week-at-skinnify-4401204518": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-am%c3%a0re-caribe-m%c3%a9xicano-at-fuerte-group-4403570898": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-canada-at-panther-4403810055": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-canada-at-panther-4403810055": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726868": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4403075524": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4403070593": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
