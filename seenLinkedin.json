@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/databricks-engineer-remote-work-at-bairesdev-4395406576": 1,
-    "https://www.linkedin.com/jobs/view/senior-finops-engineer-aws-at-jobs-via-dice-4395480390": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398364586": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4398374162": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-a-aplica%c3%a7%c3%a3o-pl-at-metso-valmet-4395423065": 1,
-    "https://www.linkedin.com/jobs/view/senior-finops-engineer-at-first-american-india-4398217174": 1,
-    "https://www.linkedin.com/jobs/view/aveva-pi-engineer-at-cognizant-life-sciences-manufacturing-4303090133": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sur-global-4398903781": 1,
     "https://www.linkedin.com/jobs/view/senior-machine-learning-ml-ops-engineer-at-bizmoni-the-next-gen-ai-super-app-4395926304": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-manager-at-greenfi-4395930071": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/ai-abm-manager-at-scribe-4333093780": 1,
     "https://www.linkedin.com/jobs/view/local-policy-and-community-affairs-manager-at-wing-4391203740": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-commercial-operations-communications-at-the-hain-celestial-group-4390992865": 1,
-    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390966235": 1
+    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390966235": 1,
+    "https://www.linkedin.com/jobs/view/growth-partner-development-manager-at-omnissa-4381321314": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-executive-strategic-partner-sales-west-coast-at-simspace-4380729521": 1,
+    "https://www.linkedin.com/jobs/view/senior-vp-of-revenue-operations-svp-revops-at-remotehunter-4403036381": 1,
+    "https://www.linkedin.com/jobs/view/support-operations-manager-user-operations-at-swooped-4403823815": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-revenue-marketing-at-sprout-social-inc-4381319475": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-sled-at-ramp-4343108536": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-global-strategic-partnerships-us-at-loyalty-juggernaut-4403030836": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 55,
+    "cyclesToday": 56,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
