@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/estimator-engineer-us-at-keystone-security-services-4394479751": 1,
-    "https://www.linkedin.com/jobs/view/estimator-engineer-us-at-magentic-ai-4394493486": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-internal-agents-workflow-automation-remote-us-at-m-files-4398090614": 1,
-    "https://www.linkedin.com/jobs/view/data-ops-engineer-at-hut-8-4397972430": 1,
-    "https://www.linkedin.com/jobs/view/data-ai-engineer-%e2%80%93-process-intelligence-contract-at-blue-boy-consulting-4394468947": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-bayforce-4398005792": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-reliability-engineer-%e2%80%93-microsoft-365-enterprise-tools-at-genesys-4376044650": 1,
-    "https://www.linkedin.com/jobs/view/aws-operational-support-engineer-remote-pt-at-claranet-portugal-4394701944": 1,
     "https://www.linkedin.com/jobs/view/ai-platform-operations-engineer-at-facet-4394457993": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-ii-hybrid-in-bangalore-at-smartsheet-4380693672": 1,
     "https://www.linkedin.com/jobs/view/sr-reliability-operations-engineer-mexico-at-serve-robotics-4397993074": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-beauty-fashion-brands-freelance-at-kyra-4398501629": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-hubspot-multi-client-delivery-021-790-at-hunt-st-4402925182": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4403151812": 1,
-    "https://www.linkedin.com/jobs/view/operations-associate-at-consolidated-credit-4400859584": 1
+    "https://www.linkedin.com/jobs/view/operations-associate-at-consolidated-credit-4400859584": 1,
+    "https://www.linkedin.com/jobs/view/remote-portfolio-analyst-ai-trainer-at-val-s-services-4403555936": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4403517446": 1,
+    "https://www.linkedin.com/jobs/view/identity-access-management-iam-engineer-at-taskus-4400475351": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-at-netrolynx-ai-4403501644": 1,
+    "https://www.linkedin.com/jobs/view/brewing-process-engineer-at-the-foth-companies-4400490421": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-design-engineer-at-turvo-4403479564": 1,
+    "https://www.linkedin.com/jobs/view/logging-while-drilling-remote-operation-engineer-at-baker-hughes-4391399073": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-rockwell-automation-4390799181": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-18",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
