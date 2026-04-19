@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4399440709": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-customs-at-livingston-international-4398966760": 1,
     "https://www.linkedin.com/jobs/view/quest-campaign-manager-at-nordic-node-4398557459": 1,
     "https://www.linkedin.com/jobs/view/senior-customer-marketing-manager-at-oro-labs-4398482675": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/research-engineering-automation-at-teradata-4326708284": 1,
     "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4403888764": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-fever-4380809532": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-boghossian-group-4403309649": 1
+    "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-boghossian-group-4403309649": 1,
+    "https://www.linkedin.com/jobs/view/sr-backend-engineer-platform-engineering-network-data-at-kentik-4363465429": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
