@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-customs-at-livingston-international-4398966760": 1,
-    "https://www.linkedin.com/jobs/view/quest-campaign-manager-at-nordic-node-4398557459": 1,
-    "https://www.linkedin.com/jobs/view/senior-customer-marketing-manager-at-oro-labs-4398482675": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-ai-creative-content-systems-at-cash-app-4398453018": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-cannabis-industry-at-trip-studio-4392307726": 1,
     "https://www.linkedin.com/jobs/view/senior-director-strategy-operations-at-storable-4396366648": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4403888764": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-fever-4380809532": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-boghossian-group-4403309649": 1,
-    "https://www.linkedin.com/jobs/view/sr-backend-engineer-platform-engineering-network-data-at-kentik-4363465429": 1
+    "https://www.linkedin.com/jobs/view/sr-backend-engineer-platform-engineering-network-data-at-kentik-4363465429": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-pid0624-pid0625-at-interval-group-4403893959": 1,
+    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4401283470": 1,
+    "https://www.linkedin.com/jobs/view/b2b-technology-senior-social-media-strategist-at-unshakable-marketing-group-4404001828": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
