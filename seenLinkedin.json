@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-activants-4395978192": 1,
-    "https://www.linkedin.com/jobs/view/data-operations-engineer-at-veritone-4384488277": 1,
-    "https://www.linkedin.com/jobs/view/ca-consultant-at-verdicto-4395975053": 1,
-    "https://www.linkedin.com/jobs/view/operations-technology-systems-engineer-at-international-paper-4378659499": 1,
     "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375393862": 1,
     "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-seguridad-de-correo-trend-micro-%e2%80%93-sevilla-at-logicalis-spain-4395468432": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/sales-representative-call-center-field-%e2%80%93-hybrid-at-unified-cx-solutions-4403866248": 1,
     "https://www.linkedin.com/jobs/view/marketing-systems-ai-automation-manager-clay-experience-required-at-recorded-future-4390961804": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-project-coordinator-philippines-remote-at-growthassistant-4403857253": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-emea-at-trimble-inc-4371613028": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-emea-at-trimble-inc-4371613028": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-platform-at-samsara-4363292019": 1,
+    "https://www.linkedin.com/jobs/view/principal-engineer-software-production-engineering-chronosphere-at-palo-alto-networks-4393151099": 1,
+    "https://www.linkedin.com/jobs/view/production-engineer-at-collibra-4371395933": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4403855492": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
