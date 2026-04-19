@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/call-operations-operator-%2485-hr-remote-at-crossing-hurdles-4375393862": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-seguridad-de-correo-trend-micro-%e2%80%93-sevilla-at-logicalis-spain-4395468432": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-calqrisk-4399259075": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-operator-specialist-at-ayn-rand-institute-ari-4398256615": 1,
-    "https://www.linkedin.com/jobs/view/relationship-officer-balance-builder-mashreq-global-network-pakistan-at-mashreq-4382013626": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-americamp-4399264204": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-020-761-at-hunt-st-4399233518": 1,
     "https://www.linkedin.com/jobs/view/consultant-veeva-promomats-at-veeva-systems-4386848094": 1,
     "https://www.linkedin.com/jobs/view/maker-fellow-builder-at-emma-of-torre-ai-4399267675": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-platform-at-samsara-4363292019": 1,
     "https://www.linkedin.com/jobs/view/principal-engineer-software-production-engineering-chronosphere-at-palo-alto-networks-4393151099": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-collibra-4371395933": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4403855492": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4403855492": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-operator-meta-google-ads-remote-full-time-at-notum-4403859847": 1,
+    "https://www.linkedin.com/jobs/view/support-operations-engineer-all-genders-at-synaos-4401237721": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4392034261": 1,
+    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403087913": 1,
+    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403095833": 1,
+    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403080991": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
