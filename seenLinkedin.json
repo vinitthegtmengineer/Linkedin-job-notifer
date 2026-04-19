@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-closer-client-relations-specialist-at-stone-meets-clay-pottery-4398492626": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399265947": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399281223": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399261997": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-content-creation-lab-4401267041": 1,
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4401264379": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-lakebase-sales-specialists-at-databricks-4380290818": 1,
-    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390974108": 1
+    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390974108": 1,
+    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
