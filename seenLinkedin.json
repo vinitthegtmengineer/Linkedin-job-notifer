@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-voyager-tennis-academy-4397207276": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-gtm-operations-at-hackerone-4396309674": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-india-at-gitlab-4399487246": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-india-at-gitlab-4399475634": 1,
     "https://www.linkedin.com/jobs/view/remote-accountant-consultant-at-hirelatam-4398497519": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403312734": 1,
     "https://www.linkedin.com/jobs/view/vp-of-sales-%e2%80%93-medspa-aesthetics-industry-at-stealth-startup-4403308787": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-creative-strategist-at-mimshack-4404007426": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4403309758": 1
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4403309758": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jamloop-4404001990": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4404015177": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 51,
+    "cyclesToday": 52,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
