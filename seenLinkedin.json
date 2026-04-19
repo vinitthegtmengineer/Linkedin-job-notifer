@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4396383316": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-specialist-at-lastpass-4354451186": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-engineering-department-founder-at-bx-studio-4398493380": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-engineering-department-founder-at-bx-studio-4398473621": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-360-at-robert-partners-4396357872": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-pindrop-4396360575": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-remotehunter-4395972539": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/associate-vice-president-clinical-services-market-access-marketing-at-precision-medicine-group-4363427463": 1,
     "https://www.linkedin.com/jobs/view/senior-hubspot-solutions-consultant-remote-executive-workshops-%2b-revops-at-pave-talent-4403303494": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-sprinto-4280850157": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-social-media-manager-at-metaworld-consultant-4401266344": 1
+    "https://www.linkedin.com/jobs/view/brand-marketing-social-media-manager-at-metaworld-consultant-4401266344": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403308573": 1,
+    "https://www.linkedin.com/jobs/view/target-plus-readiness-consultant-4403090544": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-sales-systems-data-at-spring-health-4355432099": 1,
+    "https://www.linkedin.com/jobs/view/director-field-marketing-at-zeta-global-4320063698": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
