@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399281082": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399260843": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4399269672": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gururo-4398489412": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-medical-background-at-kepler-4398483411": 1,
     "https://www.linkedin.com/jobs/view/consumer-marketing-manager-india-at-openai-4374884124": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-brazil-%e2%80%93-pe-at-buscarvagas-empregos-brasil-4401258134": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-umberapp-4403099950": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4401267030": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281028": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281028": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403308098": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-content-creation-lab-4401267041": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
