@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-e-360-at-robert-partners-4396357872": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-pindrop-4396360575": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-remotehunter-4395972539": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-garner-health-4376005940": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-bx-studio-4398496134": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-bx-studio-4398479482": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-revpilots-4399435968": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403308573": 1,
     "https://www.linkedin.com/jobs/view/target-plus-readiness-consultant-4403090544": 1,
     "https://www.linkedin.com/jobs/view/senior-director-sales-systems-data-at-spring-health-4355432099": 1,
-    "https://www.linkedin.com/jobs/view/director-field-marketing-at-zeta-global-4320063698": 1
+    "https://www.linkedin.com/jobs/view/director-field-marketing-at-zeta-global-4320063698": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290927882": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311754029": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324775581": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-omokai-4401282566": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
