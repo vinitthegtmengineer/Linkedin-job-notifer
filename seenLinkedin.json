@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sur-global-4398903781": 1,
-    "https://www.linkedin.com/jobs/view/senior-machine-learning-ml-ops-engineer-at-bizmoni-the-next-gen-ai-super-app-4395926304": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-greenfi-4395930071": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-studio-yellow-4395932265": 1,
-    "https://www.linkedin.com/jobs/view/ml-ai-ops-engineer-at-veeam-software-4395940521": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4398436293": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-sun-home-4398952147": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-engineering-ai-systems-at-huzzle-com-4395430838": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-events-campaigns-at-clasp-4398960998": 1,
-    "https://www.linkedin.com/jobs/view/consultor-at-abbott-4398993854": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-ml-ops-engineer-hybrid-in-bangalore-at-smartsheet-4381350609": 1,
     "https://www.linkedin.com/jobs/view/distinguished-engineer-gpu-fleet-operations-automation-at-nvidia-4395469625": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-bms-hvac-at-honeywell-4376808103": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/support-operations-manager-user-operations-at-swooped-4403823815": 1,
     "https://www.linkedin.com/jobs/view/vice-president-revenue-marketing-at-sprout-social-inc-4381319475": 1,
     "https://www.linkedin.com/jobs/view/account-executive-sled-at-ramp-4343108536": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-global-strategic-partnerships-us-at-loyalty-juggernaut-4403030836": 1
+    "https://www.linkedin.com/jobs/view/senior-director-global-strategic-partnerships-us-at-loyalty-juggernaut-4403030836": 1,
+    "https://www.linkedin.com/jobs/view/excel-spreadsheet-consultant-remote-at-crossing-hurdles-4403030032": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-remote-latam-at-horizonia-4401222573": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-zillow-4403576770": 1,
+    "https://www.linkedin.com/jobs/view/gtm-analytics-lead-at-spellbook-4403566821": 1,
+    "https://www.linkedin.com/jobs/view/enablement-manager-gtm-go-to-market-at-versaterm-4381685166": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401208876": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-manager-influencer-marketing-at-content-lab-4403842382": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hologic-inc-4391613302": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4403820132": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-04-18",
-    "cyclesToday": 56,
+    "date": "2026-04-19",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
