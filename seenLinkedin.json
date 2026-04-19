@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/maker-fellow-builder-at-emma-of-torre-ai-4399267675": 1,
-    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399274319": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399281082": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399260843": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4399269672": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403080991": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-brazil-%e2%80%93-pe-at-buscarvagas-empregos-brasil-4401258134": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-umberapp-4403099950": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-umberapp-4403099950": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4401267030": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281028": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
