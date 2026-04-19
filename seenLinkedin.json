@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-revenue-operations-at-drata-4386986356": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-uk-at-think-jam-4386860629": 1,
-    "https://www.linkedin.com/jobs/view/technical-builder-at-blaney-4399286253": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-begood-4399278440": 1,
-    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399295164": 1,
-    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399291514": 1,
-    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399287533": 1,
-    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399279919": 1,
-    "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399289512": 1,
     "https://www.linkedin.com/jobs/view/1012-information-processing-operator-no-experience-required-night-shift-at-intetics-4399295166": 1,
     "https://www.linkedin.com/jobs/view/founding-ai-builder-head-of-ai-at-young-4399289214": 1,
     "https://www.linkedin.com/jobs/view/graduate-operations-engineer-at-hyra-4399297031": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4403310153": 1,
     "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390955852": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-%e2%80%94-b2b-campaign-execution-philippines-remote-at-growthassistant-4403857006": 1,
-    "https://www.linkedin.com/jobs/view/international-bpo-executive-at-appzoro-technologies-inc-4403305157": 1
+    "https://www.linkedin.com/jobs/view/international-bpo-executive-at-appzoro-technologies-inc-4403305157": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4346438948": 1,
+    "https://www.linkedin.com/jobs/view/engineering-lead-security-operations-at-anchorage-digital-4365637603": 1,
+    "https://www.linkedin.com/jobs/view/solutions-marketing-manager-at-ensono-4372952002": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281234": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-mysock-4403042770": 1,
+    "https://www.linkedin.com/jobs/view/manager-enterprise-strategic-marketing-usa-remote-at-fundraise-up-4390987925": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-specialist-at-cornerstone-ondemand-4391724073": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-assistant-philippines-remote-at-growthassistant-4403839406": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
