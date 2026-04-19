@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-partnerships-manager-square-at-square-4398613921": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-gtm-operations-at-hackerone-4395999699": 1,
-    "https://www.linkedin.com/jobs/view/head-of-isv-partnerships-experience-gtm-at-tenstorrent-4395949053": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-beauty-fashion-brands-at-kyra-4399410656": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-extuent-4398484939": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-campaign-manager-at-eteam-4399228295": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-at-fieldguide-4396382068": 1,
-    "https://www.linkedin.com/jobs/view/head-of-retention-at-dtc-e-commerce-business-remote-us-based-at-paired-4398432681": 1,
     "https://www.linkedin.com/jobs/view/sr-people-relations-consultant-at-harvey-nash-4396382560": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4399440709": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-customs-at-livingston-international-4398966760": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-director-enterprise-marketing-at-avid-technology-professionals-4404004518": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90devops%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e3%80%91%e6%8a%80%e8%a1%93%c3%97wlb-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%af%94%e7%8e%8795%25%e3%80%80%e6%ae%8b%e6%a5%ad%e6%9c%8810h%e4%bb%a5%e4%b8%8b-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e8%b1%86%e8%94%b5-4403898757": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-playnext-lab-inc-4404009084": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-playnext-lab-inc-4403891910": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-playnext-lab-inc-4403891910": 1,
+    "https://www.linkedin.com/jobs/view/proofpoint-email-protection-engineer-at-telekomplex-4403895437": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specialist-%2480-hr-remote-at-crossing-hurdles-4372054621": 1,
+    "https://www.linkedin.com/jobs/view/paid-embedded-engineering-internship-hardware-pcb-design-%e2%80%93-remote-at-fti-solutions-4401281055": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4403891341": 1,
+    "https://www.linkedin.com/jobs/view/senior-preconstruction-engineering-specialist-at-harris-3831130447": 1,
+    "https://www.linkedin.com/jobs/view/research-engineering-automation-at-teradata-4326708284": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4403888764": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-fever-4380809532": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
