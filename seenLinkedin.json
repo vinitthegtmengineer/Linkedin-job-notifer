@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-accountant-consultant-at-hirelatam-4398497519": 1,
-    "https://www.linkedin.com/jobs/view/sr-consultant-sf-ec-onboarding-at-insight-global-4396382742": 1,
     "https://www.linkedin.com/jobs/view/product-builder-software-development-engineer-at-kagaar-4396395960": 1,
     "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-hso-4396360012": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-software-engineer-at-window-property-group-buyer%e2%80%99s-agency-4397204694": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jamloop-4404001990": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4404015177": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-events-social-at-jamloop-4404013228": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-jamloop-4404003885": 1
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-jamloop-4404003885": 1,
+    "https://www.linkedin.com/jobs/view/flutterflow-full-stack-builder-ai-native-pixel-perfect-at-human-intelligence-4404010424": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4403315756": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 53,
+    "cyclesToday": 54,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
