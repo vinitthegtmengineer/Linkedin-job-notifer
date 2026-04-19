@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-and-operations-lead-020-761-at-hunt-st-4399233518": 1,
     "https://www.linkedin.com/jobs/view/consultant-veeva-promomats-at-veeva-systems-4386848094": 1,
     "https://www.linkedin.com/jobs/view/maker-fellow-builder-at-emma-of-torre-ai-4399267675": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-mlabs-4399274319": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403087913": 1,
     "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403095833": 1,
     "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403080991": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1,
+    "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-brazil-%e2%80%93-pe-at-buscarvagas-empregos-brasil-4401258134": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-19",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
