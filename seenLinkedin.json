@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398827793": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398835545": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-smoove-at-pexa-4398828761": 1,
-    "https://www.linkedin.com/jobs/view/brand-strategy-manager-at-celarity-4397288316": 1,
-    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-arom-grips-4398833968": 1,
-    "https://www.linkedin.com/jobs/view/workflow-builder-at-nscale-4398803940": 1,
-    "https://www.linkedin.com/jobs/view/project-support-office-%e2%80%93-process-engineer-at-harman-india-4398830855": 1,
-    "https://www.linkedin.com/jobs/view/leadership-excellence-acceleration-pathway-associate-at-legend-biotech-4398838096": 1,
-    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4397287807": 1,
     "https://www.linkedin.com/jobs/view/regional-sales-engineer-chillers-western-us-at-lg-electronics-north-america-4329171537": 1,
     "https://www.linkedin.com/jobs/view/cruise-marketing-content-executive-at-cruise-circle-4400259044": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4398836452": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-de-production-h-f-at-inetum-4404076807": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-solutions-engineer-at-softserve-4391873015": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403358995": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403358995": 1,
+    "https://www.linkedin.com/jobs/view/berater-in-f%c3%bcr-haushaltsger%c3%a4te-und-kochen-region-z%c3%bcrich-at-v-zug-4403602754": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-nuclear-at-us-tech-solutions-4401639217": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-production-engineering-at-figma-4239981549": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-python-at-prima-4077411227": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-avrio-ai-4404089621": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-executive-remote-%e2%80%93-philippines-at-ucm-global-talent-4403602691": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-social-media%e2%80%af-marketing-at-genpact-4401641193": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403355965": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403371787": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
