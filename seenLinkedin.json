@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-strategist-at-h-a-resources-llc-4398817320": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1,
-    "https://www.linkedin.com/jobs/view/power-builder-developer-remote-at-decskill-4398685811": 1,
-    "https://www.linkedin.com/jobs/view/dataops-engineer-remote-latin-america-at-fullstack-4377516394": 1,
-    "https://www.linkedin.com/jobs/view/p-c-engineer-at-lvi-associates-4399273594": 1,
-    "https://www.linkedin.com/jobs/view/dataops-engineer-remote-latin-america-at-fullstack-4377513371": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399884180": 1,
-    "https://www.linkedin.com/jobs/view/recruiting-engineer-at-sully-ai-4387604822": 1,
-    "https://www.linkedin.com/jobs/view/engineer-managed-services-contact-center-remote-at-presidio-4399295385": 1,
-    "https://www.linkedin.com/jobs/view/ecm-engineer-at-smartedge-solutions-4398821412": 1,
-    "https://www.linkedin.com/jobs/view/dataops-engineer-remote-latin-america-at-fullstack-4377505475": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88ok%e3%80%91se%e3%83%bb%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-rgf-professional-recruitment-japan-4397273062": 1,
     "https://www.linkedin.com/jobs/view/commercetools-engineer-at-yochana-4397281551": 1,
     "https://www.linkedin.com/jobs/view/manager-of-sales-perfectscale-north-america-at-doit-4375278337": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404033852": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404039689": 1,
     "https://www.linkedin.com/jobs/view/content-executive-at-flexiple-4403361546": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-talentpop-app-4401287464": 1
+    "https://www.linkedin.com/jobs/view/marketing-assistant-at-talentpop-app-4401287464": 1,
+    "https://www.linkedin.com/jobs/view/senior-wastewater-treatment-plant-operator-senior-utility-operator-scba-at-city-of-phoenix-4404072116": 1,
+    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4291074541": 1,
+    "https://www.linkedin.com/jobs/view/sac-consultant-at-red-global-4401622110": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403373595": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-timely-recruit-ltd-4404073097": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4404066083": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-curemate-4401609118": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403375069": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403369808": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403363879": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403356988": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
