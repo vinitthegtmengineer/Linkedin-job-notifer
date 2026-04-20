@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/customer-marketing-executive-remote-at-jobgether-4397625206": 1,
-    "https://www.linkedin.com/jobs/view/systems-administrator-at-bloomerang-4398653110": 1,
-    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400291315": 1,
     "https://www.linkedin.com/jobs/view/senior-vp-of-revenue-operations-svp-revops-at-jobgether-4397224202": 1,
     "https://www.linkedin.com/jobs/view/junior-event-producer-at-bucket-listers-4397606953": 1,
     "https://www.linkedin.com/jobs/view/marketing-ops-associate-at-crux-4400297149": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-lightspeed-dms-4404333867": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-at-tjm-labs-4404333533": 1,
     "https://www.linkedin.com/jobs/view/exterro-consultant-at-brooksource-4403651067": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4404357011": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-lonely-planet-at-lonely-planet-4404357011": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%8d%b4-consultant-e-soci%c3%a9t%c3%a9s-de-restauration-f-h-at-le-c%c3%a8dre-4401659427": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-celonis-at-genpact-4404355411": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-process-intelligence-at-genpact-4404363297": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
