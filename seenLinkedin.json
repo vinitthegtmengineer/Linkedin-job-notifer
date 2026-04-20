@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-a-class-marble-india-pvt-ltd-4400213573": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-hip2save-4397266833": 1,
-    "https://www.linkedin.com/jobs/view/remote-closer-client-relations-specialist-at-stone-meets-clay-pottery-4398830559": 1,
-    "https://www.linkedin.com/jobs/view/senior-pam-operations-engineer-m-w-d-%e2%80%93-cyberark-at-ic-consult-4398823559": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-ontra-4397289109": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-partnerships-at-damoov-4399889965": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-%2b-tiktok-shop-at-scent-haus-4400223362": 1,
     "https://www.linkedin.com/jobs/view/epic-tapestry-builder-analyst-at-jobs-via-dice-4396342660": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403376099": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403370906": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403354979": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-jobgether-4403387085": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-jobgether-4403387085": 1,
+    "https://www.linkedin.com/jobs/view/fractional-growth-operator-part-time-contract-london-preferred-at-crumb-4404060433": 1,
+    "https://www.linkedin.com/jobs/view/salesforce-engineer-at-eden-scott-4401622340": 1,
+    "https://www.linkedin.com/jobs/view/tele-marketing-executive-at-co2a-global-co2analysis-4404074486": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-carpe-diem-team-4401617293": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403371832": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
