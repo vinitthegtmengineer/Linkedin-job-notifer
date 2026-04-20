@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-expert-pigment-at-codex-4399893635": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rollstack-4400277950": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91go-python%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-fenrir-inc-4400285233": 1,
     "https://www.linkedin.com/jobs/view/customer-success-operations-lead-at-doxel-4399802450": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-builder-ui-at-noxx-4400291757": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/builder-specialist-at-nexien-inc-4403659354": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4404366525": 1,
     "https://www.linkedin.com/jobs/view/sr-field-ops-engineer-at-tekwissen-%c2%ae-4403658318": 1,
-    "https://www.linkedin.com/jobs/view/gm-emea-growth-expansion-at-fundraise-up-4404355652": 1
+    "https://www.linkedin.com/jobs/view/gm-emea-growth-expansion-at-fundraise-up-4404355652": 1,
+    "https://www.linkedin.com/jobs/view/settlement-and-trading-operations-engineer-at-zerohash-4401661639": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-coordinator-at-natera-4401671581": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
