@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/konsultant-konsultantka-klienta-biznesowego-at-praca-pl-4400287475": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-striv-ai-4397623000": 1,
     "https://www.linkedin.com/jobs/view/technical-builder-at-blaney-4400289150": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91python%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e5%9b%bd%e5%86%85%e3%83%88%e3%83%83%e3%83%97%e3%82%b7%e3%82%a7%e3%82%a2%e9%81%a0%e9%9a%94%e7%94%bb%e5%83%8f%e8%a8%ba%e6%96%ad%e6%94%af%e6%8f%b4%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9-at-doctor-net-inc-4400273872": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/growth-expert-m-w-d-remote-at-zimmer-consulting-ehem-social-selling-4403629760": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-ranger-technical-resources-4389283628": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-burgeon-palms-4404347061": 1,
-    "https://www.linkedin.com/jobs/view/ess-pm-engineer-eastern-coast-at-contemporary-amperex-technology-usa-inc-4404343192": 1
+    "https://www.linkedin.com/jobs/view/ess-pm-engineer-eastern-coast-at-contemporary-amperex-technology-usa-inc-4404343192": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-process-manager-delhi-ncr-at-coursera-4381550784": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
