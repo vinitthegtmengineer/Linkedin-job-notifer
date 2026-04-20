@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e6%8a%80%e8%a1%93%e5%bf%97%e5%90%91%e3%83%bb%e3%83%9e%e3%83%8d%e3%82%b8%e3%83%a1%e3%83%b3%e3%83%88%e5%bf%97%e5%90%91%e3%81%84%e3%81%9a%e3%82%8c%e3%82%82%e6%ad%93%e8%bf%8e%ef%bc%8f%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%aa%e3%82%b9%e3%83%88%e5%80%99%e8%a3%9c%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%90%ef%bd%92%ef%bd%8f%ef%bd%96%ef%bd%89%ef%bd%93%ef%bd%89%ef%bd%8f%ef%bd%8e-4400280405": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e9%98%aa-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-fenrir-inc-4400273813": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%a5%ad%e7%95%8cno-1-m-a%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0batonz%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%90%e3%83%88%e3%83%b3%e3%82%ba-4400266933": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e4%ba%ac%e9%83%bd-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91-%e3%82%b9%e3%83%9e%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%b3%e3%82%a2%e3%83%97%e3%83%aa-%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%89-at-fenrir-inc-4400269911": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-wpromote-4400250737": 1,
     "https://www.linkedin.com/jobs/view/konsultant-konsultantka-klienta-biznesowego-at-praca-pl-4400287475": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-striv-ai-4397623000": 1,
     "https://www.linkedin.com/jobs/view/technical-builder-at-blaney-4400289150": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/brand-coordinator-at-hr-soul-4404316676": 1,
     "https://www.linkedin.com/jobs/view/wms-consultant-%e2%80%93-manhattan-active-wms-specialist-at-pacer-staffing-4403639446": 1,
     "https://www.linkedin.com/jobs/view/insurance-agency-builder-ai-sme-at-kforce-inc-4404313762": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-jobgether-4403623761": 1
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-jobgether-4403623761": 1,
+    "https://www.linkedin.com/jobs/view/partnerships-consultant-at-reliefweb-4404339036": 1,
+    "https://www.linkedin.com/jobs/view/growth-expert-m-w-d-remote-at-zimmer-consulting-ehem-social-selling-4403629760": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-ranger-technical-resources-4389283628": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-burgeon-palms-4404347061": 1,
+    "https://www.linkedin.com/jobs/view/ess-pm-engineer-eastern-coast-at-contemporary-amperex-technology-usa-inc-4404343192": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
