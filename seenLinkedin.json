@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-peoplewiz-consulting-llp-4398848342": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399880284": 1,
-    "https://www.linkedin.com/jobs/view/dataops-engineer-remote-latin-america-at-fullstack-4377510424": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineering-director-at-ispot-4385895232": 1,
-    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4399883287": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399882216": 1,
-    "https://www.linkedin.com/jobs/view/framecore-farm-engineer-at-akkodis-4398832643": 1,
-    "https://www.linkedin.com/jobs/view/aiops-mlops-engineer-at-logicalis-spain-4397616102": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4399869659": 1,
     "https://www.linkedin.com/jobs/view/quadient-inspire-engineer-at-flexton-inc-4400258557": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-expans%c3%a3o-pj-at-rodney-company-4398836574": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/python-software-engineer-at-prima-4149696449": 1,
     "https://www.linkedin.com/jobs/view/senior-product-designer-ai-builders-at-cresta-4403640147": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-thryv-4403626306": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-vaxcyte-4364520841": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-vaxcyte-4364520841": 1,
+    "https://www.linkedin.com/jobs/view/dbs-consultant-europe-at-brainlab-4404318554": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-fiber-engineering-construction-at-brightspeed-4404322685": 1,
+    "https://www.linkedin.com/jobs/view/senior-python-engineer-%e2%80%93-ml-platform-at-prima-4283560381": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-solutions-engineer-at-softserve-4391871105": 1,
+    "https://www.linkedin.com/jobs/view/sr-staff-full-stack-software-engineer-%e2%80%93-infrastructure-platforms-at-cision-4404322023": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieur-elektrotechnik-im-gesundheitswesen-m-w-d-at-m%c3%bcller-bleher-group-4403602354": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-madanapalle-institute-of-technology-science-4401655023": 1,
+    "https://www.linkedin.com/jobs/view/brand-coordinator-at-hr-soul-4404316676": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
