@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/berater-coach-m-w-d-unternehmensberatung-gr%c3%bcndungscoaching-at-planerfolg-gmbh-4398689779": 1,
-    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397220687": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-communications-executive-at-crantech-4397226633": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%8f%e3%83%87%e3%82%b9%e3%82%af%e3%83%88%e3%83%83%e3%83%97%e8%a3%bd%e5%93%81%ef%bc%89%e2%80%bb%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%80%99%e8%a3%9c-at-yayoi-co-ltd-4399450155": 1,
     "https://www.linkedin.com/jobs/view/director-of-sales-at-lob-4387469893": 1,
     "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397228574": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/global-key-account-manager-at-sgs-4404001525": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-i-at-housecall-pro-4382178714": 1,
     "https://www.linkedin.com/jobs/view/senior-channel-account-manager-mssp-at-scout-global-4399731575": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-revolut-business-at-revolut-4323365089": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-revolut-business-at-revolut-4323365089": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%af%e3%83%bc%e3%82%af%e3%82%b9-4404009064": 1,
+    "https://www.linkedin.com/jobs/view/blockchain-engineering-evangelist-subject-matter-expert-sme-at-marketeq-talent-4403365138": 1,
+    "https://www.linkedin.com/jobs/view/head-of-performance-marketing-at-fmcg-confidential-4403360106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-20",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
