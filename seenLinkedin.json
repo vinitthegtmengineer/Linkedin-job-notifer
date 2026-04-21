@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-operations-manager-at-premier-talent-partners-4397626630": 1,
-    "https://www.linkedin.com/jobs/view/regional-general-manager-alberta-atlantic-canada-at-uride-4397608966": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-virtustant-4398822511": 1,
-    "https://www.linkedin.com/jobs/view/date-entry-operator-at-jobs-via-dice-4397668335": 1,
-    "https://www.linkedin.com/jobs/view/in-dealership-consultant-minnesota-at-transcend-creative-group-4400344763": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-mash-4382491921": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-operations-coordinator-at-jobgether-4397617459": 1,
     "https://www.linkedin.com/jobs/view/paid-digital-marketing-manager-at-stripe-4378080528": 1,
     "https://www.linkedin.com/jobs/view/soultions-engineer-presales-at-aera-technology-4398896000": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-engineer-at-kforce-inc-4404318792": 1,
     "https://www.linkedin.com/jobs/view/marketing-brand-consultant-speaker-agent-focus-at-wealthing-vc-club-4403691885": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-autocolor-service-inc-4403699321": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404042535": 1
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404042535": 1,
+    "https://www.linkedin.com/jobs/view/operadores-en-24x7-con-o-sin-experiencia-previa-at-inetum-4404344595": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-monitoreo-at-avos-tech-chile-4404533455": 1,
+    "https://www.linkedin.com/jobs/view/administrador-a-y-operador-a-de-plataforma-microsoft-dynamics-365-crm-at-experience-it-solutions-4404306260": 1,
+    "https://www.linkedin.com/jobs/view/jci-nabh-consultant-india-at-aprn-world%c2%ae-4403683891": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-100%25-remote-europe-at-hostaway-4404378195": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-sezzle-4404526826": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
