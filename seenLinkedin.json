@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-manager-port-engineer-remote-at-v2x-inc-4387881018": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397629434": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-rithum-4378049877": 1,
-    "https://www.linkedin.com/jobs/view/remote-operation-engineer-at-linde-europe-4369087422": 1,
     "https://www.linkedin.com/jobs/view/copilot-consultant-at-primeit-espa%c3%b1a-4400537264": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-delivery-manager-at-jobgether-4398104984": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-hadron-talent-hadronfinsys-4400375647": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404552943": 1,
     "https://www.linkedin.com/jobs/view/ai-software-engineer-at-logicive-4401922886": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-sanderson-4404558906": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-sanderson-4404558906": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401931350": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404554988": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-panic-stations-4404570891": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4403662326": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
