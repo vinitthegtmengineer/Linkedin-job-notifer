@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-sales-development-manager-at-motion-creative-analytics-4400646440": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-social-media-manager-at-revolut-4398169524": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketplace-at-staples-4400643082": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-kuros-biosciences-4400635947": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-at-scale-army-careers-4398195696": 1,
-    "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4399021025": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-modash-4400576324": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-modash-4400567841": 1,
     "https://www.linkedin.com/jobs/view/gtm-marketer-at-digital-waffle-4398150261": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-decisionpoint-corporation-4404856894": 1,
     "https://www.linkedin.com/jobs/view/apprentice-operations-engineer-end-user-computing-f-m-d-at-decathlon-digital-4403997960": 1,
     "https://www.linkedin.com/jobs/view/content-design-marketing-executive-at-baringa-4404210327": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-the-colab-4404202031": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-the-colab-4404202031": 1,
+    "https://www.linkedin.com/jobs/view/builders-direct-desk-agent-remote-in-co-az-ut-or-nm-at-wm-4403998965": 1,
+    "https://www.linkedin.com/jobs/view/remote-asset-process-engineer-at-georgia-pacific-4403951908": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403992184": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-pracheta-edutech-4404221032": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-personal-brand-content-engine-at-experience-ventures-4404205378": 1,
+    "https://www.linkedin.com/jobs/view/strategic-program-lead-pricing-inventory-at-playlist-4401969414": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
