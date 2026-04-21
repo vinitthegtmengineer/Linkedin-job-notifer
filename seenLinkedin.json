@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369269652": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369270659": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397623602": 1,
     "https://www.linkedin.com/jobs/view/project-manager-port-engineer-remote-at-v2x-inc-4387881018": 1,
     "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397629434": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-rithum-4378049877": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/growth-manager-at-bitget-wallet-4404065602": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operational-excellence-at-becu-4404536441": 1,
     "https://www.linkedin.com/jobs/view/vp-partners-and-alliances-at-kantata-4382167576": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404552943": 1,
+    "https://www.linkedin.com/jobs/view/ai-software-engineer-at-logicive-4401922886": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-sanderson-4404558906": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
