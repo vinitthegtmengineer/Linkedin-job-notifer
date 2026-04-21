@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-watson-marlow-north-america-4378107140": 1,
-    "https://www.linkedin.com/jobs/view/%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%bd%d0%b0-%d0%bf%d0%b0%d1%80%d0%be%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-f-m-x-at-solvay-4388333108": 1,
-    "https://www.linkedin.com/jobs/view/consultant-brazil-at-sailpoint-4388104875": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4377284727": 1,
-    "https://www.linkedin.com/jobs/view/ic-net-engineer-operations-reliability-at-blue-signal-search-4353634423": 1,
-    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387879305": 1,
-    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387865909": 1,
-    "https://www.linkedin.com/jobs/view/projects-engineering-general-manager-at-dragon-oil-4400376340": 1,
-    "https://www.linkedin.com/jobs/view/client-success-engineer-implementation-at-rithum-4387880664": 1,
-    "https://www.linkedin.com/jobs/view/product-sales-specialist-at-grotech-search-4389612154": 1,
     "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4400508357": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-fully-remote-part-time-4400349729": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-manager-at-huzzle-com-4400509184": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/product-marketing-manager-email-security-at-carter-murray-4403370759": 1,
     "https://www.linkedin.com/jobs/view/chief-revenue-officer-commissioned-base-at-sparta-connect-4044076659": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-crypto-com-4401901826": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-hays-4404363852": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-hays-4404363852": 1,
+    "https://www.linkedin.com/jobs/view/personal-assistant-executive-operator-at-voie-digital-4401906941": 1,
+    "https://www.linkedin.com/jobs/view/coach-consultant-formateur-at-cslt-connect-4404553518": 1,
+    "https://www.linkedin.com/jobs/view/ml-data-ops-engineer-at-tact-4404564519": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-laxis-4404328402": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-the-talenthq-4402705185": 1,
+    "https://www.linkedin.com/jobs/view/marketing-social-media-manager-at-vertu-agent-4404560485": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-digital-marketing-agency-at-huzzle-com-4404559055": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-gaming-part-time-at-keywords-studios-4404326396": 1,
+    "https://www.linkedin.com/jobs/view/crm-manager-copy-at-f%c3%a9lix-4403692775": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-connected-creative-4403633922": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
