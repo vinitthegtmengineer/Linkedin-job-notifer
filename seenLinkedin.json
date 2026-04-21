@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/contact-center-production-control-engineer-amazon-connect-preferable-at-miratech-4399042484": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-full-stack-stripe-engineer-at-slalom-4397612816": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-full-stack-stripe-engineer-at-slalom-4397624577": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-full-stack-stripe-engineer-at-slalom-4397620719": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369270652": 1,
-    "https://www.linkedin.com/jobs/view/slalom-flex-project-based-full-stack-stripe-engineer-at-slalom-4397618731": 1,
-    "https://www.linkedin.com/jobs/view/sr-software-engineer-platform-at-neogov-4369464598": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369256846": 1,
     "https://www.linkedin.com/jobs/view/distinguished-project-engineer-data-center-power-plant-primoris-energy-services-at-primoris-services-corporation-4389781794": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109028": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387899548": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-cofounder-food-nutrition-healthtech-at-peppermint-4403637068": 1,
     "https://www.linkedin.com/jobs/view/gtm-programs-lead-at-jobgether-4403605764": 1,
     "https://www.linkedin.com/jobs/view/assistant-manager-manager-campaign-management-us-markets-at-darwinbox-4404502360": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-new-manila-4403967776": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-new-manila-4403967776": 1,
+    "https://www.linkedin.com/jobs/view/senior-netsuite-consultant-at-foretopia-4403993157": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401931394": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403985335": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403994153": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403972788": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403988219": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-emea-at-jitterbit-4392932148": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-%e2%80%93-real-estate-marketing-at-cleardesk-4401643851": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
