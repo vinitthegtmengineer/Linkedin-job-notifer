@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-huntsville-4399062865": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-at-jobgether-4398125746": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-at-jobgether-4397682823": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-hr-solutions-at-mitratech-4399056893": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/consultant-exp%c3%a9riment%c3%a9-en-restructuration-d-entreprises-f-h-at-deloitte-4392112501": 1,
     "https://www.linkedin.com/jobs/view/kinetic-tools-consultant-at-washington-frank-international-4399045464": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-ev-charging-and-building-electrification-at-chargefwd-4404217881": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4404225465": 1
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4404225465": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-retention-marketing-at-dibs-beauty-4404909348": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
