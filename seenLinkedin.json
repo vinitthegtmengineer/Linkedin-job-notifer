@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4400508357": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-fully-remote-part-time-4400349729": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-content-manager-at-huzzle-com-4400509184": 1,
-    "https://www.linkedin.com/jobs/view/lead-engineer-workflow-builder-dsl-at-highlevel-4353431272": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-boston-at-giga-4363620496": 1,
-    "https://www.linkedin.com/jobs/view/renewals-retention-manager-renewals-strategy-specialist-at-samsara-4375589029": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-confidential-careers-4399023279": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-pt-union-sampoerna-triputra-persada-4398109017": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-vp-of-marketing-at-boldr-4397638436": 1,
-    "https://www.linkedin.com/jobs/view/amazon-marketplace-consultant-german-spanish-italian-at-virtuhire-4400510986": 1,
-    "https://www.linkedin.com/jobs/view/in-dealership-consultant-minnesota-at-jackson-dawson-4400344763": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286649035": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369269652": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369270659": 1,
     "https://www.linkedin.com/jobs/view/slalom-flex-project-based-sr-python-data-engineer-at-slalom-4397623602": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/account-manager-digital-marketing-agency-at-huzzle-com-4404559055": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-gaming-part-time-at-keywords-studios-4404326396": 1,
     "https://www.linkedin.com/jobs/view/crm-manager-copy-at-f%c3%a9lix-4403692775": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-connected-creative-4403633922": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-connected-creative-4403633922": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-dermatologist-at-myskindoctor-4404562558": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-unily-4401928166": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-kuala-lumpur-at-xsolla-4395171336": 1,
+    "https://www.linkedin.com/jobs/view/social-media-community-manager-at-centro-ortnec-4401920747": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-marketing-manager-57553409624-at-somewhere-4404330659": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-operations-manager-at-autodesk-4403657775": 1,
+    "https://www.linkedin.com/jobs/view/operations-influencer-management-shownmedia-at-global-finance-teams-4404318480": 1,
+    "https://www.linkedin.com/jobs/view/crm-commercial-assistant-at-liaison-group-4403659383": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operational-excellence-at-becu-4404527514": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-bitget-wallet-4404065602": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operational-excellence-at-becu-4404536441": 1,
+    "https://www.linkedin.com/jobs/view/vp-partners-and-alliances-at-kantata-4382167576": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
