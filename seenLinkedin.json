@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/copilot-consultant-at-primeit-espa%c3%b1a-4400537264": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-delivery-manager-at-jobgether-4398104984": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-hadron-talent-hadronfinsys-4400375647": 1,
-    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378062584": 1,
     "https://www.linkedin.com/jobs/view/director-channel-alliances-emea-at-vanta-4387784601": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4400397548": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401931350": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404554988": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-at-panic-stations-4404570891": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4403662326": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4403662326": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-expert-at-fyndr-4403943817": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401931357": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-at-nooks-4372569372": 1,
+    "https://www.linkedin.com/jobs/view/director-customer-success-at-wrike-4404554121": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
