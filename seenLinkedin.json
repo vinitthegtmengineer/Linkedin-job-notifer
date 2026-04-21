@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-modash-4400576324": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-modash-4400567841": 1,
-    "https://www.linkedin.com/jobs/view/gtm-marketer-at-digital-waffle-4398150261": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-remote-eu-m-f-d-at-weflow-4398139784": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-pandadoc-4369211319": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-teleport-4400663037": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403992184": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-pracheta-edutech-4404221032": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-personal-brand-content-engine-at-experience-ventures-4404205378": 1,
-    "https://www.linkedin.com/jobs/view/strategic-program-lead-pricing-inventory-at-playlist-4401969414": 1
+    "https://www.linkedin.com/jobs/view/strategic-program-lead-pricing-inventory-at-playlist-4401969414": 1,
+    "https://www.linkedin.com/jobs/view/senior-i-o-consultant-at-shl-4404871245": 1,
+    "https://www.linkedin.com/jobs/view/mid-data-engineer-3-month-project-at-enroute-4404876555": 1,
+    "https://www.linkedin.com/jobs/view/senior-field-marketing-manager-at-celigo-4401977151": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
