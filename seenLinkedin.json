@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-marketing-operations-at-ontra-4397296014": 1,
-    "https://www.linkedin.com/jobs/view/director-of-retail-and-cpg-strategy-and-gtm-2026-at-jobgether-4396393984": 1,
-    "https://www.linkedin.com/jobs/view/gtm-readiness-lead-at-exol-4397619759": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-intentsify-4386932665": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-dijitally-4397203251": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-hootsuite-4397206402": 1,
-    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4400332311": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-vp-of-marketing-at-boldr-4397651203": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-always-on-at-the-motley-fool-4400283435": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-coordinator-at-onekloudx-4396390300": 1,
     "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397215769": 1,
     "https://www.linkedin.com/jobs/view/associate-manager-email-marketing-and-automation-remote-at-stryker-4397619911": 1,
     "https://www.linkedin.com/jobs/view/director-of-e-commerce-derm-brand-at-jobgether-4397222697": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401287836": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-roadie-4401646148": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-veriforce-4403663996": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-retail-kiosk-assistant-4403675755": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-retail-kiosk-assistant-4403675755": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403671767": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404040571": 1,
+    "https://www.linkedin.com/jobs/view/pki-engineer-at-dunhill-professional-search-government-solutions-4404354990": 1,
+    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4404034774": 1,
+    "https://www.linkedin.com/jobs/view/%e6%83%85%e3%82%b7%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bebtn%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-4403690608": 1,
+    "https://www.linkedin.com/jobs/view/fgpa-emulation-engineer-at-skywaves-rise-4404384299": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-at-sky-systems-inc-skysys-4404364296": 1,
+    "https://www.linkedin.com/jobs/view/electrodynamics-engineer-%e2%80%93-work-from-home-at-mercor-4403611545": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-hackajob-4395347185": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-kforce-inc-4404318792": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
