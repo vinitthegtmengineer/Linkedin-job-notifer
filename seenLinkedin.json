@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-seh-4400343432": 1,
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4398157120": 1,
-    "https://www.linkedin.com/jobs/view/solr-consultant-at-pineq-lab-technology-4399045755": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-long-island-east-%234750-at-grail-4398165245": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-paid-media-meta-operator-at-podpitch-4398158409": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-bloom-at-sword-health-4400579366": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-paid-media-meta-operator-at-podpitch-4398163425": 1,
-    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-tvscientific-at-pinterest-4378075392": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-kelleher-international-4397670462": 1,
     "https://www.linkedin.com/jobs/view/loyalty-crm-coordinator-at-qdoba-restaurant-corporation-4398162411": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4399048350": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-huntsville-4399055357": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-market-access-at-hlx-technology-4404804751": 1,
     "https://www.linkedin.com/jobs/view/remote-asset-process-engineer-at-georgia-pacific-llc-4401955818": 1,
     "https://www.linkedin.com/jobs/view/cloud-operations-engineer-at-provenir-4324123398": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-parloa-4393583692": 1
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-parloa-4393583692": 1,
+    "https://www.linkedin.com/jobs/view/sales-agronomist-iii-dekalb-asgrow-at-bayer-4404837267": 1,
+    "https://www.linkedin.com/jobs/view/cloudflare-engineer-at-pineq-lab-technology-4401694389": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-joveo-ai-4404559006": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-jobs-ai-4404586794": 1,
+    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-joblet-ai-4404834160": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-at-joveo-ai-4404540970": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-at-joblet-ai-4404580938": 1,
+    "https://www.linkedin.com/jobs/view/agent-engineer-ai-at-stealth-video-generation-startup-4404328855": 1,
+    "https://www.linkedin.com/jobs/view/project-engineering-manager-at-morson-edge-canada-4403980824": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
