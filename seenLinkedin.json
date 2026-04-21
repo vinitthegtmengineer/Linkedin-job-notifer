@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4398102925": 1,
-    "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4398147220": 1,
-    "https://www.linkedin.com/jobs/view/remote-content-marketing-manager-at-jobgether-4397626204": 1,
-    "https://www.linkedin.com/jobs/view/consultant-mag-uk-strategic-reward-review-at-mag-mines-advisory-group-4400561187": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4398153169": 1,
-    "https://www.linkedin.com/jobs/view/production-systems-engineer-data-application-support-at-gitmax-4398134408": 1,
-    "https://www.linkedin.com/jobs/view/observability-operations-engineer-at-fullbay-4400565168": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-pangaea-4398147085": 1,
     "https://www.linkedin.com/jobs/view/operator-enablement-architect-at-creatorxchange-4398144508": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388106296": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102443": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-randstad-digital-romania-4403957700": 1,
     "https://www.linkedin.com/jobs/view/chief-revenue-officer-series-c-ai-automation-business-100%25-yoy-growth-at-zearch-4403934986": 1,
     "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381891317": 1,
-    "https://www.linkedin.com/jobs/view/email-sms-marketing-manager-klaviyo-lead-for-an-ecommerce-brand-us-based-at-paired-4401691269": 1
+    "https://www.linkedin.com/jobs/view/email-sms-marketing-manager-klaviyo-lead-for-an-ecommerce-brand-us-based-at-paired-4401691269": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4404587929": 1,
+    "https://www.linkedin.com/jobs/view/virtual-coverage-consultant-at-the-strickland-group-4403953873": 1,
+    "https://www.linkedin.com/jobs/view/specialist-is-engineer-citrix-at-jobgether-4403937809": 1,
+    "https://www.linkedin.com/jobs/view/research-and-data-executive-digital-marketing-at-carousel-consultancy-ltd-4403626863": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-blue-crystal-literary-magazine-4398110855": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4372853682": 1,
+    "https://www.linkedin.com/jobs/view/demand-gen-marketing-manager-at-browzwear-4403968494": 1,
+    "https://www.linkedin.com/jobs/view/site-merchandising-associate-at-ebay-4401681819": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-21",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
