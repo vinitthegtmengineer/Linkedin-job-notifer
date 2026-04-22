@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/principal-strategist-firefly-foundry-at-adobe-4362350386": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-bamboo-works-4400620129": 1,
-    "https://www.linkedin.com/jobs/view/consultor-de-reforma-tribut%c3%a1ria-pmo-at-roit-4399053374": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-social-media-manager-at-revolut-4398171417": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4398726834": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-entertainment-freelance-at-unfold-4398727574": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362314112": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-dallas-at-giga-4363540661": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/chief-revenue-officer-blockchain-technology-at-revenue3-4404579850": 1,
     "https://www.linkedin.com/jobs/view/vice-president-operations-at-avrio-ai-4404884400": 1,
     "https://www.linkedin.com/jobs/view/director-of-performance-marketing-sem-at-buffalo-groupe-4404883975": 1,
-    "https://www.linkedin.com/jobs/view/lead-stars-marketing-at-humana-4401934235": 1
+    "https://www.linkedin.com/jobs/view/lead-stars-marketing-at-humana-4401934235": 1,
+    "https://www.linkedin.com/jobs/view/senior-revops-analyst-%e2%80%94-hubspot-specialist-at-revinfinity-4404248042": 1,
+    "https://www.linkedin.com/jobs/view/ai-agent-builder-at-trantor-4404239666": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4404922721": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-advisor-fractional-cros-sales-leaders-at-assay-4404206689": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381884670": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
