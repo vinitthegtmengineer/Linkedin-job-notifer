@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-sales-growth-lead-at-myriad-ai-4400950095": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-growth-lead-at-myriad-ai-4400933847": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-at-cntxt-ai-4400930865": 1,
-    "https://www.linkedin.com/jobs/view/consultant-conveyancer-%e2%80%93-self-employed-at-pexa-4375528540": 1,
-    "https://www.linkedin.com/jobs/view/worklifebalance-consultant-at-inspire-next-level-4388213146": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-igdtuw-4399351312": 1,
     "https://www.linkedin.com/jobs/view/head-of-retention-operations-at-dtc-e-commerce-business-remote-worldwide-at-paired-4399097809": 1,
     "https://www.linkedin.com/jobs/view/analyst-sales-ops-at-slice-4388550958": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400685608": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-data-middle-4402461682": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-coimbatore-unique-4404288768": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396456947": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396476134": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396476134": 1,
+    "https://www.linkedin.com/jobs/view/strategic-finance-operator-data-at-mechanism-ventures-4404918553": 1,
+    "https://www.linkedin.com/jobs/view/open-role-%e2%80%94-builder-at-objection-4404999932": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401963217": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4404400089": 1,
+    "https://www.linkedin.com/jobs/view/freelance-agent-evaluation-engineer-ai-projects-on-mindrift-at-mindrift-4402449904": 1,
+    "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
