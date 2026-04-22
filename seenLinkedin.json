@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377996508": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-%e2%80%93-real-estate-marketing-at-cleardesk-4399056063": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-team-lead-at-spinutech-4400608326": 1,
-    "https://www.linkedin.com/jobs/view/alternance-bordeaux-charg%c3%a9-de-communication-et-d%c3%a9veloppement-h-f-at-fondation-de-france-4400524578": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-jobgether-4398126559": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-bloom-equity-partners-4400613620": 1,
-    "https://www.linkedin.com/jobs/view/fundraising-manager-do-what-you-love-to-end-alzheimer-s-at-alzheimer-s-association%c2%ae-4398715683": 1,
-    "https://www.linkedin.com/jobs/view/sales-analyst-%e2%80%93-commercial-and-financial-operations-at-cryoport-systems-4398167665": 1,
-    "https://www.linkedin.com/jobs/view/global-product-manager-at-aston-carter-4400904215": 1,
     "https://www.linkedin.com/jobs/view/principal-strategist-firefly-foundry-at-adobe-4362350386": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-operations-assistant-at-bamboo-works-4400620129": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-reforma-tribut%c3%a1ria-pmo-at-roit-4399053374": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-verisys-4404814890": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-recess-4404586907": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-follett-software-4404217121": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-assetworks-inc-4404834476": 1
+    "https://www.linkedin.com/jobs/view/marketing-director-at-assetworks-inc-4404834476": 1,
+    "https://www.linkedin.com/jobs/view/tech-bizdev-trailblazer-at-rex-4398097320": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-schellman-4393233855": 1,
+    "https://www.linkedin.com/jobs/view/director-enterprise-sales-at-databricks-4401950127": 1,
+    "https://www.linkedin.com/jobs/view/director-business-operations-at-retool-4380239286": 1,
+    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-reacher-4404550617": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-blockchain-technology-at-revenue3-4404579850": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-operations-at-avrio-ai-4404884400": 1,
+    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-sem-at-buffalo-groupe-4404883975": 1,
+    "https://www.linkedin.com/jobs/view/lead-stars-marketing-at-humana-4401934235": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
