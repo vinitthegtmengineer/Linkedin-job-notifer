@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-at-stedi-4388542159": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-growth-strategist-b2b-saas-at-wegrowth-4400688797": 1,
-    "https://www.linkedin.com/jobs/view/strategy-execution-manager-gtm-at-databricks-4388528840": 1,
     "https://www.linkedin.com/jobs/view/founding-sales-growth-lead-at-myriad-ai-4400946143": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-wiz-4388547903": 1,
     "https://www.linkedin.com/jobs/view/community-creator-engagement-manager-remote-japan-at-electronic-arts-ea-4375929276": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405252397": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405262153": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405261185": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405241892": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405241892": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405273051": 1,
+    "https://www.linkedin.com/jobs/view/content%c2%a0marketing-manager-at-blackthorn-4405251877": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-okta-4402478845": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
