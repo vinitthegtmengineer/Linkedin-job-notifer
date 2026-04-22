@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-product-management-%e2%80%93-digital-marketing-automotive-insights-remote-at-experian-4388700216": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369597161": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-handel-all-genders-at-adesso-se-3733040481": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-aicro-4400290706": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-smartasset-4388556967": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-remotehunter-4398755514": 1,
-    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-gusto-4379247742": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-jobs-via-dice-4395923416": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-intern-at-outmate-4398728323": 1,
-    "https://www.linkedin.com/jobs/view/client-partner-at-quantiphi-4399333087": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400679834": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-operations-at-stedi-4388542159": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-growth-strategist-b2b-saas-at-wegrowth-4400688797": 1,
     "https://www.linkedin.com/jobs/view/strategy-execution-manager-gtm-at-databricks-4388528840": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/agentic-operator-growth-marketing-at-ramp-4244901850": 1,
     "https://www.linkedin.com/jobs/view/manager-digital-marketing-at-jobgether-4402469059": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396456946": 1,
-    "https://www.linkedin.com/jobs/view/customer-supply-chain-manager-%e2%80%93-club-at-olly-pbc-4404987542": 1
+    "https://www.linkedin.com/jobs/view/customer-supply-chain-manager-%e2%80%93-club-at-olly-pbc-4404987542": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-qubiko-4402487130": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-growth-revenue-at-patchstack-4405253250": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-akkodis-4404416283": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405245538": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405248465": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405244540": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405253391": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405252397": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405262153": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405261185": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405241892": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
