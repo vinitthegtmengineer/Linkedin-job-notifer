@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-sales-ksa-at-sully-ai-4388771678": 1,
-    "https://www.linkedin.com/jobs/view/sr-account-based-marketing-manager-at-ping-identity-4369930983": 1,
-    "https://www.linkedin.com/jobs/view/consultor-appian-at-keppri-4398777093": 1,
     "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-doxel-4400968166": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-lagos-4398793547": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-tomia-4399365725": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/strategic-program-lead-pricing-inventory-at-playlist-4402483827": 1,
     "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4404438264": 1,
     "https://www.linkedin.com/jobs/view/senior-director-partnerships-business-development-at-asurion-4395143384": 1,
-    "https://www.linkedin.com/jobs/view/marketing-digital-transformation-lead-at-dayforce-4396657756": 1
+    "https://www.linkedin.com/jobs/view/marketing-digital-transformation-lead-at-dayforce-4396657756": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-senior-external-advisor-consultant-at-lasalle-investment-management-4405432561": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-fever-4402823346": 1,
+    "https://www.linkedin.com/jobs/view/enablement-manager-sales-customer-success-at-storable-4404478108": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
