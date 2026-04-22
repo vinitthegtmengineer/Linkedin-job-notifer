@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-metatager-digital-partner-for-ai-powered-content-ads-marketing-cms-crm-lead-gen-automation-seo-sem-4398795193": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-handel-all-genders-at-adesso-se-4360942808": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-equity-only-at-goodbreach-4400912811": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400964420": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400959722": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369277053": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dimond-connect-4404425652": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405258862": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-influcio-4394756157": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-accel-marketing-solutions-inc-4405282496": 1
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-accel-marketing-solutions-inc-4405282496": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ii-page-builder-retailer-platform-at-instacart-4393938474": 1,
+    "https://www.linkedin.com/jobs/view/robotics-project-engineer-at-wall-street-consulting-services-llc-4405291320": 1,
+    "https://www.linkedin.com/jobs/view/social-media-executive-at-releaf-4405279936": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
