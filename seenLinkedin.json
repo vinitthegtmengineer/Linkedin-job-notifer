@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/transportation-project-engineer-at-michael-baker-international-4385774298": 1,
-    "https://www.linkedin.com/jobs/view/project-design-engineering-manager-remote-at-enersys-4388529500": 1,
-    "https://www.linkedin.com/jobs/view/coach-consulant-4398790189": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-seattle-at-giga-4363550599": 1,
     "https://www.linkedin.com/jobs/view/energy-storage-engineering-service-operations-data-systems-sales-security-roles-%e2%80%94-sungrow-remote-at-women-in-cleantech-and-sustainability-4399342391": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592391": 1,
     "https://www.linkedin.com/jobs/view/strategic-partnerships-consultant-at-boehly-and-associates-4399366604": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405271097": 1,
     "https://www.linkedin.com/jobs/view/strategic-finance-operator-at-mechanism-ventures-4404939693": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4404974024": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-implementazione-italia-at-softexpert-software-for-excellence-4405252780": 1,
+    "https://www.linkedin.com/jobs/view/sr-consultant-at-mygwork-lgbtq%2b-business-community-4402462320": 1,
+    "https://www.linkedin.com/jobs/view/b%c3%a9n%c3%a9volat-je-deviens-builder-sur-un-serveur-minecraft-at-jeveuxaider-gouv-fr-4404453615": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%bb%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc-%e5%ae%9f%e5%83%8d7%e6%99%82%e9%96%93%ef%bc%8f%e8%a6%81%e4%bb%b6%e5%ae%9a%e7%be%a9%e3%81%8b%e3%82%89%e5%ae%9f%e8%a3%85%e3%81%be%e3%81%a7-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b4%e3%83%bc%e3%82%ac-4405424123": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
