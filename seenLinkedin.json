@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engenheiro-da-integra%c3%a7%c3%a3o-de-projetos-remoto-rio-de-janeiro-rj-at-capco-4388224565": 1,
-    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-op%c3%a9rations-a%c3%a9riennes-h-f-at-ad%c3%a9quat-interim-recrutement-4388550095": 1,
-    "https://www.linkedin.com/jobs/view/%e9%a1%b9%e7%9b%ae%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86%ef%bc%88%e5%88%b6%e5%8a%a8%e7%b1%bb%e4%ba%a7%e5%93%81%e8%ae%a4%e8%af%81%ef%bc%89-at-%e6%9d%ad%e5%b7%9e%e6%b1%89%e5%be%b7%e8%b4%a8%e9%87%8f%e8%ae%a4%e8%af%81%e6%9c%8d%e5%8a%a1%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8%e4%b8%8a%e6%b5%b7%e5%88%86%e5%85%ac%e5%8f%b8-4399344729": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-actalent-4400905091": 1,
-    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-genai-ops-at-epam-systems-4313347181": 1,
-    "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-biorender-4377245914": 1,
-    "https://www.linkedin.com/jobs/view/head-of-business-development-at-sentilink-4400697032": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-ai-digital-transformation-at-apco-4353464687": 1,
-    "https://www.linkedin.com/jobs/view/head-of-product-marketing-at-pallet-4400685632": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-ops-manager-at-deel-4383955369": 1,
     "https://www.linkedin.com/jobs/view/partnership-sales-director-higher-ed-at-partner-in-publishing-4398775065": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-ops-manager-at-deel-4383958052": 1,
     "https://www.linkedin.com/jobs/view/b2b-marketing-manager-at-viva-talent-4400916994": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405268186": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405274095": 1,
     "https://www.linkedin.com/jobs/view/svp-of-marketing-at-hyperproof-4405274106": 1,
-    "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4404434291": 1
+    "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4404434291": 1,
+    "https://www.linkedin.com/jobs/view/senior-cre-consultant-sage-intacct-at-alta-vista-technology-4404448421": 1,
+    "https://www.linkedin.com/jobs/view/ai-solution-builder-at-hypatos-4404268701": 1,
+    "https://www.linkedin.com/jobs/view/marketing-ai-agent-builder-at-trantor-4403987854": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-abnormal-ai-4330552927": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-developer-ui-builder-expertise-at-invovia-4402477813": 1,
+    "https://www.linkedin.com/jobs/view/lead-sales-growth-operations-analyst-at-tebra-4405263606": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405267155": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405261804": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-omada-health-4402483869": 1,
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402478911": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
