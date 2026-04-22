@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400677857": 1,
-    "https://www.linkedin.com/jobs/view/estimator-project-engineer-at-avsar-construction-development-inc-4398160999": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400673909": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400691235": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400674909": 1,
     "https://www.linkedin.com/jobs/view/remote-stem-engineer-india-%e2%80%94-ai-ml-data-operations-at-rex-zone-4388511784": 1,
     "https://www.linkedin.com/jobs/view/social-media-executive-brand-operations-at-1xl-infra-4399326809": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/consultant-at-aus-shenzhen-display-technology-co-ltd-4404255430": 1,
     "https://www.linkedin.com/jobs/view/devops-data-ops-engineer-with-ai-mlops-5-year%2b-only-immediate-joiner-at-innova-esi-4404954830": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-hvac-at-penbrothers-4404264502": 1,
-    "https://www.linkedin.com/jobs/view/vp-sales-ai-powered-enterprise-it-operations-remote-at-symphonyai-4393221902": 1
+    "https://www.linkedin.com/jobs/view/vp-sales-ai-powered-enterprise-it-operations-remote-at-symphonyai-4393221902": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-launch-ventures-4404256925": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-sehyog-academy-uk-4404964879": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-remote-at-transportvibe-4403979961": 1,
+    "https://www.linkedin.com/jobs/view/senior-paid-media-strategist-remote-at-clients-blackbox-inc-4404809754": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
