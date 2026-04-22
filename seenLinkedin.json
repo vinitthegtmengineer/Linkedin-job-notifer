@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4400674909": 1,
     "https://www.linkedin.com/jobs/view/remote-stem-engineer-india-%e2%80%94-ai-ml-data-operations-at-rex-zone-4388511784": 1,
     "https://www.linkedin.com/jobs/view/social-media-executive-brand-operations-at-1xl-infra-4399326809": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362452162": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-launch-ventures-4404256925": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-sehyog-academy-uk-4404964879": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-remote-at-transportvibe-4403979961": 1,
-    "https://www.linkedin.com/jobs/view/senior-paid-media-strategist-remote-at-clients-blackbox-inc-4404809754": 1
+    "https://www.linkedin.com/jobs/view/senior-paid-media-strategist-remote-at-clients-blackbox-inc-4404809754": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-enablement-director-at-captivateiq-4404973467": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-22",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
