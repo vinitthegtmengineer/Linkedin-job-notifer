@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304474049": 1,
-    "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineer-at-yc-bench-4400989734": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-oliver-the-brandtech-group-4315499663": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399111038": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-rscoe-4400991638": 1,
-    "https://www.linkedin.com/jobs/view/country-heads-sales-%e2%80%93-global-markets-ai-powered-tech-talent-startup-at-skillscapital-4398790289": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-executive-at-compute-forecast-4399021572": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-3search-4395152894": 1,
-    "https://www.linkedin.com/jobs/view/associate-social-media-manager-at-meridianlink-4388749115": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-uva-wellassa-university-badulla-4399104235": 1,
     "https://www.linkedin.com/jobs/view/epm-consultant-senior-at-caravel-bpm-technology-solutions-4066387611": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4399374913": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405249712": 1,
     "https://www.linkedin.com/jobs/view/growth-operator-at-mozisha-4402878274": 1,
     "https://www.linkedin.com/jobs/view/product-builder-data-ai-at-fever-4402823346": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405260852": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405260852": 1,
+    "https://www.linkedin.com/jobs/view/lead-gtm-analytics-engineer-at-digicert-4404435261": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sano-genetics-4404458743": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-ushur-4396270266": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-serotonin-4405286890": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4405621906": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%8fec%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e3%80%8cec-cube%e3%80%8d%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a4%e3%83%bc%e3%82%b7%e3%83%bc%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%96-4405426103": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4405641019": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4405632584": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-full-time-at-gravity-infosolutions-inc-4404721078": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
