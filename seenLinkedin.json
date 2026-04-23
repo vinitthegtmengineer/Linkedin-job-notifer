@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400988233": 1,
-    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4400958769": 1,
-    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4400983477": 1,
-    "https://www.linkedin.com/jobs/view/engineering-director-business-data-at-canonical-4400953907": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-luxury-remote-opportunity-at-remotehunter-4399106375": 1,
-    "https://www.linkedin.com/jobs/view/batch-operation-engineer-at-quess-singapore-4399111812": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-marketing-operations-at-cyera-4343889269": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-intern-at-hra-groups-it-consulting-services-4399119674": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-email-marketing-manager-at-core-covers-4401018430": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-heydelegate-4399380467": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-alpha-seed-network-4399394603": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-at-wetravel-4405428253": 1,
     "https://www.linkedin.com/jobs/view/temp-lifecycle-marketing-manager-at-headspace-4402828658": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-terra-4402830213": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-terra-4402830213": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-atenci%c3%b3n-al-cliente-espa%c3%b1ol-%e2%80%93-alem%c3%a1n-freelance-part-time-remoto-at-domus-global-4403239516": 1,
+    "https://www.linkedin.com/jobs/view/gtm-ai-engineer-at-vena-solutions-4405416562": 1,
+    "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
+    "https://www.linkedin.com/jobs/view/us-revenue-enablement-systems-associate-at-pointclickcare-4405008294": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-remote-first-at-zensurance-4405409333": 1,
+    "https://www.linkedin.com/jobs/view/communications-marketing-manager-at-meredith-marks-llc-4405434186": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-github-4392436973": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-bombay-pier-4403242170": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
