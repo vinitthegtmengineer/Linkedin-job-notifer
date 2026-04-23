@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/security-and-threat-operations-engineer-at-jobgether-4399154289": 1,
-    "https://www.linkedin.com/jobs/view/genai-engineer-project-based-ref-az6as-at-rsight%c2%ae-4335484822": 1,
-    "https://www.linkedin.com/jobs/view/genai-engineer-project-based-ref-az6as-at-rsight%c2%ae-4335444998": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-4399152031": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-berater-ref-tkayb-at-rsight%c2%ae-4394670772": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-beda-4399154293": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-dataops-ref-lzr9y-at-rsight%c2%ae-4380995168": 1,
     "https://www.linkedin.com/jobs/view/security-operations-engineer-ref-i5d1i-at-rsight%c2%ae-4379914963": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401034617": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4399146209": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%a5%ad%e5%8b%99%e7%b3%bb%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%b8%80%e6%ac%a1%e9%9d%a2%e6%8e%a5%e3%81%8b%e3%82%89%e7%a4%be%e9%95%b7%e3%81%a8%e4%bc%9a%e3%81%88%e3%82%8b%ef%bc%81%ef%bc%8f%e3%81%bb%e3%81%bc%e6%ae%8b%e6%a5%ad%e7%84%a1%e3%81%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%ba-4405848703": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4405843787": 1,
     "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pandadoc-4405833798": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-people-4403242707": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-people-4403242707": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-talana-at-sourcing-4405851885": 1,
+    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-at-buildkite-4404701232": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4405848660": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4405842721": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4405843820": 1,
+    "https://www.linkedin.com/jobs/view/martech-operations-engineer-at-classpass-4403238907": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jobgether-4404793473": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
