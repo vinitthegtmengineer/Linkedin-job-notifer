@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/regional-marketing-manager-northeast-at-nutrabolt-4400991065": 1,
-    "https://www.linkedin.com/jobs/view/customer-marketing-manager-organic-food-cpg-grocery-retail-at-mediabistro-4399363776": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-manager-at-bracco-imaging-4360985269": 1,
-    "https://www.linkedin.com/jobs/view/territory-account-manager-il-at-agero-inc-4378675391": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-regional-marketing-emea-central-at-elastic-4362863081": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-europe-at-cytiva-4388581304": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-korean-speaker-at-maf-4399365265": 1,
     "https://www.linkedin.com/jobs/view/key-account-manager-germany-fmcg-at-zuru-edge-4398789404": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405266298": 1,
     "https://www.linkedin.com/jobs/view/remote-consultant-at-ambition-pagesolution-4402843855": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-center-of-excellence-at-twilio-4404896797": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-ai-first-at-taisan-4402854843": 1
+    "https://www.linkedin.com/jobs/view/marketing-operator-ai-first-at-taisan-4402854843": 1,
+    "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-cear%c3%a1-%e2%80%93-ce-at-buscarvagas-empregos-brasil-4402860542": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4405614549": 1,
+    "https://www.linkedin.com/jobs/view/edc-coder-builder-remote-at-jobs-via-dice-4404462687": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4404440337": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405249712": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
