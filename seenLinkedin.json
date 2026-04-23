@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399114265": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-alignerr-4400977004": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%8f%e5%8c%bb%e7%99%82%e9%a0%98%e5%9f%9f%e3%81%a7%e3%81%aedx%e3%81%a7%e7%a4%be%e4%bc%9a%e8%b2%a2%e7%8c%ae%ef%bc%89-at-doctor-net-inc-4401001572": 1,
-    "https://www.linkedin.com/jobs/view/director-customer-journey-operations-at-flock-4379081919": 1,
-    "https://www.linkedin.com/jobs/view/head-of-strategic-finance-at-cedar-4363803090": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-sales-select-north-america-at-doit-4400999372": 1,
-    "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399104373": 1,
-    "https://www.linkedin.com/jobs/view/social-media-growth-manager-organic-strategy-4400998445": 1,
-    "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399106318": 1,
-    "https://www.linkedin.com/jobs/view/llm-rl-engineer-agentic-engineering-at-yc-bench-4400994839": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400994779": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400997694": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-tj-1837306-at-agay-barho%21-4400979605": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-philadelphia-%234724-at-grail-4393030450": 1,
     "https://www.linkedin.com/jobs/view/airtable-consultant-at-nten-4405648609": 1,
     "https://www.linkedin.com/jobs/view/constructor-back-at-cavala-soluciones-sostenibles-4405637762": 1,
-    "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1
+    "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1,
+    "https://www.linkedin.com/jobs/view/datacom-remote-pilot-operator-lead-at-jobs-via-dice-4404735497": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-builders-at-relevance-ai-4358572942": 1,
+    "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-data-quality-operations-at-omni-biotic%c2%ae-by-institut-allergosan-4405497291": 1,
+    "https://www.linkedin.com/jobs/view/operations-planning-engineer-iii-senior-expert-at-eqt-corporation-4405249960": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1,
+    "https://www.linkedin.com/jobs/view/head-of-gtm-at-crossing-hurdles-4372062746": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-crossing-hurdles-2147622960": 1,
+    "https://www.linkedin.com/jobs/view/social-community-executive-usa-at-we-are-loka-4405648799": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405259858": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
