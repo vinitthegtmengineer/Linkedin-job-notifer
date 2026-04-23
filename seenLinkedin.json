@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lifecycle-email-marketing-manager-at-core-covers-4401018430": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-heydelegate-4399380467": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-alpha-seed-network-4399394603": 1,
-    "https://www.linkedin.com/jobs/view/director-of-strategic-accounts-food-service-alt-channels-at-skinnydipped-4398795935": 1,
-    "https://www.linkedin.com/jobs/view/excel-operator-manual-1-yrs-at-aimleap-4399157019": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4401031232": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-lumenalta-4401012930": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400998647": 1,
     "https://www.linkedin.com/jobs/view/director-of-operations-at-radformation-4399389683": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/email-marketing-manager-remote-first-at-zensurance-4405409333": 1,
     "https://www.linkedin.com/jobs/view/communications-marketing-manager-at-meredith-marks-llc-4405434186": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-github-4392436973": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-bombay-pier-4403242170": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-bombay-pier-4403242170": 1,
+    "https://www.linkedin.com/jobs/view/campaign-operator-pool-de-talento-at-universia-argentina-4405812379": 1,
+    "https://www.linkedin.com/jobs/view/pay-equity-consultant-at-trusaic-4390086031": 1,
+    "https://www.linkedin.com/jobs/view/specialist-ai-engineer-builder-llm-healthcare-100%25-remoto-4405417481": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405680776": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-lahore-4403234644": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-growth-marketing-at-jobgether-4404721780": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
