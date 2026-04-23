@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400994779": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%92%e3%83%a5%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%ba-4400997694": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-tj-1837306-at-agay-barho%21-4400979605": 1,
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-holland-oil-partners-llc-4399105364": 1,
     "https://www.linkedin.com/jobs/view/senior-community-marketing-manager-accountants-at-gusto-4370123099": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-chem-pharma-at-gea-group-4399120204": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/head-of-gtm-at-crossing-hurdles-4372062746": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-crossing-hurdles-2147622960": 1,
     "https://www.linkedin.com/jobs/view/social-community-executive-usa-at-we-are-loka-4405648799": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405259858": 1
+    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405259858": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-gnosis-app-at-gnosis-4405653858": 1,
+    "https://www.linkedin.com/jobs/view/operador-mantenedor-filtragem-i-at-anglo-american-4405672036": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-architect-analytics-engineer-remote-at-360dialog-4405237577": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
