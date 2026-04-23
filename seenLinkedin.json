@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-feoda-4399147491": 1,
-    "https://www.linkedin.com/jobs/view/commercial-strategy-director-at-lime-talent-4399512244": 1,
     "https://www.linkedin.com/jobs/view/personal-assistant-executive-operator-at-voie-digital-4399520197": 1,
     "https://www.linkedin.com/jobs/view/capital-transmission-trimmer-operator-union-ate-at-asplundh-tree-expert-llc-4401059058": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineering-agent-engineer-at-yc-bench-4401047665": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405863694": 1,
     "https://www.linkedin.com/jobs/view/consultor-marketplace-at-ck-neg%c3%b3cios-4403256258": 1,
     "https://www.linkedin.com/jobs/view/product-builder-intern-user-experience-focus-at-reml-ai-4405030685": 1,
-    "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-adly-4405856906": 1
+    "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-adly-4405856906": 1,
+    "https://www.linkedin.com/jobs/view/manhattan-active-wm-consultant-eu-at-nextchain-solutions-4405853970": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396470463": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
