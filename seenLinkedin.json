@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/spares-engineer-at-atexis-4401040685": 1,
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-%e2%80%93-leadership-sector-at-mindset-elysian-4401026270": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401039830": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%8e%a5-social-media-manager-%e2%80%94-tiktok-instagram-at-wcrew-4399513320": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399144673": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396470463": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4405633496": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4405891437": 1,
-    "https://www.linkedin.com/jobs/view/sr-ai-engineer-ai-platform-at-samsara-4403271488": 1
+    "https://www.linkedin.com/jobs/view/sr-ai-engineer-ai-platform-at-samsara-4403271488": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4405893531": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4405893535": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
