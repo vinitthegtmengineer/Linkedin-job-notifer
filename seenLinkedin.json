@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4399146209": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-employer-branding-manager-at-sie-group-4399395833": 1,
-    "https://www.linkedin.com/jobs/view/head-of-compliance-and-regulations-crypto-mobile-operator-remittances-africa-at-black-pen-recruitment-4401040606": 1,
-    "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-scout-global-4398671937": 1,
     "https://www.linkedin.com/jobs/view/founding-channel-account-manager-at-scout-global-4388082857": 1,
     "https://www.linkedin.com/jobs/view/growth-executive-sales-marketing-at-eola-4400522630": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-world-trippin-media-4399136505": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/martech-operations-engineer-at-classpass-4403238907": 1,
     "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jobgether-4404793473": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405692043": 1,
-    "https://www.linkedin.com/jobs/view/retail-area-manager-south-west-at-crocs-inc-4402869596": 1
+    "https://www.linkedin.com/jobs/view/retail-area-manager-south-west-at-crocs-inc-4402869596": 1,
+    "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-at-hygo-4405859780": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-for-a-usa-e-commerce-company-remote-at-paired-4403267140": 1,
+    "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405871504": 1,
+    "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405863694": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
