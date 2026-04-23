@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cdi-consultant-at-ni2-health-an-infinx-company-4398798447": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399106242": 1,
-    "https://www.linkedin.com/jobs/view/social-media-strategist-eu-mena-regions-at-relyticx-4400964428": 1,
-    "https://www.linkedin.com/jobs/view/consultant-success-manager-at-kinza-4399120113": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-snoonu-4307639648": 1,
-    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-jobs-ai-4400996111": 1,
     "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399114265": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-at-alignerr-4400977004": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%8f%e5%8c%bb%e7%99%82%e9%a0%98%e5%9f%9f%e3%81%a7%e3%81%aedx%e3%81%a7%e7%a4%be%e4%bc%9a%e8%b2%a2%e7%8c%ae%ef%bc%89-at-doctor-net-inc-4401001572": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/lead-gtm-analytics-engineer-at-digicert-4404429339": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405609624": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405607718": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-marketing-at-sundayy-4405638557": 1
+    "https://www.linkedin.com/jobs/view/executive-assistant-marketing-at-sundayy-4405638557": 1,
+    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4404751646": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-2-indianapolis-%234713-at-grail-4393012332": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-philadelphia-%234724-at-grail-4393030450": 1,
+    "https://www.linkedin.com/jobs/view/airtable-consultant-at-nten-4405648609": 1,
+    "https://www.linkedin.com/jobs/view/constructor-back-at-cavala-soluciones-sostenibles-4405637762": 1,
+    "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-23",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
