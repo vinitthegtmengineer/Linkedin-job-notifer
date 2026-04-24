@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4399670017": 1,
-    "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4399655453": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-sav-gc-gc-ms-confirm%c3%a9-e-at-ric-group-4401328003": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-executive-analyst-for-a-digital-growth-agency-at-avanzar-health-4399639536": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4399644684": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-data-analytics-executive-at-mywork-4406157862": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-campaigns-manager-at-jobgether-4405353088": 1,
     "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406616821": 1,
-    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1
+    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1,
+    "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406622353": 1,
+    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405343534": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
