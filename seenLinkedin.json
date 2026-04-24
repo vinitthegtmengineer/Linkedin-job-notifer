@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-sales-lead-%e2%80%93-ai-partnerships-openai-anthropic-at-tredence-inc-4401359038": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-clerk-tech-4399677885": 1,
-    "https://www.linkedin.com/jobs/view/ediscovery-consultant-%c2%a370-000-remote-at-apt-search-4399561642": 1,
     "https://www.linkedin.com/jobs/view/head-of-channel-alliances-%e2%82%ac100k%e2%80%93%e2%82%ac150k-ote-cybersecurity-germany-at-bluebird-4401348763": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-okta-4399569526": 1,
     "https://www.linkedin.com/jobs/view/brand-director-%e2%80%94-snoozy-remote-at-snoozy-4401351604": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-growth-manager-at-maven-clinic-4403783374": 1,
     "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403785370": 1,
     "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403774542": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-gotyme-bank-4406169641": 1
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-gotyme-bank-4406169641": 1,
+    "https://www.linkedin.com/jobs/view/venture-builder-at-diallas-4403773957": 1,
+    "https://www.linkedin.com/jobs/view/social-media-analyst-at-randstad-usa-4403774777": 1,
+    "https://www.linkedin.com/jobs/view/senior-event-marketing-manager-at-lucky-strike-entertainment-4405363510": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
