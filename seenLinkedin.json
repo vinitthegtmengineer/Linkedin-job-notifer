@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4309687830": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-coordinator-at-fujifilm-healthcare-europe-4401306555": 1,
-    "https://www.linkedin.com/jobs/view/remote-mower-operator-at-green-by-nature-4288685254": 1,
-    "https://www.linkedin.com/jobs/view/ads-manager-consultant-at-styleuai-4399637709": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-engineer-at-cyberforce-global-4401303049": 1,
-    "https://www.linkedin.com/jobs/view/senior-nice-cxone-engineer-at-miratech-4399654666": 1,
-    "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401306753": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-vc-backed-saas-roles-%24200k%2b-ote-at-recruiterforceai-4401087830": 1,
     "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4399670017": 1,
     "https://www.linkedin.com/jobs/view/accommodations-consultant-at-lowe-s-companies-inc-4399655453": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-sav-gc-gc-ms-confirm%c3%a9-e-at-ric-group-4401328003": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/partner-senior-solutions-engineer-emea-uk-remote-at-boomi-4403763173": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-motorist-4405358197": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4372855659": 1,
-    "https://www.linkedin.com/jobs/view/assistant-manager-marketing-at-the-ritz-carlton-hotel-company-l-l-c-4395718823": 1
+    "https://www.linkedin.com/jobs/view/assistant-manager-marketing-at-the-ritz-carlton-hotel-company-l-l-c-4395718823": 1,
+    "https://www.linkedin.com/jobs/view/uuv-technician-operator-mid-at-booz-allen-hamilton-4405866184": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineering-operator-%e2%80%94-deployment-infrastructure-at-okren-at-okren-4406156458": 1,
+    "https://www.linkedin.com/jobs/view/value-builder-at-exelab-4403752332": 1,
+    "https://www.linkedin.com/jobs/view/lubrication-engineer-at-jax-inc-4403759560": 1,
+    "https://www.linkedin.com/jobs/view/marketing-data-analytics-executive-at-mywork-4406157862": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-campaigns-manager-at-jobgether-4405353088": 1,
+    "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406616821": 1,
+    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
