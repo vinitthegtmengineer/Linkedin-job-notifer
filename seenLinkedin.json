@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-sav-gc-gc-ms-confirm%c3%a9-e-at-ric-group-4401328003": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-executive-analyst-for-a-digital-growth-agency-at-avanzar-health-4399639536": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4399644684": 1,
-    "https://www.linkedin.com/jobs/view/founding-operator-intern-entrepreneur-in-residence-startup-helpothon-ai-powered-help-marketplace-type-remote-high-ownership-0%e2%80%93low-pay-%2b-high-upside-at-helpothon-4399181047": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-marketing-operator-at-xpose-solutions-4399519471": 1,
     "https://www.linkedin.com/jobs/view/staffing-independent-operator-at-atwork-group-4386391107": 1,
     "https://www.linkedin.com/jobs/view/soc-engineer-m-w-d-at-glueckkanja-ag-4401324488": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineering-at-yc-bench-4401323678": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406616821": 1,
     "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1,
     "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406622353": 1,
-    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405343534": 1
+    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405343534": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-at-max-scott-property-4398360589": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-xsolla-4397166497": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4403770040": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4403755876": 1,
+    "https://www.linkedin.com/jobs/view/manager-demand-planning-at-comfrt-4403751280": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
