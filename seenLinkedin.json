@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-das-health-4401506934": 1,
-    "https://www.linkedin.com/jobs/view/commercial-regional-marketing-manager-west-at-pure-storage-4399681510": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-large-account-reseller-partner-sales-at-omnissa-4399116852": 1,
-    "https://www.linkedin.com/jobs/view/executive-operations-manager-work-from-home-at-persona-4399151470": 1,
-    "https://www.linkedin.com/jobs/view/associate-campaign-insights-analyst-remote-at-vericast-4399636756": 1,
     "https://www.linkedin.com/jobs/view/commercial-regional-marketing-manager-west-at-pure-storage-4399698313": 1,
     "https://www.linkedin.com/jobs/view/pr-and-communications-manager-at-mukuru-4389915181": 1,
     "https://www.linkedin.com/jobs/view/senior-anaplan-consultant-at-codex-4401526251": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/abm-revenue-operations-associate-at-talent-global-llc-4405701003": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406668507": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406662410": 1,
-    "https://www.linkedin.com/jobs/view/executive-director-e-commerce-partnerships-at-forbes-4404105553": 1
+    "https://www.linkedin.com/jobs/view/executive-director-e-commerce-partnerships-at-forbes-4404105553": 1,
+    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-ahmad-abdulla-ahli-advocates-and-legal-consultants-4404118162": 1,
+    "https://www.linkedin.com/jobs/view/abm-b2b-marketing-specialist-at-talent-global-llc-4405701003": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406679537": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406683496": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406682308": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
