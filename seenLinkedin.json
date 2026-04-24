@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-latamcent-4393263753": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-latamcent-4393215506": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-rotaract-club-of-madras-knights-4399172056": 1,
-    "https://www.linkedin.com/jobs/view/shape-your-future-of-consultancy-with-us-at-isg-international-service-group-4399519513": 1,
-    "https://www.linkedin.com/jobs/view/bitget-builder-part-time-ukraine-at-bitget-4401066126": 1,
     "https://www.linkedin.com/jobs/view/secops-engineer-remote-at-crossing-hurdles-4399118341": 1,
     "https://www.linkedin.com/jobs/view/perception-engineer-remote-at-crossing-hurdles-4388687845": 1,
     "https://www.linkedin.com/jobs/view/director-go-to-market-business-applications-remote-at-ladders-4399514639": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/operator-recruitment-analyst-at-clickqube-4406125343": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%97%e3%83%ad%e3%83%80%e3%82%af%e3%83%88%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%90%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%e3%80%91%ef%bc%88%e7%a6%8f%e4%ba%95%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%8b%e3%82%b8%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9%ef%bc%88nijibox-co-ltd-%ef%bc%89-4405855240": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4405893533": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4406109644": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4406109644": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-manager-lead-builders-at-relevance-ai-4406134143": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4403292309": 1,
+    "https://www.linkedin.com/jobs/view/cloud-engineer-at-rootflo-4405073056": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-va-remote-at-outsource-access-careers-4405078334": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4406128172": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
