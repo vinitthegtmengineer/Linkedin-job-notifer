@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/llm-rl-engineer-at-yc-bench-4401506088": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-square-4399575256": 1,
-    "https://www.linkedin.com/jobs/view/growth-strategy-lead-at-hatch-4399663284": 1,
-    "https://www.linkedin.com/jobs/view/shopify-e-commerce-operator-at-sphere-rocket-va-us-4399621842": 1,
-    "https://www.linkedin.com/jobs/view/lead-social-commerce-strategist-at-adquadrant-4399589037": 1,
-    "https://www.linkedin.com/jobs/view/fircosoft-consultant-at-softcom-systems-inc-4400010414": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-actalent-4401013649": 1,
     "https://www.linkedin.com/jobs/view/substation-protection-controls-project-engineer-pe-license-required-at-amped-i-llc-4388568400": 1,
     "https://www.linkedin.com/jobs/view/application-presales-engineer-production-machining-at-hexagon-manufacturing-intelligence-4399544231": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e9%80%b14%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e8%87%aa%e7%a4%be%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%80%bbit%e9%81%8b%e7%94%a8%e7%ae%a1%e7%90%86-%e8%87%aa%e7%a4%be%e9%96%8b%e7%99%ba-%e6%ae%8b%e6%a5%ad0%ef%bd%9e26h%e7%a8%8b%e5%ba%a6-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4401022862": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/project-manager-content-manager-at-jobgether-4405312532": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4404101181": 1,
     "https://www.linkedin.com/jobs/view/senior-director-strategic-partnerships-commercial-operations-at-terzo-4405382074": 1,
-    "https://www.linkedin.com/jobs/view/brand-director-social-media-manager-at-hygo-4405422939": 1
+    "https://www.linkedin.com/jobs/view/brand-director-social-media-manager-at-hygo-4405422939": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406172642": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406178102": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406174510": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406169701": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406172621": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-adolf-solutions-private-limited-4404109426": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-savanty-4405385302": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
