@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4399631696": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-futran-solutions-4401095805": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-specialist-at-wiz-4399530606": 1,
     "https://www.linkedin.com/jobs/view/marketing-leader-at-anthony-s-goods-4399651071": 1,
     "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4401319012": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4405326581": 1,
     "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4405318671": 1,
     "https://www.linkedin.com/jobs/view/oracle-visual-builder-cloud-service-vbcs-with-redwood-at-hiresquad-resources-4403745143": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-unm-4406384936": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-unm-4406384936": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4406398653": 1,
+    "https://www.linkedin.com/jobs/view/revenue-enablement-director-at-jobgether-4405326614": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
