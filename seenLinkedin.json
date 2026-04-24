@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-calderys-4401065482": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-les-sablettes-4401051859": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-green-rotaract-concept-ethiopia-4399165269": 1,
     "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-taskus-4376292238": 1,
     "https://www.linkedin.com/jobs/view/llm-rl-engineering-agentic-engineer-at-yc-bench-4401056926": 1,
     "https://www.linkedin.com/jobs/view/partner-director-emea-at-qad-4336056001": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-4405667075": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-capital-markets-at-colliers-4382886254": 1,
     "https://www.linkedin.com/jobs/view/associate-data-engineering-disc-project-at-population-services-international-4396356467": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hexa-solutions-4405099147": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hexa-solutions-4405099147": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4403722115": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-matchmaking-ind%c3%a9pendant-e-at-lead-for-success-4406151506": 1,
+    "https://www.linkedin.com/jobs/view/junior-virtual-process-engineer-operations-support-at-truporch-homes-4403299727": 1,
+    "https://www.linkedin.com/jobs/view/marketing-content-executive-wfh-full-time-at-perfect-7-malaysia-singapore-4405312171": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
