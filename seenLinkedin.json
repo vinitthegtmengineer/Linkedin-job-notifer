@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-marketing-specialist-at-wiz-4399530606": 1,
-    "https://www.linkedin.com/jobs/view/marketing-leader-at-anthony-s-goods-4399651071": 1,
     "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4401319012": 1,
     "https://www.linkedin.com/jobs/view/dataiku-engineer-at-maganti-it-resources-llc-4399547756": 1,
     "https://www.linkedin.com/jobs/view/app-engineer-kotlin-%3f%3f%3f%3f2-0-at-web3-tmg-4399637504": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/oracle-visual-builder-cloud-service-vbcs-with-redwood-at-hiresquad-resources-4403745143": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-unm-4406384936": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4406398653": 1,
-    "https://www.linkedin.com/jobs/view/revenue-enablement-director-at-jobgether-4405326614": 1
+    "https://www.linkedin.com/jobs/view/revenue-enablement-director-at-jobgether-4405326614": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4405338652": 1,
+    "https://www.linkedin.com/jobs/view/partner-growth-manager-at-spreedly-4384368825": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-24",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
