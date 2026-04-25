@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-produ%c3%a7%c3%a3o-i-contrato-tempor%c3%a1rio-at-sig-group-4399590367": 1,
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-third-republic-4399740974": 1,
-    "https://www.linkedin.com/jobs/view/channel-director-at-cyberforce-global-4401749444": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mama-shelter-4399762437": 1,
-    "https://www.linkedin.com/jobs/view/consultor-de-alian%c3%a7as-i-pr%c3%a9-lan%c3%a7amentos-at-libbs-farmac%c3%aautica-ltda-4399751811": 1,
-    "https://www.linkedin.com/jobs/view/instructional-designer-%2b-lms-builder-wordpress-lifterlms-at-myfinlit-4401746791": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-cyberforce-global-4401751861": 1,
-    "https://www.linkedin.com/jobs/view/internship-process-engineer-at-flowbrave-4397589692": 1,
-    "https://www.linkedin.com/jobs/view/senior-machine-learning-ml-ops-engineer-at-bizmoni-the-next-gen-ai-super-app-4400765260": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-mlops-engineer-at-jobgether-4400753412": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4401768077": 1,
     "https://www.linkedin.com/jobs/view/sideboom-operator-at-ogrc-ltd-4401769139": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/consultant-e-senior-excellence-op%c3%a9rationnelle-at-julhiet-sterwen-4074851216": 1,
     "https://www.linkedin.com/jobs/view/murex-consultant-at-sni-4404816429": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-india-remote-at-turnitin-4397195460": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406854635": 1
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406854635": 1,
+    "https://www.linkedin.com/jobs/view/senior-fintech-consultant-%e2%80%94-institutional-fx-cfd-brokerage-buildout-at-abra-capital-management-4405742653": 1,
+    "https://www.linkedin.com/jobs/view/renewal-account-manager-at-domaintools-4406640584": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-dallas-tx-at-netrix-global-4406662909": 1,
+    "https://www.linkedin.com/jobs/view/ai-growth-marketing-lead-at-diagrid-4405711112": 1,
+    "https://www.linkedin.com/jobs/view/regional-growth-lead-thailand-at-talkpush-4405358915": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-at-jonas-software-4378369484": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-cro-at-swooped-4406630119": 1,
+    "https://www.linkedin.com/jobs/view/director-solutions-consulting-at-figma-4383991849": 1,
+    "https://www.linkedin.com/jobs/view/head-of-programmatic-sales-at-life360-4395725246": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-practice-better-4406824293": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
