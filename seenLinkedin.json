@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389540802": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-engineering-fulltime-role-at-noblesoft-technologies-4400769356": 1,
-    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-imcs-group-4400771122": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-%c2%a350k-%2b-0-5%25-equity-at-meshedcover-com-at-jack-jill-4400750545": 1,
-    "https://www.linkedin.com/jobs/view/online-campaign-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4392082616": 1,
-    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-h-proof-4401741286": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-mappa-4400756196": 1,
-    "https://www.linkedin.com/jobs/view/social-media-creator-partnerships-manager-at-adfix-4401751062": 1,
     "https://www.linkedin.com/jobs/view/presales-engineer-at-uneek-global-4401770665": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-4401540077": 1,
     "https://www.linkedin.com/jobs/view/senior-hubspot-solutions-consultant-remote-executive-workshops-%2b-revops-at-pave-talent-4400778240": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4404171450": 1,
     "https://www.linkedin.com/jobs/view/consultor-conpensacion-at-grupo-baxtech-4404165739": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e4%b8%8a%e5%b8%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%a2%e3%83%b3%e3%83%89%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%81%ab%e5%87%ba%e5%90%91%ef%bc%89-at-%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%89%e3%82%a2%e3%82%a6%e3%83%88%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4405381196": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848964": 1
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848964": 1,
+    "https://www.linkedin.com/jobs/view/senior-esia-consultant-at-slr-consulting-4257013497": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406691202": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4406846765": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406801199": 1,
+    "https://www.linkedin.com/jobs/view/b2b-marketing-manager-remote-at-the-vibe-cmo-4403760641": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406696220": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-insideout-4403755529": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4406854676": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-digital-content-at-club-de-finanzas-negocios-upc-4404172617": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaigns-marketing-manager-at-delinea-4405733264": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
