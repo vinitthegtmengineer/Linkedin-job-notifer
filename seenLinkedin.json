@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-operator-utilities-at-biospace-4401584368": 1,
-    "https://www.linkedin.com/jobs/view/senior-chromium-engineer-at-prokatchers-llc-4402058477": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4401132143": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402057789": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402066328": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067293": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067295": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402064407": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
-    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402070213": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-growth-marketing-content-at-neighborhoods-com-4402073050": 1,
     "https://www.linkedin.com/jobs/view/builder-io-cms-migration-lead-ecommerce-manager-at-the-connors-group-4402048104": 1,
     "https://www.linkedin.com/jobs/view/implementation-consultant-forms-builder-payments-at-springbrook-software-4401142148": 1,
     "https://www.linkedin.com/jobs/view/engineer-platform-operations-at-atmail-4401124516": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-outsourcing-zaventem-at-bdo-belgium-4309393062": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407104298": 1
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407104298": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406876007": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406838470": 1,
+    "https://www.linkedin.com/jobs/view/sdlc-engineer-ai-trainer-at-dataannotation-4397408202": 1,
+    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4406840733": 1,
+    "https://www.linkedin.com/jobs/view/react-engineer-ai-trainer-at-dataannotation-4397403454": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406865156": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-at-joveo-ai-4406861354": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-joveo-ai-4406842642": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-applied-field-engineering-ai-ml-product-specialist-at-snowflake-4406692360": 1,
+    "https://www.linkedin.com/jobs/view/sdlc-engineer-ai-trainer-at-dataannotation-4397398650": 1,
+    "https://www.linkedin.com/jobs/view/personal-branding-and-social-media-manager-at-john-stapleton-4406839932": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 52,
+    "cyclesToday": 53,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
