@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-de-empreendedorismo-at-nutri%c3%a7%c3%a3o-sem-fronteiras-4399788525": 1,
     "https://www.linkedin.com/jobs/view/strategic-ops-engineer-iii-at-backblaze-4399902384": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-kelly-science-engineering-technology-telecom-4401102836": 1,
     "https://www.linkedin.com/jobs/view/strategic-scoring-consultant-at-jobgether-4400777699": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/corporate-project-engineer-manufacturing-remote-at-ipg-4406847288": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-at-arcesium-4374322659": 1,
     "https://www.linkedin.com/jobs/view/corporate-project-engineer-manufacturing-remote-at-ipg-4406856173": 1,
-    "https://www.linkedin.com/jobs/view/corporate-project-engineer-remote-at-ipg-4406845370": 1
+    "https://www.linkedin.com/jobs/view/corporate-project-engineer-remote-at-ipg-4406845370": 1,
+    "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 49,
+    "cyclesToday": 50,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
