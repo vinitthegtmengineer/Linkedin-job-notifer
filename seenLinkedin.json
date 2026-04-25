@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hosted-ops-esri-platform-engineer-opening-at-3-gis-4399633763": 1,
-    "https://www.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-zoobook-systems-llc-4400014103": 1,
-    "https://www.linkedin.com/jobs/view/engineer-aircraft-cybersecurity-operations-remote-at-united-airlines-4401515747": 1,
-    "https://www.linkedin.com/jobs/view/product-security-engineer-at-movable-ink-4400043383": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-a-de-projetos-de-saneamento-el%c3%a9trica-at-m%c3%a9todo-engenharia-4399514738": 1,
-    "https://www.linkedin.com/jobs/view/commissioning-operations-engineer-at-mainspring-energy-4400003489": 1,
-    "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286650004": 1,
-    "https://www.linkedin.com/jobs/view/production-technologist-engineer-mechanical-at-kuka-4401312110": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-managing-composites-4401393753": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-excutive-at-netrolynx-ai-4401593629": 1,
-    "https://www.linkedin.com/jobs/view/staff-software-engineer-add-on-operations-at-jobgether-4399643781": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4400702384": 1,
     "https://www.linkedin.com/jobs/view/consulente-previdenziale-senior-at-randstad-italia-4399725864": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-data-engineering-partner-at-tryhackme-4400708594": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/chief-product-officer-at-gr8-tech-4371850256": 1,
     "https://www.linkedin.com/jobs/view/director-agency-operations-at-bgb-group-4406678551": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-of-sales-at-crestline-hotels-resorts-4403764281": 1,
-    "https://www.linkedin.com/jobs/view/platform-engineer-production-scalability-at-healthcaa-4404153653": 1
+    "https://www.linkedin.com/jobs/view/platform-engineer-production-scalability-at-healthcaa-4404153653": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403733548": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403745386": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403735507": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403732482": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403729626": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403738049": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403742792": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403724616": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403721627": 1,
+    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403737425": 1,
+    "https://www.linkedin.com/jobs/view/fintech-engineer-at-king-fahd-hospital-jeddah-4404153674": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
