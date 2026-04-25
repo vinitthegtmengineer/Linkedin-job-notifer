@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-paid-media-executive-%e2%80%93-b2b-apac-campaigns-at-hotwire-asia-pacific-4400095748": 1,
-    "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4398850035": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-sculpd-4400082923": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineering-specialist-kubernetes-docker-containerization-at-jobgether-4400702285": 1,
-    "https://www.linkedin.com/jobs/view/marketing-lead-gen-intern-at-settl-x-4400707377": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-m-f-d-remote-20-40h-week-at-scalantec-4399738696": 1,
-    "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4401572058": 1,
-    "https://www.linkedin.com/jobs/view/support-operations-engineer-ii-at-storyblok-4401558582": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-process-engineer-at-united-consulting-hub-4399632319": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-timely-recruit-ltd-4401058025": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineering-advisor-at-celestica-4399683661": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4401042611": 1,
     "https://www.linkedin.com/jobs/view/hosted-ops-esri-platform-engineer-opening-at-3-gis-4399633763": 1,
     "https://www.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-zoobook-systems-llc-4400014103": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/senior-social-media-marketing-manager-at-orena-fragrances-4406825326": 1,
     "https://www.linkedin.com/jobs/view/associate-merchandise-planner-at-vici-4406815345": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-i-at-creative-circle-4403707312": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-samsara-4351307309": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4405719915": 1,
+    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4396969003": 1,
+    "https://www.linkedin.com/jobs/view/creator-relations-at-air-apps-4406608578": 1,
+    "https://www.linkedin.com/jobs/view/data-scientist-forecasting-optimization-at-f%c3%a9lix-4405371727": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-manager-at-trivium-group-4406670416": 1,
+    "https://www.linkedin.com/jobs/view/marketing-program-manager-machine-control-at-leica-geosystems-part-of-hexagon-4403734326": 1,
+    "https://www.linkedin.com/jobs/view/freelance-automation-workflow-specialist-no-code-at-mindrift-4406619444": 1,
+    "https://www.linkedin.com/jobs/view/project-manager-content-manager-at-jobgether-4405307564": 1,
+    "https://www.linkedin.com/jobs/view/chief-product-officer-at-gr8-tech-4371850256": 1,
+    "https://www.linkedin.com/jobs/view/director-agency-operations-at-bgb-group-4406678551": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-of-sales-at-crestline-hotels-resorts-4403764281": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
