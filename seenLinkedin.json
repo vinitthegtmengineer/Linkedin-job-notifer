@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operational-engr-ii-at-csg-4400710989": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-at-the-value-maximizer-4401709797": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-dallas-central-%234665-at-grail-4379103827": 1,
-    "https://www.linkedin.com/jobs/view/1061-plc-engineer-at-intetics-4401736412": 1,
     "https://www.linkedin.com/jobs/view/1061-plc-engineer-at-intetics-4401732509": 1,
     "https://www.linkedin.com/jobs/view/quantum-platform-ops-engineer-at-aricoma-4400733178": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-tbi-communications-4401077393": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406855412": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406845668": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1,
+    "https://www.linkedin.com/jobs/view/turbine-operator-abilene-tx-at-oracle-4373734293": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4320734663": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-rjdx-silver-4405755016": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
