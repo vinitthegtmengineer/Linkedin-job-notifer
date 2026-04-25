@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-generalist-growth-operator-at-simplifi-iq-4399728743": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-henderson-drake-4399748050": 1,
     "https://www.linkedin.com/jobs/view/mci-consultant-at-nielseniq-4400707779": 1,
     "https://www.linkedin.com/jobs/view/ai-systems-builder-at-confidential-4401507301": 1,
     "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-xcede-4400707823": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/retalix-consultant-at-ora-apps-inc-4405371360": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406841416": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406835449": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406854292": 1
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406854292": 1,
+    "https://www.linkedin.com/jobs/view/funding-consultant-at-integrity-first-funding-4404151875": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406835450": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
