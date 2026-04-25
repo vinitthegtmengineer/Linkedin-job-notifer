@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-tampa-fl-%234747-at-grail-4400794701": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389555137": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551443": 1,
     "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4402010129": 1,
     "https://www.linkedin.com/jobs/view/ai-systems-engineer-agents-rag-production-ai-at-dacodes-4401798664": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385366601": 1,
     "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404116504": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-vynce-digital-4405752657": 1,
+    "https://www.linkedin.com/jobs/view/manager-influencer-podcast-marketing-at-pendulum-therapeutics-4406695357": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
