@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4401768077": 1,
-    "https://www.linkedin.com/jobs/view/sideboom-operator-at-ogrc-ltd-4401769139": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4382124005": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389540802": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389536892": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/director-solutions-consulting-at-figma-4383991849": 1,
     "https://www.linkedin.com/jobs/view/head-of-programmatic-sales-at-life360-4395725246": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-practice-better-4406824293": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4404171450": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4404171450": 1,
+    "https://www.linkedin.com/jobs/view/consultor-conpensacion-at-grupo-baxtech-4404165739": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e4%b8%8a%e5%b8%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%a2%e3%83%b3%e3%83%89%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%81%ab%e5%87%ba%e5%90%91%ef%bc%89-at-%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%89%e3%82%a2%e3%82%a6%e3%83%88%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4405381196": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848964": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
