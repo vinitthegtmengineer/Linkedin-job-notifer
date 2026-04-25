@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-make-me-local-4401799027": 1,
-    "https://www.linkedin.com/jobs/view/operador-online-at-filgud-studio-4399772397": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-futureplus-4401314949": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389551444": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/ai-production-engineer-at-distyl-4373710530": 1,
     "https://www.linkedin.com/jobs/view/manager-of-sales-doit-cloud-intelligence-us-at-doit-4383066756": 1,
     "https://www.linkedin.com/jobs/view/vice-president-%e2%80%93-gtm-technology-product-and-operations-at-zoominfo-4384861189": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-ledge-4403775831": 1
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-ledge-4403775831": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360751": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-25",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
