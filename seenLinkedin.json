@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-lowcode-engineer-at-undelucram-ro-4401134864": 1,
-    "https://www.linkedin.com/jobs/view/senior-financial-analyst-fp-a-operator-fractional-cfo-support-at-quintessence-consulting-4402223709": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-campaign-manager-at-horizon3-ai-4401106707": 1,
-    "https://www.linkedin.com/jobs/view/amazon-brand-growth-manager-client-communications-specialist-at-advance-amazon-agency-4399911974": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-marketing-campaigns-at-bolt-4402227615": 1,
     "https://www.linkedin.com/jobs/view/%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd-%d1%87%d0%b0%d1%82%d0%b0-%d1%81%d0%be-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc-%d1%82%d0%b0%d0%b4%d0%b6%d0%b8%d0%ba%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d1%8f%d0%b7%d1%8b%d0%ba%d0%b0-at-talk-with-us-4402244028": 1,
     "https://www.linkedin.com/jobs/view/pressure-vessel-engineer-at-lloyds-british-4402231627": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-tripyog-4401190116": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-givecampus-4395244411": 1,
     "https://www.linkedin.com/jobs/view/airbnb-virtual-marketing-operations-assistant-at-quind-4405906128": 1,
-    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-vsense-fintech-inc-4404600324": 1
+    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-vsense-fintech-inc-4404600324": 1,
+    "https://www.linkedin.com/jobs/view/technologyone-consultants-new-today-at-t1-4405791563": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-studio-launch-4404161210": 1,
+    "https://www.linkedin.com/jobs/view/gain-performance-campaign-manager-at-gain-4405770171": 1,
+    "https://www.linkedin.com/jobs/view/support-social-media-visibility-and-online-fundraising-campaign-at-vnu-s%c3%a9n%c3%a9gal-gambie-4405757150": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-global-marketing-at-smarty-invest-4407100510": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
