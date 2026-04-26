@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-at-flosum-4402542120": 1,
-    "https://www.linkedin.com/jobs/view/operations-senior-engineer-at-yondr-group-4393930824": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-remote-%e2%80%93-pakistan-based-at-solpro-digital-4401469191": 1,
-    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4394682655": 1,
-    "https://www.linkedin.com/jobs/view/omnichannel-activation-manager-at-del-monte-foods-4401469175": 1,
-    "https://www.linkedin.com/jobs/view/ai-go-to-market-engineer-romania-at-flosum-4402520944": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-edii-pgdm-4401456551": 1,
     "https://www.linkedin.com/jobs/view/palantir-foundry-consultant-at-airswift-4399992308": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-impactech-digital-4400108002": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-supply-chain-ready-4404638153": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407110791": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407128527": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407105808": 1
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407105808": 1,
+    "https://www.linkedin.com/jobs/view/%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d1%96-%d1%81%d1%82%d1%80%d0%b0%d1%85%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-at-uniqa-ukraine-4351983991": 1,
+    "https://www.linkedin.com/jobs/view/%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d1%96-%d1%81%d1%82%d1%80%d0%b0%d1%85%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-at-uniqa-ukraine-4351779929": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397570996": 1,
+    "https://www.linkedin.com/jobs/view/head-of-partnerships-at-henry-schein-one-uk-4405761133": 1,
+    "https://www.linkedin.com/jobs/view/strategic-customer-success-manager-at-atlan-4213141520": 1,
+    "https://www.linkedin.com/jobs/view/gtm-talent-community-at-extrahop-4397401587": 1,
+    "https://www.linkedin.com/jobs/view/business-development-analyst-at-envita-solutions-4384896647": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
