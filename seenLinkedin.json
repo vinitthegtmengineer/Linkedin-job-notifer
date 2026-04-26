@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%ad%a6%e8%94%b5%e9%87%8e%e3%80%91%e9%9b%bb%e6%b0%97cad%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e2%80%bbrebro%e3%83%bbtfas%e7%b5%8c%e9%a8%93%e8%80%85%e6%ad%93%e8%bf%8e%ef%bc%8f%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%8f%e5%9c%9f%e6%97%a5%e7%a5%9d%e4%bc%91%ef%bc%8f%e5%9f%ba%e6%9c%ac%e5%ae%9a%e6%99%82%e9%80%80%e7%a4%be-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4402692455": 1,
-    "https://www.linkedin.com/jobs/view/country-operations-lead-thailand-at-tantan-%e6%8e%a2%e6%8e%a2-4400154894": 1,
     "https://www.linkedin.com/jobs/view/founding-marketplace-activation-operator-0%e2%86%921-at-splitstay-4401847841": 1,
     "https://www.linkedin.com/jobs/view/operador-monitoramento-%e2%80%93-portaria-virtual-%e2%80%93-porto-alegre-%e2%80%93-rs-at-buscarvagas-empregos-brasil-4400179608": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-azure-databricks-is-must-at-talentquell-4401866099": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/vice-president-of-revenue-operations-at-novusminds-ai-4405938114": 1,
     "https://www.linkedin.com/jobs/view/director-of-market-strategy-at-kaizen-executive-search-inc-4405795293": 1,
     "https://www.linkedin.com/jobs/view/abm-demand-generation-manager-at-flock-4375855172": 1,
-    "https://www.linkedin.com/jobs/view/content-manager-team-lead-%e2%80%93-e-commerce-marketing-agency-at-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b3%d9%87%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d9%84%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-4404648424": 1
+    "https://www.linkedin.com/jobs/view/content-manager-team-lead-%e2%80%93-e-commerce-marketing-agency-at-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b3%d9%87%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d9%84%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-4404648424": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404641607": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-partner-philippines-remote-at-growthassistant-4407138140": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
