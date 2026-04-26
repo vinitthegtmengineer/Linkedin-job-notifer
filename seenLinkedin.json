@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-executive-remote-%e2%80%93-philippines-at-ucm-global-talent-4401417854": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-emea-at-samsara-4352821081": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-optimite-4401431406": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-brightspeed-4402502073": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-xcelsus-hellas-4399974096": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-debo-4401430469": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/claude-code-operator-at-tapetide-4405913523": 1,
     "https://www.linkedin.com/jobs/view/consultant-senior-consultant-%e2%80%93-celonis-at-lara-tech-consulting-4367216676": 1,
     "https://www.linkedin.com/jobs/view/field-service-engineer-ups-at-vertiv-4385544220": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-love-your-freedom-4405904743": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-love-your-freedom-4405904743": 1,
+    "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4405924114": 1,
+    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406844549": 1,
+    "https://www.linkedin.com/jobs/view/senior-acquisition-marketing-executive-streamers-creators-at-duelbits-4407127247": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
