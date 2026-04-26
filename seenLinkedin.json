@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operador-monitoramento-%e2%80%93-portaria-virtual-%e2%80%93-porto-alegre-%e2%80%93-rs-at-buscarvagas-empregos-brasil-4400179608": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-azure-databricks-is-must-at-talentquell-4401866099": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-jobgether-4401838796": 1,
     "https://www.linkedin.com/jobs/view/data-ai-operations-engineer-at-zeliq-4402923215": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/content-manager-team-lead-%e2%80%93-e-commerce-marketing-agency-at-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b3%d9%87%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d9%84%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-4404648424": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404641607": 1,
     "https://www.linkedin.com/jobs/view/executive-operations-partner-philippines-remote-at-growthassistant-4407138140": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rendco-rendering-ltd-4405919891": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rendco-rendering-ltd-4405919891": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-global-marketing-at-smarty-invest-4407148328": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
