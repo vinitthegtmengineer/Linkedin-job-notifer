@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-operations-at-mayu-water-4388217208": 1,
     "https://www.linkedin.com/jobs/view/advisor-consultant-south-florida-at-the-hartford-4399999416": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400198772": 1,
     "https://www.linkedin.com/jobs/view/content-executive-at-flexiple-4401439462": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344833578": 1,
     "https://www.linkedin.com/jobs/view/automations-specialist-revops-at-revsync-4407137750": 1,
     "https://www.linkedin.com/jobs/view/revops-engineer-f-m-%e2%80%93-passbolt-at-silicon-luxembourg-4407130893": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-uk-market-at-brevo-4400489441": 1
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-uk-market-at-brevo-4400489441": 1,
+    "https://www.linkedin.com/jobs/view/leisure-experience-consultant-commission-based-at-fullnelsonclan-travel-4405928946": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 42,
+    "cyclesToday": 43,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
