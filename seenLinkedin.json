@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-enablement-outbound-at-elevenlabs-4401121829": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-operations-manager-at-medisolv-inc-4400612974": 1,
-    "https://www.linkedin.com/jobs/view/startup-gtm-at-tenstorrent-4326556580": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-mondo-4402603916": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-madrivo-4401480345": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-redwood-software-4401478370": 1,
     "https://www.linkedin.com/jobs/view/vp-of-customer-success-at-shoplift-4402614111": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-inteleccess-4400129673": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-tekkit-4407144086": 1,
     "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-fintech-space-4405929630": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projet-project-management-officer-at-scalian-4334583872": 1,
-    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4384283572": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385367595": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-global-marketing-at-smarty-invest-4407132232": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-coordinator-philippines-remote-at-growthassistant-4407135208": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-global-marketing-at-e7-invest-gmbh-4404634552": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
