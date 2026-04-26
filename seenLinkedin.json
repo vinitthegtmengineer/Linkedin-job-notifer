@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cx-engineer-namibia-at-proto-4401835372": 1,
-    "https://www.linkedin.com/jobs/view/power-bi-engineer-va-esom-endpoint-engineering-at-kentro-4401838741": 1,
-    "https://www.linkedin.com/jobs/view/senior-databricks-engineer-remote-usa-at-fullstack-4380558695": 1,
-    "https://www.linkedin.com/jobs/view/google-locker-engineer-at-thoughtstorm-4401469487": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4402914734": 1,
-    "https://www.linkedin.com/jobs/view/applicant-for-exist-project-team-ai-engineer-at-wert-ai-4391906721": 1,
-    "https://www.linkedin.com/jobs/view/senior-application-operations-engineer-spain-at-infoser-technological-solutions-hardware-big-data-experts-4402928130": 1,
-    "https://www.linkedin.com/jobs/view/creator-influencer-marketing-manager-at-mint-lily-4401865433": 1,
-    "https://www.linkedin.com/jobs/view/growth-customer-operations-manager-at-mint-lily-4401409159": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-360-poste-bas%c3%a9-au-canada-toronto-at-robert-partners-4401884241": 1,
-    "https://www.linkedin.com/jobs/view/sr-engineer-machine-learning-operations-at-exact-sciences-4379494480": 1,
-    "https://www.linkedin.com/jobs/view/resume-review-operator-native-english-part-time-at-jobhire-ai-4402927550": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-nexthire-4401845289": 1,
     "https://www.linkedin.com/jobs/view/vice-president-operations-at-mayu-water-4388217208": 1,
     "https://www.linkedin.com/jobs/view/advisor-consultant-south-florida-at-the-hartford-4399999416": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400198772": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/junior-noc-engineer-at-true-zero-technologies-4407133291": 1,
     "https://www.linkedin.com/jobs/view/email-sms-retention-marketing-manager-at-tumble-4405931860": 1,
     "https://www.linkedin.com/jobs/view/social-media-listing-manager-at-merit-resource-services-4407149496": 1,
-    "https://www.linkedin.com/jobs/view/data-ai-sales-lead-%e2%80%93-azure-fabric-analytics-at-delaware-united-kingdom-ireland-4405926247": 1
+    "https://www.linkedin.com/jobs/view/data-ai-sales-lead-%e2%80%93-azure-fabric-analytics-at-delaware-united-kingdom-ireland-4405926247": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4345040472": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4345022228": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344992454": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344833577": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344972731": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344923108": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344992447": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4345022224": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4345040382": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344833578": 1,
+    "https://www.linkedin.com/jobs/view/automations-specialist-revops-at-revsync-4407137750": 1,
+    "https://www.linkedin.com/jobs/view/revops-engineer-f-m-%e2%80%93-passbolt-at-silicon-luxembourg-4407130893": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-uk-market-at-brevo-4400489441": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
