@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/palantir-foundry-consultant-at-airswift-4399992308": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-impactech-digital-4400108002": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1,
-    "https://www.linkedin.com/jobs/view/konzultant-konzultantka-klientsk%c3%a9ho-centra-allianz-100%25-home-office-at-ministry-of-the-interior-of-the-czech-republic-4402544330": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-enterprise-saas-at-local-express-4399981937": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e3%82%b4%e3%82%a6%e3%83%aa%e3%82%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4402585601": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%ef%bc%89-at-%ef%bd%87%ef%bd%92%ef%bd%8f%ef%bd%95%ef%bd%8e%ef%bd%84%ef%bc%88%e6%a0%aa%ef%bc%89-4402586549": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/head-of-partnerships-at-henry-schein-one-uk-4405761133": 1,
     "https://www.linkedin.com/jobs/view/strategic-customer-success-manager-at-atlan-4213141520": 1,
     "https://www.linkedin.com/jobs/view/gtm-talent-community-at-extrahop-4397401587": 1,
-    "https://www.linkedin.com/jobs/view/business-development-analyst-at-envita-solutions-4384896647": 1
+    "https://www.linkedin.com/jobs/view/business-development-analyst-at-envita-solutions-4384896647": 1,
+    "https://www.linkedin.com/jobs/view/energy-storage-preconstruction-project-engineer-at-solv-energy-4385506359": 1,
+    "https://www.linkedin.com/jobs/view/energy-storage-preconstruction-project-engineer-at-solv-energy-4385396834": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-creator-marketing-at-substack-4407121765": 1,
+    "https://www.linkedin.com/jobs/view/campaign-strategist-creator-marketing-at-substack-4407127644": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
