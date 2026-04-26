@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-gtm-strategic-initiatives-at-lyric-4401123747": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-gtm-at-tenstorrent-4326653176": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-outbound-at-elevenlabs-4401121829": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-gtm-operations-manager-at-medisolv-inc-4400612974": 1,
     "https://www.linkedin.com/jobs/view/startup-gtm-at-tenstorrent-4326556580": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/associate-marketing-manager-marketing-manager-at-swooped-4407140062": 1,
     "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385891174": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-tekkit-4407144086": 1,
-    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-fintech-space-4405929630": 1
+    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-fintech-space-4405929630": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projet-project-management-officer-at-scalian-4334583872": 1,
+    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-projets-nucl%c3%a9aire-at-scalian-4334434622": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
