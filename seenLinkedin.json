@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/global-digital-marketing-campaign-manager-at-intellias-4402619561": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
-    "https://www.linkedin.com/jobs/view/personal-assistant-project-operator-to-founder-at-ltk-food-group-4400190836": 1,
-    "https://www.linkedin.com/jobs/view/senior-concur-consultant-at-nityo-infotech-4402115154": 1,
     "https://www.linkedin.com/jobs/view/consultor-ssff-at-perceptio-s-a-s-4402122137": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400400913": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400404912": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/leisure-experience-consultant-commission-based-at-fullnelsonclan-travel-4405928946": 1,
     "https://www.linkedin.com/jobs/view/senior-partner-marketing-manager-at-1password-4407122048": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404660019": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-orange-logic-4405936891": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-orange-logic-4405936891": 1,
+    "https://www.linkedin.com/jobs/view/program-operator-%e2%80%93-education-teacher-success-at-edbinder-4404675035": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407152711": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-devops-at-temu-4405938365": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4405948008": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 46,
+    "cyclesToday": 47,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
