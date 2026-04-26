@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/content-executive-at-flexiple-4401439462": 1,
     "https://www.linkedin.com/jobs/view/global-digital-marketing-campaign-manager-at-intellias-4402619561": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
     "https://www.linkedin.com/jobs/view/personal-assistant-project-operator-to-founder-at-ltk-food-group-4400190836": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-uk-market-at-brevo-4400489441": 1,
     "https://www.linkedin.com/jobs/view/leisure-experience-consultant-commission-based-at-fullnelsonclan-travel-4405928946": 1,
     "https://www.linkedin.com/jobs/view/senior-partner-marketing-manager-at-1password-4407122048": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404660019": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404660019": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-orange-logic-4405936891": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
