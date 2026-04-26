@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quoting-engineer-at-volex-4402614361": 1,
-    "https://www.linkedin.com/jobs/view/five9-engineer-adminisatrator-at-global-mobility-services-4401489386": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineering-design-specialist-codebyte-at-taraki-4401146163": 1,
-    "https://www.linkedin.com/jobs/view/gpu-cuda-engineer-at-bespoke-labs-4399728098": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%b3%95%e4%ba%ba%e5%90%91%e3%81%91saas%e4%ba%8b%e6%a5%ad%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%82%ae%e3%83%95%e3%83%86%e3%82%a3-4402572658": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91llm%e5%9f%ba%e7%9b%a4%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%ad%e3%82%b0%e3%83%a9%e3%82%b9-4402572664": 1,
     "https://www.linkedin.com/jobs/view/ingeniero-de-observabilidad-dynatrace-at-pss-tecnologias-de-la-informacion-4399964393": 1,
     "https://www.linkedin.com/jobs/view/supplier-engineer-at-insight-global-4401813160": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360752": 1,
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4404647252": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarter-technologies-4375469163": 1,
-    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1
+    "https://www.linkedin.com/jobs/view/svp-operations-at-tia-4345475466": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-customer-engagement-d365-at-hso-4331240106": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-certifications-electrical-division-at-icc-evaluation-service-icc-es-4385566542": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-trattamento-acque-industriali-at-solenis-4373495680": 1,
+    "https://www.linkedin.com/jobs/view/marketing-strategist-at-elite-marketing-4404634418": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4407114529": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-26",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
