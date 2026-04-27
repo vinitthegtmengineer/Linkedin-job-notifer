@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-convertr-4402170918": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4400182331": 1,
     "https://www.linkedin.com/jobs/view/marketing-and-social-media-manager-at-maui-rippers-4395466839": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4405987007": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4407187878": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-meitu-inc-4407185601": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-social-media-manager-at-marketing-essentials-lab-%c2%ae-4403751348": 1
+    "https://www.linkedin.com/jobs/view/linkedin-social-media-manager-at-marketing-essentials-lab-%c2%ae-4403751348": 1,
+    "https://www.linkedin.com/jobs/view/ediscovery-consultant-%c2%a365-000-%c2%a375-000-remote-at-apt-search-4404691883": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
