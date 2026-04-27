@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e6%95%b025%e4%b8%87%e4%ba%ba%e4%bb%a5%e4%b8%8a%ef%bc%8f%e6%a5%ad%e7%95%8c%e3%83%88%e3%83%83%e3%83%97%e3%82%af%e3%83%a9%e3%82%b9m-a%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4402679735": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-engineer-operations-and-implementation-at-groundswell-4400469058": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-engineer-operations-and-implementation-at-groundswell-4400464124": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-design-engineer-at-turvo-4403108300": 1,
-    "https://www.linkedin.com/jobs/view/urgent-shopify-e-commerce-operator-at-sphere-rocket-va-us-4402183624": 1,
-    "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403105428": 1,
-    "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403111341": 1,
-    "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403114301": 1,
-    "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403121152": 1,
     "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403106419": 1,
     "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403109405": 1,
     "https://www.linkedin.com/jobs/view/konsultant-ds-obs%c5%82ugi-klienta-konsultantka-ds-obs%c5%82ugi-klienta-at-praca-pl-4403119246": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4407155930": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-assistant-ai-enabled-operator-at-decentralized-masters-4407159860": 1,
     "https://www.linkedin.com/jobs/view/senior-regional-marketing-manager-at-jobgether-4405952713": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-operations-irc289822-at-globallogic-4374628856": 1
+    "https://www.linkedin.com/jobs/view/sr-marketing-operations-irc289822-at-globallogic-4374628856": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-berater-ref-tkayb-at-rsight%c2%ae-4394670772": 1,
+    "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-scout-global-4398671937": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-netrolynx-ai-4407164938": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405984236": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405969361": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405968390": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405963670": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405962725": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405966378": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
