@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%a5%ad%e5%8b%99%e7%b3%bb%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%b8%80%e6%ac%a1%e9%9d%a2%e6%8e%a5%e3%81%8b%e3%82%89%e7%a4%be%e9%95%b7%e3%81%a8%e4%bc%9a%e3%81%88%e3%82%8b%ef%bc%81%ef%bc%8f%e3%81%bb%e3%81%bc%e6%ae%8b%e6%a5%ad%e7%84%a1%e3%81%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%ba-4403105057": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4403415175": 1,
-    "https://www.linkedin.com/jobs/view/crm-manager-loyalty-and-customer-journeys-at-leonardo-hotels-uk-ireland-4403415266": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-timely-recruit-ltd-4403413590": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4403195980": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-tiktok-at-beautiful-earth-4403196988": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-%e2%80%93-content-social-media-events-at-fuld-4403411524": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4402377213": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4402359340": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-guidehouse-4403199908": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4402361343": 1,
     "https://www.linkedin.com/jobs/view/principal-engineer-forward-deployment-engineering-at-toast-4391196027": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-unearthed-4403422124": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-roebuck-estates-4403406978": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-piing-4405138089": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-glints-4405999541": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4407429289": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4407438136": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4407438136": 1,
+    "https://www.linkedin.com/jobs/view/director-of-operations-execution-at-tokenzen-4407447368": 1,
+    "https://www.linkedin.com/jobs/view/founding-operator-4407426812": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4405991813": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-akkodis-4405994885": 1,
+    "https://www.linkedin.com/jobs/view/ai-evaluation-engineer-planning-operations-at-gramian-consulting-4407409901": 1,
+    "https://www.linkedin.com/jobs/view/senior-cluster-site-reliability-engineer-at-the-voleon-group-4407416372": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91%e7%a4%be%e5%86%85se-%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%bb%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e6%a7%8b%e7%af%89%e3%83%bb%e9%81%8b%e7%94%a8-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e4%b8%8a%e5%a0%b4-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4407170585": 1,
+    "https://www.linkedin.com/jobs/view/operational-technology-engineer-at-siemens-energy-4405985376": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-daiki-media-digital-marketing-that-drives-results-4406201818": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rochelle-s-airbnb-residential-cleaning-services-4405991849": 1,
+    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-clean-fintech-4405146101": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
