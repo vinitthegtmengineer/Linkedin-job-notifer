@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-qualification-operator-at-quaro-x-4402731014": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-spectraforce-4403492414": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4392266743": 1,
-    "https://www.linkedin.com/jobs/view/director-client-strategy-and-growth-at-jobgether-4402390140": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-hotels-at-kinship-4402732383": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402734346": 1,
     "https://www.linkedin.com/jobs/view/mlops-engineer-relocation-to-serbia-at-akvelon-inc-4400845048": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-trojan-battery-company-4403164059": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-vertical-focused-at-tremendous-4403516039": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/growth-engineer-commercial-operations-at-ripjar-4407537359": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-at-institute-for-integrative-nutrition-4405147611": 1,
     "https://www.linkedin.com/jobs/view/coo-founding-operator-m-f-novo-e-commerce-de-mobili%c3%a1rio-europa-portugal-%c2%b7-full-time-%c2%b7-hibrido-at-nimervima-holdings-4407523668": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407521631": 1
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407521631": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-f%c3%a9lix-4407493729": 1,
+    "https://www.linkedin.com/jobs/view/remote-b2b-marketing-manager-at-viva-talent-4407447956": 1,
+    "https://www.linkedin.com/jobs/view/sr-growth-marketing-manager-at-jobgether-4405965271": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-practicetek-4387717652": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-account-manager-at-pain-free-dental-marketing-4406219579": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-in-m-w-d-at-onqo-health-4405146108": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
