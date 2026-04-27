@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400403946": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4400410084": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-bayforce-4402949908": 1,
-    "https://www.linkedin.com/jobs/view/channel-operations-and-enablement-manager-at-paylocity-4390370575": 1,
-    "https://www.linkedin.com/jobs/view/we%e2%80%99re-hiring-account-manager-project-manager-growth-operator-at-emma-of-torre-ai-4402961336": 1,
-    "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4402950642": 1,
-    "https://www.linkedin.com/jobs/view/flutterflow-full-stack-builder-ai-native-pixel-perfect-at-shae-ph360-4400409324": 1,
-    "https://www.linkedin.com/jobs/view/junior-devops-platform-operations-engineer-%f0%9f%87%ba%f0%9f%87%b8-at-talent-connect-group-tcg-4402952548": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402963367": 1,
     "https://www.linkedin.com/jobs/view/influencer-campaign-executive-at-akg-media-4402958606": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-purelogics-4402113835": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4405948008": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407108530": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402956459": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402958422": 1
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402958422": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnership-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4402968303": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-go-to-market-systems-revenue-automation-at-roger-4404643182": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407110790": 1,
+    "https://www.linkedin.com/jobs/view/chief-operating-officer-at-n-21-ai-4405924601": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-nexhealth-4385599702": 1,
+    "https://www.linkedin.com/jobs/view/director-customer-success-operations-at-swooped-4407139074": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-influencer-marketing-at-remotehunter-4405916336": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-b2b-campaign-execution-philippines-remote-at-growthassistant-4406899842": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-04-26",
-    "cyclesToday": 49,
+    "date": "2026-04-27",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
