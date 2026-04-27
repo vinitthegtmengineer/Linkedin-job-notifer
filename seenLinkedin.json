@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-builder-vibe-coder-at-altagic-ai-performance-agency-4402386201": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362029745": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-engineer-apac-at-kraken-4362069835": 1,
-    "https://www.linkedin.com/jobs/view/chat-operator-remote-%e2%80%93-strong-earning-potential-at-elance-models-4403433944": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390750370": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
     "https://www.linkedin.com/jobs/view/head-of-emea-sales-at-trulioo-4386984212": 1,
     "https://www.linkedin.com/jobs/view/formateur-freelance-product-builder-ia-at-intelligence-academy-4403464181": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400838122": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-map-4407478099": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-1ds-collective-4405377762": 1,
     "https://www.linkedin.com/jobs/view/marketing-data-insights-specialist-at-one-identity-4405155090": 1,
-    "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4404444283": 1
+    "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4404444283": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%88%b6%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4407496398": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%88%b6%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4407487491": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4407485494": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407478311": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sphere-digital-recruitment-group-4407454841": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-emea-at-procept-biorobotics-4407493155": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
