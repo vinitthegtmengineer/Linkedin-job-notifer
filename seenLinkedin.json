@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402942441": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402931584": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402942448": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402932523": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402946414": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-specialist-at-huzzle-com-4402940497": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-hirewithatlas-4400469241": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-open-systems-technologies-4403108472": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sprinto-4390424624": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-manos-software-group-4381128799": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-gtm-tech-at-mongodb-4403100152": 1,
     "https://www.linkedin.com/jobs/view/noc-support-engineer-at-packetfabric-4402148104": 1,
     "https://www.linkedin.com/jobs/view/gtm-at-reflow-4403101446": 1,
     "https://www.linkedin.com/jobs/view/ai-agents-gtm-specialist-at-jobgether-4402132123": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/campaign-activation-manager-at-carhartt-4407181571": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-vykon-4404680455": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405963683": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-jobgether-4405983184": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-jobgether-4405983184": 1,
+    "https://www.linkedin.com/jobs/view/consultant-en-recrutement-ind%c3%a9pendant-h-f-france-enti%c3%a8re-at-alveor-4407163798": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4404690531": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4404695434": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4404693489": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-head-of-scaled-sales-at-jobgether-4404691423": 1,
+    "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385887477": 1,
+    "https://www.linkedin.com/jobs/view/marketplace-executive-at-no-fluff-4404684361": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-mena-at-duolingo-4333999987": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404687505": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4405962726": 1,
+    "https://www.linkedin.com/jobs/view/director-global-marketing-at-jobgether-4405966577": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
