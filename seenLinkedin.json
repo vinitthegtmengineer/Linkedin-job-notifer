@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e8%bf%90%e7%bb%b4%e5%b7%a5%e7%a8%8b%e5%b8%88-at-deepcoin-4402142118": 1,
-    "https://www.linkedin.com/jobs/view/principal-agent-ops-engineer-at-realtek-consulting-llc-4402141322": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-house-of-emirates%c2%ae-4400415612": 1,
-    "https://www.linkedin.com/jobs/view/paid-growth-operator-at-energyear-4400407596": 1,
     "https://www.linkedin.com/jobs/view/consultant-global-pricing-access-remote-at-eversana-4401878652": 1,
     "https://www.linkedin.com/jobs/view/robotics-project-engineer-at-mindlance-4402603684": 1,
     "https://www.linkedin.com/jobs/view/ai-marketing-technologist-at-lightspeed-commerce-4400438249": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-concept-designer-at-mangotalent-4407153137": 1,
     "https://www.linkedin.com/jobs/view/social-media-listing-manager-at-merit-resource-services-4407145844": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-director-united-states-at-yoonify-4405941406": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-oh%21-love-ya-dawn-company-4405961002": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-oh%21-love-ya-dawn-company-4405961002": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407109504": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-thundersoft-4405953563": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-ai-trainer-at-mercor-4405958443": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402963367": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
