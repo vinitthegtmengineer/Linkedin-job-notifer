@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-emea-sales-at-trulioo-4386984212": 1,
-    "https://www.linkedin.com/jobs/view/formateur-freelance-product-builder-ia-at-intelligence-academy-4403464181": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400838122": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-jobgether-4402387731": 1,
     "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4390948685": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4407485494": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407478311": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sphere-digital-recruitment-group-4407454841": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-emea-at-procept-biorobotics-4407493155": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-emea-at-procept-biorobotics-4407493155": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-email-marketing-manager-at-jane-creative-4407479853": 1,
+    "https://www.linkedin.com/jobs/view/chief-growth-and-brand-officer-at-phd-weight-loss-4407434607": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
