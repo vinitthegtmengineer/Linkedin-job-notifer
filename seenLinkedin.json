@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-leader-%e2%80%93-ai-edtech-corporate-l-d-at-fractal-4402708523": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-ii-at-amazon-4402726992": 1,
     "https://www.linkedin.com/jobs/view/growth-qualification-operator-at-quaro-x-4402731014": 1,
     "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-spectraforce-4403492414": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-infosys-4392266743": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/growth-engineer-commercial-operations-at-ripjar-4407524242": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-commercial-operations-at-ripjar-4407539223": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-commercial-operations-at-ripjar-4407537359": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-at-institute-for-integrative-nutrition-4405147611": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-at-institute-for-integrative-nutrition-4405147611": 1,
+    "https://www.linkedin.com/jobs/view/coo-founding-operator-m-f-novo-e-commerce-de-mobili%c3%a1rio-europa-portugal-%c2%b7-full-time-%c2%b7-hibrido-at-nimervima-holdings-4407523668": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407521631": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-27",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
