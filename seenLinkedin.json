@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/palantir-engineer-at-addison-group-4403594412": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390736558": 1,
-    "https://www.linkedin.com/jobs/view/sr-devsecops-engineer-us-at-craft-co-4403565828": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-f-m-at-mytraffic-4387858954": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-at-kyra-4382123417": 1,
     "https://www.linkedin.com/jobs/view/ppc-campaign-manager-google-bing-ads-specialist-at-fmca-filings-4403516959": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403036507": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407493651": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407479725": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407477867": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407821585": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407821585": 1,
+    "https://www.linkedin.com/jobs/view/venture-builder-at-thawer-philanthropies-endowment-4407832858": 1,
+    "https://www.linkedin.com/jobs/view/senior-fs-engineer-50-50-at-commit-4407832696": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4405534688": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405197607": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
