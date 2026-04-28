@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-night-shifts-at-akamai-technologies-4391710611": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-abb-4403809552": 1,
     "https://www.linkedin.com/jobs/view/wir-suchen-projektingenieure-im-bereich-bess-energieverteilung-emsr-technik-und-integration-erneuerbarer-energien-m-w-d-at-psvdl-engineering-gmbh-4400884116": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4372129534": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/growth-operator-at-distyl-4398875228": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-brands-at-warren-james-4406214776": 1,
     "https://www.linkedin.com/jobs/view/operador-de-capta%c3%a7%c3%a3o-at-instituto-infnet-4406003261": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4406595918": 1
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4406595918": 1,
+    "https://www.linkedin.com/jobs/view/remote-ecommerce-email-marketing-crm-retention-manager-at-sterling-forever-4408060094": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
