@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390747356": 1,
-    "https://www.linkedin.com/jobs/view/head-of-revenue-enablement-at-mercury-4392772619": 1,
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-renovyn-4403816763": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-for-business-consulting-marketing-firm-virtual-at-piedmont-avenue-consulting-inc-4402765055": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-all-genders-at-rencore-4393470470": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726874": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-lead-generation-remote-at-sumo-4400844513": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-fully-remote-at-telleroo-4403485222": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-manager-brand-partnerships-at-consiglieri-4402788699": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371139317": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371138363": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-vanco-4406545210": 1,
     "https://www.linkedin.com/jobs/view/gtm-and-channel-excellence-leader-surgery-international-region-f-m-d-at-ge-healthcare-4398028022": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-onboard-4407854813": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-onboard-4407864495": 1
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-onboard-4407864495": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-partener-destine-holding-4405126143": 1,
+    "https://www.linkedin.com/jobs/view/remote-job-servicenow-ui-developer-front-end-ui-builder-at-hyr-global-source-inc-4407855987": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407493640": 1,
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361021758": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4406546430": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-onboard-4407865398": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-tarek-nour-events-4405565137": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-ninetwothree-ai-studio-4407870423": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
