@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partnerships-community-gtm-at-sprinto-4330434138": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4403821575": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390749327": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390746404": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-product-builder-at-smartcat-4402395619": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-onboard-4407857783": 1,
     "https://www.linkedin.com/jobs/view/remote-digital-marketing-manager-at-huzzle-com-4407598383": 1,
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407891461": 1
+    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407891461": 1,
+    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407894106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
