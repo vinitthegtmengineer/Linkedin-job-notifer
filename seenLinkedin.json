@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-at-kyra-4382123417": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-google-bing-ads-specialist-at-fmca-filings-4403516959": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403036507": 1,
-    "https://www.linkedin.com/jobs/view/specialty-consultant-at-leidos-4403815182": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-builder-team-of-one-at-highlevel-4380254435": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-shipbob-4371716149": 1,
-    "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390953065": 1,
-    "https://www.linkedin.com/jobs/view/director-global-strategy-planning-business-insights-at-the-coca-cola-company-4403555398": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-latam-mexico-city-mexico-at-airbnb-4371008157": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-at-arco-educa%c3%a7%c3%a3o-4381670627": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-analyst-direct-mail-at-ramp-4372130936": 1,
     "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390944169": 1,
     "https://www.linkedin.com/jobs/view/crm-marketing-internship-alternance-at-station-f-4403036792": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/venture-builder-at-thawer-philanthropies-endowment-4407832858": 1,
     "https://www.linkedin.com/jobs/view/senior-fs-engineer-50-50-at-commit-4407832696": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4405534688": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405197607": 1
+    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405197607": 1,
+    "https://www.linkedin.com/jobs/view/usv-operator-and-maintainer-contract-dependent-at-cardinal-north-llc-4407863003": 1,
+    "https://www.linkedin.com/jobs/view/growth-community-specialist-fluent-japanese-speaker-at-cxg-4368734063": 1,
+    "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4405535732": 1,
+    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-product-builder-ai-first-at-docusketch-4405998196": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-pion-4398356266": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4406278373": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-contract-at-pop-n-creative-4407847583": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-mavi-4407810576": 1,
+    "https://www.linkedin.com/jobs/view/remote-digital-marketing-manager-at-huzzle-com-4407810263": 1,
+    "https://www.linkedin.com/jobs/view/director-new-store-openings-at-skims-4407865164": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
