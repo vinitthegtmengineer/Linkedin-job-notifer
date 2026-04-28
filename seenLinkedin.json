@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/logging-while-drilling-remote-operation-engineer-at-baker-hughes-4391399073": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-rockwell-automation-4390799181": 1,
-    "https://www.linkedin.com/jobs/view/founding-builder-engineer-at-sunlight-technologies-4403553729": 1,
-    "https://www.linkedin.com/jobs/view/ai-solutions-builder-i-at-rappi-4391979101": 1,
     "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-limble-4403506272": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-inteleccess-4400885471": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402733360": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/buscamos-founder-s-associate-ops-builder-zero-to-one-at-startupshub-4407819282": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407430025": 1,
     "https://www.linkedin.com/jobs/view/e-marketing-executive-at-talentryx-australia-4405518137": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-precisely-4394475710": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-precisely-4394475710": 1,
+    "https://www.linkedin.com/jobs/view/german-speaking-customer-support-operator-at-autodoc-4390130628": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-grace-decor-interior-design-home-renovation-4406295346": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-join-marathon-4407595028": 1,
+    "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-kimpton-mas-olas-resort-spa-4406270434": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
