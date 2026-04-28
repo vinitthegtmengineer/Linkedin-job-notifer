@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/przedstawiciel-konsultant-medyczny-przedstawicielka-konsultantka-medyczna-at-oncogene-4400816821": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-m-w-d-remote-und-vor-ort-beim-kunden-at-mhlr-advisory-4400840010": 1,
-    "https://www.linkedin.com/jobs/view/consultant-en-recrutement-ind%c3%a9pendant-h-f-at-ikiway-cabinet-de-recrutement-4403422198": 1,
-    "https://www.linkedin.com/jobs/view/holiday-consultant-at-boundless-adventures-travel-4402719061": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
-    "https://www.linkedin.com/jobs/view/him-consultant-at-mindseeker-4400863819": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-4403445416": 1,
-    "https://www.linkedin.com/jobs/view/revops-engineer-at-solo-io-4403525784": 1,
-    "https://www.linkedin.com/jobs/view/cloud-operations-engineer-at-varicent-4402769140": 1,
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-omada-health-4400856926": 1,
-    "https://www.linkedin.com/jobs/view/remote-linkedin-profile-operator-contract-%2420-month-passive-at-expert-assistants-4403528700": 1,
     "https://www.linkedin.com/jobs/view/remote-linkedin-profile-operator-contract-%2420-month-passive-at-expert-assistants-4403528705": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-and-partnerships-at-stealth-startup-4397538453": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-zoom-4403549393": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-engineer-at-platform-engineering-4405156874": 1,
     "https://www.linkedin.com/jobs/view/chief-of-staff-gtm-at-eddi-4407481341": 1,
     "https://www.linkedin.com/jobs/view/senior-director-gtm-readiness-revenue-enablement-at-ladders-4404698596": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-the-cigna-group-4405988693": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-the-cigna-group-4405988693": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4345012344": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-onestream-software-4405186005": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344843503": 1,
+    "https://www.linkedin.com/jobs/view/wfm-kronos-consultant-only-w2-at-jobs-via-dice-4405163550": 1,
+    "https://www.linkedin.com/jobs/view/consultant-dataviz-senior-h-f-nb-at-keyrus-3732235174": 1,
+    "https://www.linkedin.com/jobs/view/prowfm-consultant-at-voto-consulting-llc-4406234491": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-senior-%e2%80%93-data-ia-product-owner-%c3%a0-data-scientist-h-f-at-square-management-4404691760": 1,
+    "https://www.linkedin.com/jobs/view/senior-netsuite-consultant-fsm-at-plative-4391945553": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88aws%e3%83%bbazure%e3%83%bbgcp%ef%bc%8f%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%83%87%e3%83%aa%e3%83%90%e3%83%aa%e3%83%bc%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%82%ef%bd%85%ef%bd%85%ef%bd%98-4407495438": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4405999411": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-airlock-digital-4407527653": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
