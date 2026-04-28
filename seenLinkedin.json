@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4403835489": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4403833969": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4403841241": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4403844148": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4403848145": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4403843170": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4403850122": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4403841244": 1,
-    "https://www.linkedin.com/jobs/view/microsoft-cloud-operations-support-engineer-at-firebird-consultants-group-inc-4403063424": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391738130": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-united-states-at-panther-4403587561": 1,
-    "https://www.linkedin.com/jobs/view/full-time-email-sms-marketing-manager-40h-week-at-skinnify-4401204518": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-am%c3%a0re-caribe-m%c3%a9xicano-at-fuerte-group-4403570898": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-canada-at-panther-4403810055": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-unit4-4391726868": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-growthzee-4406504303": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-we-are-adam-4407852904": 1,
     "https://www.linkedin.com/jobs/view/vp-at-h-r-block-4408038398": 1,
-    "https://www.linkedin.com/jobs/view/operatore-trice-tributi-at-gruppo-maggioli-4406904192": 1
+    "https://www.linkedin.com/jobs/view/operatore-trice-tributi-at-gruppo-maggioli-4406904192": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407822469": 1,
+    "https://www.linkedin.com/jobs/view/oic-ebs-consultant-5%2byrs-at-vivid-edge-corp-4406264744": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407821451": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407824438": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407818874": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407827383": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407824443": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407821440": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407826394": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4406565481": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-social-media-at-once-upon-a-farm-4406590559": 1,
+    "https://www.linkedin.com/jobs/view/social-influencer-marketing-manager-at-dxb-perfume-4393223403": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
