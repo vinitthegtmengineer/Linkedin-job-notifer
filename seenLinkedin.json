@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4403592866": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4403559681": 1,
-    "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-skinspirit-4349190903": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-of-marketing-at-inogen-4403595929": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403028272": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390742448": 1,
-    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4402720604": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390751324": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390740422": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390755274": 1,
     "https://www.linkedin.com/jobs/view/palantir-engineer-at-addison-group-4403594412": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390736558": 1,
     "https://www.linkedin.com/jobs/view/sr-devsecops-engineer-us-at-craft-co-4403565828": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407837399": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-engineer-at-platform-engineering-4405160854": 1,
     "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405515354": 1
+    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405515354": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-founding-operator-%24100k-%24140k-%2b-equity-at-dealflowagent-ai-native-m-a-advisory-at-jack-jill-4405088350": 1,
+    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4406522134": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407491656": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407492649": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407494636": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407490645": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407493651": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407479725": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407477867": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407821585": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
