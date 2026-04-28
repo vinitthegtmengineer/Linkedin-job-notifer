@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-limble-4403506272": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-inteleccess-4400885471": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4402733360": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-evidence-solutions-inc-4402773002": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4402766199": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362127368": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4402795798": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-engineering-oil-gas-at-kelly-science-engineering-technology-telecom-4402397915": 1,
-    "https://www.linkedin.com/jobs/view/mlops-engineer-relocation-to-serbia-at-akvelon-inc-4400808759": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-engineering-medical-device-at-kelly-science-engineering-technology-telecom-4402704061": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390749328": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390742447": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4403512907": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4403592866": 1,
     "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4403559681": 1,
     "https://www.linkedin.com/jobs/view/director-of-growth-marketing-at-skinspirit-4349190903": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/german-speaking-customer-support-operator-at-autodoc-4390130628": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-grace-decor-interior-design-home-renovation-4406295346": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-join-marathon-4407595028": 1,
-    "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-kimpton-mas-olas-resort-spa-4406270434": 1
+    "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-kimpton-mas-olas-resort-spa-4406270434": 1,
+    "https://www.linkedin.com/jobs/view/prototype-operator-at-autoliv-4281262111": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-and-ghl-operator-at-redballoon-4405535313": 1,
+    "https://www.linkedin.com/jobs/view/consulente-noleggio-lungo-termine-p-iva-at-galdieri-rent-4405540176": 1,
+    "https://www.linkedin.com/jobs/view/consulente-noleggio-lungo-termine-p-iva-at-galdieri-rent-4405521597": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407825528": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407840354": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407827518": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407825568": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407836451": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407837399": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-engineer-at-platform-engineering-4405160854": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405515354": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
