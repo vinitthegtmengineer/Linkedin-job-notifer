@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-zoom-4403549393": 1,
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4402320398": 1,
     "https://www.linkedin.com/jobs/view/marketing-events-lead-emea-at-happyrobot-4403520446": 1,
     "https://www.linkedin.com/jobs/view/consulente-at-divino-sp-z-o-o-4400862034": 1,
     "https://www.linkedin.com/jobs/view/gtm-revenue-operations-engineer-at-harmonic-security-4403519394": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4405999411": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-airlock-digital-4407527653": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-jobgether-4405973216": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-209700-at-skill-4407529769": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-209700-at-skill-4407529769": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4405509369": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-market-place-at-raha-partners-4405515229": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-28",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
