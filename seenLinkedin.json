@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/software-engineer-ii-ai-ml-ops-at-sundayy-4403886131": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4403310153": 1,
-    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390955852": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-%e2%80%94-b2b-campaign-execution-philippines-remote-at-growthassistant-4403857006": 1,
-    "https://www.linkedin.com/jobs/view/international-bpo-executive-at-appzoro-technologies-inc-4403305157": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-usa-remote-at-grafana-labs-4346438948": 1,
     "https://www.linkedin.com/jobs/view/engineering-lead-security-operations-at-anchorage-digital-4365637603": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/principal-analyst-sales-enablement-at-majesco-4370870493": 1,
     "https://www.linkedin.com/jobs/view/manager-of-sales-perfectscale-north-america-at-doit-4374523785": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-revenue-operations-at-jobgether-4406970702": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-growth-demand-gen-at-resolutiion-%c2%ae-4407887358": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-growth-demand-gen-at-resolutiion-%c2%ae-4407887358": 1,
+    "https://www.linkedin.com/jobs/view/senior-amazon-consultant-100%25-remote-at-atlas-operations-4406081711": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4408295731": 1,
+    "https://www.linkedin.com/jobs/view/sr-sales-engineering-enablement-specialist-at-saviynt-4408511029": 1,
+    "https://www.linkedin.com/jobs/view/%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a2%e3%83%86%e3%82%a3%e3%83%96-%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-automotive-software-engineer-%e3%82%aa%e3%83%bc%e3%83%88%e3%83%a2%e3%83%bc%e3%83%86%e3%82%a3%e3%83%96%e3%83%bb%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0-%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e6%9c%ac%e9%83%a8-at-capgemini-4408505973": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-hvac-tab-at-solvo-global-4406097447": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
