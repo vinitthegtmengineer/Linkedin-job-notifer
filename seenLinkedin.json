@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hubspot-revops-consultant-at-man-digital-hubspot-revops-agency-4403881248": 1,
-    "https://www.linkedin.com/jobs/view/epicor-scheduling-consultant-remote-us-at-robert-half-4403050928": 1,
-    "https://www.linkedin.com/jobs/view/technologyone-consultants-new-today-at-t1-4403079073": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-aerospace-defence-at-infor-4389558833": 1,
     "https://www.linkedin.com/jobs/view/senior-cpm-consultant-m-w-d-at-td-trusted-decisions-gmbh-4401264663": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4403880884": 1,
     "https://www.linkedin.com/jobs/view/go%e2%80%91to%e2%80%91market-lead-at-rxgpt-4403318001": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-uae-jobs-exchange-4408521675": 1,
     "https://www.linkedin.com/jobs/view/assistant-director-social-media-at-carnegie-4395387515": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-brave-royal-ship-management-limited-bd-4408526467": 1,
-    "https://www.linkedin.com/jobs/view/builder-joint-venture-%e2%80%93-external-mortgage-loan-originator-at-rmc-home-mortgage-llc-4408546103": 1
+    "https://www.linkedin.com/jobs/view/builder-joint-venture-%e2%80%93-external-mortgage-loan-originator-at-rmc-home-mortgage-llc-4408546103": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-zyter-trucare-4407051213": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-virtustant-4406401761": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-membership-operations-coordinator-at-mma-global-4408527855": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-clearesult-4406098803": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
