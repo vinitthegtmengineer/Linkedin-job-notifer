@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/production-engineer-at-collibra-4371395933": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4403855492": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-operator-meta-google-ads-remote-full-time-at-notum-4403859847": 1,
-    "https://www.linkedin.com/jobs/view/support-operations-engineer-all-genders-at-synaos-4401237721": 1,
-    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4392034261": 1,
-    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403087913": 1,
-    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403095833": 1,
-    "https://www.linkedin.com/jobs/view/rvp-sales-west-coast-at-komodor-4403080991": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-brazil-%e2%80%93-pe-at-buscarvagas-empregos-brasil-4401258134": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-umberapp-4403099950": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/agent-operator-at-innovative-pharma-solutions-inc-4408284055": 1,
     "https://www.linkedin.com/jobs/view/consultor-%e2%80%93-abastecimiento-de-concentrado-de-cobre-chile-remoto-at-sur-talent-4406077749": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4407005468": 1,
-    "https://www.linkedin.com/jobs/view/vp-strategic-alliances-at-edb-4384490882": 1
+    "https://www.linkedin.com/jobs/view/vp-strategic-alliances-at-edb-4384490882": 1,
+    "https://www.linkedin.com/jobs/view/travel-skid-steer-operator-at-knobelsdorff-4398556494": 1,
+    "https://www.linkedin.com/jobs/view/senior-epicor-consultant-at-chapman-tate-associates-4406085295": 1,
+    "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-sira-consulting-an-inc-5000-company-4408500211": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-systems-engineer-at-wiz-4373151562": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-ai-at-sewerai-4408073159": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-lancesoft-inc-4406966666": 1,
+    "https://www.linkedin.com/jobs/view/ml-operations-engineer-at-sundayy-4408255247": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-temu-4407004779": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
