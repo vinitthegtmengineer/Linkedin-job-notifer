@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hologic-inc-4391613302": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4403820132": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1,
-    "https://www.linkedin.com/jobs/view/housing-project-sign-off-engineer-p-eng-%e2%80%93-remote-ontario-at-forever-renewables-technology-consulting-inc-4403851932": 1,
-    "https://www.linkedin.com/jobs/view/production-engineer-at-collibra-4371502854": 1,
-    "https://www.linkedin.com/jobs/view/project-amp-engineering-manager-at-undelucram-ro-4403077517": 1,
     "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4401234331": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-production-engineering-at-figma-4239984026": 1,
     "https://www.linkedin.com/jobs/view/senior-staff-platform-ops-engineer-at-press-ganey-4362556554": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/e-commerce-operator-finance-growth-at-valerie-group-4408225772": 1,
     "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-high-ticket-talent-acquisition-at-emapta-global-4408217939": 1,
     "https://www.linkedin.com/jobs/view/marketing-social-media-executive-uk-market-%e2%80%93-hr-payroll-services-at-staffinity-solutions-4407884298": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-philippines-remote-at-claas2saas-4406949385": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-philippines-remote-at-claas2saas-4406949385": 1,
+    "https://www.linkedin.com/jobs/view/outbound-calling-operator-at-ask-ayurveda-4405134501": 1,
+    "https://www.linkedin.com/jobs/view/pki-consultant-senior-consultant-at-dotsquares-4406962409": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408227911": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408224919": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408237174": 1,
+    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-at-rudryon-4406970088": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
