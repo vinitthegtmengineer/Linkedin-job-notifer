@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4401267030": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281028": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403308098": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-content-creation-lab-4401267041": 1,
-    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4401264379": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-lakebase-sales-specialists-at-databricks-4380290818": 1,
-    "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390974108": 1,
-    "https://www.linkedin.com/jobs/view/director-new-products-gtm-at-kindred-4382357285": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-ii-ai-ml-ops-at-sundayy-4403886131": 1,
     "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4403310153": 1,
     "https://www.linkedin.com/jobs/view/director-strategic-consulting-at-kobie-4390955852": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-temu-4407004779": 1,
     "https://www.linkedin.com/jobs/view/market-builder-greece-at-spotlock-4408298100": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-sprinter-4407020596": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-packback-4408505059": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-packback-4408505059": 1,
+    "https://www.linkedin.com/jobs/view/director-demand-generation-revenue-operations-at-enterprise-health-4408296798": 1,
+    "https://www.linkedin.com/jobs/view/marketplace-growth-operator-at-built-in-one-4407005700": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4408500684": 1,
+    "https://www.linkedin.com/jobs/view/pe-vc-partner-manager-at-dealhub-ai-4408261104": 1,
+    "https://www.linkedin.com/jobs/view/business-development-director-arc-at-circle-4352705474": 1,
+    "https://www.linkedin.com/jobs/view/principal-analyst-sales-enablement-at-majesco-4370870493": 1,
+    "https://www.linkedin.com/jobs/view/manager-of-sales-perfectscale-north-america-at-doit-4374523785": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-revenue-operations-at-jobgether-4406970702": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-growth-demand-gen-at-resolutiion-%c2%ae-4407887358": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
