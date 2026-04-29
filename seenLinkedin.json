@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-executive-at-katha-sharing-stories-scaling-impact-4403064107": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-remote-at-exceptional-heights-4403038727": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4403858797": 1,
-    "https://www.linkedin.com/jobs/view/short-form-editor-%e2%80%94-brand-operator-remote-contract-at-koino-4403867201": 1,
-    "https://www.linkedin.com/jobs/view/senior-partner-development-manager-emea-at-hack-the-box-4403054128": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-mktideas-agency-4403838553": 1,
-    "https://www.linkedin.com/jobs/view/senior-infrastructure-engineer-at-scrunch-4392764471": 1,
-    "https://www.linkedin.com/jobs/view/r-r-environment-assessment-engineering-at-hackajob-4403035170": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4403841246": 1,
-    "https://www.linkedin.com/jobs/view/senior-kafka-engineer-remote-nc-tx-az-at-jobs-via-dice-4402182819": 1,
     "https://www.linkedin.com/jobs/view/pessoa-engenheira-de-ia-s%c3%aanior-at-neogrid-4403046393": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4403845171": 1,
     "https://www.linkedin.com/jobs/view/sandbox-agentic-engineer-remote-can-at-crowdstrike-4393146904": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/ceo-consultant-at-bettingjobs-4406038729": 1,
     "https://www.linkedin.com/jobs/view/senior-netsuite-consultant-at-people-consultancy-services-pcs-4406928973": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-chatspark-4406956784": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-almond-clear-4406903715": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-almond-clear-4406903715": 1,
+    "https://www.linkedin.com/jobs/view/agentic-operator-growth-marketing-llm-visibility-seo-website-usa-only-100%25-remote-at-close-4408204795": 1,
+    "https://www.linkedin.com/jobs/view/cmo-paid-media-operator-%e2%80%94-equity-partnership-at-matrix-mastery-group-4408043372": 1,
+    "https://www.linkedin.com/jobs/view/offline-event-operator-at-new-beginnings-global-4406927181": 1,
+    "https://www.linkedin.com/jobs/view/in-market-consultant-aluminum-foil-flexible-packaging-at-jobseeking-vn-4406960495": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-rgp-4406905220": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-gtm-base-4405570972": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-mews-4405585862": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-at-vlogic-systems-4381126085": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-operations-at-edged-4384455517": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398256139": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
