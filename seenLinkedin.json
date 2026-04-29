@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4403863724": 1,
-    "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-brazil-%e2%80%93-pe-at-buscarvagas-empregos-brasil-4401258134": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-umberapp-4403099950": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-of-the-palouse-district-5080-4401267030": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-kenya-4401281028": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-velosio-4326748128": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-ai-at-sewerai-4408073159": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-lancesoft-inc-4406966666": 1,
     "https://www.linkedin.com/jobs/view/ml-operations-engineer-at-sundayy-4408255247": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-temu-4407004779": 1
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-temu-4407004779": 1,
+    "https://www.linkedin.com/jobs/view/market-builder-greece-at-spotlock-4408298100": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-sprinter-4407020596": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-packback-4408505059": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
