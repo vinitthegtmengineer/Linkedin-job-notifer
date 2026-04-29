@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-analytics-lead-at-spellbook-4403566821": 1,
-    "https://www.linkedin.com/jobs/view/enablement-manager-gtm-go-to-market-at-versaterm-4381685166": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401208876": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-influencer-marketing-at-content-lab-4403842382": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hologic-inc-4391613302": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-calyptus-4403820132": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/ai-automation-operations-engineer-at-moveup-media-4408213537": 1,
     "https://www.linkedin.com/jobs/view/production-optimization-engineer-ai-analytics-at-petrocortex-4406039027": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-thinkprompt-4406938171": 1,
-    "https://www.linkedin.com/jobs/view/executive-global-marketing-activation-anz-at-energizer-holdings-4405510524": 1
+    "https://www.linkedin.com/jobs/view/executive-global-marketing-activation-anz-at-energizer-holdings-4405510524": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-operator-finance-growth-at-valerie-group-4408225772": 1,
+    "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-high-ticket-talent-acquisition-at-emapta-global-4408217939": 1,
+    "https://www.linkedin.com/jobs/view/marketing-social-media-executive-uk-market-%e2%80%93-hr-payroll-services-at-staffinity-solutions-4407884298": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-philippines-remote-at-claas2saas-4406949385": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
