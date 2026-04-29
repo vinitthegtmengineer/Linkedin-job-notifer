@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/manager-ecommerce-at-remotehunter-4403030388": 1,
-    "https://www.linkedin.com/jobs/view/data-analyst-at-patrianna-4380683943": 1,
     "https://www.linkedin.com/jobs/view/european-industry-director-biopharma-at-thermo-fisher-scientific-4403048282": 1,
     "https://www.linkedin.com/jobs/view/operations-shift-lead-at-tko-4392778289": 1,
     "https://www.linkedin.com/jobs/view/european-industry-director-biopharma-at-thermo-fisher-scientific-4403034299": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-growth-operator-at-recruithook-4406061557": 1,
     "https://www.linkedin.com/jobs/view/android-engineer-chatgpt-engineering-at-openai-4357584702": 1,
     "https://www.linkedin.com/jobs/view/social-media-community-manager-at-gameram-4406268747": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-at-jobgether-4406986206": 1
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-for-dtc-company-at-jobgether-4406986206": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-ind%c3%a9pendant-e-en-immobilier-at-megagence-4408255787": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-at-packt-4406069452": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
