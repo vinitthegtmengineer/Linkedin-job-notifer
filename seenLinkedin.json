@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-global-strategic-partnerships-us-at-loyalty-juggernaut-4403030836": 1,
-    "https://www.linkedin.com/jobs/view/excel-spreadsheet-consultant-remote-at-crossing-hurdles-4403030032": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-remote-latam-at-horizonia-4401222573": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-zillow-4403576770": 1,
     "https://www.linkedin.com/jobs/view/gtm-analytics-lead-at-spellbook-4403566821": 1,
     "https://www.linkedin.com/jobs/view/enablement-manager-gtm-go-to-market-at-versaterm-4381685166": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401208876": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/head-of-retention-at-caramel-talent-4407899671": 1,
     "https://www.linkedin.com/jobs/view/founding-growth-lead-at-emagineer-4406037177": 1,
     "https://www.linkedin.com/jobs/view/account-executive-digital-marketing-at-huzzle-com-4407816275": 1,
-    "https://www.linkedin.com/jobs/view/social-media-supervisor-manager-at-foreo-4401856592": 1
+    "https://www.linkedin.com/jobs/view/social-media-supervisor-manager-at-foreo-4401856592": 1,
+    "https://www.linkedin.com/jobs/view/ai-automation-operations-engineer-at-moveup-media-4408213537": 1,
+    "https://www.linkedin.com/jobs/view/production-optimization-engineer-ai-analytics-at-petrocortex-4406039027": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-thinkprompt-4406938171": 1,
+    "https://www.linkedin.com/jobs/view/executive-global-marketing-activation-anz-at-energizer-holdings-4405510524": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-29",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
