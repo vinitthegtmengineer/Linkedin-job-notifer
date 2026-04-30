@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403371787": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-operator-meta-ads-at-hotsourced-4401647162": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-back-office-at-jobgether-4403609767": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-enercon-at-full-circle-wind-services-4373285898": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-plentific-4399545669": 1,
     "https://www.linkedin.com/jobs/view/python-software-engineer-at-prima-4149696449": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-at-itad-4407337438": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-dior-perfume-paris-4406735116": 1,
     "https://www.linkedin.com/jobs/view/data-operations-engineer-devops-at-temu-4407640669": 1,
-    "https://www.linkedin.com/jobs/view/bdr-manager-at-apono-4407628427": 1
+    "https://www.linkedin.com/jobs/view/bdr-manager-at-apono-4407628427": 1,
+    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409028932": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-senior-manager-at-jobgether-4407360093": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-solomon-page-4406725478": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
