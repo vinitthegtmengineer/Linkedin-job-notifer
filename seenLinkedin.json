@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-levels-4403397761": 1,
-    "https://www.linkedin.com/jobs/view/funnel-operator-at-growth-cab-%f0%9f%91%bd-4404086155": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-operator-at-frouv-4403380195": 1,
-    "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-de-production-h-f-at-inetum-4404076807": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-solutions-engineer-at-softserve-4391873015": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403358995": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4409056429": 1,
     "https://www.linkedin.com/jobs/view/quality-assurance-test-engineer-at-magnet-4409047647": 1,
     "https://www.linkedin.com/jobs/view/devops-engineer-at-magnet-4409037976": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-sugarai-4407632014": 1
+    "https://www.linkedin.com/jobs/view/senior-sales-enablement-manager-at-sugarai-4407632014": 1,
+    "https://www.linkedin.com/jobs/view/growth-partnerships-operator-part-time-full-time-at-coldespy-4406725080": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-despacho-4406702882": 1,
+    "https://www.linkedin.com/jobs/view/east-coast-solutions-engineer-%24190-260k-ote-%2b-equity-remote-presales-devops-at-tick-talent-4409050884": 1,
+    "https://www.linkedin.com/jobs/view/independent-contractor-marketing-manager-at-boostability-4409005770": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
