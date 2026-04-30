@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-social-media%e2%80%af-marketing-at-genpact-4401641193": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403355965": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403371787": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-operator-meta-ads-at-hotsourced-4401647162": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-back-office-at-jobgether-4403609767": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-at-dior-perfume-paris-4406718528": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-marketing-remote-at-m3-usa-4408795657": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-itad-4407337438": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-dior-perfume-paris-4406735116": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-dior-perfume-paris-4406735116": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-devops-at-temu-4407640669": 1,
+    "https://www.linkedin.com/jobs/view/bdr-manager-at-apono-4407628427": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
