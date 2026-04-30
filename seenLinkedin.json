@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-customer-success-manager-at-avenir-group-4403358146": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-remote-%e2%80%93-b2b-marketing-agency-at-satlas-4403318951": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-for-courses-asia-based-in-europe-at-hostinger-4404003181": 1,
-    "https://www.linkedin.com/jobs/view/regional-account-manager-valent-u-s-a-llc-at-valent-u-s-a-llc-4382146209": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-w-m-d-at-wyn-payments-simplified-4401271463": 1,
     "https://www.linkedin.com/jobs/view/florida-permit-facilitation-marketing-manager-at-1-contractor-solutions-4404024305": 1,
     "https://www.linkedin.com/jobs/view/account-manager-b2b-e-commerce-work-from-home-at-persona-4403338603": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-manager-android-at-marvel-marketers-4403876751": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-one-identity-4398616882": 1,
     "https://www.linkedin.com/jobs/view/consumer-marketing-manager-india-at-openai-4374884124": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-the-conqueror-challenges-4408734532": 1,
-    "https://www.linkedin.com/jobs/view/crm-coordinator-omni-channel-at-hard-rock-digital-4407386045": 1
+    "https://www.linkedin.com/jobs/view/crm-coordinator-omni-channel-at-hard-rock-digital-4407386045": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-harness-engineering-kimchi-at-cast-ai-4408776778": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-harness-engineering-kimchi-at-cast-ai-4408795159": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-harness-engineering-kimchi-at-cast-ai-4408777540": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-harness-engineering-kimchi-at-cast-ai-4408798007": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-adithya-4406480167": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
