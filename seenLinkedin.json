@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-talentpop-app-4401287464": 1,
-    "https://www.linkedin.com/jobs/view/senior-wastewater-treatment-plant-operator-senior-utility-operator-scba-at-city-of-phoenix-4404072116": 1,
-    "https://www.linkedin.com/jobs/view/area-manager-at-geobear-global-4291074541": 1,
-    "https://www.linkedin.com/jobs/view/sac-consultant-at-red-global-4401622110": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-remotehunter-4403373595": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-timely-recruit-ltd-4404073097": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%e2%80%93-wastewater-at-timely-recruit-ltd-4404066083": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-curemate-4401609118": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403375069": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-crossing-hurdles-4403369808": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-magazine-4406485972": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-prosci-4399452538": 1,
     "https://www.linkedin.com/jobs/view/tech-engagement-lead-model-builder-at-nvidia-4395486150": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-softheon-4409022596": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-softheon-4409022596": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-ceo-operator-healthcare-ai-startup-at-guidelinesiq-4409017782": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-builder-%e2%80%94-automation-agent-development-at-seamless-assist-4407381725": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-harness-engineering-kimchi-at-cast-ai-4408798680": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-graham-packaging-4406701456": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-cdw-4407606469": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-benim-technologies-4406494733": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategy-and-business-operations-manager-at-zillow-4399808671": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
