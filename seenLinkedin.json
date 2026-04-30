@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/energy-storage-engineering-data-sales-legal-business-operations-roles-%e2%80%94-sungrow-remote-usa-at-women-in-cleantech-and-sustainability-4401271840": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-principal-at-synack-4365329720": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401262562": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-operations-at-pace%c2%ae-analytical-services-4382133194": 1,
-    "https://www.linkedin.com/jobs/view/openclaw-agent-engineer-remote-at-quik-hire-staffing-4403897515": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4402162820": 1,
     "https://www.linkedin.com/jobs/view/environmental-engineering-ai-data-trainer-at-alignerr-4403863530": 1,
     "https://www.linkedin.com/jobs/view/structural-engineering-tutor-at-varsity-tutors-a-nerdy-company-4402158985": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-sgf-global-4408246357": 1,
     "https://www.linkedin.com/jobs/view/application-engineer-industrial-field-projects-at-veleton-4376753631": 1,
     "https://www.linkedin.com/jobs/view/project-engineering-analyst-at-kgdr-consultants-inc-4407050709": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-remote-at-hepmil-singapore-4394496209": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-remote-at-hepmil-singapore-4394496209": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-operator-at-frouv-4407328809": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399263970": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-operations-engineer-at-randstad-digital-romania-4407338000": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-jobgether-4407328956": 1,
+    "https://www.linkedin.com/jobs/view/revenue-enablement-manager-us-east-coast-at-dexory-4408507833": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
