@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404037632": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404050388": 1,
-    "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-at-teknikoz-4403354351": 1,
-    "https://www.linkedin.com/jobs/view/superintendent-technical-engineer-operation-service-support-at-wingd-ltd-4355888287": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-structural-integrity-associates-4401291659": 1,
-    "https://www.linkedin.com/jobs/view/director-of-sales-mid-market-at-zenoti-4404028942": 1,
-    "https://www.linkedin.com/jobs/view/brand-e-com-campaign-and-ad-manager-1-2-years-of-experience-in-amazon-flipkart-and-google-meta-ads-at-onleed-media-4401296482": 1,
-    "https://www.linkedin.com/jobs/view/marketing-sales-executive-at-housing-circuit-ltd-4404049238": 1,
-    "https://www.linkedin.com/jobs/view/social-media-and-community-manager-lead-at-the-clienteling-academy-4403369439": 1,
-    "https://www.linkedin.com/jobs/view/campaign-strategist-4403371074": 1,
-    "https://www.linkedin.com/jobs/view/social-media-digital-marketing-manager-at-entrepreneur-cooperative-4404034640": 1,
-    "https://www.linkedin.com/jobs/view/director-global-performance-marketing-at-jobgether-4403364494": 1,
     "https://www.linkedin.com/jobs/view/vice-president-of-growth-marketing-at-jobgether-4403364538": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-at-l21s-4401289937": 1,
     "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4404046553": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/director-of-sales-at-lob-4387469893": 1,
     "https://www.linkedin.com/jobs/view/online-marketing-executive-personal-development-remote-at-dream-architecture-4406474740": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-jobgether-4407383373": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-jobgether-4407389301": 1
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-jobgether-4407389301": 1,
+    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402599789": 1,
+    "https://www.linkedin.com/jobs/view/operator-analyst-at-clickqube-4406490571": 1,
+    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402624616": 1,
+    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4408557207": 1,
+    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-visual-editor-builder-react-typescript-at-xresearch-4408794904": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineering-specialist-at-rocket-software-4399476022": 1,
+    "https://www.linkedin.com/jobs/view/data-operations-engineer-at-uplight-4406480952": 1,
+    "https://www.linkedin.com/jobs/view/sr-operations-engineer-at-radial-inc-4363781542": 1,
+    "https://www.linkedin.com/jobs/view/marketing-communications-executive-at-outcomes-first-group-4406486310": 1,
+    "https://www.linkedin.com/jobs/view/social-media-director-at-accel-marketing-solutions-inc-4409020137": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-gocanvas-4408552324": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
