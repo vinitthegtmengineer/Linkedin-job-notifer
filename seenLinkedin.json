@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%80%bb%e8%87%aa%e7%a4%be%e5%86%85%e9%96%8b%e7%99%ba-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4404021923": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e9%81%8b%e7%94%a8%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-%e8%87%aa%e7%a4%be%e9%96%8b%e7%99%ba100%25-%e9%87%91%e8%9e%8d%e5%b7%a5%e5%ad%a6%c3%97it-%e5%b0%86%e6%9d%a5%e7%9a%84%e3%81%ab%e3%83%95%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%82%af%e7%9b%ae%e6%8c%87%e3%81%9b%e3%82%8b-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4404036128": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-booth-4403335677": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-recskills-4401287287": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-alignerr-4404027953": 1,
-    "https://www.linkedin.com/jobs/view/prozessingenieur-in-life-science-all-gender-at-alten-germany-4389895845": 1,
     "https://www.linkedin.com/jobs/view/senior-customer-success-manager-at-avenir-group-4403358146": 1,
     "https://www.linkedin.com/jobs/view/account-executive-remote-%e2%80%93-b2b-marketing-agency-at-satlas-4403318951": 1,
     "https://www.linkedin.com/jobs/view/senior-account-manager-for-courses-asia-based-in-europe-at-hostinger-4404003181": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/project-engineer-4-at-nuclear-energy-consultants-inc-4407060137": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-clarges-trading-ltd-international-distributor-of-british-and-european-food-drink-brands-4408513338": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4406463855": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-12-months-remote-at-ise-partners-4408770519": 1
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-12-months-remote-at-ise-partners-4408770519": 1,
+    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397223698": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-agencybloc-4408592220": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-one-identity-4398616882": 1,
+    "https://www.linkedin.com/jobs/view/consumer-marketing-manager-india-at-openai-4374884124": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-the-conqueror-challenges-4408734532": 1,
+    "https://www.linkedin.com/jobs/view/crm-coordinator-omni-channel-at-hard-rock-digital-4407386045": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
