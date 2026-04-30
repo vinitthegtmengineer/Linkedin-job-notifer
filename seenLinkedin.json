@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-social-at-midi-health-4372797576": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-enterprise-marketing-at-avid-technology-professionals-4404004518": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90devops%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e3%80%91%e6%8a%80%e8%a1%93%c3%97wlb-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%af%94%e7%8e%8795%25%e3%80%80%e6%ae%8b%e6%a5%ad%e6%9c%8810h%e4%bb%a5%e4%b8%8b-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e8%b1%86%e8%94%b5-4403898757": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-playnext-lab-inc-4404009084": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-playnext-lab-inc-4403891910": 1,
     "https://www.linkedin.com/jobs/view/proofpoint-email-protection-engineer-at-telekomplex-4403895437": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-wf-at-huron-4406411173": 1,
     "https://www.linkedin.com/jobs/view/incident-response-sr-consultant-remote-at-crowdstrike-4398251345": 1,
     "https://www.linkedin.com/jobs/view/driving-instructor-consultant-at-next-mile-driver-training-4408266630": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398247879": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398247879": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-de-estrutura%c3%a7%c3%a3o-de-cargos-e-sal%c3%a1rios-pj-at-empresa-confidencial-4407302455": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-at-alturas-people-consulting-4406420654": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-international-schools-4407098852": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
