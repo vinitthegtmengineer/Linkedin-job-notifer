@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-revolut-business-at-revolut-4323365089": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%af%e3%83%bc%e3%82%af%e3%82%b9-4404009064": 1,
-    "https://www.linkedin.com/jobs/view/blockchain-engineering-evangelist-subject-matter-expert-sme-at-marketeq-talent-4403365138": 1,
-    "https://www.linkedin.com/jobs/view/head-of-performance-marketing-at-fmcg-confidential-4403360106": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e9%98%aa-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e4%b8%8a%e5%a0%b4%e3%80%91dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e2%80%bbmgr%e5%80%99%e8%a3%9c%ef%bc%8f%e5%88%b6%e5%ba%a6%e3%81%ae%e4%bc%81%e7%94%bb%e2%97%87%e5%9c%a8%e5%ae%85%e5%8f%af%e3%83%bb%e5%89%af%e6%a5%ad%e5%8f%af%e3%83%bb%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4404036121": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404050386": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404053267": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404033659": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404035632": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404032739": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404046455": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404048495": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404048501": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404037632": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404050388": 1,
     "https://www.linkedin.com/jobs/view/sr-ml-ops-engineer-at-teknikoz-4403354351": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/revops-at-urban-linker-4407384418": 1,
     "https://www.linkedin.com/jobs/view/data-operations-engineer-at-scoutit-4407394216": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaigns-executive-at-capita-4406473547": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-organic-content-at-jobgether-4407396123": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-organic-content-at-jobgether-4407396123": 1,
+    "https://www.linkedin.com/jobs/view/zoho-consultant-at-alyne-group-4407378601": 1,
+    "https://www.linkedin.com/jobs/view/cold-email-va-%e2%80%93-instantly-ai-specialist-at-seamless-assist-4407389663": 1,
+    "https://www.linkedin.com/jobs/view/cold-email-%e2%80%93-instantly-ai-specialist-at-seamless-assist-4407383742": 1,
+    "https://www.linkedin.com/jobs/view/cold-email-%e2%80%93-instantly-ai-specialist-at-seamless-assist-4407391640": 1,
+    "https://www.linkedin.com/jobs/view/cold-email-%e2%80%93-instantly-ai-specialist-at-seamless-assist-4407385656": 1,
+    "https://www.linkedin.com/jobs/view/agentic-builder-claude-code-at-bolder-apps-4407377816": 1,
+    "https://www.linkedin.com/jobs/view/developer-dev-ops-engineering-at-jobgether-4407324713": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407398118": 1,
+    "https://www.linkedin.com/jobs/view/rvp-strategic-sales-west-at-cresta-4340789547": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-at-lob-4387469893": 1,
+    "https://www.linkedin.com/jobs/view/online-marketing-executive-personal-development-remote-at-dream-architecture-4406474740": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-jobgether-4407383373": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-jobgether-4407389301": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-04-30",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
