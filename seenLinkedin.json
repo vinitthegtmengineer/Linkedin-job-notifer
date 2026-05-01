@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-commissioned-base-at-sparta-connect-4044076659": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-crypto-com-4401901826": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-hays-4404363852": 1,
-    "https://www.linkedin.com/jobs/view/personal-assistant-executive-operator-at-voie-digital-4401906941": 1,
     "https://www.linkedin.com/jobs/view/coach-consultant-formateur-at-cslt-connect-4404553518": 1,
     "https://www.linkedin.com/jobs/view/ml-data-ops-engineer-at-tact-4404564519": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-laxis-4404328402": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-giga-4368856872": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-talentoindia-jobs-hiring-platform-4407684066": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-specialist-at-fatty15-4407656444": 1
+    "https://www.linkedin.com/jobs/view/brand-marketing-specialist-at-fatty15-4407656444": 1,
+    "https://www.linkedin.com/jobs/view/vp-advisor-consultant-at-fidelity-investments-4378051673": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-manager-at-opensesame-4409407616": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-contract-at-tawkify-4407925332": 1,
+    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4399894997": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
