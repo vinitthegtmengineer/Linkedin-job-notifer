@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-systems-builder-at-scale-army-careers-4403674540": 1,
-    "https://www.linkedin.com/jobs/view/ai-systems-builder-at-scale-army-careers-4403689304": 1,
-    "https://www.linkedin.com/jobs/view/ai-systems-builder-at-scale-army-careers-4403684411": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-sales-operations-at-unstructured-4404016711": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-gridbank-4404318566": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-jobgether-4403385493": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-magazine-4406748545": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4407684259": 1,
     "https://www.linkedin.com/jobs/view/consultant-england-blind-head-coach-secondments-and-consultants-considered-at-england-wales-cricket-board-ecb-4406449917": 1,
-    "https://www.linkedin.com/jobs/view/remote-e-marketing-executive-at-ecobright-consulting-4407692029": 1
+    "https://www.linkedin.com/jobs/view/remote-e-marketing-executive-at-ecobright-consulting-4407692029": 1,
+    "https://www.linkedin.com/jobs/view/workfront-fusion-consultant-at-brickred-systems-4409138933": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-builders-for-a-new-ai-systems-project-at-hylman-4406768515": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-yum%21-brands-4406758484": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
