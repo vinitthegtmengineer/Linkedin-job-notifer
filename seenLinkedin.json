@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-gtm-business-architecture-at-jobgether-4403390192": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4401287836": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-roadie-4401646148": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-veriforce-4403663996": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-retail-kiosk-assistant-4403675755": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403671767": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404040571": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4409172111": 1,
     "https://www.linkedin.com/jobs/view/junior-influencer-campaign-manager-at-the-sociable-society-4407636655": 1,
     "https://www.linkedin.com/jobs/view/gtm-ops-manager-new-vertical-at-dandy-4409066500": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-call-centre-at-step-ahead-recruitment-ltd-4409000576": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-call-centre-at-step-ahead-recruitment-ltd-4409000576": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-at-orico-light-4409180113": 1,
+    "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4388137494": 1,
+    "https://www.linkedin.com/jobs/view/lead-ai-builder-at-inmarket-4397629169": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-venues-events-at-great-british-drinks-company-4409145941": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
