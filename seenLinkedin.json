@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-social-media-manager-at-twine-4401655279": 1,
-    "https://www.linkedin.com/jobs/view/senior-hubspot-solutions-consultant-remote-executive-workshops-%2b-revops-at-pave-talent-4403967347": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-randstad-digital-romania-4403957700": 1,
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-series-c-ai-automation-business-100%25-yoy-growth-at-zearch-4403934986": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381891317": 1,
-    "https://www.linkedin.com/jobs/view/email-sms-marketing-manager-klaviyo-lead-for-an-ecommerce-brand-us-based-at-paired-4401691269": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-era-group-4404587929": 1,
     "https://www.linkedin.com/jobs/view/virtual-coverage-consultant-at-the-strickland-group-4403953873": 1,
     "https://www.linkedin.com/jobs/view/specialist-is-engineer-citrix-at-jobgether-4403937809": 1,
     "https://www.linkedin.com/jobs/view/research-and-data-executive-digital-marketing-at-carousel-consultancy-ltd-4403626863": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-mobilus-corporation-4409462686": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-mobilus-corporation-4409467336": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88python%ef%bc%89%ef%bc%8f%e5%ae%89%e5%85%a8%e4%bf%9d%e9%9a%9c%c3%97ai-at-techtouch-inc-4409466369": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409449582": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409449582": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e9%98%aa%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91fas%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%ef%bd%81%ef%bd%87%ef%bd%93%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-4409472280": 1,
+    "https://www.linkedin.com/jobs/view/secops-engineer-at-sourced-4409163939": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88python%ef%bc%89%ef%bc%8f%e5%ae%89%e5%85%a8%e4%bf%9d%e9%9a%9c%c3%97ai-at-techtouch-inc-4409475231": 1,
+    "https://www.linkedin.com/jobs/view/process-intelligence-engineer-at-robot-com-4407944909": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-software-engineer-data-observability-operational-tooling-at-accelerant-4409464420": 1,
+    "https://www.linkedin.com/jobs/view/global-vp-gm-partner-ecosystem-at-ping-identity-4409466433": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-wes-brands-4407932643": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
