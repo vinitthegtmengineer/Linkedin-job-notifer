@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vp-partners-and-alliances-at-kantata-4382167576": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404552943": 1,
-    "https://www.linkedin.com/jobs/view/ai-software-engineer-at-logicive-4401922886": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-sanderson-4404558906": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401931350": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404554988": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-at-panic-stations-4404570891": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4403662326": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409027969": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-crypto-at-career-renew-4409404320": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rochelle-s-airbnb-residential-cleaning-services-4407933700": 1,
-    "https://www.linkedin.com/jobs/view/social-media-and-marketing-manager-at-l3-campus-4409413913": 1
+    "https://www.linkedin.com/jobs/view/social-media-and-marketing-manager-at-l3-campus-4409413913": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108044": 1,
+    "https://www.linkedin.com/jobs/view/customer-support-operations-intelligence-engineer-at-seeq-corporation-4409435311": 1,
+    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4400210376": 1,
+    "https://www.linkedin.com/jobs/view/vp-revenue-operations-at-pindrop-4397617751": 1,
+    "https://www.linkedin.com/jobs/view/senior-martech-operations-manager-at-airbnb-4388184512": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-venus-fund-4407203841": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
