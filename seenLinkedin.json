@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-retail-kiosk-assistant-4403675755": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4403671767": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404040571": 1,
-    "https://www.linkedin.com/jobs/view/pki-engineer-at-dunhill-professional-search-government-solutions-4404354990": 1,
-    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4404034774": 1,
-    "https://www.linkedin.com/jobs/view/%e6%83%85%e3%82%b7%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bebtn%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-4403690608": 1,
     "https://www.linkedin.com/jobs/view/fgpa-emulation-engineer-at-skywaves-rise-4404384299": 1,
     "https://www.linkedin.com/jobs/view/llm-engineer-at-sky-systems-inc-skysys-4404364296": 1,
     "https://www.linkedin.com/jobs/view/electrodynamics-engineer-%e2%80%93-work-from-home-at-mercor-4403611545": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/remote-consultant-at-orico-light-4409180113": 1,
     "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4388137494": 1,
     "https://www.linkedin.com/jobs/view/lead-ai-builder-at-inmarket-4397629169": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-venues-events-at-great-british-drinks-company-4409145941": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-venues-events-at-great-british-drinks-company-4409145941": 1,
+    "https://www.linkedin.com/jobs/view/driver-operator-program-coordinator-at-center-for-public-partnerships-research-4409049217": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-builder-tools-at-ladders-4407207011": 1,
+    "https://www.linkedin.com/jobs/view/ceo-office-ai-accelerator-lead-builder-at-noon-4409171596": 1,
+    "https://www.linkedin.com/jobs/view/gtm-automation-engineer-at-dbt-labs-4387490806": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409189067": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409174537": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
