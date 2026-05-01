@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404531669": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404532634": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404531728": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4404533647": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404527649": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-educology-solutions-4401671544": 1,
     "https://www.linkedin.com/jobs/view/consultants-es-formateurs-trices-tous-secteurs-at-education-staffing-partners-4400596554": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/lead-client-executive-ne-ohio-western-pa-at-transamerica-4328920086": 1,
     "https://www.linkedin.com/jobs/view/sr-director-partner-marketing-at-avalara-4409024484": 1,
     "https://www.linkedin.com/jobs/view/senior-copywriter-b2b-209239-at-aquent-4399483334": 1,
-    "https://www.linkedin.com/jobs/view/evaluation-campaign-manager-at-cypress-hcm-4400012389": 1
+    "https://www.linkedin.com/jobs/view/evaluation-campaign-manager-at-cypress-hcm-4400012389": 1,
+    "https://www.linkedin.com/jobs/view/%e2%97%8e%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-persol-career-brs-bilingual-recruitment-solutions-4387631891": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361694509": 1,
+    "https://www.linkedin.com/jobs/view/senior-crm-manager-social-casino-at-pentasia-4409184028": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409181260": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
