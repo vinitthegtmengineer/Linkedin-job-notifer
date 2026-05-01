@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-marketing-manager-57553409624-at-somewhere-4404330659": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-operations-manager-at-autodesk-4403657775": 1,
-    "https://www.linkedin.com/jobs/view/operations-influencer-management-shownmedia-at-global-finance-teams-4404318480": 1,
-    "https://www.linkedin.com/jobs/view/crm-commercial-assistant-at-liaison-group-4403659383": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operational-excellence-at-becu-4404527514": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-bitget-wallet-4404065602": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operational-excellence-at-becu-4404536441": 1,
     "https://www.linkedin.com/jobs/view/vp-partners-and-alliances-at-kantata-4382167576": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-mission-pet-health-at-mission-pet-health-4403681419": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4404552943": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-custom-logic-automa%c3%a7%c3%a3o-4407943219": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409184194": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409406851": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-analyst-fl-nc-tx-at-zumba-4409425383": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-analyst-fl-nc-tx-at-zumba-4409425383": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387886936": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388103246": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102417": 1,
+    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409027969": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-crypto-at-career-renew-4409404320": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rochelle-s-airbnb-residential-cleaning-services-4407933700": 1,
+    "https://www.linkedin.com/jobs/view/social-media-and-marketing-manager-at-l3-campus-4409413913": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-01",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
