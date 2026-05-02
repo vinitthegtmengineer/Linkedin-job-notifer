@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/builder-at-red-cell-partners-4404265013": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4404248483": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-okta-4401951321": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4404248823": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409815216": 1,
     "https://www.linkedin.com/jobs/view/ai-native-junior-engineer-at-enter-health-4408339702": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-jobs-ai-4409551739": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ops-event-coordinator-at-booth-4407606321": 1
+    "https://www.linkedin.com/jobs/view/marketing-ops-event-coordinator-at-booth-4407606321": 1,
+    "https://www.linkedin.com/jobs/view/co-founder-healthcare-operator-healthcare-startup-at-aurux-4409819540": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
