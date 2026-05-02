@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4404987901": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4405208045": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4405206116": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4405206110": 1,
     "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4404961679": 1,
     "https://www.linkedin.com/jobs/view/conversation-bot-engineer-dialogflow-cx-at-quantiphi-4375576089": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/engineer-autocad-drafter-at-the-a-career-4409593980": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-devops-at-remotehunter-4408329389": 1,
     "https://www.linkedin.com/jobs/view/end-user-computing-euc-engineer-%e2%80%93-workspace-one-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4409585262": 1,
-    "https://www.linkedin.com/jobs/view/detection-and-response-engineer-at-dataannotation-4388103412": 1
+    "https://www.linkedin.com/jobs/view/detection-and-response-engineer-at-dataannotation-4388103412": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineering-specialist-kubernetes-docker-containerization-at-fivetran-4400630407": 1,
+    "https://www.linkedin.com/jobs/view/workspace-one-engineer-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4409580256": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-peerless-4408322963": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
