@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-at-insight-global-4403982962": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-madanapalle-institute-of-technology-science-4401973119": 1,
-    "https://www.linkedin.com/jobs/view/identity-access-consultant-iam-at-eclaro-4404206145": 1,
     "https://www.linkedin.com/jobs/view/consulente-at-sbr-consulting-bacchini-roberto-4352643040": 1,
     "https://www.linkedin.com/jobs/view/survey-equipment-consultant-at-anatum-geomobile-solutions-4404844686": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-%e2%80%93-facets-at-new-york-technology-partners-4404840883": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/cold-email-strategist-real-estate-niche-at-emma-of-torre-ai-4409553155": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-crm-b2b-professional-services-at-erp-apps-pty-ltd-4407980702": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-netrolynx-ai-4409528928": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409538747": 1
+    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409538747": 1,
+    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400261355": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4398063298": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-software-engineer-data-observability-operational-tooling-at-accelerant-4409478013": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
