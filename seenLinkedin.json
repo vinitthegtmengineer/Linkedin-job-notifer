@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/prisma-access-consultant-at-entelligence-4392420640": 1,
-    "https://www.linkedin.com/jobs/view/ofs-consultant-at-jobs-via-dice-4404203647": 1,
-    "https://www.linkedin.com/jobs/view/consultant-exp%c3%a9riment%c3%a9-en-restructuration-d-entreprises-f-h-at-deloitte-4392112501": 1,
-    "https://www.linkedin.com/jobs/view/kinetic-tools-consultant-at-washington-frank-international-4399045464": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-ev-charging-and-building-electrification-at-chargefwd-4404217881": 1,
     "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4404225465": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-retention-marketing-at-dibs-beauty-4404909348": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387895710": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109028": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108111": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-consumer-at-sequoia-capital-global-equities-4409570323": 1
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-consumer-at-sequoia-capital-global-equities-4409570323": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387897589": 1,
+    "https://www.linkedin.com/jobs/view/new-home-builder-consultant-at-new-home-star-4385488358": 1,
+    "https://www.linkedin.com/jobs/view/production-engineer-at-tomia-4407271520": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-sundayy-4409584674": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
