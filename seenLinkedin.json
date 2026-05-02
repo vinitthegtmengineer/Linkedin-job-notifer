@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381884670": 1,
     "https://www.linkedin.com/jobs/view/ai-growth-operator-at-halal-money-guy-4404246390": 1,
     "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-workflow-systems-at-mindmaven-4398951032": 1,
     "https://www.linkedin.com/jobs/view/text-campaign-manager-outbound-lead-gen-at-pro5-ai-4401976824": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/security-and-threat-operations-engineer-at-onepay-4398186336": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409835017": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409815224": 1,
-    "https://www.linkedin.com/jobs/view/growth-analyst-at-moloco-4400646225": 1
+    "https://www.linkedin.com/jobs/view/growth-analyst-at-moloco-4400646225": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409815216": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
