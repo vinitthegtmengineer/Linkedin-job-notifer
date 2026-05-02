@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-revenue-officer-blockchain-technology-at-revenue3-4404579850": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-operations-at-avrio-ai-4404884400": 1,
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-sem-at-buffalo-groupe-4404883975": 1,
-    "https://www.linkedin.com/jobs/view/lead-stars-marketing-at-humana-4401934235": 1,
-    "https://www.linkedin.com/jobs/view/senior-revops-analyst-%e2%80%94-hubspot-specialist-at-revinfinity-4404248042": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-at-trantor-4404239666": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-captivateiq-4404922721": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-advisor-fractional-cros-sales-leaders-at-assay-4404206689": 1,
     "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381884670": 1,
     "https://www.linkedin.com/jobs/view/ai-growth-operator-at-halal-money-guy-4404246390": 1,
     "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-workflow-systems-at-mindmaven-4398951032": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369267737": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369270659": 1,
     "https://www.linkedin.com/jobs/view/operational-technology-security-engineer-at-bart-associates-inc-4398162592": 1,
-    "https://www.linkedin.com/jobs/view/project-engineering-manager-at-aypa-power-4399444293": 1
+    "https://www.linkedin.com/jobs/view/project-engineering-manager-at-aypa-power-4399444293": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387899548": 1,
+    "https://www.linkedin.com/jobs/view/specialist-is-engineer-citrix-at-remotehunter-4408325090": 1,
+    "https://www.linkedin.com/jobs/view/stem-jobs-in-canada-%e2%80%94-remote-full-time-engineer-at-rex-zone-4388395392": 1,
+    "https://www.linkedin.com/jobs/view/benchmark-engineer-at-qdrant-4409803598": 1,
+    "https://www.linkedin.com/jobs/view/security-and-threat-operations-engineer-at-onepay-4398186336": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409835017": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409815224": 1,
+    "https://www.linkedin.com/jobs/view/growth-analyst-at-moloco-4400646225": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
