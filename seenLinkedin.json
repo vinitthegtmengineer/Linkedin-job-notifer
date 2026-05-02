@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/apprentice-operations-engineer-end-user-computing-f-m-d-at-decathlon-digital-4403997960": 1,
-    "https://www.linkedin.com/jobs/view/content-design-marketing-executive-at-baringa-4404210327": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-the-colab-4404202031": 1,
     "https://www.linkedin.com/jobs/view/builders-direct-desk-agent-remote-in-co-az-ut-or-nm-at-wm-4403998965": 1,
     "https://www.linkedin.com/jobs/view/remote-asset-process-engineer-at-georgia-pacific-4403951908": 1,
     "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403992184": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/workspace-one-operations-engineer-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4409570322": 1,
     "https://www.linkedin.com/jobs/view/onboarding-consultant-i-xtrachef-bilingual-mandarin-at-toast-4400656379": 1,
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-paid-ads-at-digitalads-4407279144": 1,
-    "https://www.linkedin.com/jobs/view/merchandise-planner-at-petco-4400587700": 1
+    "https://www.linkedin.com/jobs/view/merchandise-planner-at-petco-4400587700": 1,
+    "https://www.linkedin.com/jobs/view/consultant-brazil-at-sailpoint-4388104875": 1,
+    "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409568351": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4407237366": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
