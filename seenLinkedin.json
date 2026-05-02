@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403992184": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-pracheta-edutech-4404221032": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-personal-brand-content-engine-at-experience-ventures-4404205378": 1,
     "https://www.linkedin.com/jobs/view/strategic-program-lead-pricing-inventory-at-playlist-4401969414": 1,
     "https://www.linkedin.com/jobs/view/senior-i-o-consultant-at-shl-4404871245": 1,
     "https://www.linkedin.com/jobs/view/mid-data-engineer-3-month-project-at-enroute-4404876555": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409568351": 1,
     "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4407237366": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-long-island-east-%234750-at-grail-4398165245": 1,
-    "https://www.linkedin.com/jobs/view/renewals-retention-manager-renewals-strategy-specialist-at-samsara-4375589029": 1
+    "https://www.linkedin.com/jobs/view/renewals-retention-manager-renewals-strategy-specialist-at-samsara-4375589029": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4409567389": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-builder-ai-engineer-at-ovidius-ai-b-v-4409581633": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409453376": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
