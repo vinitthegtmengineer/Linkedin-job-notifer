@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-ev-charging-and-building-electrification-at-chargefwd-4404217881": 1,
     "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4404225465": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-retention-marketing-at-dibs-beauty-4404909348": 1,
     "https://www.linkedin.com/jobs/view/b2b-social-media-manager-at-%c5%8dura-4401688357": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387897589": 1,
     "https://www.linkedin.com/jobs/view/new-home-builder-consultant-at-new-home-star-4385488358": 1,
     "https://www.linkedin.com/jobs/view/production-engineer-at-tomia-4407271520": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-sundayy-4409584674": 1
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-sundayy-4409584674": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-smart-oasis-4408316976": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
