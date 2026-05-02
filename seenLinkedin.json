@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-evertrue-4404890642": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-redis-4395552341": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-and-gtm-engineer-at-omnibound-ai-4401902600": 1,
     "https://www.linkedin.com/jobs/view/head-of-product-gtm-experiences-at-toast-4404510450": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-calendly-4404528153": 1,
     "https://www.linkedin.com/jobs/view/director-sales-excellence-at-semios-4403978412": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409810867": 1,
     "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-modelops-and-runtime-platform-engineering-at-paramount-4409564127": 1,
     "https://www.linkedin.com/jobs/view/sustaining-operations-engineer-at-canonical-4286643844": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409597769": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409597769": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409801959": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409591863": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409820146": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
