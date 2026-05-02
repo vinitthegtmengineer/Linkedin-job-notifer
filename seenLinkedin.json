@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401946808": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401954394": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-operations-manager-at-exactius-4404813984": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-achieve-4403990481": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-operator-at-1840-company-4404841789": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-at-veolia-north-america-4404230077": 1,
     "https://www.linkedin.com/jobs/view/senior-hyland-onbase-consultant-at-staffxpert-llc-4401962285": 1,
     "https://www.linkedin.com/jobs/view/cilium-consultant-kubernetes-talos-at-baltic-assist-4403959356": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363550599": 1,
     "https://www.linkedin.com/jobs/view/ai-operator-at-cherry-assistant-4398745721": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409452483": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362383809": 1,
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4407237955": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361639400": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362314112": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-eskiin-4407959779": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-at-revolut-4398169524": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
