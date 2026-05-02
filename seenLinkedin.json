@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4404551603": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-remote-legal-staff-4403914169": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-techshack-4404810832": 1,
     "https://www.linkedin.com/jobs/view/gtm-builder-at-trantor-4404210081": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-firework-4404874435": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388533626": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388111015": 1,
     "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377998462": 1,
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377997520": 1
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377997520": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-great-value-hiring-4408323793": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409800954": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
