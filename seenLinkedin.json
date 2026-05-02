@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-field-marketing-manager-at-celigo-4401977151": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401946821": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-coders-connect-4404562708": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401946808": 1,
     "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401954394": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409453376": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4408325166": 1,
     "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-nasscomm-4407976124": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363550599": 1
+    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363550599": 1,
+    "https://www.linkedin.com/jobs/view/ai-operator-at-cherry-assistant-4398745721": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409452483": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-02",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
