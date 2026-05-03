@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4404443292": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-planner-at-nielsen-4402810748": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4404444296": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4404430336": 1,
-    "https://www.linkedin.com/jobs/view/sr-growth-marketing-manager-new-products-at-samsara-4402836162": 1,
-    "https://www.linkedin.com/jobs/view/member-marketing-operations-specialist-at-carrot-4402488337": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405258544": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405261435": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405243847": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-revpartners-4404499235": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-karbon-4405250743": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnerships-consultant-at-boehly-and-associates-4402830115": 1,
     "https://www.linkedin.com/jobs/view/agentic-systems-engineer-at-joist-ai-4405481947": 1,
     "https://www.linkedin.com/jobs/view/admin-and-marketing-executive-at-engagement-hub-software-4405495282": 1,
     "https://www.linkedin.com/jobs/view/remote-accountant-consultant-at-hirelatam-4398497519": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-at-oliver-the-brandtech-group-4315499663": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369277053": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-223-4409865657": 1,
-    "https://www.linkedin.com/jobs/view/community-creator-engagement-manager-remote-japan-at-electronic-arts-ea-4375929276": 1
+    "https://www.linkedin.com/jobs/view/community-creator-engagement-manager-remote-japan-at-electronic-arts-ea-4375929276": 1,
+    "https://www.linkedin.com/jobs/view/consultant-handel-und-omni-channel-commerce-all-genders-at-adesso-se-4203240650": 1,
+    "https://www.linkedin.com/jobs/view/staff-product-manager-%e2%80%93-builder-solutions-onboarding-and-builder-tools-at-paradigm-4409867656": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4409882613": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-managramasethu-4407719716": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-quantum-terminals-limited-4409879497": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-the-driya-creatives-4261665619": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-enix-ltd-4409852452": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-ai-jobs-4409818249": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-gulfton-capital-4407709683": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-franchise-enablement-manager-at-barre3-4409825249": 1,
+    "https://www.linkedin.com/jobs/view/remote-social-media-coordinator-at-jobs-via-dice-4407079795": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-europe-at-fever-4339795129": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
