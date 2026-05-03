@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-accel-marketing-solutions-inc-4405282496": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-ii-page-builder-retailer-platform-at-instacart-4393938474": 1,
-    "https://www.linkedin.com/jobs/view/robotics-project-engineer-at-wall-street-consulting-services-llc-4405291320": 1,
-    "https://www.linkedin.com/jobs/view/social-media-executive-at-releaf-4405279936": 1,
-    "https://www.linkedin.com/jobs/view/consulente-di-implementazione-italia-at-softexpert-software-for-excellence-4405243942": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405260848": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405262797": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405271097": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-operator-at-mechanism-ventures-4404939693": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4404974024": 1,
     "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1,
     "https://www.linkedin.com/jobs/view/consulente-di-implementazione-italia-at-softexpert-software-for-excellence-4405252780": 1,
     "https://www.linkedin.com/jobs/view/sr-consultant-at-mygwork-lgbtq%2b-business-community-4402462320": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/ejecutivo-de-marketing-digital-igaming-%e2%80%93-ecuador-at-fun88-4407281998": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-account-manager-at-recovery-com-4409828372": 1,
     "https://www.linkedin.com/jobs/view/digital-advertising-strategist-at-perseus-group-constellation-software-4368587426": 1,
-    "https://www.linkedin.com/jobs/view/ai-marketing-business-partner-at-stanley-house-consulting-4405112812": 1
+    "https://www.linkedin.com/jobs/view/ai-marketing-business-partner-at-stanley-house-consulting-4405112812": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387893731": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102411": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388106311": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387888978": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109024": 1,
+    "https://www.linkedin.com/jobs/view/consultant-veeva-promomats-at-veeva-systems-4377609318": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-usa-at-wesuite-4378668884": 1,
+    "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-activecampaign-4369599673": 1,
+    "https://www.linkedin.com/jobs/view/direttore-marketing-at-genius-edu-4407719114": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-coordinator-philippines-remote-at-growthassistant-4409855108": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
