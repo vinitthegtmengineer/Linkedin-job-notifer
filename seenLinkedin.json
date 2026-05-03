@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392470947": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392488221": 1,
-    "https://www.linkedin.com/jobs/view/senior-mqa-engineer-at-glorium-technologies-4402998255": 1,
-    "https://www.linkedin.com/jobs/view/product-engineer-at-salsify-4392465288": 1,
-    "https://www.linkedin.com/jobs/view/ebpf-engineer-remote-at-odigos-4360191844": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4404969402": 1,
-    "https://www.linkedin.com/jobs/view/engineering-design-specialist-at-millionlogics-4404989090": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4405214085": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-engineer-martech-%24250k-salary-at-partsbase-inc-4401978373": 1,
-    "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-doxel-4403804013": 1,
-    "https://www.linkedin.com/jobs/view/mlops-engineer-100%25-remoto-at-cas-training-4401948054": 1,
-    "https://www.linkedin.com/jobs/view/cloud-platform-engineer-microsoft-azure-at-edurom-4401947662": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4404292638": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4402448782": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4404296224": 1,
     "https://www.linkedin.com/jobs/view/freelance-agent-evaluation-engineer-ai-projects-on-mindrift-at-mindrift-4402465248": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/global-marketing-manager-at-haystack-4407248107": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-comcast-4402362172": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-100%25-remote-at-tether-io-4359447384": 1,
-    "https://www.linkedin.com/jobs/view/vp-marketing-ecomm-at-openloop-4398154556": 1
+    "https://www.linkedin.com/jobs/view/vp-marketing-ecomm-at-openloop-4398154556": 1,
+    "https://www.linkedin.com/jobs/view/consulente-di-finanza-agevolata-at-consulenteideale-4409576696": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-data-engineering-experimentation-mid-senior-level-at-jobright-ai-4408338688": 1,
+    "https://www.linkedin.com/jobs/view/stem-engineering-jobs-in-india-at-rex-zone-4388390874": 1,
+    "https://www.linkedin.com/jobs/view/palantir-foundry-engineer-at-jobs-via-dice-4407395404": 1,
+    "https://www.linkedin.com/jobs/view/senior-observability-engineer-f-m-x-at-sii-poland-4399037210": 1,
+    "https://www.linkedin.com/jobs/view/purple-team-engineer-at-dataannotation-4388105209": 1,
+    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4387896483": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-quik-hire-staffing-4409810454": 1,
+    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4409591812": 1,
+    "https://www.linkedin.com/jobs/view/developer-relations-engineer-san-francisco-at-qdrant-4409592696": 1,
+    "https://www.linkedin.com/jobs/view/ai-strategist-at-ema-4409816705": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4409829900": 1,
+    "https://www.linkedin.com/jobs/view/associate-director-marketing-operations-at-ionis-pharmaceuticals-inc-4399320030": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
