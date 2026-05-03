@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-commentare-con-l-ai-i-post-generati-dall-ai-%23fractionaltiziocaio-4405209711": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-data-middle-4402461682": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-coimbatore-unique-4404288768": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396456947": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396476134": 1,
     "https://www.linkedin.com/jobs/view/strategic-finance-operator-data-at-mechanism-ventures-4404918553": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/associate-director-marketing-operations-at-ionis-pharmaceuticals-inc-4399320030": 1,
     "https://www.linkedin.com/jobs/view/procore-consultant-at-avicado-4409584246": 1,
     "https://www.linkedin.com/jobs/view/director-global-sales-enablement-at-dropbox-4400662600": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-managerial-at-microsourcing-4387939665": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-managerial-at-microsourcing-4387939665": 1,
+    "https://www.linkedin.com/jobs/view/benchmark-engineer-at-qdrant-4409800598": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4409859018": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-4407967621": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
