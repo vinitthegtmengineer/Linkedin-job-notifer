@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/customer-supply-chain-manager-%e2%80%93-club-at-olly-pbc-4404987542": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-qubiko-4402487130": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-growth-revenue-at-patchstack-4405253250": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-akkodis-4404416283": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405245538": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405248465": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405244540": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405253391": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405252397": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405262153": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405261185": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/semiconductor-industry-segment-director-at-mission-critical-group-4387965178": 1,
     "https://www.linkedin.com/jobs/view/water-wastewater-project-engineer-at-ardurra-4321906989": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-ml-ops-framework-at-torc-robotics-4325625008": 1,
-    "https://www.linkedin.com/jobs/view/senior-sre-manager-auckland-nz-at-aiven-4399046692": 1
+    "https://www.linkedin.com/jobs/view/senior-sre-manager-auckland-nz-at-aiven-4399046692": 1,
+    "https://www.linkedin.com/jobs/view/copilot-consultant-at-hackajob-4398709887": 1,
+    "https://www.linkedin.com/jobs/view/consultant-dermatologist-at-imerit-technology-4404780687": 1,
+    "https://www.linkedin.com/jobs/view/gtm-recruiter-ta-builder-at-qdrant-4409592713": 1,
+    "https://www.linkedin.com/jobs/view/lead-engineer-workflow-builder-dsl-at-highlevel-4353431272": 1,
+    "https://www.linkedin.com/jobs/view/software-developer-builder-at-jobs-via-dice-4408348637": 1,
+    "https://www.linkedin.com/jobs/view/secops-engineer-at-sourced-4409597945": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369257866": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-and-marketing-executive-at-anklan-ai-4408359588": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
