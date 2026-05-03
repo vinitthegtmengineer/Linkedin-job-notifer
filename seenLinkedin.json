@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/agentic-systems-engineer-at-joist-ai-4405481947": 1,
-    "https://www.linkedin.com/jobs/view/admin-and-marketing-executive-at-engagement-hub-software-4405495282": 1,
-    "https://www.linkedin.com/jobs/view/remote-accountant-consultant-at-hirelatam-4398497519": 1,
     "https://www.linkedin.com/jobs/view/edc-coder-builder-at-jobs-via-dice-4404461618": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4404725014": 1,
     "https://www.linkedin.com/jobs/view/temenos-senior-consultant-at-jobgether-4404718806": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-gulfton-capital-4407709683": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-franchise-enablement-manager-at-barre3-4409825249": 1,
     "https://www.linkedin.com/jobs/view/remote-social-media-coordinator-at-jobs-via-dice-4407079795": 1,
-    "https://www.linkedin.com/jobs/view/operations-manager-europe-at-fever-4339795129": 1
+    "https://www.linkedin.com/jobs/view/operations-manager-europe-at-fever-4339795129": 1,
+    "https://www.linkedin.com/jobs/view/income-builder-4404261134": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-youth-for-sustainable-policy-ysp-4408387123": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-partner-philippines-remote-at-growthassistant-4409859070": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
