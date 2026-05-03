@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enablement-manager-sales-customer-success-at-storable-4404478108": 1,
     "https://www.linkedin.com/jobs/view/director-of-field-enablement-global-at-contentsquare-4402809964": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405274062": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405270107": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/demand-generation-manager-remote-at-wcg-4399061041": 1,
     "https://www.linkedin.com/jobs/view/partner-integration-compliance-manager-marketing-review-at-mercer-advisors-4399065860": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409818161": 1,
-    "https://www.linkedin.com/jobs/view/head-of-international-operations-india-at-wingstop-restaurants-inc-4369690225": 1
+    "https://www.linkedin.com/jobs/view/head-of-international-operations-india-at-wingstop-restaurants-inc-4369690225": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-w-a-s-media-marketing-pvt-ltd-4408377436": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
