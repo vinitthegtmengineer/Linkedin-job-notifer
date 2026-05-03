@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396456947": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396476134": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-operator-data-at-mechanism-ventures-4404918553": 1,
-    "https://www.linkedin.com/jobs/view/open-role-%e2%80%94-builder-at-objection-4404999932": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4401963217": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4404400089": 1,
-    "https://www.linkedin.com/jobs/view/freelance-agent-evaluation-engineer-ai-projects-on-mindrift-at-mindrift-4402449904": 1,
-    "https://www.linkedin.com/jobs/view/director-us-strategic-partnerships-at-zip-co-4330300868": 1,
-    "https://www.linkedin.com/jobs/view/open-role-%e2%80%94-builder-at-objection-4405206824": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4404285913": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-operator-at-mechanism-ventures-4404930864": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-operator-data-at-mechanism-ventures-4404914669": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-rotaract-club-of-amity-ranchi-4405218139": 1,
     "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4392459010": 1,
     "https://www.linkedin.com/jobs/view/agentic-operator-growth-marketing-at-ramp-4244901850": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-managerial-at-microsourcing-4387939665": 1,
     "https://www.linkedin.com/jobs/view/benchmark-engineer-at-qdrant-4409800598": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4409859018": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-4407967621": 1
+    "https://www.linkedin.com/jobs/view/campaign-manager-4407967621": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4408367107": 1,
+    "https://www.linkedin.com/jobs/view/secops-engineer-at-sourced-4409586810": 1,
+    "https://www.linkedin.com/jobs/view/regional-sales-director-data-as-a-service-at-snorkel-ai-4399063617": 1,
+    "https://www.linkedin.com/jobs/view/gtm-analytics-manager-at-blue-j-4400650930": 1,
+    "https://www.linkedin.com/jobs/view/overlay-sales-specialist-workforce-ai-at-cornerstone-ondemand-4400596034": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-epd-operations-at-1password-4387897766": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-of-global-technology-and-business-alliances-at-eset-4359810594": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-executive-at-precision-sales-recruiting-4402646871": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-operations-at-torq-4409595790": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-nexus-venture-partners-4409555967": 1,
+    "https://www.linkedin.com/jobs/view/head-of-business-development-at-sentilink-4400678946": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-ops-manager-at-deel-4383955368": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
