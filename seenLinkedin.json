@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/big-data-operations-engineer-at-temu-4404726130": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-campaign-manager-at-newsweek-4404445263": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405260839": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405266298": 1,
     "https://www.linkedin.com/jobs/view/remote-consultant-at-ambition-pagesolution-4402843855": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-we%e2%80%99re-hiring-business-operations-digital-marketing-executive-remote-at-neutonsoft-4408378881": 1,
     "https://www.linkedin.com/jobs/view/brand-content-marketing-manager-at-aspire-software-4333989866": 1,
     "https://www.linkedin.com/jobs/view/director-of-product-marketing-at-emerix-4407714124": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-toepfer-associates-pllc-4409884668": 1
+    "https://www.linkedin.com/jobs/view/process-engineer-at-toepfer-associates-pllc-4409884668": 1,
+    "https://www.linkedin.com/jobs/view/engineering-ai-transformation-director-at-ping-identity-4409867833": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-sundayy-4409843746": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
