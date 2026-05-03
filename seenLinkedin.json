@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-strategy-operations-at-okta-4402478845": 1,
-    "https://www.linkedin.com/jobs/view/consultor-at-bienestar-360-4405272128": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4404445297": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4404432401": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-machine-learning-infrastructure-at-parallel-4405264723": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402487445": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-machine-learning-infrastructure-at-parallel-4405274171": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-genscript-4404429340": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405263765": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/head-of-business-development-at-sentilink-4400691352": 1,
     "https://www.linkedin.com/jobs/view/account-based-marketing-executive-at-all4ps-4408376208": 1,
     "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377996508": 1,
-    "https://www.linkedin.com/jobs/view/senior-database-operations-engineer-at-epam-systems-4397048028": 1
+    "https://www.linkedin.com/jobs/view/senior-database-operations-engineer-at-epam-systems-4397048028": 1,
+    "https://www.linkedin.com/jobs/view/berater-f%c3%bcr-finanzprodukte-m-w-d-finanzdienstleistung-at-invertas-gmbh-4407702585": 1,
+    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4377986850": 1,
+    "https://www.linkedin.com/jobs/view/lead-generative-ai-operations-engineer-genai-ops-at-epam-systems-4313347181": 1,
+    "https://www.linkedin.com/jobs/view/director-enterprise-sales-west-at-cresta-4335379455": 1,
+    "https://www.linkedin.com/jobs/view/head-of-business-development-at-sentilink-4400694305": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-associate-at-zero-emission-grid-4408322780": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
