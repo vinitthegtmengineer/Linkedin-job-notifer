@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405266298": 1,
-    "https://www.linkedin.com/jobs/view/remote-consultant-at-ambition-pagesolution-4402843855": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-center-of-excellence-at-twilio-4404896797": 1,
     "https://www.linkedin.com/jobs/view/marketing-operator-ai-first-at-taisan-4402854843": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-interc%c3%a2mbio-%e2%80%93-cear%c3%a1-%e2%80%93-ce-at-buscarvagas-empregos-brasil-4402860542": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/process-engineer-at-toepfer-associates-pllc-4409884668": 1,
     "https://www.linkedin.com/jobs/view/engineering-ai-transformation-director-at-ping-identity-4409867833": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-sundayy-4409843746": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-lumina-events-4408395077": 1
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-lumina-events-4408395077": 1,
+    "https://www.linkedin.com/jobs/view/sales-digital-marketing-executive-remote-night-shift-at-adtitude-digital-4408396002": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-quantum-life-4407716830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
