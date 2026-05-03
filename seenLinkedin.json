@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-lead-generation-at-harp-4402494373": 1,
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4404428960": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-zensar-technologies-4402802328": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-cache-financials-inc-4405289187": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-viant-medical-4402486966": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-dimond-connect-4404425652": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405258862": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-influcio-4394756157": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-accel-marketing-solutions-inc-4405282496": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-ii-page-builder-retailer-platform-at-instacart-4393938474": 1,
     "https://www.linkedin.com/jobs/view/robotics-project-engineer-at-wall-street-consulting-services-llc-4405291320": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/healthcare-and-pharma-segment-director-at-mission-critical-group-4387945875": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362452162": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-whatnot-4398729460": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4409865015": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4409865015": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388101516": 1,
+    "https://www.linkedin.com/jobs/view/promt-engineer-at-flink-x-4409802976": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-tenex-ai-4356125030": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-storable-4377293309": 1,
+    "https://www.linkedin.com/jobs/view/ejecutivo-de-marketing-digital-igaming-%e2%80%93-ecuador-at-fun88-4407281998": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-account-manager-at-recovery-com-4409828372": 1,
+    "https://www.linkedin.com/jobs/view/digital-advertising-strategist-at-perseus-group-constellation-software-4368587426": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-business-partner-at-stanley-house-consulting-4405112812": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
