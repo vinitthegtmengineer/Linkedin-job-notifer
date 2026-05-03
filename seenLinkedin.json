@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405268186": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405274095": 1,
-    "https://www.linkedin.com/jobs/view/svp-of-marketing-at-hyperproof-4405274106": 1,
-    "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4404434291": 1,
-    "https://www.linkedin.com/jobs/view/senior-cre-consultant-sage-intacct-at-alta-vista-technology-4404448421": 1,
-    "https://www.linkedin.com/jobs/view/ai-solution-builder-at-hypatos-4404268701": 1,
     "https://www.linkedin.com/jobs/view/marketing-ai-agent-builder-at-trantor-4403987854": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-at-abnormal-ai-4330552927": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-developer-ui-builder-expertise-at-invovia-4402477813": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/remote-stem-engineer-india-%e2%80%94-ai-ml-data-operations-at-rex-zone-4388511784": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineer-at-s-c-electric-company-4342431323": 1,
     "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363540661": 1,
-    "https://www.linkedin.com/jobs/view/sales-tools-strategy-manager-at-samsara-4353540293": 1
+    "https://www.linkedin.com/jobs/view/sales-tools-strategy-manager-at-samsara-4353540293": 1,
+    "https://www.linkedin.com/jobs/view/brr%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bebit%ef%bc%86company-4341230063": 1,
+    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-m-w-at-strategy-transformation-consulting-gmbh-4407280395": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363520615": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-and-strategy-manager-at-samsara-4376201952": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-ksa-at-sully-ai-4388771678": 1,
+    "https://www.linkedin.com/jobs/view/director-account-based-marketing-at-tempo-software-4363521406": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-03",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
