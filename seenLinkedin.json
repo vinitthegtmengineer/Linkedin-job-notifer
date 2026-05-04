@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-yotta-consultancy-4403213080": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-lahore-4403232180": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-marvel-fmcg-certified-b-corporation%c2%ae-4405639165": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-marketing-at-mythwright-4405279870": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-gene-4405429589": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-wetravel-4405428253": 1,
     "https://www.linkedin.com/jobs/view/temp-lifecycle-marketing-manager-at-headspace-4402828658": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-pandadoc-4366356155": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-terra-4402830213": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/remote-consultant-at-nexus-waves-4407740976": 1,
     "https://www.linkedin.com/jobs/view/applied-ai-engineer-internal-operations-at-workflex-4410015427": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-skillrift-4408643249": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-manager-at-limelight-inc-4410025441": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-manager-at-limelight-inc-4410025441": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-x-at-o-donovan-consulting-ag-4407751406": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e5%85%a8%e5%9b%bd%e5%b1%85%e4%bd%8f%e5%8f%af%e3%80%91%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%bc%81%e6%a5%ad%e3%81%ae%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%81%8b%e7%94%a8%e3%83%bb%e6%94%b9%e5%96%84-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4408730260": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-seo-content-at-lumina-events-4408640504": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-ora-gupo-4410013649": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketplace-at-staples-4400975868": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-shopify-coordinator-for-dtc-brand-remote-us-based-at-paired-4407757114": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
