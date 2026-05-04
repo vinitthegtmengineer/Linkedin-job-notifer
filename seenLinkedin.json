@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4384390198": 1,
-    "https://www.linkedin.com/jobs/view/%e9%a1%b9%e7%9b%ae%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86%ef%bc%88%e5%88%b6%e5%8a%a8%e7%b1%bb%e4%ba%a7%e5%93%81%e8%ae%a4%e8%af%81%ef%bc%89-at-%e6%9d%ad%e5%b7%9e%e6%b1%89%e5%be%b7%e8%b4%a8%e9%87%8f%e8%ae%a4%e8%af%81%e6%9c%8d%e5%8a%a1%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8%e4%b8%8a%e6%b5%b7%e5%88%86%e5%85%ac%e5%8f%b8-4402845234": 1,
-    "https://www.linkedin.com/jobs/view/project-manager-substation-engineering-at-substation-engineering-company-4375868844": 1,
     "https://www.linkedin.com/jobs/view/transmission-line-project-engineer-southeast-remote-at-wsp-in-the-u-s-4384350338": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-at-befective-latam-4405838470": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-oneskai-4405812757": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/director-customer-success-at-wrike-4410041039": 1,
     "https://www.linkedin.com/jobs/view/sales-analytics-manager-at-jobgether-4408642682": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-foundation-marketing-4410016997": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4408650715": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4408650715": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-ii-at-arco-educa%c3%a7%c3%a3o-4388589551": 1,
+    "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-superkreatives-4409876570": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-specialist-at-oceans-talent-4410030748": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
