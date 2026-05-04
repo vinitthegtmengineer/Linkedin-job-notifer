@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-engineer-data-quality-operations-at-omni-biotic%c2%ae-by-institut-allergosan-4405497291": 1,
-    "https://www.linkedin.com/jobs/view/operations-planning-engineer-iii-senior-expert-at-eqt-corporation-4405249960": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-at-crossing-hurdles-4372062746": 1,
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-crossing-hurdles-2147622960": 1,
     "https://www.linkedin.com/jobs/view/social-community-executive-usa-at-we-are-loka-4405648799": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405259858": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-gnosis-app-at-gnosis-4405653858": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/phase-i-esa-consultant-at-envirotech-group-inc-4410001467": 1,
     "https://www.linkedin.com/jobs/view/global-marketing-manager-at-haystack-4407744024": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-strategy-at-grownsy-4409896356": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-peeple-4408622061": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-peeple-4408622061": 1,
+    "https://www.linkedin.com/jobs/view/revops-consultant-at-growth-fuel-consulting-4408630113": 1,
+    "https://www.linkedin.com/jobs/view/consultant-4408636197": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4410001579": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-quik-hire-staffing-4410000604": 1,
+    "https://www.linkedin.com/jobs/view/virtual-marketing-manager-at-insuratec-4408383943": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
