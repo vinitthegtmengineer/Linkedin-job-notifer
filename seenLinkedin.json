@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-revops-f-m-x-at-personio-4403237295": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-revops-f-m-x-at-personio-4403238268": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-revops-f-m-x-at-personio-4403231777": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-and-gtm-engineer-at-chatgpt-jobs-4402893141": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-revops-f-m-x-at-personio-4403234298": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-automation-engineer-at-beyond-five-4404723976": 1,
-    "https://www.linkedin.com/jobs/view/us-gtm-enablement-manager-at-pointclickcare-4393013930": 1,
-    "https://www.linkedin.com/jobs/view/canada-gtm-enablement-manager-at-pointclickcare-4393024297": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-operations-at-diligent-4395222606": 1,
     "https://www.linkedin.com/jobs/view/senior-global-campaign-manager-customers-at-okta-4396764354": 1,
     "https://www.linkedin.com/jobs/view/junior-ppc-paid-social-campaign-manager-at-moburst-growth-done-right-4405673166": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/otx-runtime-engineer-at-salvo-software-4410200543": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4408668822": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-shark-life-media-4408673590": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-professional-physical-therapy-4410094528": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-professional-physical-therapy-4410094528": 1,
+    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4410088927": 1,
+    "https://www.linkedin.com/jobs/view/oncore-calendar-builder-remote-clinical-trials-unit-staff-wage-at-university-of-virginia-4410089767": 1,
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410216083": 1,
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410214117": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-esvp-coaching-inc-4410097406": 1,
+    "https://www.linkedin.com/jobs/view/brand-manager-at-halfday-iced-tea-4408910474": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-at-virtually-4410205650": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-coordinator-at-padi-4408905610": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
