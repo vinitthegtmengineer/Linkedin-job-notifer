@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
-    "https://www.linkedin.com/jobs/view/fractional-cto-ai-studio-hands-on-builder-at-groai-4402895349": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405617068": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-process-engineer-at-united-consulting-hub-4404782589": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405686180": 1,
-    "https://www.linkedin.com/jobs/view/marketing-sales-executive-at-really-wild-clothing-4399894884": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-jo-consulting-european-project-consulting-4403206741": 1,
     "https://www.linkedin.com/jobs/view/support-operator-m-f-x-at-grid-esports-4405696239": 1,
     "https://www.linkedin.com/jobs/view/support-operator-m-f-x-at-grid-esports-4405694288": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/power-automate-developer-ai-builder-crm-integration-at-talent-4408625442": 1,
     "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-lkk-associates-inc-4408619448": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-netrolynx-ai-4409894240": 1,
-    "https://www.linkedin.com/jobs/view/director-of-customer-experience-at-swooped-4409868414": 1
+    "https://www.linkedin.com/jobs/view/director-of-customer-experience-at-swooped-4409868414": 1,
+    "https://www.linkedin.com/jobs/view/%ef%bc%9c%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%9edx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e4%ba%8b%e6%a5%ad%e6%88%a6%e7%95%a5%e3%83%bbai%e6%b4%bb%e7%94%a8%e3%81%aa%e3%81%a9%ef%bc%89%e2%97%86%e6%9d%b1%e6%80%a5%e4%b8%8d%e5%8b%95%e7%94%a3hd%ef%bc%8f1000%e6%86%b6%e4%bb%a5%e4%b8%8a%e6%8a%95%e8%b3%87%e2%97%8e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4408731148": 1,
+    "https://www.linkedin.com/jobs/view/cpm-consultant-at-professional-advantage-4407738321": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-construction-at-attentive-ai-4408639391": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-at-institution-4407732480": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-quik-hire-staffing-4409889899": 1,
+    "https://www.linkedin.com/jobs/view/trade-marketing-executive-at-toucan-craft-beer-co-4408632572": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-execution-lead-at-the-men-s-cave-4408623644": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
