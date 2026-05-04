@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405863694": 1,
-    "https://www.linkedin.com/jobs/view/consultor-marketplace-at-ck-neg%c3%b3cios-4403256258": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-intern-user-experience-focus-at-reml-ai-4405030685": 1,
-    "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-adly-4405856906": 1,
-    "https://www.linkedin.com/jobs/view/manhattan-active-wm-consultant-eu-at-nextchain-solutions-4405853970": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396470463": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4405633496": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4405891437": 1,
     "https://www.linkedin.com/jobs/view/sr-ai-engineer-ai-platform-at-samsara-4403271488": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4405893531": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4405893535": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/consultor-a-senior-de-talent-management-remoto-at-bizneo-hr-4407777190": 1,
     "https://www.linkedin.com/jobs/view/enablement-platform-specialist-at-spectraforce-4410061432": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-state-and-local-at-cloud-for-good-4410061467": 1,
-    "https://www.linkedin.com/jobs/view/director-of-innovation-and-product-marketing-at-jobgether-4408661789": 1
+    "https://www.linkedin.com/jobs/view/director-of-innovation-and-product-marketing-at-jobgether-4408661789": 1,
+    "https://www.linkedin.com/jobs/view/agent-operator-full-time-remote-india-at-figmenta-4407791394": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-%2b-meta-ads-operator-at-remote-latinos-4407792564": 1,
+    "https://www.linkedin.com/jobs/view/traffic-acquisition-operator-at-hekma-4407792561": 1,
+    "https://www.linkedin.com/jobs/view/operador-24-7-linux-jr-at-metrica-4407774711": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-analytics-engineer-at-momence-4407793582": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-smart-oasis-4407778844": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-sotalent-4407784460": 1,
+    "https://www.linkedin.com/jobs/view/vp-marketing-at-montu-4401036084": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
