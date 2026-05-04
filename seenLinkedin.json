@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-community-executive-usa-at-we-are-loka-4405648799": 1,
-    "https://www.linkedin.com/jobs/view/marketing-analyst-remote-contract-at-infuse-4405259858": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-gnosis-app-at-gnosis-4405653858": 1,
-    "https://www.linkedin.com/jobs/view/operador-mantenedor-filtragem-i-at-anglo-american-4405672036": 1,
-    "https://www.linkedin.com/jobs/view/senior-data-architect-analytics-engineer-remote-at-360dialog-4405237577": 1,
     "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
     "https://www.linkedin.com/jobs/view/fractional-cto-ai-studio-hands-on-builder-at-groai-4402895349": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/consultant-4408636197": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4410001579": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-quik-hire-staffing-4410000604": 1,
-    "https://www.linkedin.com/jobs/view/virtual-marketing-manager-at-insuratec-4408383943": 1
+    "https://www.linkedin.com/jobs/view/virtual-marketing-manager-at-insuratec-4408383943": 1,
+    "https://www.linkedin.com/jobs/view/ai-infrastructure-builder-at-prgrmmd-4408634296": 1,
+    "https://www.linkedin.com/jobs/view/power-automate-developer-ai-builder-crm-integration-at-talent-4408625442": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-lkk-associates-inc-4408619448": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-netrolynx-ai-4409894240": 1,
+    "https://www.linkedin.com/jobs/view/director-of-customer-experience-at-swooped-4409868414": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
