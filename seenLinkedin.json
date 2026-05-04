@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4396952685": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-matched-4402719590": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-cylinder-4405602031": 1,
-    "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-zicasso-4405890786": 1,
-    "https://www.linkedin.com/jobs/view/formador-y-o-capacitador-planilla-completa-operador-entel-ventas-at-netcall-group-4406102762": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4406103019": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-haystack-4404509966": 1,
     "https://www.linkedin.com/jobs/view/operator-recruitment-analyst-at-clickqube-4406125343": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%97%e3%83%ad%e3%83%80%e3%82%af%e3%83%88%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%90%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%e3%80%91%ef%bc%88%e7%a6%8f%e4%ba%95%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%8b%e3%82%b8%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9%ef%bc%88nijibox-co-ltd-%ef%bc%89-4405855240": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/founding-head-of-sales-for-ai-ipaas-startup-at-us-tech-solutions-4407798497": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-uk-remote-at-clicktech-4408908920": 1,
     "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410202973": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-distillery-4410218112": 1
+    "https://www.linkedin.com/jobs/view/marketing-director-at-distillery-4410218112": 1,
+    "https://www.linkedin.com/jobs/view/dealer-consultant-pittsburgh-at-forddirect-4410225408": 1,
+    "https://www.linkedin.com/jobs/view/consultor-senior-at-milbrands-%c2%ae%ef%b8%8f-4408104362": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91aws%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-sp-links%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-sp-links-inc-4410219397": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%88%b6%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4410230010": 1,
+    "https://www.linkedin.com/jobs/view/sales-strategy-operations-manager-%e2%80%93-us-east-coast-based-at-n8n-4410213778": 1,
+    "https://www.linkedin.com/jobs/view/co-marketing-manager-at-the-fountain-group-4410208581": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
