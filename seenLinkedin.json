@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/transmission-line-project-engineer-southeast-remote-at-wsp-in-the-u-s-4384350338": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-at-befective-latam-4405838470": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-oneskai-4405812757": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelance-at-twine-4396472323": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-unite-us-4382473981": 1,
-    "https://www.linkedin.com/jobs/view/revops-architect-hubspot-elite-partner-agency-clay-%2b-hubspot-at-pave-talent-4405028316": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91aws%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-sp-links%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-sp-links-inc-4405844790": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a5%9e%e5%a5%88%e5%b7%9d%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e4%b8%bb%e4%bb%bb%e3%82%af%e3%83%a9%e3%82%b9%e3%83%bb%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e6%97%a5%e7%ab%8b%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba%e3%83%bb%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88-4405851610": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a5%9e%e5%a5%88%e5%b7%9d%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e4%b8%bb%e4%bb%bb%e3%82%af%e3%83%a9%e3%82%b9%e3%83%bb%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e6%97%a5%e7%ab%8b%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba%e3%83%bb%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%88-4405854166": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4408650715": 1,
     "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-ii-at-arco-educa%c3%a7%c3%a3o-4388589551": 1,
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-superkreatives-4409876570": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-specialist-at-oceans-talent-4410030748": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-specialist-at-oceans-talent-4410030748": 1,
+    "https://www.linkedin.com/jobs/view/performance-ads-operator-paid-media-conversion-systems-4408653874": 1,
+    "https://www.linkedin.com/jobs/view/perfil-jr-de-consultor%c3%ada-de-transformaci%c3%b3n-prodigioso-volc%c3%a1n-at-jungle-4407752889": 1,
+    "https://www.linkedin.com/jobs/view/clinical-study-builder-romania-at-indero-formerly-innovaderm-4410050345": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4407769644": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
