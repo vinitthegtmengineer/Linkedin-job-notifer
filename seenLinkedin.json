@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pandadoc-4405833798": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-creative-people-4403242707": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-talana-at-sourcing-4405851885": 1,
-    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-at-buildkite-4404701232": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4405848660": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%ef%bc%89-at-techtouch-inc-4405842721": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4405843820": 1,
-    "https://www.linkedin.com/jobs/view/martech-operations-engineer-at-classpass-4403238907": 1,
-    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jobgether-4404793473": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405692043": 1,
     "https://www.linkedin.com/jobs/view/retail-area-manager-south-west-at-crocs-inc-4402869596": 1,
     "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-at-hygo-4405859780": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-part-time-for-a-usa-e-commerce-company-remote-at-paired-4403267140": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-at-1up-cargo-4407754970": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gururo-4407776131": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-iperformance-media-pvt-ltd-4407758761": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-strategic-events-at-core-bts-4410053491": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-strategic-events-at-core-bts-4410053491": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-at-reroot-cyber-4410056684": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-junior-at-aubay-spain-4407773450": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-insight-global-4408677378": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4410017957": 1,
+    "https://www.linkedin.com/jobs/view/aws-student-builder-campus-leader-2026-%e2%80%93-stellenbeschreibung-at-simtech-cluster-of-excellence-university-of-stuttgart-4408667351": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-new-existing-business-at-ladders-4407770158": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-jane-creative-4410055793": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
+    "https://www.linkedin.com/jobs/view/director-of-client-services-and-communications-at-vitl-4408683325": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-strategic-growth-operations-at-belgem-jewelry-4407778149": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
