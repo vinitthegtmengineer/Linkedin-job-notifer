@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/retail-area-manager-south-west-at-crocs-inc-4402869596": 1,
-    "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-at-hygo-4405859780": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-part-time-for-a-usa-e-commerce-company-remote-at-paired-4403267140": 1,
-    "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405871504": 1,
     "https://www.linkedin.com/jobs/view/expansion-marketing-manager-at-xolo-4405863694": 1,
     "https://www.linkedin.com/jobs/view/consultor-marketplace-at-ck-neg%c3%b3cios-4403256258": 1,
     "https://www.linkedin.com/jobs/view/product-builder-intern-user-experience-focus-at-reml-ai-4405030685": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-jane-creative-4410055793": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
     "https://www.linkedin.com/jobs/view/director-of-client-services-and-communications-at-vitl-4408683325": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-strategic-growth-operations-at-belgem-jewelry-4407778149": 1
+    "https://www.linkedin.com/jobs/view/vp-of-strategic-growth-operations-at-belgem-jewelry-4407778149": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-senior-de-talent-management-remoto-at-bizneo-hr-4407777190": 1,
+    "https://www.linkedin.com/jobs/view/enablement-platform-specialist-at-spectraforce-4410061432": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-state-and-local-at-cloud-for-good-4410061467": 1,
+    "https://www.linkedin.com/jobs/view/director-of-innovation-and-product-marketing-at-jobgether-4408661789": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
