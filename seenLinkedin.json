@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/dia-maching-lrng-eng-at-ford-motor-company-4381154631": 1,
-    "https://www.linkedin.com/jobs/view/datacom-remote-pilot-operator-lead-at-jobs-via-dice-4404735497": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-builders-at-relevance-ai-4358572942": 1,
-    "https://www.linkedin.com/jobs/view/workday-operations-engineer-at-nelnet-4382830177": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-data-quality-operations-at-omni-biotic%c2%ae-by-institut-allergosan-4405497291": 1,
     "https://www.linkedin.com/jobs/view/operations-planning-engineer-iii-senior-expert-at-eqt-corporation-4405249960": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/vice-president-of-channel-resources-at-pvd-gold-jewelry-4409868541": 1,
     "https://www.linkedin.com/jobs/view/chief-operating-officer-at-endometriosis-detection-test-4408396442": 1,
     "https://www.linkedin.com/jobs/view/senior-marketplaces-manager-at-manscaped-4379226021": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-manager-atlas-performance-at-kochava-4373006933": 1
+    "https://www.linkedin.com/jobs/view/strategic-account-manager-atlas-performance-at-kochava-4373006933": 1,
+    "https://www.linkedin.com/jobs/view/phase-i-esa-consultant-at-envirotech-group-inc-4410001467": 1,
+    "https://www.linkedin.com/jobs/view/global-marketing-manager-at-haystack-4407744024": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-strategy-at-grownsy-4409896356": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-peeple-4408622061": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
