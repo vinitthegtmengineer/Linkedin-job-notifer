@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4406109644": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-manager-lead-builders-at-relevance-ai-4406134143": 1,
     "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4403292309": 1,
     "https://www.linkedin.com/jobs/view/cloud-engineer-at-rootflo-4405073056": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-va-remote-at-outsource-access-careers-4405078334": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/builder-marketing-manager-at-cornerstone-home-lending-4408935267": 1,
     "https://www.linkedin.com/jobs/view/channel-account-manager-at-nobleai-4410226162": 1,
     "https://www.linkedin.com/jobs/view/managing-director-operator-partner-4408929637": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-alani-nu-at-celsius-4410229035": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-alani-nu-at-celsius-4410229035": 1,
+    "https://www.linkedin.com/jobs/view/cresta-consultant-at-axiom-global-technologies-4408695476": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-coordinator-at-hire-profile-inc-4408126015": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
