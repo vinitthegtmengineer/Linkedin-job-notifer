@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-jo-consulting-european-project-consulting-4403206741": 1,
-    "https://www.linkedin.com/jobs/view/support-operator-m-f-x-at-grid-esports-4405696239": 1,
-    "https://www.linkedin.com/jobs/view/support-operator-m-f-x-at-grid-esports-4405694288": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-softtek-4404796095": 1,
-    "https://www.linkedin.com/jobs/view/community-lead-remote-at-softr-4403232229": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-director-agi-genai-builders-at-telus-digital-4392474986": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sauce-4405691076": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-social-reputation-at-airbnb-4395324356": 1,
-    "https://www.linkedin.com/jobs/view/head-of-growth-marketing-at-zicasso-4405443757": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-transit-technologies-4402830007": 1,
-    "https://www.linkedin.com/jobs/view/b2b-marketing-manager-at-btse-4258433882": 1,
     "https://www.linkedin.com/jobs/view/consultor-de-cons%c3%b3rcios-at-investflow-investimentos-4403247290": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-phoenix-south-%234752-at-grail-4405017004": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-nash-4358580604": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/software-engineer-at-institution-4407732480": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-quik-hire-staffing-4409889899": 1,
     "https://www.linkedin.com/jobs/view/trade-marketing-executive-at-toucan-craft-beer-co-4408632572": 1,
-    "https://www.linkedin.com/jobs/view/remote-marketing-execution-lead-at-the-men-s-cave-4408623644": 1
+    "https://www.linkedin.com/jobs/view/remote-marketing-execution-lead-at-the-men-s-cave-4408623644": 1,
+    "https://www.linkedin.com/jobs/view/consulente-a-tempo-parziale-at-gabriele-consulente-4407745421": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410013158": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410019076": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410011245": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410016087": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410009503": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410014106": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-ultima-markets-4410009460": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4407741496": 1,
+    "https://www.linkedin.com/jobs/view/e-marketing-executive-at-brand-promotion-specialist12-4408632387": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-for-dtc-company-us-based-remote-at-paired-4407735358": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-04",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
