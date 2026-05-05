@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-klent-pharmacs-private-limited-4405360777": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-valorant-esports-at-rosewood-creative-4405700490": 1,
-    "https://www.linkedin.com/jobs/view/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-at-confidential-job-4405302609": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-%40-clay-enterprise-partner-remote-at-peakora-4403761863": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revops-architect-at-kloudgin-inc-4406687434": 1,
-    "https://www.linkedin.com/jobs/view/revops-engineer-at-tali-ai-4406685504": 1,
-    "https://www.linkedin.com/jobs/view/gtm-revops-engineer-at-liatrio-4397502184": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-east-coast-at-ovise-4405332963": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-addi-4404119027": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-oceans-talent-4406154956": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403763834": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/cvd-operator-4408168618": 1,
     "https://www.linkedin.com/jobs/view/growth-expert-m-w-d-remote-at-zimmer-consulting-ehem-social-selling-4403629760": 1,
     "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1,
-    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-dispel-4410722846": 1
+    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-dispel-4410722846": 1,
+    "https://www.linkedin.com/jobs/view/ai-driven-full-stack-developer-growth-operator-client-facing-at-excellorix-4409331998": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategic-consultant-%e2%80%93-pharma-flavours-middle-east-africa-at-palomba-general-trading-4408425988": 1,
+    "https://www.linkedin.com/jobs/view/head-of-market-development-agent-builder-ecosystem-at-fairplay-ai-4410255150": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-techshack-4410744442": 1,
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410206655": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-headlight-4410721717": 1,
+    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4408699348": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4409377295": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
