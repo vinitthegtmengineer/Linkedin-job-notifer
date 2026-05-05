@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-fintech-consultant-%e2%80%94-institutional-fx-cfd-brokerage-buildout-at-abra-capital-management-4405742653": 1,
-    "https://www.linkedin.com/jobs/view/renewal-account-manager-at-domaintools-4406640584": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-dallas-tx-at-netrix-global-4406662909": 1,
-    "https://www.linkedin.com/jobs/view/ai-growth-marketing-lead-at-diagrid-4405711112": 1,
-    "https://www.linkedin.com/jobs/view/regional-growth-lead-thailand-at-talkpush-4405358915": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-at-jonas-software-4378369484": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-cro-at-swooped-4406630119": 1,
-    "https://www.linkedin.com/jobs/view/director-solutions-consulting-at-figma-4383991849": 1,
-    "https://www.linkedin.com/jobs/view/head-of-programmatic-sales-at-life360-4395725246": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-practice-better-4406824293": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4404171450": 1,
-    "https://www.linkedin.com/jobs/view/consultor-conpensacion-at-grupo-baxtech-4404165739": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91dx%e4%b8%8a%e5%b8%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%a2%e3%83%b3%e3%83%89%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%81%ab%e5%87%ba%e5%90%91%ef%bc%89-at-%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%89%e3%82%a2%e3%82%a6%e3%83%88%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4405381196": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848964": 1,
     "https://www.linkedin.com/jobs/view/senior-esia-consultant-at-slr-consulting-4257013497": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406691202": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-up-to-%c2%a365-000-at-blu-digital-4405142004": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-propel-4410583866": 1,
     "https://www.linkedin.com/jobs/view/senior-b2c-campaigns-manager-at-stopgap-marketing-digital-creative-recruitment-4408425915": 1,
-    "https://www.linkedin.com/jobs/view/global-campaigns-senior-strategist-at-ifs-4410554356": 1
+    "https://www.linkedin.com/jobs/view/global-campaigns-senior-strategist-at-ifs-4410554356": 1,
+    "https://www.linkedin.com/jobs/view/social-media-operator-at-meshionai-4409721415": 1,
+    "https://www.linkedin.com/jobs/view/oper%c3%a1tor-call-centra-slovak-language-remote-4408171641": 1,
+    "https://www.linkedin.com/jobs/view/new-product-development-supervisor-%e2%80%93-formulated-products-at-american-art-clay-company-4410747215": 1,
+    "https://www.linkedin.com/jobs/view/upper-school-middle-school-ceramics-teacher-at-parish-episcopal-school-4410706390": 1,
+    "https://www.linkedin.com/jobs/view/tile-glaze-line-technician-a-shift-at-dal-tile-llc-4410789857": 1,
+    "https://www.linkedin.com/jobs/view/technician-color-laboratory-at-cemex-us-4408124330": 1,
+    "https://www.linkedin.com/jobs/view/kiln-operator-entrance-of-gloss-at-dal-tile-llc-4410790814": 1,
+    "https://www.linkedin.com/jobs/view/assistant-teaching-professor-of-art-ceramics-one-year-contract-at-penn-state-university-4408448099": 1,
+    "https://www.linkedin.com/jobs/view/regional-concrete-mix-design-specialist-at-lithko-contracting-4408147225": 1,
+    "https://www.linkedin.com/jobs/view/teacher-of-art-and-design-with-ceramics-at-independent-schools-association-isa-4408935929": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-specialist-at-martin-marietta-4401394980": 1,
+    "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4408422773": 1,
+    "https://www.linkedin.com/jobs/view/rcm-lead-at-origin-therapy-4408384676": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
