@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406178102": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406174510": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406169701": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406172621": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-adolf-solutions-private-limited-4404109426": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-savanty-4405385302": 1,
-    "https://www.linkedin.com/jobs/view/staff-offensive-security-operator-eng-at-ukg-4404103746": 1,
-    "https://www.linkedin.com/jobs/view/senior-event-marketing-manager-at-lucky-strike-entertainment-4405381643": 1,
-    "https://www.linkedin.com/jobs/view/abm-revenue-operations-associate-at-talent-global-llc-4405701003": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406668507": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406662410": 1,
     "https://www.linkedin.com/jobs/view/executive-director-e-commerce-partnerships-at-forbes-4404105553": 1,
     "https://www.linkedin.com/jobs/view/digital-growth-operator-at-ahmad-abdulla-ahli-advocates-and-legal-consultants-4404118162": 1,
     "https://www.linkedin.com/jobs/view/abm-b2b-marketing-specialist-at-talent-global-llc-4405701003": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/head-of-market-development-at-fairplay-ai-4410255150": 1,
     "https://www.linkedin.com/jobs/view/crm-lifecycle-marketing-manager-at-finn-4401752192": 1,
     "https://www.linkedin.com/jobs/view/growth-strategy-lead-at-hatch-4399663284": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-remote-at-professional-physical-therapy-4410094528": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-remote-at-professional-physical-therapy-4410094528": 1,
+    "https://www.linkedin.com/jobs/view/social-media-operator-ai-assisted-influencer-at-meshionai-4409358507": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-full-stack-vibe-coding-%2b-ia-latam-at-asesoria-informatica-torrelavega-4408426502": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-quik-hire-staffing-4410576104": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4410708699": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-only-w2-at-nasscomm-4409353755": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-hire-feed-4410706954": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-square-4399575256": 1,
+    "https://www.linkedin.com/jobs/view/dynamics-365-engineer-at-georgiatek-systems-inc-4408410971": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-a-de-ia-generative-ai-agentic-systems-at-dimensa-tecnologia-4408112157": 1,
+    "https://www.linkedin.com/jobs/view/workplace-engineer-at-rumos-4406706418": 1,
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4410701792": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
