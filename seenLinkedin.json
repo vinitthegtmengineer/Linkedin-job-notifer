@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
-    "https://www.linkedin.com/jobs/view/builder-architect-engineer-expert-consultant-part-time-contractor-at-brain-co-4397393968": 1,
-    "https://www.linkedin.com/jobs/view/operations-marketing-executive-assistant-at-cherry-assistant-4393882183": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4405750484": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-senior-excellence-op%c3%a9rationnelle-at-julhiet-sterwen-4074851216": 1,
-    "https://www.linkedin.com/jobs/view/murex-consultant-at-sni-4404816429": 1,
-    "https://www.linkedin.com/jobs/view/onboarding-consultant-india-remote-at-turnitin-4397195460": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406854635": 1,
     "https://www.linkedin.com/jobs/view/senior-fintech-consultant-%e2%80%94-institutional-fx-cfd-brokerage-buildout-at-abra-capital-management-4405742653": 1,
     "https://www.linkedin.com/jobs/view/renewal-account-manager-at-domaintools-4406640584": 1,
     "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-dallas-tx-at-netrix-global-4406662909": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/precast-concrete-wall-and-custom-form-specialist-at-spoerr-precast-structures-4410583726": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-paired-4408448916": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-paired-4408454822": 1,
-    "https://www.linkedin.com/jobs/view/vc-associate-marketing-operations-at-lvlup-ventures-4410790312": 1
+    "https://www.linkedin.com/jobs/view/vc-associate-marketing-operations-at-lvlup-ventures-4410790312": 1,
+    "https://www.linkedin.com/jobs/view/fractional-cfo-construction-developers-builders-trades-retired-semi-retired-only-at-main-cfo-4409705647": 1,
+    "https://www.linkedin.com/jobs/view/media-campaign-lead-london-at-justwatch-4408194831": 1,
+    "https://www.linkedin.com/jobs/view/global-campaigns-senior-specialist-at-ifs-4410557363": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-quantexa-4401719912": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-up-to-%c2%a365-000-at-blu-digital-4405142004": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-propel-4410583866": 1,
+    "https://www.linkedin.com/jobs/view/senior-b2c-campaigns-manager-at-stopgap-marketing-digital-creative-recruitment-4408425915": 1,
+    "https://www.linkedin.com/jobs/view/global-campaigns-senior-strategist-at-ifs-4410554356": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
