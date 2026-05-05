@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406691202": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4406846765": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406801199": 1,
-    "https://www.linkedin.com/jobs/view/b2b-marketing-manager-remote-at-the-vibe-cmo-4403760641": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406696220": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-insideout-4403755529": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4406854676": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-digital-content-at-club-de-finanzas-negocios-upc-4404172617": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4408422773": 1,
     "https://www.linkedin.com/jobs/view/rcm-lead-at-origin-therapy-4408384676": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4409705881": 1,
-    "https://www.linkedin.com/jobs/view/cegid-ams-consultant-korean-speaker-at-viseo-asia-4408984758": 1
+    "https://www.linkedin.com/jobs/view/cegid-ams-consultant-korean-speaker-at-viseo-asia-4408984758": 1,
+    "https://www.linkedin.com/jobs/view/consultant-mhv-training-curriculum-performance-framework-at-vacancies-at-iom-indonesia-4410546510": 1,
+    "https://www.linkedin.com/jobs/view/sessional-lecturer-pottery-at-carshalton-college-4409726629": 1,
+    "https://www.linkedin.com/jobs/view/full-time-mason-at-affiliated-management-inc-4410712918": 1,
+    "https://www.linkedin.com/jobs/view/ausbildung-zum-industriekeramiker-m-w-d-f%c3%bcr-anlagentechnik-at-steuler-linings-4410780531": 1,
+    "https://www.linkedin.com/jobs/view/shingles-at-clayton-4410735714": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
