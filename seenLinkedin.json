@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403766381": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403771022": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403765717": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sps-commerce-4405055998": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4405380319": 1,
-    "https://www.linkedin.com/jobs/view/fractional-go-to-market-gtm-consultant-at-revive-4406166079": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-leader-revenue-enablement-at-schoolai-4406157179": 1,
     "https://www.linkedin.com/jobs/view/gtm-revenue-strategy-senior-manager-at-jobgether-4405084311": 1,
     "https://www.linkedin.com/jobs/view/gtm-at-interface-4403144306": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/consultor-logix-at-dwc-consult-4408442264": 1,
     "https://www.linkedin.com/jobs/view/territory-builder-cairo-at-dose-4408440257": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-niksoft-systems-corporation-4410748363": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-gobi-technologies-inc-4410753157": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-gobi-technologies-inc-4410753157": 1,
+    "https://www.linkedin.com/jobs/view/freelance-evc-portfoliobegeleider-en-assessor-mbo-operator-a-b-c-at-evc-nederland-4408178379": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-developer-at-futran-solutions-4410753310": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-amaze-manors-4408987126": 1,
+    "https://www.linkedin.com/jobs/view/country-marketing-manager-at-duolingo-4401090684": 1,
+    "https://www.linkedin.com/jobs/view/senior-field-marketing-and-events-manager-at-lime-4408975647": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-base44-at-base44-4410219390": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
