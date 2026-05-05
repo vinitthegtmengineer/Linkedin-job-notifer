@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4405318671": 1,
-    "https://www.linkedin.com/jobs/view/oracle-visual-builder-cloud-service-vbcs-with-redwood-at-hiresquad-resources-4403745143": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-unm-4406384936": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-at-sentilink-4406398653": 1,
-    "https://www.linkedin.com/jobs/view/revenue-enablement-director-at-jobgether-4405326614": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4405338652": 1,
-    "https://www.linkedin.com/jobs/view/partner-growth-manager-at-spreedly-4384368825": 1,
     "https://www.linkedin.com/jobs/view/partner-senior-solutions-engineer-emea-uk-remote-at-boomi-4403763173": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-motorist-4405358197": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4372855659": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-novocy-4410535289": 1,
     "https://www.linkedin.com/jobs/view/cegid-ams-consultant-thai-speaker-at-viseo-asia-4409303073": 1,
     "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4408177598": 1,
-    "https://www.linkedin.com/jobs/view/working-student-ai-workflow-builder-at-hawk-4410545954": 1
+    "https://www.linkedin.com/jobs/view/working-student-ai-workflow-builder-at-hawk-4410545954": 1,
+    "https://www.linkedin.com/jobs/view/brr%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e4%bb%a5%e4%b8%8a%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bebit%ef%bc%86company-4340759770": 1,
+    "https://www.linkedin.com/jobs/view/l3-%e2%80%93-senior-iceberg-dba-lakehouse-operations-engineer-at-jobs-via-dice-4408918068": 1,
+    "https://www.linkedin.com/jobs/view/swarmbench-task-engineer-%e2%80%94-planning-operations-at-people-prime-worldwide-4408977237": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-lumicity-4408934531": 1,
+    "https://www.linkedin.com/jobs/view/vmware-operations-engineer-at-talent-4408923615": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-analytics-and-operations-intelligence-at-crisis-text-line-4408117954": 1,
+    "https://www.linkedin.com/jobs/view/freelancing-swarmbench-task-engineer-%e2%80%94-planning-operations-%248-%2410-per-hour-remote-immediate-joiner-at-pgc-digital-america-inc-cmmi-level-3-company-4410507513": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
