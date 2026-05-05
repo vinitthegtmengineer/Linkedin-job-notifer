@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/executive-director-e-commerce-partnerships-at-forbes-4404105553": 1,
-    "https://www.linkedin.com/jobs/view/digital-growth-operator-at-ahmad-abdulla-ahli-advocates-and-legal-consultants-4404118162": 1,
-    "https://www.linkedin.com/jobs/view/abm-b2b-marketing-specialist-at-talent-global-llc-4405701003": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406679537": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406683496": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406682308": 1,
-    "https://www.linkedin.com/jobs/view/consultor-wm-grow-at-perceptio-s-a-s-4405066539": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4404104139": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-central-illinois-iowa-%234757-at-grail-4403767563": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406688062": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/dynamics-365-engineer-at-georgiatek-systems-inc-4408410971": 1,
     "https://www.linkedin.com/jobs/view/engenheiro-a-de-ia-generative-ai-agentic-systems-at-dimensa-tecnologia-4408112157": 1,
     "https://www.linkedin.com/jobs/view/workplace-engineer-at-rumos-4406706418": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4410701792": 1
+    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4410701792": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-builder-at-babylist-4409372528": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-builder-at-babylist-4409361708": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389558031": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389541818": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389540802": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-ops-engineer-%e2%80%93-machine-learning-5866-1-at-boattech-4409380302": 1,
+    "https://www.linkedin.com/jobs/view/social-media-coordinator-at-ssi-people-4408195965": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
