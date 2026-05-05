@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848964": 1,
-    "https://www.linkedin.com/jobs/view/senior-esia-consultant-at-slr-consulting-4257013497": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406691202": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4406846765": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-dataannotation-4406801199": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/teacher-of-art-and-design-with-ceramics-at-independent-schools-association-isa-4408935929": 1,
     "https://www.linkedin.com/jobs/view/quality-control-specialist-at-martin-marietta-4401394980": 1,
     "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4408422773": 1,
-    "https://www.linkedin.com/jobs/view/rcm-lead-at-origin-therapy-4408384676": 1
+    "https://www.linkedin.com/jobs/view/rcm-lead-at-origin-therapy-4408384676": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4409705881": 1,
+    "https://www.linkedin.com/jobs/view/cegid-ams-consultant-korean-speaker-at-viseo-asia-4408984758": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
