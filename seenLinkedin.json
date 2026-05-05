@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403738049": 1,
-    "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403742792": 1,
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403724616": 1,
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403721627": 1,
     "https://www.linkedin.com/jobs/view/conveyancing-consultant-solicitor-lawyer-opportunities-at-taylor-rose-4403737425": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-milyux-4409399596": 1,
     "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4410754373": 1,
     "https://www.linkedin.com/jobs/view/chief-of-staff-at-tebra-4401514660": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-whisker-labs-4410505976": 1
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-whisker-labs-4410505976": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-people-partner-4408449664": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-manager-at-two-ten-footwear-foundation-4410761059": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
