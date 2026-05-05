@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-digital-waffle-4405326581": 1,
     "https://www.linkedin.com/jobs/view/email-automation-specialist-at-digital-waffle-4405318671": 1,
     "https://www.linkedin.com/jobs/view/oracle-visual-builder-cloud-service-vbcs-with-redwood-at-hiresquad-resources-4403745143": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-unm-4406384936": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/campaign-fulfillment-executive-at-katha-sharing-stories-scaling-impact-4408991125": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-novocy-4410535289": 1,
     "https://www.linkedin.com/jobs/view/cegid-ams-consultant-thai-speaker-at-viseo-asia-4409303073": 1,
-    "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4408177598": 1
+    "https://www.linkedin.com/jobs/view/vibe-coding-talent-ai-native-product-builder-m-w-d-at-markus-coenen-wirkung-im-yes-modus-4408177598": 1,
+    "https://www.linkedin.com/jobs/view/working-student-ai-workflow-builder-at-hawk-4410545954": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
