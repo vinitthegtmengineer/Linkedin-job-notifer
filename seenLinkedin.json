@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/partner-senior-solutions-engineer-emea-uk-remote-at-boomi-4403763173": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-motorist-4405358197": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4372855659": 1,
-    "https://www.linkedin.com/jobs/view/assistant-manager-marketing-at-the-ritz-carlton-hotel-company-l-l-c-4395718823": 1,
-    "https://www.linkedin.com/jobs/view/uuv-technician-operator-mid-at-booz-allen-hamilton-4405866184": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineering-operator-%e2%80%94-deployment-infrastructure-at-okren-at-okren-4406156458": 1,
-    "https://www.linkedin.com/jobs/view/value-builder-at-exelab-4403752332": 1,
-    "https://www.linkedin.com/jobs/view/lubrication-engineer-at-jax-inc-4403759560": 1,
-    "https://www.linkedin.com/jobs/view/marketing-data-analytics-executive-at-mywork-4406157862": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-campaigns-manager-at-jobgether-4405353088": 1,
     "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406616821": 1,
     "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1,
     "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406622353": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/process-engineer-at-lumicity-4408934531": 1,
     "https://www.linkedin.com/jobs/view/vmware-operations-engineer-at-talent-4408923615": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-analytics-and-operations-intelligence-at-crisis-text-line-4408117954": 1,
-    "https://www.linkedin.com/jobs/view/freelancing-swarmbench-task-engineer-%e2%80%94-planning-operations-%248-%2410-per-hour-remote-immediate-joiner-at-pgc-digital-america-inc-cmmi-level-3-company-4410507513": 1
+    "https://www.linkedin.com/jobs/view/freelancing-swarmbench-task-engineer-%e2%80%94-planning-operations-%248-%2410-per-hour-remote-immediate-joiner-at-pgc-digital-america-inc-cmmi-level-3-company-4410507513": 1,
+    "https://www.linkedin.com/jobs/view/flexcube-consultant-at-ixceed-solutions-4410557752": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-react-native-trabalho-remoto-at-bairesdev-4408668924": 1,
+    "https://www.linkedin.com/jobs/view/sr-substation-engineer-at-jobgether-4408661616": 1,
+    "https://www.linkedin.com/jobs/view/sr-splunk-engineer-remote-usa-at-optiv-4410203366": 1,
+    "https://www.linkedin.com/jobs/view/genai-engineer-at-zenitech-4410569132": 1,
+    "https://www.linkedin.com/jobs/view/ingeniero-salesforce-trabajo-remoto-at-bairesdev-4408906213": 1,
+    "https://www.linkedin.com/jobs/view/golang-engineer-at-carecone-group-4410543291": 1,
+    "https://www.linkedin.com/jobs/view/sr-streaming-engineer-at-ness-digital-engineering-4408916975": 1,
+    "https://www.linkedin.com/jobs/view/semi-senior-chargebee-engineer-remote-work-at-bairesdev-4408692476": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-parentpay-group-4386925314": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
