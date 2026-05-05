@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406841416": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406835449": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406854292": 1,
-    "https://www.linkedin.com/jobs/view/funding-consultant-at-integrity-first-funding-4404151875": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406835450": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406848360": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-commercialization-at-toast-4397339171": 1,
-    "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4403792558": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e7%a5%9e%e4%bf%9d%e7%94%ba%e3%80%91cs-%e5%8f%8e%e7%9b%8a%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e2%97%86%e3%80%8c%e4%be%a1%e6%a0%bc%e3%80%8d%e3%81%a7%e7%b5%8c%e5%96%b6%e3%82%92%e5%bc%b7%e3%81%8f%ef%bd%9e%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%e3%81%ae%e5%8f%8e%e7%9b%8a%e6%9c%80%e5%a4%a7%e5%8c%96%e3%81%ab%e4%bc%b4%e8%b5%b0%e2%97%86%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4405493916": 1,
-    "https://www.linkedin.com/jobs/view/consultant-solicitor-at-taylor-rose-4403742813": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-ai-full-stack-builder-internship-at-riyada-wealth-4404105650": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406856497": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406855412": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406845668": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sr-marketing-operations-manager-at-appfolio-4408918799": 1,
     "https://www.linkedin.com/jobs/view/project-manager-content-manager-at-jobgether-4408991094": 1,
     "https://www.linkedin.com/jobs/view/marketing-associate-web3-social-media-at-hyphen-connect-4389543752": 1,
-    "https://www.linkedin.com/jobs/view/director-of-customer-experience-at-swooped-4410717485": 1
+    "https://www.linkedin.com/jobs/view/director-of-customer-experience-at-swooped-4410717485": 1,
+    "https://www.linkedin.com/jobs/view/dredge-operator-at-covia-4408958101": 1,
+    "https://www.linkedin.com/jobs/view/quarry-plant-operator-at-rogers-group-inc-4408421776": 1,
+    "https://www.linkedin.com/jobs/view/quarry-worker-at-crh-4410723554": 1,
+    "https://www.linkedin.com/jobs/view/quarry-worker-at-crh-4410720867": 1,
+    "https://www.linkedin.com/jobs/view/operator-journeyman-at-cemex-us-4388076327": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-4284-at-capitol-aggregates-inc-4388965611": 1,
+    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-vulcan-materials-company-4408953953": 1,
+    "https://www.linkedin.com/jobs/view/process-attendant-kiln-at-quikrete-4410722729": 1,
+    "https://www.linkedin.com/jobs/view/operator-dirt-finish-at-cajun-industries-llc-4410220394": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-night-shift-garwood-quarry-at-martin-marietta-4410250398": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-oneday-4409707270": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-zero-prostate-cancer-4408449589": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
