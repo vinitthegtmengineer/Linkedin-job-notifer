@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406855412": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406845668": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1,
-    "https://www.linkedin.com/jobs/view/turbine-operator-abilene-tx-at-oracle-4373734293": 1,
-    "https://www.linkedin.com/jobs/view/sr-golang-engineer-100%25-remote-at-conexess-group-4320734663": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-rjdx-silver-4405755016": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
     "https://www.linkedin.com/jobs/view/builder-architect-engineer-expert-consultant-part-time-contractor-at-brain-co-4397393968": 1,
     "https://www.linkedin.com/jobs/view/operations-marketing-executive-assistant-at-cherry-assistant-4393882183": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/operator-dirt-finish-at-cajun-industries-llc-4410220394": 1,
     "https://www.linkedin.com/jobs/view/plant-operator-night-shift-garwood-quarry-at-martin-marietta-4410250398": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-oneday-4409707270": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-zero-prostate-cancer-4408449589": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-zero-prostate-cancer-4408449589": 1,
+    "https://www.linkedin.com/jobs/view/dailies-operator-temporary-at-company-3-4409707314": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-junior-at-aubay-spain-4408120493": 1,
+    "https://www.linkedin.com/jobs/view/reeves-asphalt-plant-groundman-columbia-sc-at-reeves-construction-company-4408440929": 1,
+    "https://www.linkedin.com/jobs/view/precast-concrete-wall-and-custom-form-specialist-at-spoerr-precast-structures-4410583726": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-paired-4408448916": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-paired-4408454822": 1,
+    "https://www.linkedin.com/jobs/view/vc-associate-marketing-operations-at-lvlup-ventures-4410790312": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
