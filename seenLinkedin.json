@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/crm-operator-specialist-at-ayn-rand-institute-ari-4403741659": 1,
-    "https://www.linkedin.com/jobs/view/ai-automation-engineer-operator-at-uplers-4406183455": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-growth-manager-at-maven-clinic-4403783374": 1,
     "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403785370": 1,
     "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403774542": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-gotyme-bank-4406169641": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/software-operations-engineer-at-remotehunter-4409349016": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-warehouse-automation-at-cencora-4408164865": 1,
     "https://www.linkedin.com/jobs/view/director-sales-enablement-at-the-woodmansee-group-4410560851": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sinkor-rac-sinkor-4410579024": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sinkor-rac-sinkor-4410579024": 1,
+    "https://www.linkedin.com/jobs/view/mobile-reactive-builder-multi-trader-at-design-management-contractors-4410590374": 1,
+    "https://www.linkedin.com/jobs/view/founding-ai-ops-engineer-aiops-%2b-devops-%2b-cloudops-at-insiteverse-4409348449": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-wfg-at-transamerica-4400022953": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
