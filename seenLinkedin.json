@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-addi-4404119027": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-oceans-talent-4406154956": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403763834": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-and-gtm-engineer-at-omnibound-ai-4402445902": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403766381": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403771022": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-eu-remote-at-unframe-4403765717": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410206655": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-headlight-4410721717": 1,
     "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4408699348": 1,
-    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4409377295": 1
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4409377295": 1,
+    "https://www.linkedin.com/jobs/view/consultor-logix-at-dwc-consult-4408442264": 1,
+    "https://www.linkedin.com/jobs/view/territory-builder-cairo-at-dose-4408440257": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-niksoft-systems-corporation-4410748363": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-gobi-technologies-inc-4410753157": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
