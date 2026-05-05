@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406616821": 1,
-    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405347503": 1,
-    "https://www.linkedin.com/jobs/view/contract-social-media-manager-at-talkdesk-4406622353": 1,
-    "https://www.linkedin.com/jobs/view/brand-specialist-remote-at-crossing-hurdles-4405343534": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-at-max-scott-property-4398360589": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-xsolla-4397166497": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4403770040": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-optitrack-4403755876": 1,
-    "https://www.linkedin.com/jobs/view/manager-demand-planning-at-comfrt-4403751280": 1,
-    "https://www.linkedin.com/jobs/view/senior-b2b-affiliate-partnerships-manager-consultant-at-right-side-up-4405346474": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%c2%a360k-%c2%a366k-%2b-2-5%25-equity-at-konduit-at-jack-jill-4406641741": 1,
     "https://www.linkedin.com/jobs/view/lead-on-chain-defi-operator-at-end-labs-4405363353": 1,
     "https://www.linkedin.com/jobs/view/crm-operator-specialist-at-ayn-rand-institute-ari-4403741659": 1,
     "https://www.linkedin.com/jobs/view/ai-automation-engineer-operator-at-uplers-4406183455": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/golang-engineer-at-carecone-group-4410543291": 1,
     "https://www.linkedin.com/jobs/view/sr-streaming-engineer-at-ness-digital-engineering-4408916975": 1,
     "https://www.linkedin.com/jobs/view/semi-senior-chargebee-engineer-remote-work-at-bairesdev-4408692476": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-parentpay-group-4386925314": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-parentpay-group-4386925314": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-at-black-mast-marketing-4410517213": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-piper-maddox-4408928914": 1,
+    "https://www.linkedin.com/jobs/view/manufacturing-production-system-engineer-at-swarm-aero-4400013890": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-daniels-health-4369959043": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-i-business-intelligence-at-melaleuca-the-wellness-company-4410505381": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-mercor-4408956582": 1,
+    "https://www.linkedin.com/jobs/view/ai-full-stack-engineer-at-teamified-4410556683": 1,
+    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4408993844": 1,
+    "https://www.linkedin.com/jobs/view/software-operations-engineer-at-remotehunter-4409349016": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-warehouse-automation-at-cencora-4408164865": 1,
+    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-the-woodmansee-group-4410560851": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
