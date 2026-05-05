@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/in-market-consultant-aluminum-foil-flexible-packaging-at-headhuntagency-4405099801": 1,
-    "https://www.linkedin.com/jobs/view/ciam-consultant-at-strativ-group-4406187117": 1,
-    "https://www.linkedin.com/jobs/view/staff-software-engineer-builder-tools-at-ladders-4403736037": 1,
-    "https://www.linkedin.com/jobs/view/marketing-brand-executive-wfh-full-time-at-perfect-7-malaysia-singapore-4405098909": 1,
-    "https://www.linkedin.com/jobs/view/freelance-social-media-community-manager-at-toloka-4406159817": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-and-strategy-lead-at-render-4396839630": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4405306876": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406184780": 1,
     "https://www.linkedin.com/jobs/view/full-stack-builder-at-highlevel-4382799571": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4406171001": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-manager-at-mindbody-4403235730": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4408967751": 1,
     "https://www.linkedin.com/jobs/view/bond-consultant-at-nexa-bonds-4408113977": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410216066": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-curemate-4408145972": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-curemate-4408145972": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4403722115": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-redwood-software-4401478370": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410220008": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-betwixt-4408970965": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2unity%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%9c%89%e5%90%8dip%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e9%96%8b%e7%99%ba%e3%81%82%e3%82%8a%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bejoro-4410210579": 1,
+    "https://www.linkedin.com/jobs/view/defi-engineer-at-mysten-labs-4410293509": 1,
+    "https://www.linkedin.com/jobs/view/defi-engineer-at-mysten-labs-4410502051": 1,
+    "https://www.linkedin.com/jobs/view/sales-digital-marketing-executive-part-time-au-at-staff-x-outsourcing-and-offshoring-4410283231": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-05",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
