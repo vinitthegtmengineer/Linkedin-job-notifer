@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-apt-aura-4407106281": 1,
-    "https://www.linkedin.com/jobs/view/senior-acquisition-marketing-executive-affiliates-at-duelbits-4407120274": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-instagram-tiktok-at-thrivin-4407123224": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-tennisshop-ae-4404627178": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4406894456": 1,
-    "https://www.linkedin.com/jobs/view/claude-code-operator-at-tapetide-4405913523": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-%e2%80%93-celonis-at-lara-tech-consulting-4367216676": 1,
-    "https://www.linkedin.com/jobs/view/field-service-engineer-ups-at-vertiv-4385544220": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-love-your-freedom-4405904743": 1,
     "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4405924114": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406844549": 1,
     "https://www.linkedin.com/jobs/view/senior-acquisition-marketing-executive-streamers-creators-at-duelbits-4407127247": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-community-engagement-manager-at-cymbathera-4409953191": 1,
     "https://www.linkedin.com/jobs/view/national-account-manager-albertsons-at-hint-inc-4410913535": 1,
     "https://www.linkedin.com/jobs/view/brand-marketing-manager-e-commerce-dtc-at-impulso-media-4408857661": 1,
-    "https://www.linkedin.com/jobs/view/director-of-maketing-at-reverselogix-4411210277": 1
+    "https://www.linkedin.com/jobs/view/director-of-maketing-at-reverselogix-4411210277": 1,
+    "https://www.linkedin.com/jobs/view/national-account-manager-albertsons-at-hint-inc-4410900897": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-crm-strategist-at-optimized-marketing-4411257709": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-ema-4399487190": 1,
+    "https://www.linkedin.com/jobs/view/snr-social-media-manager-remote-at-knowbe4-4409976773": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-digital-waffle-4409934649": 1,
+    "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4399779664": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-evolve-ip-4410983684": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-58025444157-at-somewhere-4402166595": 1,
+    "https://www.linkedin.com/jobs/view/marketing-paid-consultant-campaign-execution-launch-at-linkedin-4409200931": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
