@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406876007": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406838470": 1,
-    "https://www.linkedin.com/jobs/view/sdlc-engineer-ai-trainer-at-dataannotation-4397408202": 1,
-    "https://www.linkedin.com/jobs/view/rag-engineer-at-joveo-ai-4406840733": 1,
-    "https://www.linkedin.com/jobs/view/react-engineer-ai-trainer-at-dataannotation-4397403454": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406865156": 1,
-    "https://www.linkedin.com/jobs/view/mlops-engineer-remote-at-joveo-ai-4406861354": 1,
-    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-joveo-ai-4406842642": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-applied-field-engineering-ai-ml-product-specialist-at-snowflake-4406692360": 1,
     "https://www.linkedin.com/jobs/view/sdlc-engineer-ai-trainer-at-dataannotation-4397398650": 1,
     "https://www.linkedin.com/jobs/view/personal-branding-and-social-media-manager-at-john-stapleton-4406839932": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/partner-director-aws-alliances-at-openai-4387088706": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-whatnot-4399698360": 1,
     "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4408817395": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4408817395": 1,
+    "https://www.linkedin.com/jobs/view/omnissa-workspace-one-consultant-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4408868153": 1,
+    "https://www.linkedin.com/jobs/view/life-underwriter-consultant-at-insight-global-4409912874": 1,
+    "https://www.linkedin.com/jobs/view/lead-builder-ai-deployment-manager-at-openai-4399919570": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067295": 1,
+    "https://www.linkedin.com/jobs/view/presales-engineer-at-uneek-global-4401770665": 1,
+    "https://www.linkedin.com/jobs/view/iiot-engineer-europe-at-upraisal-people-productivity-performance-best-executive-search-firm-4408868138": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-ppc-seo-at-uk-chauffeurforce-4410711209": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-kantata-4392021259": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
