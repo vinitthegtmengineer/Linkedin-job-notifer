@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4405924114": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406844549": 1,
-    "https://www.linkedin.com/jobs/view/senior-acquisition-marketing-executive-streamers-creators-at-duelbits-4407127247": 1,
-    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4345012351": 1,
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344972734": 1,
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344813740": 1,
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4345012350": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/freelance-social-media-manager-at-twine-4399779664": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-evolve-ip-4410983684": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-58025444157-at-somewhere-4402166595": 1,
-    "https://www.linkedin.com/jobs/view/marketing-paid-consultant-campaign-execution-launch-at-linkedin-4409200931": 1
+    "https://www.linkedin.com/jobs/view/marketing-paid-consultant-campaign-execution-launch-at-linkedin-4409200931": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4410400187": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4409989842": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-planning-engineer-at-apex-clean-energy-4411275690": 1,
+    "https://www.linkedin.com/jobs/view/fbs-marketing-admin-support-at-capgemini-4409221048": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
