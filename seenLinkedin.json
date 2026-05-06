@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-b%c3%b6ckmann-martens-immobilien-gmbh-4404618447": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304459374": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-growth-marketing-at-kultho-4404601022": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-abb-4403524586": 1,
-    "https://www.linkedin.com/jobs/view/kraftwerksbau-projektingenieur-hoai-vob-planung-leistungsphasen-mwd-at-vesterling-ag-4337122062": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-marketing-strategy-at-lyra-health-4405906831": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-pgm-podcast-agency-4404610630": 1,
     "https://www.linkedin.com/jobs/view/solutions-services-sales-executive-at-lenovo-4394215776": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/founding-engineer-at-block-mb-4402916699": 1,
     "https://www.linkedin.com/jobs/view/%e6%8a%80%e8%a1%93%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-sinexcel-4398986003": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-at-twine-4399976067": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-nlb-services-4409933405": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-nlb-services-4409933405": 1,
+    "https://www.linkedin.com/jobs/view/remote-freight-broker-%e2%80%93-relationship-builder-at-vinder-logistics-4411213456": 1,
+    "https://www.linkedin.com/jobs/view/ingeniero-salesforce-at-indra-group-4408880447": 1,
+    "https://www.linkedin.com/jobs/view/member-of-engineering-agent-harness-at-poolside-4390566667": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-enterprise-marketing-at-simplepractice-4411268039": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-the-flying-felon-4409978425": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
