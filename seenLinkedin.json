@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-enginer-at-lsp-digital-teknologi-informasi-indonesia-4405751960": 1,
-    "https://www.linkedin.com/jobs/view/marketing-crm-campaign-planning-delivery-manager-at-amgen-4406828360": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-connective-web-design-4405703280": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367525349": 1,
-    "https://www.linkedin.com/jobs/view/marketing-associate-at-solace-4383531325": 1,
-    "https://www.linkedin.com/jobs/view/chat-operator-remote-%e2%80%93-huge-earning-potential-at-elance-models-4406870607": 1,
-    "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-snorkel-ai-4383169575": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-snorkel-ai-4383174732": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-founding-operator-%24100k-%24140k-%2b-equity-at-dealflowagent-com-at-jack-jill-4406875615": 1,
     "https://www.linkedin.com/jobs/view/%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e6%a1%88%e4%bb%b6%e4%b8%ad%e5%bf%83%ef%bc%8f%e4%b8%8a%e6%b5%81%e5%b7%a5%e7%a8%8b%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%89-at-ambl%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%ef%bc%88ambl-inc-%ef%bc%89-4405377305": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406852821": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406851976": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-account-manager-at-storable-4409715959": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410570130": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410701138": 1,
-    "https://www.linkedin.com/jobs/view/vp-marketing-at-chamberlain-advisors-4408449396": 1
+    "https://www.linkedin.com/jobs/view/vp-marketing-at-chamberlain-advisors-4408449396": 1,
+    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-crh-4410900224": 1,
+    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-crh-4410799278": 1,
+    "https://www.linkedin.com/jobs/view/ground-hand-at-quikrete-4410904102": 1,
+    "https://www.linkedin.com/jobs/view/cementing-bulk-plant-operator-at-tekwissen-%c2%ae-4409706568": 1,
+    "https://www.linkedin.com/jobs/view/concrete-dipper-at-precision-castparts-4410902739": 1,
+    "https://www.linkedin.com/jobs/view/operator-control-room-quarry-at-cemex-us-4408476141": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-u-s-silica-company-4408437947": 1,
+    "https://www.linkedin.com/jobs/view/revops-engineer-at-dragonfly-operating-partners-4409747305": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-digital-marketing-at-cml-media-corp-dba-mopro-4409728875": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
