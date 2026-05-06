@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385367596": 1,
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385368607": 1,
-    "https://www.linkedin.com/jobs/view/global-head-of-revenue-operations-at-ping-identity-4385594816": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-ieee-pes-unac-4406862682": 1,
-    "https://www.linkedin.com/jobs/view/consultor-genesys-at-ntt-data-europe-latam-4405705152": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-%c2%a350k-%2b-0-5%25-equity-at-meshedcover-com-at-jack-jill-4406871770": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-pine-services-group-4406877659": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-vynce-digital-4405757520": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90devops%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%e3%80%91%e6%8a%80%e8%a1%93%c3%97wlb-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e6%af%94%e7%8e%8795%25%e3%80%80%e6%ae%8b%e6%a5%ad%e6%9c%8810h%e4%bb%a5%e4%b8%8b-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e8%b1%86%e8%94%b5-4406888170": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%a5%ad%e7%95%8cno-1-m-a%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0batonz%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%90%e3%83%88%e3%83%b3%e3%82%ba-4406889160": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/hubspot-consultant-latam-at-4cast-agency-4410957937": 1,
     "https://www.linkedin.com/jobs/view/principal-product-manager-builder-at-life360-4410788495": 1,
     "https://www.linkedin.com/jobs/view/principal-product-manager-builder-at-life360-4410781609": 1,
-    "https://www.linkedin.com/jobs/view/sales-director-workforce-training-at-creatium-4410075738": 1
+    "https://www.linkedin.com/jobs/view/sales-director-workforce-training-at-creatium-4410075738": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4409751837": 1,
+    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-en-d%c3%a9samiantage-sous-section-3-at-groupe-r%c3%a9silians-4410942976": 1,
+    "https://www.linkedin.com/jobs/view/web-operations-engineer-at-simply-secure-group-4410775803": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-remote-at-geotab-4409739737": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-lithan-4409732471": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-meth-protocol-4409758296": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410555453": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
