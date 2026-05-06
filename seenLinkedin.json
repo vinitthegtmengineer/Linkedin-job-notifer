@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-applied-field-engineering-ai-ml-product-specialist-at-snowflake-4406692360": 1,
-    "https://www.linkedin.com/jobs/view/sdlc-engineer-ai-trainer-at-dataannotation-4397398650": 1,
-    "https://www.linkedin.com/jobs/view/personal-branding-and-social-media-manager-at-john-stapleton-4406839932": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-senior-risques-et-contr%c3%b4les-h-f-at-julhiet-sterwen-4062495952": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-bien-%c3%aatre-%e2%80%93-accompagnement-formation-activit%c3%a9-compl%c3%a9mentaire-at-oztavie-4406877660": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397581470": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397591147": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397591145": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397581467": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397575696": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397591148": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397577598": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gc-ai-4397581206": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-healthcare-at-trase-4406819334": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406843685": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406850591": 1,
     "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-olsson-4385395059": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/presales-engineer-at-uneek-global-4401770665": 1,
     "https://www.linkedin.com/jobs/view/iiot-engineer-europe-at-upraisal-people-productivity-performance-best-executive-search-firm-4408868138": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-ppc-seo-at-uk-chauffeurforce-4410711209": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-at-kantata-4392021259": 1
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-kantata-4392021259": 1,
+    "https://www.linkedin.com/jobs/view/consulente-patrimonio-entrata-laterale-ibrido-at-convit-international-gmbh-4409934547": 1,
+    "https://www.linkedin.com/jobs/view/consulente-patrimonio-starter-tempo-indeterminato-at-convit-international-gmbh-4409933552": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-%e2%80%93-3a-3b-tempo-indeterminato-at-convit-international-gmbh-4409946231": 1,
+    "https://www.linkedin.com/jobs/view/sales-berater-vorsorge-quereinstieg-fixum-%2b-boni-at-convit-central-gmbh-4409940391": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-entrata-laterale-ibrido-homeoffice-at-convit-international-gmbh-4409931605": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-3a-entrata-laterale-tempo-indeterminato-at-convit-international-gmbh-4409931576": 1,
+    "https://www.linkedin.com/jobs/view/consultant-finanzplanung-quereinstieg-homeoffice-m%c3%b6glich-at-convit-central-gmbh-4409940389": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-ibrido-ingresso-senza-esperienza-at-convit-international-gmbh-4409938424": 1,
+    "https://www.linkedin.com/jobs/view/consultant-vorsorge-sparen-quereinstieg-ote-bis-7-500-chf-at-convit-central-gmbh-4409935456": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402064407": 1,
+    "https://www.linkedin.com/jobs/view/servicenow-senior-developer-ui-builder-custom-app-at-ntt-data-europe-latam-4410984835": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-executive-remote-%e2%80%93-philippines-at-ucm-global-talent-4409921575": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-divi-4409926560": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
