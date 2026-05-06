@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ivalua-consultant-projektgesch%c3%a4ft-m-w-d-at-parasus-4404171616": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-vynce-digital-4405761040": 1,
-    "https://www.linkedin.com/jobs/view/consultant-e-gta-f-h-at-act-on-hris-4358595664": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406865017": 1,
-    "https://www.linkedin.com/jobs/view/operations-hubspot-specialist-executive-support-at-cherry-assistant-4393888187": 1,
-    "https://www.linkedin.com/jobs/view/consultant-experience-at-granicus-4406690776": 1,
-    "https://www.linkedin.com/jobs/view/remote-operations-engineer-at-propetro-services-inc-4404122759": 1,
     "https://www.linkedin.com/jobs/view/senior-splunk-engineer-infrastructure-operations-at-govcio-4367418617": 1,
     "https://www.linkedin.com/jobs/view/technology-and-process-engineer-at-summit-utilities-4406874996": 1,
     "https://www.linkedin.com/jobs/view/corporate-project-engineer-manufacturing-remote-at-ipg-4406847288": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/senior-consultant-managementberater-m-w-d-at-fichtner-management-consulting-4410598601": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-seo-growth-at-wazobia-technologies-custom-software-development-company-4408497972": 1,
     "https://www.linkedin.com/jobs/view/rover-operator-%e2%80%93-utilities-lng-plant-at-ener-technology-4408496308": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-ismartrecruit-4409780217": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-ismartrecruit-4409780217": 1,
+    "https://www.linkedin.com/jobs/view/treasury-operator-night-shift-new-grad-welcome-at-bitazza-4408822561": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-powertofly-4408171923": 1,
+    "https://www.linkedin.com/jobs/view/board-advisor-enterprise-gtm-revenue-at-deepgrids-4410780508": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4408829083": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-thrivin-4408812583": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
