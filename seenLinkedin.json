@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-manager-%e2%80%93-paid-media-linkedin-google-search-display-at-joveo-ai-4404159399": 1,
-    "https://www.linkedin.com/jobs/view/lead-financial-analyst-distribution-at-transamerica-4366506869": 1,
-    "https://www.linkedin.com/jobs/view/director-partner-management-europe-at-circle-4352202404": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-cyber-strategy-at-shi-international-corp-4397571931": 1,
     "https://www.linkedin.com/jobs/view/manager-sr-manager-biopharma-marketing-at-pathai-4383049759": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-m-w-d-at-realstudio-4404159220": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/gm-emea-growth-expansion-at-fundraise-up-4409948739": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-l-entry-level-usd-%2428%e2%80%93%2445-per-hour-at-quality-standards-for-information-technology-qsit-4408881364": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-the-sterling-choice-4411210129": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1
+    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402057789": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-executive-corporate-office-at-madi-international-4411219263": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-at-fispa-fiber-internet-service-providers-of-america-4400795109": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
