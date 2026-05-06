@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/manager-sr-manager-biopharma-marketing-at-pathai-4383049759": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-m-w-d-at-realstudio-4404159220": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-givecampus-4395244411": 1,
-    "https://www.linkedin.com/jobs/view/airbnb-virtual-marketing-operations-assistant-at-quind-4405906128": 1,
-    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-vsense-fintech-inc-4404600324": 1,
     "https://www.linkedin.com/jobs/view/technologyone-consultants-new-today-at-t1-4405791563": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-studio-launch-4404161210": 1,
     "https://www.linkedin.com/jobs/view/gain-performance-campaign-manager-at-gain-4405770171": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402057789": 1,
     "https://www.linkedin.com/jobs/view/brand-marketing-executive-corporate-office-at-madi-international-4411219263": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-at-fispa-fiber-internet-service-providers-of-america-4400795109": 1
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-at-fispa-fiber-internet-service-providers-of-america-4400795109": 1,
+    "https://www.linkedin.com/jobs/view/consultant-previdenza-e-risparmio-entrata-laterale-ote-fino-a-7-500-chf-at-convit-international-gmbh-4409938421": 1,
+    "https://www.linkedin.com/jobs/view/solutions-architect-model-builder-latam-at-nvidia-4401138339": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4409973162": 1,
+    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4399996398": 1,
+    "https://www.linkedin.com/jobs/view/sales-commercial-lead-at-filament-4411220062": 1,
+    "https://www.linkedin.com/jobs/view/digital-commerce-manager-at-dollar-general-4409972224": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
