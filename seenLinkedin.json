@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/corporate-project-engineer-remote-at-ipg-4406845370": 1,
-    "https://www.linkedin.com/jobs/view/mol-process-engineer-based-in-prai-at-coherent-corp-4294277874": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385324429": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-outsourcing-zaventem-at-bdo-belgium-4309393062": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407104298": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406876007": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406838470": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-tampa-fl-%234747-at-grail-4400794701": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-ann-arbor-mi-%234667-at-grail-4379118302": 1,
     "https://www.linkedin.com/jobs/view/operations-manager-engineering-team-india-at-neuvior%c2%ae-4408816916": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-lead-remote-at-geotab-4409752341": 1
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-remote-at-geotab-4409752341": 1,
+    "https://www.linkedin.com/jobs/view/crisis-hotline-operator-contract-basis-my-at-thoughtfull-4409781361": 1,
+    "https://www.linkedin.com/jobs/view/partner-director-aws-alliances-at-openai-4387088706": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-whatnot-4399698360": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-product-marketing-at-badge-4389266511": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
