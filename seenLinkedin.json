@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4406843685": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4406850591": 1,
-    "https://www.linkedin.com/jobs/view/instrumentation-and-controls-project-engineer-data-center-remote-at-olsson-4385395059": 1,
-    "https://www.linkedin.com/jobs/view/corporate-project-engineer-remote-at-ipg-4406836407": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-manager-at-attentive-4406836845": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-partnerships-lead-at-elevenlabs-4397327895": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-systems-gtm-remote-latam-at-cashea-4405717456": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-expansion-at-elevenlabs-4397346113": 1,
     "https://www.linkedin.com/jobs/view/head-of-ai-strategy-deployment-at-databook-4406817271": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/servicenow-senior-developer-ui-builder-custom-app-at-ntt-data-europe-latam-4410984835": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-executive-remote-%e2%80%93-philippines-at-ucm-global-talent-4409921575": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-divi-4409926560": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-zillow-4401153928": 1,
+    "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402067293": 1,
+    "https://www.linkedin.com/jobs/view/salesforce-agentforce-sme-ai-agents-prompt-engineering-automation-at-sky-systems-inc-skysys-4408871073": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-data-engineer-at-tryhackme-4401441306": 1,
+    "https://www.linkedin.com/jobs/view/us-sr-marketing-manager-1-year-contract-at-pointclickcare-4409947292": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-b2b-at-hyke-4408422508": 1,
+    "https://www.linkedin.com/jobs/view/director-corporate-marketing-at-teleport-4370939175": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
