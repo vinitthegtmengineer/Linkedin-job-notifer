@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404116504": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-vynce-digital-4405752657": 1,
-    "https://www.linkedin.com/jobs/view/manager-influencer-podcast-marketing-at-pendulum-therapeutics-4406695357": 1,
     "https://www.linkedin.com/jobs/view/project-enginer-at-lsp-digital-teknologi-informasi-indonesia-4405751960": 1,
     "https://www.linkedin.com/jobs/view/marketing-crm-campaign-planning-delivery-manager-at-amgen-4406828360": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-connective-web-design-4405703280": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/gtm-partnerships-enablement-lead-at-openai-4408153386": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-paid-social-at-gr0-4409396459": 1,
     "https://www.linkedin.com/jobs/view/creator-campaign-manager-at-creatorworks-4410564154": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-panorama-education-4410773857": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-panorama-education-4410773857": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-account-manager-at-storable-4409715959": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410570130": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410701138": 1,
+    "https://www.linkedin.com/jobs/view/vp-marketing-at-chamberlain-advisors-4408449396": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-06",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
