@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-talent-community-at-extrahop-4397401587": 1,
-    "https://www.linkedin.com/jobs/view/business-development-analyst-at-envita-solutions-4384896647": 1,
-    "https://www.linkedin.com/jobs/view/energy-storage-preconstruction-project-engineer-at-solv-energy-4385506359": 1,
     "https://www.linkedin.com/jobs/view/energy-storage-preconstruction-project-engineer-at-solv-energy-4385396834": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-creator-marketing-at-substack-4407121765": 1,
     "https://www.linkedin.com/jobs/view/campaign-strategist-creator-marketing-at-substack-4407127644": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-growth-executive-at-bruntwork-4408876291": 1,
     "https://www.linkedin.com/jobs/view/navigation-engineer-at-wing-4410426022": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-at-outsourced-4409235357": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4410439503": 1
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4410439503": 1,
+    "https://www.linkedin.com/jobs/view/twin-screw-operator-at-alok-masterbatches-ltd-4410449883": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405510268": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4409234518": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
