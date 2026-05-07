@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4406172735": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-supply-chain-4385894023": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-loop-4356477834": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-the-freedom-geek-4404637330": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404646129": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-emma-of-torre-ai-4403507702": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-operations-at-figma-4367521457": 1,
     "https://www.linkedin.com/jobs/view/partner-operations-manager-at-tines-4385536534": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-phoenix-south-%234752-at-biospace-4407109180": 1,
     "https://www.linkedin.com/jobs/view/agent-builder-at-bold-communications-ltd-4375856374": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-vinn-digital-media-4410436108": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411455156": 1,
-    "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4411426677": 1
+    "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4411426677": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411441711": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411451561": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411450581": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411434963": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411445610": 1,
+    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411435827": 1,
+    "https://www.linkedin.com/jobs/view/remote-marketing-executive-at-independent-consultant-4409227973": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
