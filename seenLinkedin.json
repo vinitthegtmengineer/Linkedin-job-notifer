@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-social-marketing-executive-at-duelbits-4407127269": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-field-marketing-at-cj-foodville-usa-4405900895": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407121381": 1,
-    "https://www.linkedin.com/jobs/view/data-center-operations-process-engineer-at-oracle-4383166854": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4383156607": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-ready-talent-4405924152": 1,
-    "https://www.linkedin.com/jobs/view/consulente-utenze-4407113480": 1,
-    "https://www.linkedin.com/jobs/view/consulting-director-%e2%80%93-innosight-healthcare-provider-strategy-innovation-nationwide-at-huron-4347615988": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407117457": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407111502": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407119435": 1,
     "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407126341": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/campaign-manager-beauty-fashion-brands-freelance-at-kyra-4398501629": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-campaign-manager-at-customersai-4407932860": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-operations-planning-12-month-contract-at-jobgether-4409779268": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-level-access-4380101284": 1
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-level-access-4380101284": 1,
+    "https://www.linkedin.com/jobs/view/gtm-launch-operator-at-versai-labs-4409922773": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-annapurna-4408858963": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-de-opera%c3%a7%c3%b5es-remota-at-capco-4411210974": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-engineer-ai-automation-at-commandlink-4410981370": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-openloop-4410415060": 1,
+    "https://www.linkedin.com/jobs/view/marketplace-executive-at-no-fluff-4408810103": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-edit-media-group-4410409212": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-edit-media-group-4410402314": 1,
+    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-worldstrides-4402024091": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-05-06",
-    "cyclesToday": 32,
+    "date": "2026-05-07",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
