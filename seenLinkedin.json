@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-colibri-group-4385854154": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-remote-at-joveo-ai-4407108990": 1,
-    "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385882703": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-revenue-operations-at-novusminds-ai-4405938114": 1,
-    "https://www.linkedin.com/jobs/view/director-of-market-strategy-at-kaizen-executive-search-inc-4405795293": 1,
-    "https://www.linkedin.com/jobs/view/abm-demand-generation-manager-at-flock-4375855172": 1,
-    "https://www.linkedin.com/jobs/view/content-manager-team-lead-%e2%80%93-e-commerce-marketing-agency-at-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b3%d9%87%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d9%84%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-4404648424": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404641607": 1,
     "https://www.linkedin.com/jobs/view/executive-operations-partner-philippines-remote-at-growthassistant-4407138140": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rendco-rendering-ltd-4405919891": 1,
     "https://www.linkedin.com/jobs/view/vice-president-global-marketing-at-smarty-invest-4407148328": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-carepolicy-us-4410496670": 1,
     "https://www.linkedin.com/jobs/view/remote-ecommerce-email-marketing-crm-retention-manager-at-sterling-forever-4409278819": 1,
     "https://www.linkedin.com/jobs/view/associate-director-marketing-effectiveness-at-jobgether-4410481294": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-brand-operations-at-icam-partners-sa-4411634452": 1
+    "https://www.linkedin.com/jobs/view/vp-of-brand-operations-at-icam-partners-sa-4411634452": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-operator-at-meshionai-4410488784": 1,
+    "https://www.linkedin.com/jobs/view/ai-red-team-operator-remote-or-hybrid-in-mn-or-dc-at-unitedhealth-group-4411645584": 1,
+    "https://www.linkedin.com/jobs/view/well-certification-consultant-well-ap-at-ekkist-4411490828": 1,
+    "https://www.linkedin.com/jobs/view/flexplm-consultant-at-wise-skulls-4409202015": 1,
+    "https://www.linkedin.com/jobs/view/martech-engineer-bloomreach-klaviyo-at-sprint-consulting-llc-4409608041": 1,
+    "https://www.linkedin.com/jobs/view/chief-growth-officer-at-stocksnips-4407936495": 1,
+    "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4410813042": 1,
+    "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4410800972": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
