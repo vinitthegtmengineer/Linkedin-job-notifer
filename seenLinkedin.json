@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/energy-storage-preconstruction-project-engineer-at-solv-energy-4385396834": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-creator-marketing-at-substack-4407121765": 1,
-    "https://www.linkedin.com/jobs/view/campaign-strategist-creator-marketing-at-substack-4407127644": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397582473": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397588329": 1,
-    "https://www.linkedin.com/jobs/view/ai-agent-builder-intern-india-4405702127": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397590186": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397572905": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-lead-at-nexhealth-4385841621": 1,
-    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385896287": 1,
-    "https://www.linkedin.com/jobs/view/senior-data-ops-engineer-at-irium-portugal-4407122855": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4406172735": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-at-k%c3%b6rber-supply-chain-4385894023": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-loop-4356477834": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4410439503": 1,
     "https://www.linkedin.com/jobs/view/twin-screw-operator-at-alok-masterbatches-ltd-4410449883": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405510268": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4409234518": 1
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4409234518": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%9a%a8-recrutement-%e2%80%94-creative-operator-video-tiktok-meta-ads-s%c3%a9n%c3%a9gal-at-adsoleo-4411435716": 1,
+    "https://www.linkedin.com/jobs/view/bd-presales-data-engineering-machine-engineering-solutioning-at-tiger-analytics-4410482192": 1,
+    "https://www.linkedin.com/jobs/view/data-ml-engineering-bd-solutioning-sm-ad-at-tiger-analytics-4410473244": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-de-opera%c3%a7%c3%b5es-pleno-remota-at-capco-4411226517": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-turquoise-4411409431": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-talent-connect-group-tcg-4408850653": 1,
+    "https://www.linkedin.com/jobs/view/site-reliability-engineer-operations-pst-timezone-at-skyflow-4364360046": 1,
+    "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-vinn-digital-media-4410436108": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411455156": 1,
+    "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4411426677": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
