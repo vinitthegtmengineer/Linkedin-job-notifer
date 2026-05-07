@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/venture-builder-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4402950642": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-demand-generation-at-mygwork-lgbtq%2b-business-community-4404628429": 1,
-    "https://www.linkedin.com/jobs/view/google-ads-project-manager-campaign-execution-coordination-performance-oversight-at-the-donovan-s-venom-501c3-4407120001": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-annuities-orange-county-san-diego-at-transamerica-4367280168": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-demand-generation-at-mygwork-lgbtq%2b-business-community-4404646005": 1,
     "https://www.linkedin.com/jobs/view/senior-concept-designer-at-mangotalent-4407153137": 1,
     "https://www.linkedin.com/jobs/view/social-media-listing-manager-at-merit-resource-services-4407145844": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-strategy-manager-at-hover-4410856588": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-strategy-manager-at-hover-4410858132": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-storm2-4411280866": 1,
-    "https://www.linkedin.com/jobs/view/sr-analyst-revenue-operations-gong-at-paypal-4402676441": 1
+    "https://www.linkedin.com/jobs/view/sr-analyst-revenue-operations-gong-at-paypal-4402676441": 1,
+    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-operations-distribution-at-fullscript-4411830286": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lago-4410880062": 1,
+    "https://www.linkedin.com/jobs/view/marketing-administrator-at-steward-partners-4410853713": 1,
+    "https://www.linkedin.com/jobs/view/protein-candy-senior-brand-manager-at-protein-candy-4411680582": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
