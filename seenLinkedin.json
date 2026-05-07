@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-partner-marketing-manager-at-1password-4407122048": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-kampala-south-4404660019": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-orange-logic-4405936891": 1,
-    "https://www.linkedin.com/jobs/view/program-operator-%e2%80%93-education-teacher-success-at-edbinder-4404675035": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407152711": 1,
-    "https://www.linkedin.com/jobs/view/data-operations-engineer-devops-at-temu-4405938365": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-remote-at-falling-water-dreams-4405948008": 1,
-    "https://www.linkedin.com/jobs/view/adtech-engineer-at-joveo-ai-4407108530": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402956459": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4402958422": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnership-consultant-ai-trainer-freelance-8-20-hrs-week-remote-at-10x-team-4402968303": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-go-to-market-systems-revenue-automation-at-roger-4404643182": 1,
     "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407110790": 1,
     "https://www.linkedin.com/jobs/view/chief-operating-officer-at-n-21-ai-4405924601": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/devops-operations-engineer-at-creospan-inc-4410840899": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-operations-ai-manager-at-zenity-4410852824": 1,
     "https://www.linkedin.com/jobs/view/sr-director-integrated-marketing-at-shutterfly-4411801627": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-integrated-marketing-at-shutterfly-4411696881": 1
+    "https://www.linkedin.com/jobs/view/sr-director-integrated-marketing-at-shutterfly-4411696881": 1,
+    "https://www.linkedin.com/jobs/view/sessional-lecturer-pottery-at-carshalton-college-4411495081": 1,
+    "https://www.linkedin.com/jobs/view/pottery-decorator-at-adecco-4410800398": 1,
+    "https://www.linkedin.com/jobs/view/bricklaying-groundworks-technician-at-nhbc-4321795745": 1,
+    "https://www.linkedin.com/jobs/view/drywall-prep-at-clayton-4411292156": 1,
+    "https://www.linkedin.com/jobs/view/lecturer-in-brickwork-at-hull-college-4409293640": 1,
+    "https://www.linkedin.com/jobs/view/bricklaying-lecturer-at-east-kent-college-4409208538": 1,
+    "https://www.linkedin.com/jobs/view/mason-brick-and-stone-at-kaboom-masonry-inc-4411470124": 1,
+    "https://www.linkedin.com/jobs/view/ground-investigation-consultant-at-arcadis-4363068497": 1,
+    "https://www.linkedin.com/jobs/view/ground-investigation-consultant-at-arcadis-4363096287": 1,
+    "https://www.linkedin.com/jobs/view/tiler-at-rise-site-solutions-ltd-4409248050": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-ooloo-4410870048": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
