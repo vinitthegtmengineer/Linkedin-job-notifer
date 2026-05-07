@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-of-staff-cro-at-ping-identity-4385541102": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-mavn-creators-4407123994": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-kids-apparel-brand-at-cardin-mccoy-4407104581": 1,
     "https://www.linkedin.com/jobs/view/retail-media-reporting-insights-analyst-remote-at-dick-s-sporting-goods-4352316489": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-perp-dex-solana-at-hyphen-connect-4385360752": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/commercial-cofounder-operator-at-hoegfeldt-research-llc-4410801025": 1,
     "https://www.linkedin.com/jobs/view/crm-delivery-apprenticeship-at-station-f-4410470990": 1,
     "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4402627507": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-awa-4411478963": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-awa-4411478963": 1,
+    "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395449765": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-generalist-at-pandadoc-4402555106": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
