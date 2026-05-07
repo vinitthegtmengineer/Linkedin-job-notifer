@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-supply-chain-ready-4404638153": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407110791": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407128527": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-engineer-at-joveo-ai-4407105808": 1,
-    "https://www.linkedin.com/jobs/view/%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d1%96-%d1%81%d1%82%d1%80%d0%b0%d1%85%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-at-uniqa-ukraine-4351983991": 1,
-    "https://www.linkedin.com/jobs/view/%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82-%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82-%d0%b7%d1%96-%d1%81%d1%82%d1%80%d0%b0%d1%85%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-at-uniqa-ukraine-4351779929": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-circle-4397570996": 1,
     "https://www.linkedin.com/jobs/view/head-of-partnerships-at-henry-schein-one-uk-4405761133": 1,
     "https://www.linkedin.com/jobs/view/strategic-customer-success-manager-at-atlan-4213141520": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/vp-of-revenue-operations-global-at-safeguard-global-4411247324": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-gtm-program-manager-at-magview-4409959125": 1,
     "https://www.linkedin.com/jobs/view/sr-partner-manager-at-g-p-4408862509": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-founder-at-swooped-4410995288": 1
+    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-founder-at-swooped-4410995288": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-ai-automation-at-opensesame-4411413313": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineering-post-sales-remote-at-geotab-4410441473": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineering-post-sales-remote-at-geotab-4410455043": 1,
+    "https://www.linkedin.com/jobs/view/senior-edge-engineer-firmware-mcu-at-sje-inc-4410441273": 1,
+    "https://www.linkedin.com/jobs/view/ai-workflow-operations-revenue-strategy-operations-at-openai-4409222629": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategist-pilates-strength-gtm-at-ifit-4409965941": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-growth-executive-at-bruntwork-4408876291": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-07",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
