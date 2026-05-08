@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/chief-of-staff-founding-operator-%24100k-%24140k-%2b-equity-at-dealflowagent-ai-native-m-a-advisory-at-jack-jill-4405088350": 1,
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4406522134": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407491656": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407492649": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407494636": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407490645": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407493651": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407479725": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407477867": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407821585": 1,
-    "https://www.linkedin.com/jobs/view/venture-builder-at-thawer-philanthropies-endowment-4407832858": 1,
-    "https://www.linkedin.com/jobs/view/senior-fs-engineer-50-50-at-commit-4407832696": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-careerxperts-consulting-4405534688": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405197607": 1,
     "https://www.linkedin.com/jobs/view/usv-operator-and-maintainer-contract-dependent-at-cardinal-north-llc-4407863003": 1,
     "https://www.linkedin.com/jobs/view/growth-community-specialist-fluent-japanese-speaker-at-cxg-4368734063": 1,
     "https://www.linkedin.com/jobs/view/consultant-rencontres-at-presentio-4405535732": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/%e3%83%bb%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9asap%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%9c%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%9e-at-scsk-corporation-4411765014": 1,
     "https://www.linkedin.com/jobs/view/ped-03-process-engineer-at-dec-%e2%80%a2-dynamic-environmental-corporation-4410837393": 1,
     "https://www.linkedin.com/jobs/view/consultor-a-senior-calypso-remoto-at-irium-4411384585": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-gomining-4412141097": 1
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-gomining-4412141097": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4410896137": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-lead-at-trust-in-soda-4410483679": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-token-ai-infra-at-palebluedot-ai-4410873834": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-executive-at-jellyfish-4403174991": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-executive-at-jellyfish-4403184951": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-meta-ads-at-nua-4409672663": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-kapiva-4411097664": 1,
+    "https://www.linkedin.com/jobs/view/paid-social-lead-at-pipedrive-4390361493": 1,
+    "https://www.linkedin.com/jobs/view/paid-ads-manager-at-rightangled-4404561600": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4405560114": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-lead-media-agency-at-hyered-4407886555": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-lead-at-3search-4398692838": 1,
+    "https://www.linkedin.com/jobs/view/digital-advertising-strategist-at-rs-uk-ireland-4411384710": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-whatnot-4379866250": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
