@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-piing-4405138089": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-glints-4405999541": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4407429289": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4407438136": 1,
-    "https://www.linkedin.com/jobs/view/director-of-operations-execution-at-tokenzen-4407447368": 1,
     "https://www.linkedin.com/jobs/view/founding-operator-4407426812": 1,
     "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4405991813": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-akkodis-4405994885": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/cement-mason-phx-at-granite-construction-4411457290": 1,
     "https://www.linkedin.com/jobs/view/brick-mason-and-labors-at-jw-masonry-4411630426": 1,
     "https://www.linkedin.com/jobs/view/pipe-layer-at-brasfield-gorrie-llc-4362022269": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-vionlabs-4411334643": 1
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-vionlabs-4411334643": 1,
+    "https://www.linkedin.com/jobs/view/low-code-engineer-at-hackajob-4411862585": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411328561": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411320058": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411323111": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-at-phluid-worldwide-4410487210": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
