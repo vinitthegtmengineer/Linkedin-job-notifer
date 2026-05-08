@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%88%b6%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4407487491": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%e9%96%8b%e7%99%ba%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%89%e3%83%aa%e3%82%b3%e3%83%a0-4407485494": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407478311": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sphere-digital-recruitment-group-4407454841": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-emea-at-procept-biorobotics-4407493155": 1,
     "https://www.linkedin.com/jobs/view/digital-media-email-marketing-manager-at-jane-creative-4407479853": 1,
     "https://www.linkedin.com/jobs/view/chief-growth-and-brand-officer-at-phd-weight-loss-4407434607": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/lead-sales-engineer-at-afiniti-4381707953": 1,
     "https://www.linkedin.com/jobs/view/reinforcement-learning-engineer-at-code-metal-4411864904": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398257413": 1,
-    "https://www.linkedin.com/jobs/view/gtm-growth-lead-top-10-high-growth-us-fintech-%24250k-%2b-equity-nyc-in-person-at-open-talent-4408122476": 1
+    "https://www.linkedin.com/jobs/view/gtm-growth-lead-top-10-high-growth-us-fintech-%24250k-%2b-equity-nyc-in-person-at-open-talent-4408122476": 1,
+    "https://www.linkedin.com/jobs/view/consulente-commerciale-senior-%e2%80%93-noleggio-a-lungo-termine-at-nettowork-4400725078": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1,
+    "https://www.linkedin.com/jobs/view/vp-sales-americas-at-cohere-4409659380": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-be-afraid-media-4410438384": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
