@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-erp-process-engineer-at-lev-haolam-4405122215": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405113122": 1,
-    "https://www.linkedin.com/jobs/view/social-media-strategist-at-h-a-resources-llc-4405113308": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-atenci%c3%b3n-al-cliente-espa%c3%b1ol-%e2%80%93-alem%c3%a1n-freelance-part-time-remoto-at-domus-global-4405120433": 1,
-    "https://www.linkedin.com/jobs/view/consulente-commerciale-senior-%e2%80%93-noleggio-a-lungo-termine-at-nettowork-4400725078": 1,
-    "https://www.linkedin.com/jobs/view/polish-speaking-consultant-video-streaming-platform-work-in-greece-at-mercier-consultancy-md-4407412834": 1,
-    "https://www.linkedin.com/jobs/view/polish-speaking-consultant-video-streaming-platform-work-in-greece-at-mercier-consultancy-md-4407422717": 1,
-    "https://www.linkedin.com/jobs/view/polish-speaking-consultant-video-streaming-platform-work-in-greece-at-mercier-consultancy-md-4407412835": 1,
-    "https://www.linkedin.com/jobs/view/polish-speaking-consultant-video-streaming-platform-work-in-greece-at-mercier-consultancy-md-4407418732": 1,
-    "https://www.linkedin.com/jobs/view/polish-speaking-consultant-video-streaming-platform-work-in-greece-at-mercier-consultancy-md-4407419754": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-trueroll-4405109409": 1,
     "https://www.linkedin.com/jobs/view/remote-%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4-technology-operations-engineer-at-btse-4407418295": 1,
     "https://www.linkedin.com/jobs/view/director-vp-of-partnerships-at-moss-4344141954": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-systems-engineer-at-zuddl-4410803113": 1,
     "https://www.linkedin.com/jobs/view/digital-movement-builder-4411868277": 1,
     "https://www.linkedin.com/jobs/view/martech-engineer-bloomreach-klaviyo-at-sprint-consulting-llc-4409670803": 1,
-    "https://www.linkedin.com/jobs/view/prozessingenieur-at-is-saveenergy-ag-4409674613": 1
+    "https://www.linkedin.com/jobs/view/prozessingenieur-at-is-saveenergy-ag-4409674613": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-market-activation-manager-at-anrgi-tech-4411311003": 1,
+    "https://www.linkedin.com/jobs/view/paid-remote-wordpress-intern-elementor-page-builders-at-web-careup-4411019019": 1,
+    "https://www.linkedin.com/jobs/view/support-and-project-engineer-at-zennio-4409678986": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-at-knot-4359138027": 1,
+    "https://www.linkedin.com/jobs/view/gtm-growth-leader-enterprise-ai-at-bulba-4409244588": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-intelligence-manager-at-kore-ai-4402949313": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-scytale-4390322618": 1,
+    "https://www.linkedin.com/jobs/view/gtm-manager-strategic-accounts-at-legora-4405148119": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-legora-4400845675": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
