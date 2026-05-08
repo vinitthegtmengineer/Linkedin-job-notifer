@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-emea-at-procept-biorobotics-4407493155": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-email-marketing-manager-at-jane-creative-4407479853": 1,
-    "https://www.linkedin.com/jobs/view/chief-growth-and-brand-officer-at-phd-weight-loss-4407434607": 1,
-    "https://www.linkedin.com/jobs/view/fractional-vice-president-marketing-at-forcebrands-4407517170": 1,
     "https://www.linkedin.com/jobs/view/senior-brand-events-manager-at-superhuman-4405151557": 1,
     "https://www.linkedin.com/jobs/view/head-of-coda-sales-at-superhuman-4405152565": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-allegiance-search-4406223637": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/consulente-commerciale-senior-%e2%80%93-noleggio-a-lungo-termine-at-nettowork-4400725078": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1,
     "https://www.linkedin.com/jobs/view/vp-sales-americas-at-cohere-4409659380": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-be-afraid-media-4410438384": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-be-afraid-media-4410438384": 1,
+    "https://www.linkedin.com/jobs/view/senior-strategy-operations-manager-smb-mid-market-at-fetch-4395349195": 1,
+    "https://www.linkedin.com/jobs/view/senior-social-media-and-community-manager-at-jobgether-4411337682": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-imprint-events-group-4410879780": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
