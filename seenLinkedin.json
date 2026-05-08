@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407825528": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407840354": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407827518": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407825568": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407836451": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412142761": 1,
     "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-marketing-operations-at-cyera-4343889269": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-4411873935": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-ethena-4412146533": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-ethena-4412146533": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411861863": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-os-studios-4411728679": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
