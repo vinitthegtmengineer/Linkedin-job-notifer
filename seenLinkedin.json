@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-operator-4407426812": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4405991813": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-akkodis-4405994885": 1,
-    "https://www.linkedin.com/jobs/view/ai-evaluation-engineer-planning-operations-at-gramian-consulting-4407409901": 1,
-    "https://www.linkedin.com/jobs/view/senior-cluster-site-reliability-engineer-at-the-voleon-group-4407416372": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91%e7%a4%be%e5%86%85se-%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%83%bb%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e6%a7%8b%e7%af%89%e3%83%bb%e9%81%8b%e7%94%a8-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e4%b8%8a%e5%a0%b4-%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4407170585": 1,
-    "https://www.linkedin.com/jobs/view/operational-technology-engineer-at-siemens-energy-4405985376": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-daiki-media-digital-marketing-that-drives-results-4406201818": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rochelle-s-airbnb-residential-cleaning-services-4405991849": 1,
-    "https://www.linkedin.com/jobs/view/executive-vice-president-of-operations-at-clean-fintech-4405146101": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-produ%c3%a7%c3%a3o-junior-at-cta-engenharia-4405147063": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-curate-group-4405123626": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4406205919": 1,
     "https://www.linkedin.com/jobs/view/senior-berater-at-onetoone-corporate-finance-4407472185": 1,
     "https://www.linkedin.com/jobs/view/3-16-consultant-at-definiti-llc-4378882652": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411328561": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411320058": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411323111": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-at-phluid-worldwide-4410487210": 1
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-at-phluid-worldwide-4410487210": 1,
+    "https://www.linkedin.com/jobs/view/creative-operator-ai-native-multi-brand-performance-focused-at-anka-global-inc-4409689784": 1,
+    "https://www.linkedin.com/jobs/view/paid-social-operator-%e2%80%93-performance-marketing-meta-focus-at-hotsourced-4411865734": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieur-batteriespeichersysteme-bess-m-w-d-at-cubos-4409694888": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398271109": 1,
+    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398260301": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-home-textiles-b2b-private-label-at-house-of-fashion-associates-4410803706": 1,
+    "https://www.linkedin.com/jobs/view/entrepreneur-indonesian-%247-hr-remote-at-crossing-hurdles-4410828701": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-employer-activation-at-swooped-4411640951": 1,
+    "https://www.linkedin.com/jobs/view/vp-b2b-marketing-remote-opportunity-at-tivity-health-4402976479": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-crystal-practice-management-4410491919": 1,
+    "https://www.linkedin.com/jobs/view/regional-human-resources-business-partner-hrbp-at-alliance-animal-health-4410866241": 1,
+    "https://www.linkedin.com/jobs/view/marketing-lead-brazil-at-bsi-4378980787": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
