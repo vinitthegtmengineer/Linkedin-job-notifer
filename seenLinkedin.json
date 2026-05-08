@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407825568": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407836451": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407837399": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-engineer-at-platform-engineering-4405160854": 1,
     "https://www.linkedin.com/jobs/view/vice-president-sales-remote-at-runzero-4341776212": 1,
     "https://www.linkedin.com/jobs/view/senior-growth-manager-paid-search-at-crypto-com-4405515354": 1,
     "https://www.linkedin.com/jobs/view/chief-of-staff-founding-operator-%24100k-%24140k-%2b-equity-at-dealflowagent-ai-native-m-a-advisory-at-jack-jill-4405088350": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-ethena-4412146533": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411861863": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-os-studios-4411728679": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategy-operations-manager-smb-mid-market-at-fetch-4395335968": 1
+    "https://www.linkedin.com/jobs/view/senior-strategy-operations-manager-smb-mid-market-at-fetch-4395335968": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-at-eve-4412169240": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%bb%e3%80%90%e8%b1%8a%e6%b4%b2%e3%80%91%e2%80%bb%e6%8b%85%e5%bd%93%e2%80%bbai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%8fai%ef%bc%86%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e9%83%a8%ef%bc%9c%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%9e-at-scsk-corporation-4411758126": 1,
+    "https://www.linkedin.com/jobs/view/%e3%83%bb%e3%80%90%e6%9d%b1%e4%ba%ac%e3%80%91%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9asap%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%9c%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%9e-at-scsk-corporation-4411765014": 1,
+    "https://www.linkedin.com/jobs/view/ped-03-process-engineer-at-dec-%e2%80%a2-dynamic-environmental-corporation-4410837393": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
