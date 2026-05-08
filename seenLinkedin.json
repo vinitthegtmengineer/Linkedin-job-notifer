@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-grace-decor-interior-design-home-renovation-4406295346": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-join-marathon-4407595028": 1,
-    "https://www.linkedin.com/jobs/view/director-of-brand-marketing-at-kimpton-mas-olas-resort-spa-4406270434": 1,
-    "https://www.linkedin.com/jobs/view/prototype-operator-at-autoliv-4281262111": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-and-ghl-operator-at-redballoon-4405535313": 1,
-    "https://www.linkedin.com/jobs/view/consulente-noleggio-lungo-termine-p-iva-at-galdieri-rent-4405540176": 1,
-    "https://www.linkedin.com/jobs/view/consulente-noleggio-lungo-termine-p-iva-at-galdieri-rent-4405521597": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-%e2%80%94-tax-os-founding-builder-at-fiskl-ai-%e2%80%94-the-accounting-intelligence-platform-4407825528": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407840354": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-huzzle-com-4407827518": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4411724282": 1,
     "https://www.linkedin.com/jobs/view/jr-marketing-executive-at-mcgraw-hill-4412131710": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-virtustant-4412146393": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-unplay-4411710741": 1
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-unplay-4411710741": 1,
+    "https://www.linkedin.com/jobs/view/forgerock-engineer-at-ventures-unlimited-inc-4411746042": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412150314": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412145586": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412142761": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-marketing-operations-at-cyera-4343889269": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-4411873935": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-ethena-4412146533": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
