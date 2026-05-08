@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-brand-events-manager-at-superhuman-4405151557": 1,
-    "https://www.linkedin.com/jobs/view/head-of-coda-sales-at-superhuman-4405152565": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-allegiance-search-4406223637": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-lead-at-arbiter-4369957925": 1,
     "https://www.linkedin.com/jobs/view/creator-relations-at-air-apps-4405154944": 1,
     "https://www.linkedin.com/jobs/view/marketing-business-development-director-fully-remote-at-breakthrough-personal-development-4404324825": 1,
     "https://www.linkedin.com/jobs/view/global-product-solutions-marketing-manager-at-cps-group-uk-limited-4407179702": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-strategy-operations-manager-smb-mid-market-at-fetch-4395349195": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-and-community-manager-at-jobgether-4411337682": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-imprint-events-group-4410879780": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-vanta-4390438611": 1,
+    "https://www.linkedin.com/jobs/view/detective-consultant-fully-remote-at-mercor-4411334029": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-a-founder-track-role-at-biorender-4402307064": 1,
+    "https://www.linkedin.com/jobs/view/specialist-ai-engineer-builder-llm-healthcare-remote-job-at-evanthys-4411886592": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-fqe-power-4411368632": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
