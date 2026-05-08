@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88aws%e3%83%bbazure%e3%83%bbgcp%ef%bc%8f%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%83%87%e3%83%aa%e3%83%90%e3%83%aa%e3%83%bc%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%82%ef%bd%85%ef%bd%85%ef%bd%98-4407495438": 1,
-    "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4405999411": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-airlock-digital-4407527653": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-jobgether-4405973216": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-209700-at-skill-4407529769": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4405509369": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-market-place-at-raha-partners-4405515229": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4405199484": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407432009": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-2x-4378539250": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407432010": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-strategy-manager-at-hover-4409691474": 1,
     "https://www.linkedin.com/jobs/view/think-100%25-campaigns-manager-at-hip-hop-caucus-4410863244": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-19298-at-somewhere-4411381152": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411875294": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411866779": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-market-lead-bern-at-newplace-ag-4410841229": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-full-stack-builder-m-f-d-at-aroundtown-4412104776": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-companycam-4412113638": 1,
+    "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-flutter-uk-ireland-4412109884": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-revisiondojo-yc-f24-4411008022": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
