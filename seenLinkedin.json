@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-distribution-sales-foodservice-on-premise-at-pressed-juicery-4385389825": 1,
-    "https://www.linkedin.com/jobs/view/medical-concierge-partner-at-lila-soma-4405976000": 1,
-    "https://www.linkedin.com/jobs/view/chief-technology-officer-tron-builders-at-the-quantix-group-4407417134": 1,
     "https://www.linkedin.com/jobs/view/senior-erp-process-engineer-at-lev-haolam-4405122215": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405113122": 1,
     "https://www.linkedin.com/jobs/view/social-media-strategist-at-h-a-resources-llc-4405113308": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395452203": 1,
     "https://www.linkedin.com/jobs/view/sr-director-integrated-marketing-at-shutterfly-4411825733": 1,
     "https://www.linkedin.com/jobs/view/senior-o9-consultant-at-amazure-technologies-pvt-ltd-4411051160": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-systems-engineer-at-zuddl-4410803113": 1
+    "https://www.linkedin.com/jobs/view/founding-gtm-systems-engineer-at-zuddl-4410803113": 1,
+    "https://www.linkedin.com/jobs/view/digital-movement-builder-4411868277": 1,
+    "https://www.linkedin.com/jobs/view/martech-engineer-bloomreach-klaviyo-at-sprint-consulting-llc-4409670803": 1,
+    "https://www.linkedin.com/jobs/view/prozessingenieur-at-is-saveenergy-ag-4409674613": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
