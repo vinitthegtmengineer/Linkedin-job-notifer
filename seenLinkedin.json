@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-trueroll-4405109409": 1,
-    "https://www.linkedin.com/jobs/view/remote-%e6%8a%80%e8%a1%93%e6%94%af%e6%8f%b4-technology-operations-engineer-at-btse-4407418295": 1,
-    "https://www.linkedin.com/jobs/view/director-vp-of-partnerships-at-moss-4344141954": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-curate-group-4407422890": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-crossing-hurdles-4405983964": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-jobgether-4405974220": 1,
-    "https://www.linkedin.com/jobs/view/munis-consultant-at-robert-half-4406202445": 1,
-    "https://www.linkedin.com/jobs/view/data-engineer-data-ops-at-stratio-4407429157": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-federal-ai-soc-start-up-paying-up-to-%24210-000-base-plus-stock-at-stealthwatch-4405110611": 1,
     "https://www.linkedin.com/jobs/view/confidential-process-engineer-%e6%a9%9f%e5%af%86%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-semiconductor-%e5%8d%8a%e5%b0%8e%e4%bd%93-20m%2b-jpy-full-remote-shanghai-trips-at-specialized-group-4407412935": 1,
     "https://www.linkedin.com/jobs/view/director-of-business-development-at-cut%2bdry-4406204403": 1,
     "https://www.linkedin.com/jobs/view/partnership-development-manager-at-cardflight-4406686058": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/gtm-lead-at-scytale-4390322618": 1,
     "https://www.linkedin.com/jobs/view/gtm-manager-strategic-accounts-at-legora-4405148119": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-legora-4400845675": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1
+    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-secret-clearance-at-hackajob-4410843842": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieur-tga-rechenzentren-datacenter-m-w-d-at-zwp-ingenieur-ag-4400414472": 1,
+    "https://www.linkedin.com/jobs/view/cyber-security-engineer-%e2%80%93-security-operations-m-w-d-at-sopra-steria-4411630514": 1,
+    "https://www.linkedin.com/jobs/view/apprentice-operations-engineer-end-user-computing-f-m-d-at-decathlon-digital-4403997960": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411301833": 1,
+    "https://www.linkedin.com/jobs/view/mixing-engineer-%e2%80%93-rock-pop-project-at-twine-4400196485": 1,
+    "https://www.linkedin.com/jobs/view/substation-project-engineer-at-nei-electric-power-engineering-inc-4411830578": 1,
+    "https://www.linkedin.com/jobs/view/senior-api-engineer-sdui-backend-operations-at-turnkey-tech-staffing-4411439635": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4410104074": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
