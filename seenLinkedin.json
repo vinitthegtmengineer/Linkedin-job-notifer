@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407432009": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-2x-4378539250": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407432010": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407430026": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407424840": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-priori-4407480429": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-engineer-at-the-global-talent-co-4407425214": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-companycam-4412113638": 1,
     "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-flutter-uk-ireland-4412109884": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-revisiondojo-yc-f24-4411008022": 1,
-    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-us-at-sap-taulia-4399072706": 1,
+    "https://www.linkedin.com/jobs/view/operador-u-operadora-de-cementaci%c3%b3n-at-slb-4390948685": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-architect-ai-product-builder-at-800-storage-4412129156": 1,
+    "https://www.linkedin.com/jobs/view/campaign-marketing-executive-at-flutter-uk-ireland-4412122388": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-mavi-4412116849": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-08",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
