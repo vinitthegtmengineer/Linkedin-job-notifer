@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-twine-4398247879": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-estrutura%c3%a7%c3%a3o-de-cargos-e-sal%c3%a1rios-pj-at-empresa-confidencial-4407302455": 1,
-    "https://www.linkedin.com/jobs/view/remote-consultant-at-alturas-people-consulting-4406420654": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-international-schools-4407098852": 1,
-    "https://www.linkedin.com/jobs/view/kol-operator-at-qube-markets-4407086988": 1,
-    "https://www.linkedin.com/jobs/view/experienced-robolter-operators-needed-at-thyssen-mining-4399559831": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-glints-4407303557": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-tiktok-at-twine-4398250404": 1,
     "https://www.linkedin.com/jobs/view/senior-concur-consultant-at-nityo-infotech-4407304670": 1,
     "https://www.linkedin.com/jobs/view/defi-engineer-at-jobgether-4407310719": 1,
     "https://www.linkedin.com/jobs/view/defi-engineer-at-jobgether-4407312704": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-neighborhoods-com-4412304802": 1,
     "https://www.linkedin.com/jobs/view/operator-condensate-at-qatarenergy-4288792857": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-engineer-senior-enterprise-new-york-at-hightouch-4391541806": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-dtc-performance-marketing-at-attn-agency-4412303964": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-dtc-performance-marketing-at-attn-agency-4412303964": 1,
+    "https://www.linkedin.com/jobs/view/consultant-brokerage-excess-uw-e-s-specialty-new-business-at-nationwide-4392763813": 1,
+    "https://www.linkedin.com/jobs/view/meta-ads-executive-at-xpandify-4411099383": 1,
+    "https://www.linkedin.com/jobs/view/facebook-marketing-executive-in-delhi-ghaziabad-meerut-hapur-greater-noida-noida-at-influx-online-4412407484": 1,
+    "https://www.linkedin.com/jobs/view/facebook-marketing-executive-in-delhi-ghaziabad-meerut-hapur-greater-noida-noida-at-influx-online-4412406474": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-ads-associate-at-unbundl-4411950507": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-marketing-executive-at-123-greetings-4411959373": 1,
+    "https://www.linkedin.com/jobs/view/performance-digital-marketing-executive-at-story-design-4411957520": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-in-mumbai-at-enago-crimson-interactive-4412411370": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
