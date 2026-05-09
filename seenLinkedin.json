@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407882940": 1,
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407892153": 1,
-    "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4408015607": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-pharmaforce-4406574823": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-the-rise-of-privacy-tech-tropt-4406570758": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407482699": 1,
     "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407494637": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/director-of-sales-growth-at-walkingspree-4412109165": 1,
     "https://www.linkedin.com/jobs/view/manager-partner-marketing-at-multiplier-4411876274": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-analyst-intern-june-22nd-start-12-weeks-at-twilio-4403441685": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-marketing-coordinator-execution-57553409624-at-somewhere-4411368966": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-marketing-coordinator-execution-57553409624-at-somewhere-4411368966": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-mercor-4412430242": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-tree-care-at-granum-4412416944": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-granum-4412423557": 1,
+    "https://www.linkedin.com/jobs/view/marketing-program-manager-sports-sponsorship-at-stripe-4411929252": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
