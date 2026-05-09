@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-at-jobgether-4406949783": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-follett-software-4406992550": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hawk-4386362767": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-%e2%80%93-successfactors-employee-central-bangalore-at-digihelic-solutions-pvt-ltd-4406075186": 1,
-    "https://www.linkedin.com/jobs/view/sr-employee-benefits-consultant-voluntary-benefits-at-the-standard-4218253285": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4408541987": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4408596409": 1,
     "https://www.linkedin.com/jobs/view/consultant-pharmacist-ii-at-forhealth-consulting-at-umass-chan-medical-school-4398418721": 1,
     "https://www.linkedin.com/jobs/view/apache-nifi-consultant-at-git-4407015731": 1,
     "https://www.linkedin.com/jobs/view/blackline-consultant-at-aston-carter-4408229443": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-virtual-assistant-at-the-swick-real-estate-group-4407986973": 1,
     "https://www.linkedin.com/jobs/view/client-experience-operations-manager-at-zeta-global-4411794521": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1,
-    "https://www.linkedin.com/jobs/view/solids-control-technician-at-clean-harbors-4403554730": 1
+    "https://www.linkedin.com/jobs/view/solids-control-technician-at-clean-harbors-4403554730": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e5%9b%bd%e5%86%85%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e3%81%ae%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e9%95%b7%e6%9c%9f%e6%a1%88%e4%bb%b6%e5%a4%9a%e6%95%b0%ef%bc%8fiij%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beiij%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba-4412321005": 1,
+    "https://www.linkedin.com/jobs/view/ai-ml-engineering-at-daice-labs-4412493601": 1,
+    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-remotehunter-4412322026": 1,
+    "https://www.linkedin.com/jobs/view/manager-performance-marketing-at-h2o-digital-marketing-agency-4412464766": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371124973": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-quant-at-revolut-4402124093": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-psytech-vr-vr-exposure-therapy-for-mental-health-4412485666": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
