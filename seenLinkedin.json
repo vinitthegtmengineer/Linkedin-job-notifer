@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4406534969": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4406557123": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4406550440": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4406552399": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-4407894908": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/pallet-builder-repair-at-relogistics-services-4411352616": 1,
     "https://www.linkedin.com/jobs/view/builder-termite-technician-at-hometeam-pest-defense-4403573826": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategist-pharma-experience-at-solomon-page-4412191662": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4412439439": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4412439439": 1,
+    "https://www.linkedin.com/jobs/view/global-head-of-partner-programs-at-jobgether-4411881228": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-lago-4411761869": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
