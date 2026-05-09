@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-startup-at-twine-4398242970": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-luxury-real-estate-at-twine-4398242959": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-manager-freelancer-at-deccan-ai-experts-4408244738": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-price-point-perfumes-4408570405": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-international-growth-lead-generation-at-paul-beare-ltd-4408224869": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-fivetran-4377596347": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/founding-engineer-at-aradus-4411744455": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390739457": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4412312595": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390758138": 1
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390758138": 1,
+    "https://www.linkedin.com/jobs/view/cdn-engineer-at-transcend-staffing-solutions-llc-a-100%25-women-owned-minority-staffing-firm%21-4411651427": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-partnership-strategy-at-zeta-global-4407093161": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaigns-manager-marketing-maternity-cover-12-months-at-christie-s-4402711207": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
