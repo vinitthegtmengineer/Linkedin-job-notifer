@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/storage-operations-engineer-at-raas-infotek-4408502197": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-lattice-4395477790": 1,
     "https://www.linkedin.com/jobs/view/sales-excellence-gtm-lead-at-precisely-4395441531": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-growth-lead-api-at-openai-4406421108": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-lead-at-commerce-4398615621": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/consultant-i-domestic-relocation-us-based-remote-at-compass-international-holdings-4412406032": 1,
     "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390939291": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-and-project-manager-at-jobgether-4412118848": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385145942": 1
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385145942": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4412317108": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4412314515": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
