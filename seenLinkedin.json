@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-the-rise-of-privacy-tech-tropt-4406570758": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407482699": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407494637": 1,
-    "https://www.linkedin.com/jobs/view/servicenow-ui-builder-developer-f-m-x-at-sii-poland-4407481804": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-contract-at-tawkify-4406905071": 1,
-    "https://www.linkedin.com/jobs/view/brand-director-social-media-manager-at-emapta-global-4407802976": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-platform-at-digital-media-management-4404452277": 1,
-    "https://www.linkedin.com/jobs/view/social-media-ads-manager-at-growthpair-4406257467": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-druids-golf-4405561774": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-outsourcey-4407555622": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-tema-etfs-4407540370": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/consultant-at-mercor-4412430242": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-manager-tree-care-at-granum-4412416944": 1,
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-granum-4412423557": 1,
-    "https://www.linkedin.com/jobs/view/marketing-program-manager-sports-sponsorship-at-stripe-4411929252": 1
+    "https://www.linkedin.com/jobs/view/marketing-program-manager-sports-sponsorship-at-stripe-4411929252": 1,
+    "https://www.linkedin.com/jobs/view/resident-consultant-manager-at-samsara-4412442348": 1,
+    "https://www.linkedin.com/jobs/view/junior-lead-generation-specialist-1-2-years-at-restack-ops-4411953320": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-qed-investors-4411960213": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412156079": 1,
+    "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412149320": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-sofomation-4412441508": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-peppy-4411398470": 1,
+    "https://www.linkedin.com/jobs/view/campaign-analyst-at-epsilon-4412196191": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
