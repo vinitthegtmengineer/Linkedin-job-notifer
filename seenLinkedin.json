@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-excellence-gtm-lead-at-precisely-4395441531": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-growth-lead-api-at-openai-4406421108": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-lead-at-commerce-4398615621": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4384085497": 1,
-    "https://www.linkedin.com/jobs/view/gtm-coach-director-vp%2b-uk-ie-europe-remote-at-mento-4408273017": 1,
-    "https://www.linkedin.com/jobs/view/sales-strategy-operations-central-at-openai-4406417204": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-partnership-strategy-at-zeta-global-4407093161": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-executive-at-solstice-media-4406939548": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-cordance-4406094732": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-prometric-4407020562": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-startup-at-twine-4398242970": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-luxury-real-estate-at-twine-4398242959": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-manager-freelancer-at-deccan-ai-experts-4408244738": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/digital-campaign-and-project-manager-at-jobgether-4412118848": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385145942": 1,
     "https://www.linkedin.com/jobs/view/product-builder-at-knotch-4412317108": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4412314515": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91aws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4412314515": 1,
+    "https://www.linkedin.com/jobs/view/wash-plant-operator-at-arcosa-inc-4381667249": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-at-vulcan-materials-company-4365192565": 1,
+    "https://www.linkedin.com/jobs/view/aggregate-plant-operator-at-calportland-4299266699": 1,
+    "https://www.linkedin.com/jobs/view/quarry-technician-at-amrize-4392678593": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-aggregate-experienced-at-glenn-o-hawbaker-inc-4412311185": 1,
+    "https://www.linkedin.com/jobs/view/truss-builder-at-swift-supply-4411934014": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-at-aradus-4411744455": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390739457": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4412312595": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390758138": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
