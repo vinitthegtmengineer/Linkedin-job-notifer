@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-pharmacist-ii-at-forhealth-consulting-at-umass-chan-medical-school-4398418721": 1,
-    "https://www.linkedin.com/jobs/view/apache-nifi-consultant-at-git-4407015731": 1,
-    "https://www.linkedin.com/jobs/view/blackline-consultant-at-aston-carter-4408229443": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-wf-at-huron-4406411173": 1,
     "https://www.linkedin.com/jobs/view/incident-response-sr-consultant-remote-at-crowdstrike-4398251345": 1,
     "https://www.linkedin.com/jobs/view/driving-instructor-consultant-at-next-mile-driver-training-4408266630": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/manager-performance-marketing-at-h2o-digital-marketing-agency-4412464766": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371124973": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-quant-at-revolut-4402124093": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-psytech-vr-vr-exposure-therapy-for-mental-health-4412485666": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-psytech-vr-vr-exposure-therapy-for-mental-health-4412485666": 1,
+    "https://www.linkedin.com/jobs/view/sales-strategy-operations-lead-at-langchain-4412432753": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-higher-options-4412484828": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-neighborhoods-com-4412304802": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
