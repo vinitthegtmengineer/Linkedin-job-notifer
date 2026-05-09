@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-high-ticket-talent-acquisition-at-emapta-global-4408217939": 1,
-    "https://www.linkedin.com/jobs/view/marketing-social-media-executive-uk-market-%e2%80%93-hr-payroll-services-at-staffinity-solutions-4407884298": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-philippines-remote-at-claas2saas-4406949385": 1,
-    "https://www.linkedin.com/jobs/view/outbound-calling-operator-at-ask-ayurveda-4405134501": 1,
-    "https://www.linkedin.com/jobs/view/pki-consultant-senior-consultant-at-dotsquares-4406962409": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408227911": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408224919": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4408237174": 1,
-    "https://www.linkedin.com/jobs/view/infrastructure-operations-engineer-at-rudryon-4406970088": 1,
     "https://www.linkedin.com/jobs/view/operator-recruiter-success-manager-high-ticket-talent-acquisition-at-emapta-global-4408256007": 1,
     "https://www.linkedin.com/jobs/view/ceo-consultant-at-bettingjobs-4406038729": 1,
     "https://www.linkedin.com/jobs/view/senior-netsuite-consultant-at-people-consultancy-services-pcs-4406928973": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-engineer-strategic-partnerships-at-retool-4382723593": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4412462259": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-us-at-granola-4402717850": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-creatif-versatile-studio-4411992362": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-creatif-versatile-studio-4411992362": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-sistemas-24x7-at-inetum-4403559681": 1,
+    "https://www.linkedin.com/jobs/view/soil-scientist-at-eiffage-kier-ferrovial-bam-ekfb-4371456435": 1,
+    "https://www.linkedin.com/jobs/view/senior-clay-modeler-at-polaris-inc-4406620466": 1,
+    "https://www.linkedin.com/jobs/view/ground-investigation-consultant-at-arcadis-4363153541": 1,
+    "https://www.linkedin.com/jobs/view/driller-at-geo-technology-associates-inc-gta-4411717314": 1,
+    "https://www.linkedin.com/jobs/view/groundworker-at-ian-williams-ltd-4412168354": 1,
+    "https://www.linkedin.com/jobs/view/stringless-paving-technician-at-clarkson-construction-company-4372436300": 1,
+    "https://www.linkedin.com/jobs/view/senior-ai-builder-at-hello-heart-4403537044": 1,
+    "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390947166": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
