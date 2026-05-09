@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-caret-4398927542": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-at-jobgether-4406949783": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-follett-software-4406992550": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-hawk-4386362767": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-kaizen-gaming-4402701424": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-virtual-assistant-at-the-swick-real-estate-group-4407986973": 1,
     "https://www.linkedin.com/jobs/view/client-experience-operations-manager-at-zeta-global-4411794521": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1
+    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1,
+    "https://www.linkedin.com/jobs/view/solids-control-technician-at-clean-harbors-4403554730": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
