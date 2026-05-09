@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-at-production-limited-4406588975": 1,
-    "https://www.linkedin.com/jobs/view/paid-marketing-ppc-executive-manager-at-carousel-consultancy-ltd-4406528404": 1,
-    "https://www.linkedin.com/jobs/view/junior-performance-marketing-executive-real-estate-at-formule-ai-4400853038": 1,
     "https://www.linkedin.com/jobs/view/product-builder-user-experience-at-reml-ai-4406946262": 1,
     "https://www.linkedin.com/jobs/view/product-builder-software-engineering-at-reml-ai-4406945254": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-enablement-manager-at-people-ai-4405591334": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/growth-operations-associate-at-thanks-4412413938": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400838122": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400837146": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-det-india-at-duolingo-4342792965": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-det-india-at-duolingo-4342792965": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-scoutit-4411969650": 1,
+    "https://www.linkedin.com/jobs/view/forgerock-engineer-at-synchrony-systems-inc-4412173784": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-netrolynx-ai-4411963292": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
