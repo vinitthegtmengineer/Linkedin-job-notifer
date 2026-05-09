@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-lead-optimizely-contentstack-at-altudo-4406536220": 1,
     "https://www.linkedin.com/jobs/view/director-sales-emea-at-obsidian-security-4408047547": 1,
     "https://www.linkedin.com/jobs/view/email-campaign-manager-klaviyo-specialist-at-kanekta-4406264614": 1,
     "https://www.linkedin.com/jobs/view/consulting-campaign-manager-at-jobgether-4406554670": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402319224": 1,
     "https://www.linkedin.com/jobs/view/revops-technical-lead-at-business-centric-technology-4411713542": 1,
     "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-skydio-4390651256": 1,
-    "https://www.linkedin.com/jobs/view/chief-marketing-commerce-officer-at-terrabis-4408059079": 1
+    "https://www.linkedin.com/jobs/view/chief-marketing-commerce-officer-at-terrabis-4408059079": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4411343139": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
