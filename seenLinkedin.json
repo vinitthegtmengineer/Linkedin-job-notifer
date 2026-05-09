@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407894106": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-cfgi-4304172849": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407829327": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-scout-global-4405566659": 1,
-    "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407897062": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4407833298": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-bellavix-4405580121": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-social-media-at-once-upon-a-farm-4408013607": 1,
     "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407882940": 1,
     "https://www.linkedin.com/jobs/view/director-of-performance-marketing-at-karbon-4407892153": 1,
     "https://www.linkedin.com/jobs/view/solr-consultant-at-exatech-inc-4408015607": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-good-feet-midwest-4412170945": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-cherry-assistant-4396379705": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-lykke-4412131487": 1,
-    "https://www.linkedin.com/jobs/view/strategic-transformation-lead-digital-marketing-operations-at-the-sage-group-4410886031": 1
+    "https://www.linkedin.com/jobs/view/strategic-transformation-lead-digital-marketing-operations-at-the-sage-group-4410886031": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411862786": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-4411904043": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-designer-and-builder-at-learnlux-financial-wellbeing-4412417222": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407478311": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-growth-at-walkingspree-4412109165": 1,
+    "https://www.linkedin.com/jobs/view/manager-partner-marketing-at-multiplier-4411876274": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-analyst-intern-june-22nd-start-12-weeks-at-twilio-4403441685": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-marketing-coordinator-execution-57553409624-at-somewhere-4411368966": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-09",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
