@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409028932": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-senior-manager-at-jobgether-4407360093": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-solomon-page-4406725478": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-jet-hr-4406750642": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409093598": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409079984": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4407635892": 1,
     "https://www.linkedin.com/jobs/view/ai-development-lead-builder-arquitecto-de-soluciones-at-alce-alce-consultores-4404957021": 1,
     "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4409016623": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-pindrop-4396360575": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/consultant-model-build-at-gridlines-4412557027": 1,
     "https://www.linkedin.com/jobs/view/sr-ps-consultant-at-genesys-4401845034": 1,
     "https://www.linkedin.com/jobs/view/consultant-psychiatrist-at-montu-uk-4412504107": 1,
-    "https://www.linkedin.com/jobs/view/rvp-enterprise-at-augury-4382192913": 1
+    "https://www.linkedin.com/jobs/view/rvp-enterprise-at-augury-4382192913": 1,
+    "https://www.linkedin.com/jobs/view/infor-time-consultant-at-enterprise-solutions-inc-4411712254": 1,
+    "https://www.linkedin.com/jobs/view/consultant-d-velop-documents-m-w-d-in-voll-oder-teilzeit-fully-remote-m%c3%b6glich-at-transferdata-gmbh-4412535709": 1,
+    "https://www.linkedin.com/jobs/view/clinical-study-builder-india-at-indero-formerly-innovaderm-4403852106": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-americas-at-airwallex-4393136580": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371139317": 1,
+    "https://www.linkedin.com/jobs/view/local-policy-and-community-affairs-manager-at-wing-4391203740": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
