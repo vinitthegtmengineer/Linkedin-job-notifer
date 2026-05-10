@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369266665": 1,
-    "https://www.linkedin.com/jobs/view/project-electrical-enginee-at-jobgether-4406970798": 1,
-    "https://www.linkedin.com/jobs/view/industrial-engineer-operations-optimization-integration-at-dwyeromega-4408752010": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369265737": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4407340867": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-tiktok-at-twine-4398260029": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-peek-4407047592": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-dole-packaged-foods-4383935893": 1,
     "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4407359172": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-teamative-4408768710": 1,
     "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399262963": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/online-marketing-executive-at-luxmove-thailand-4412335512": 1,
     "https://www.linkedin.com/jobs/view/jira-atlassian-consultant-freelancer-at-deccan-ai-experts-4412442433": 1,
     "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4412352254": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-builder-at-hackajob-4412362302": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-product-marketing-gtm-at-notion-4334168739": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-delivery-at-ankar-4404900384": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-product-marketing-gtm-at-notion-4334337617": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-operations-at-moloco-4381916968": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-opus-4412468714": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-giga-4363151130": 1,
+    "https://www.linkedin.com/jobs/view/director-developer-gtm-at-cloudflare-4348313478": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
