@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-consultant-at-orico-light-4409180113": 1,
-    "https://www.linkedin.com/jobs/view/builder-architect-specialist-northern-california-at-velux-4388137494": 1,
-    "https://www.linkedin.com/jobs/view/lead-ai-builder-at-inmarket-4397629169": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-venues-events-at-great-british-drinks-company-4409145941": 1,
     "https://www.linkedin.com/jobs/view/driver-operator-program-coordinator-at-center-for-public-partnerships-research-4409049217": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-builder-tools-at-ladders-4407207011": 1,
     "https://www.linkedin.com/jobs/view/ceo-office-ai-accelerator-lead-builder-at-noon-4409171596": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-executive-at-business-success-revealed-4412399195": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-lamipak-4412378980": 1,
     "https://www.linkedin.com/jobs/view/growth-operator-community-activation-at-kredo-4412550885": 1,
-    "https://www.linkedin.com/jobs/view/archaeological-field-technicians-field-based-at-erm-4318992801": 1
+    "https://www.linkedin.com/jobs/view/archaeological-field-technicians-field-based-at-erm-4318992801": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290927882": 1,
+    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4311754029": 1,
+    "https://www.linkedin.com/jobs/view/head-of-channel-alliances-%e2%82%ac100k%e2%80%93%e2%82%ac150k-ote-cybersecurity-germany-at-bluebird-4406477903": 1,
+    "https://www.linkedin.com/jobs/view/manager-social-media-at-real-chemistry-4381999830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
