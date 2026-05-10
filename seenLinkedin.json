@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vacature-remote-operator-portpeople-at-jobster-4407359172": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-teamative-4408768710": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4399262963": 1,
-    "https://www.linkedin.com/jobs/view/operations-mechanical-engineer-nashville-tn-at-oracle-4406474008": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-4-at-nuclear-energy-consultants-inc-4407060137": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-clarges-trading-ltd-international-distributor-of-british-and-european-food-drink-brands-4408513338": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4406463855": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-12-months-remote-at-ise-partners-4408770519": 1,
-    "https://www.linkedin.com/jobs/view/binance-accelerator-program-techops-engineer-observability-ai-ops-at-binance-4397223698": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-agencybloc-4408592220": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-one-identity-4398616882": 1,
     "https://www.linkedin.com/jobs/view/consumer-marketing-manager-india-at-openai-4374884124": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-the-conqueror-challenges-4408734532": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-operations-at-moloco-4381916968": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-opus-4412468714": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-at-giga-4363151130": 1,
-    "https://www.linkedin.com/jobs/view/director-developer-gtm-at-cloudflare-4348313478": 1
+    "https://www.linkedin.com/jobs/view/director-developer-gtm-at-cloudflare-4348313478": 1,
+    "https://www.linkedin.com/jobs/view/vodafonethree-project-engineer-at-vodafonethree-4412476316": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-actalent-4411965599": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-abb-4403524586": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-actalent-4411954873": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4412523844": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-actalent-4411955857": 1,
+    "https://www.linkedin.com/jobs/view/senior-sre-devops-operations-engineer-at-johnson-technology-systems-inc-4412456160": 1,
+    "https://www.linkedin.com/jobs/view/iga-operations-engineer-remote-at-velera-4392428320": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4412449531": 1,
+    "https://www.linkedin.com/jobs/view/director-fusion-sales-americas-at-autodesk-4324120324": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
