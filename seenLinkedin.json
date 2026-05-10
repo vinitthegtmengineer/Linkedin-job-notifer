@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-i-at-e2-consulting-engineers-inc-4408579624": 1,
-    "https://www.linkedin.com/jobs/view/technical-support-engineer-at-dataiku-4384497111": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%85%a8%e5%9b%bd%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc-%e2%97%86%e4%bf%9d%e8%82%b2%e3%83%bb%e6%95%99%e8%82%b2%e6%96%bd%e8%a8%ad%e5%90%91%e3%81%91%e3%81%ae%e6%a5%ad%e5%8b%99%e6%94%af%e6%8f%b4saas-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4408724869": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369266665": 1,
     "https://www.linkedin.com/jobs/view/project-electrical-enginee-at-jobgether-4406970798": 1,
     "https://www.linkedin.com/jobs/view/industrial-engineer-operations-optimization-integration-at-dwyeromega-4408752010": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/principal-gtm-engineer-at-disqo-4411968076": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-endor-labs-4412424434": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-at-reindeer-4401362389": 1,
-    "https://www.linkedin.com/jobs/view/online-marketing-executive-at-luxmove-thailand-4412335512": 1
+    "https://www.linkedin.com/jobs/view/online-marketing-executive-at-luxmove-thailand-4412335512": 1,
+    "https://www.linkedin.com/jobs/view/jira-atlassian-consultant-freelancer-at-deccan-ai-experts-4412442433": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4412352254": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-academy-at-guild-4382190653": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
