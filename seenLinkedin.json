@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-visual-editor-builder-react-typescript-at-xresearch-4408794904": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineering-specialist-at-rocket-software-4399476022": 1,
-    "https://www.linkedin.com/jobs/view/data-operations-engineer-at-uplight-4406480952": 1,
-    "https://www.linkedin.com/jobs/view/sr-operations-engineer-at-radial-inc-4363781542": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-executive-at-outcomes-first-group-4406486310": 1,
-    "https://www.linkedin.com/jobs/view/social-media-director-at-accel-marketing-solutions-inc-4409020137": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-gocanvas-4408552324": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-owner-com-4408570108": 1,
-    "https://www.linkedin.com/jobs/view/senior-insight-analyst-operations-engineering-at-hackajob-4407390991": 1,
-    "https://www.linkedin.com/jobs/view/principal-insight-analyst-operations-engineering-at-hackajob-4407604062": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-magazine-4406485972": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-prosci-4399452538": 1,
     "https://www.linkedin.com/jobs/view/tech-engagement-lead-model-builder-at-nvidia-4395486150": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-softheon-4409022596": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/mlops-engineer-jax-pytorch-pallas-triton-at-humanitapp-4412362555": 1,
     "https://www.linkedin.com/jobs/view/cloud-operations-engineer-at-varicent-4402769140": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-value-growth-advisory-4412368718": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-city-wonders-4390746294": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-city-wonders-4390746294": 1,
+    "https://www.linkedin.com/jobs/view/art-ceramics-emphasis-instructor-part-time-faculty-pool-at-inside-higher-ed-4412337115": 1,
+    "https://www.linkedin.com/jobs/view/plasterer-at-e-k-companies-inc-4343009450": 1,
+    "https://www.linkedin.com/jobs/view/aggregate-technician-amrg-llc-at-ecology-auto-parts-inc-4412505264": 1,
+    "https://www.linkedin.com/jobs/view/particle-processing-operator-at-saint-gobain-ceramics-sgp-4389334140": 1,
+    "https://www.linkedin.com/jobs/view/technical-services-representative-at-votorantim-cimentos-north-america-vcna-4371999561": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-shipbob-4371716149": 1,
+    "https://www.linkedin.com/jobs/view/ingenieur-energiewirtschaft-smart-metering-netzsteuerung-all-genders-at-alten-germany-4412372606": 1,
+    "https://www.linkedin.com/jobs/view/growth-partner-development-manager-at-omnissa-4381321314": 1,
+    "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-peach-4371607990": 1,
+    "https://www.linkedin.com/jobs/view/assistant-manager-performance-marketing-at-cactus-communications-4402732674": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-robert-half-4411990716": 1,
+    "https://www.linkedin.com/jobs/view/deals-promotions-program-manager-at-wolt-4412377346": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
