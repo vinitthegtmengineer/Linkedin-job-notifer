@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-development-lead-builder-arquitecto-de-soluciones-at-alce-alce-consultores-4404957021": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4409016623": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-pindrop-4396360575": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-systems-automation-at-workmotion-4406479151": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-systems-automation-at-workmotion-4406474320": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-at-symphonyai-4409026609": 1,
-    "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4409043865": 1,
-    "https://www.linkedin.com/jobs/view/contact-center-engineer-at-stier-solutions-inc-4407619297": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-a-en-inteligencia-artificial-generativa-at-ntt-data-europe-latam-4407089593": 1,
-    "https://www.linkedin.com/jobs/view/soar-engineer-at-jobs-via-dice-4407640067": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-deel-4407621758": 1,
     "https://www.linkedin.com/jobs/view/value-engineer-public-sector-at-deepset-makers-of-haystack-4357433792": 1,
     "https://www.linkedin.com/jobs/view/senior-specialist-sales-engineering-at-l3harris-technologies-4386953981": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-ai-first-m-w-d-at-recare-4408795182": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-wrapbook-4382335541": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-americas-at-airwallex-4393136580": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371139317": 1,
-    "https://www.linkedin.com/jobs/view/local-policy-and-community-affairs-manager-at-wing-4391203740": 1
+    "https://www.linkedin.com/jobs/view/local-policy-and-community-affairs-manager-at-wing-4391203740": 1,
+    "https://www.linkedin.com/jobs/view/ca-forensic-consultant-at-mahayukti-advisory-4412373962": 1,
+    "https://www.linkedin.com/jobs/view/yesero-1-at-e-k-companies-inc-4343110123": 1,
+    "https://www.linkedin.com/jobs/view/store-construction-at-braum-s-4412540282": 1,
+    "https://www.linkedin.com/jobs/view/estimator-at-clark-construction-group-4409037776": 1,
+    "https://www.linkedin.com/jobs/view/cement-mason-at-adolfson-peterson-construction-4360886466": 1,
+    "https://www.linkedin.com/jobs/view/construction-roof-loader-at-richards-building-supply-co-4385506146": 1,
+    "https://www.linkedin.com/jobs/view/leaffilter-installer-fayetteville-at-leaf-home-3713587413": 1,
+    "https://www.linkedin.com/jobs/view/siding-installer-at-eastwood-custom-homes-inc-4406991518": 1,
+    "https://www.linkedin.com/jobs/view/construction-carpenter-at-barnard-4412363538": 1,
+    "https://www.linkedin.com/jobs/view/google-cloud-partnership-manager-at-qodea-4412552268": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
