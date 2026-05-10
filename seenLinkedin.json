@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/value-engineer-public-sector-at-deepset-makers-of-haystack-4357433792": 1,
-    "https://www.linkedin.com/jobs/view/senior-specialist-sales-engineering-at-l3harris-technologies-4386953981": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-first-m-w-d-at-recare-4408795182": 1,
-    "https://www.linkedin.com/jobs/view/defi-engineer-at-jobgether-4407313617": 1,
-    "https://www.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4409031305": 1,
-    "https://www.linkedin.com/jobs/view/global-sales-plays-manager-gtm-remote-at-stage-4-solutions-4406758248": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategist-remote-at-punch%21-4408785861": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-enablement-gtm-programs-at-vanta-4407634725": 1,
     "https://www.linkedin.com/jobs/view/director-product-marketing-%e2%80%93-gtm-at-jobgether-4407379743": 1,
     "https://www.linkedin.com/jobs/view/director-partner-gtm-activation-at-idc-4409004033": 1,
     "https://www.linkedin.com/jobs/view/head-of-channel-alliances-%e2%82%ac100k%e2%80%93%e2%82%ac150k-ote-cybersecurity-germany-at-bluebird-4406477903": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/siding-installer-at-eastwood-custom-homes-inc-4406991518": 1,
     "https://www.linkedin.com/jobs/view/construction-carpenter-at-barnard-4412363538": 1,
     "https://www.linkedin.com/jobs/view/google-cloud-partnership-manager-at-qodea-4412552268": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-reporting-at-arrowhead-programs-4356722086": 1,
+    "https://www.linkedin.com/jobs/view/archaeological-field-technicians-field-based-at-erm-4318997762": 1,
+    "https://www.linkedin.com/jobs/view/soils-technician-at-tetra-tech-4405490358": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-staff-engineer-product-marketing-at-microchip-technology-inc-4412312844": 1,
+    "https://www.linkedin.com/jobs/view/storage-operations-engineer-multiple-openings-at-vultr-4365381301": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-engineer-canada-remote-at-grafana-labs-4391737446": 1,
+    "https://www.linkedin.com/jobs/view/project-engineering-manager-at-the-green-recruitment-company-4412391126": 1,
+    "https://www.linkedin.com/jobs/view/growth-solutions-architect-uki-at-deel-4402789128": 1,
+    "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4407476760": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
