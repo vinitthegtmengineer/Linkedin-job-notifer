@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-crm-manager-social-casino-at-pentasia-4409184028": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409181260": 1,
-    "https://www.linkedin.com/jobs/view/driver-operator-program-coordinator-at-the-university-of-kansas-4409008361": 1,
-    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-land-at-fugro-4395435786": 1,
-    "https://www.linkedin.com/jobs/view/founding-emea-solutions-engineer-emea-%e2%82%ac160-220k-ote-%2b-equity-remote-presales-devops-at-tick-talent-4409064395": 1,
     "https://www.linkedin.com/jobs/view/engineering-ai-transformation-director-at-ping-identity-4409162837": 1,
     "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4407902798": 1,
     "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4407905756": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-crux-productions-4412570784": 1,
     "https://www.linkedin.com/jobs/view/senior-vascular-consultant-southern-california-at-argon-medical-devices-inc-4382644147": 1,
     "https://www.linkedin.com/jobs/view/senior-vascular-consultant-northern-california-at-argon-medical-devices-inc-4387871564": 1,
-    "https://www.linkedin.com/jobs/view/senior-vascular-consultant-sacramento-at-argon-medical-devices-inc-4387492713": 1
+    "https://www.linkedin.com/jobs/view/senior-vascular-consultant-sacramento-at-argon-medical-devices-inc-4387492713": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-mechanism-ventures-4381488885": 1,
+    "https://www.linkedin.com/jobs/view/marketing-engineer-at-expandiq-4412579379": 1,
+    "https://www.linkedin.com/jobs/view/strategy-ops-engineer-at-happyrobot-4354174032": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-growth-at-navan-4412390461": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-wolff-digital-marketing-sezc-4412591027": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
