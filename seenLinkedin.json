@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/director-product-marketing-%e2%80%93-gtm-at-jobgether-4407379743": 1,
-    "https://www.linkedin.com/jobs/view/director-partner-gtm-activation-at-idc-4409004033": 1,
-    "https://www.linkedin.com/jobs/view/head-of-channel-alliances-%e2%82%ac100k%e2%80%93%e2%82%ac150k-ote-cybersecurity-germany-at-bluebird-4406477903": 1,
-    "https://www.linkedin.com/jobs/view/social-media-and-meta-ads-campaign-manager-at-bamboo-works-4408737822": 1,
     "https://www.linkedin.com/jobs/view/assistant-manager-marketing-operations-communications-at-qdoba-restaurant-corporation-4407635137": 1,
     "https://www.linkedin.com/jobs/view/loyalty-marketing-manager-209805-at-aquent-4409111011": 1,
     "https://www.linkedin.com/jobs/view/senior-regional-marketing-manager-india-at-gitlab-4399487246": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/staff-ai-engineer-canada-remote-at-grafana-labs-4391737446": 1,
     "https://www.linkedin.com/jobs/view/project-engineering-manager-at-the-green-recruitment-company-4412391126": 1,
     "https://www.linkedin.com/jobs/view/growth-solutions-architect-uki-at-deel-4402789128": 1,
-    "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4407476760": 1
+    "https://www.linkedin.com/jobs/view/ai-platform-engineer-production-ai-systems-at-ideawise-group-4407476760": 1,
+    "https://www.linkedin.com/jobs/view/strategic-advisor-operator-%2b-investment-%e2%80%94-restaurant-ai-startup-at-orkeneo-4412380762": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-emea-at-dbt-labs-4381915592": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-business-operations-at-sofi-4391133489": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-martech-ai-transformation-at-zendesk-4400878226": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
