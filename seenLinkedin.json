@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402599789": 1,
-    "https://www.linkedin.com/jobs/view/operator-analyst-at-clickqube-4406490571": 1,
-    "https://www.linkedin.com/jobs/view/directional-drill-operator-locator-long-haul-travel-at-mastec-communications-group-4402624616": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4408557207": 1,
     "https://www.linkedin.com/jobs/view/senior-frontend-engineer-visual-editor-builder-react-typescript-at-xresearch-4408794904": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sardine-4383432312": 1,
     "https://www.linkedin.com/jobs/view/sales-engineering-specialist-at-rocket-software-4399476022": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-kharon-4403486152": 1,
     "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-verkada-4365218661": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-data-specialist-xdr-sales-enablement-at-jfrog-4402721848": 1,
-    "https://www.linkedin.com/jobs/view/co-marketing-activation-lead-ads-new-ventures-at-artech-l-l-c-4411905820": 1
+    "https://www.linkedin.com/jobs/view/co-marketing-activation-lead-ads-new-ventures-at-artech-l-l-c-4411905820": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-jax-pytorch-pallas-triton-at-humanitapp-4412362555": 1,
+    "https://www.linkedin.com/jobs/view/cloud-operations-engineer-at-varicent-4402769140": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-value-growth-advisory-4412368718": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-city-wonders-4390746294": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
