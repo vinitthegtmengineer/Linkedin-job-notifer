@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409176480": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363620496": 1,
     "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-omada-health-4406792114": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409179404": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-booksy-4398836452": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/founder-s-office-operator-%e2%80%94-ea-chief-of-staff-claude-native-at-impacter-pathway-4412609282": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-manager-at-assetwatch%c2%ae-4392454211": 1,
     "https://www.linkedin.com/jobs/view/managing-director-revenue-operations-at-asme-the-american-society-of-mechanical-engineers-4398955272": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-brand-operations-at-bookies-finance-4412580217": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-brand-operations-at-bookies-finance-4412580217": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e5%87%ba%e8%b3%87%e3%81%ae%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e5%b0%82%e9%96%80%e4%bc%81%e6%a5%ad%ef%bc%8fpython-%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4412396620": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91cobol%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e9%87%91%e8%9e%8d%e3%83%bb%e4%bf%9d%e9%99%ba%ef%bc%8fjava%e7%b5%8c%e9%a8%93%e6%ad%93%e8%bf%8e%ef%bc%8f%e7%a6%8f%e5%88%a9%e5%8e%9a%e7%94%9f%e5%85%85%e5%ae%9f%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%93%ef%bd%90-4412394623": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
