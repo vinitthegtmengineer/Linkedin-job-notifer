@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362354087": 1,
-    "https://www.linkedin.com/jobs/view/staff-product-builder-at-sophyworks-4406799543": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409181263": 1,
     "https://www.linkedin.com/jobs/view/machine-safety-specialist-%e2%80%93-sales-engineering-at-grantek-4406791693": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/head-project-engineering-at-qatarenergy-4412539743": 1,
     "https://www.linkedin.com/jobs/view/engineering-lead-security-operations-at-anchorage-digital-4365637603": 1,
     "https://www.linkedin.com/jobs/view/process-mechanical-engineer-at-jedson-engineering-4323573155": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-codex-hire-4412576706": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-codex-hire-4412576706": 1,
+    "https://www.linkedin.com/jobs/view/growth-performance-marketing-operator-at-findworka-4412585482": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-executive-demand-generation-at-unisys-4382126845": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
