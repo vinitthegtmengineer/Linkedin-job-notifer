@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/monetization-consultant-game-%e2%80%93-strategic-advisor-at-puzzle-studio-4407671073": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-foorm-4409081788": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-at-gtmatiq-4406725154": 1,
-    "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-yhangry-4409058109": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-onetablet-4408586789": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-systems-engineer-at-wiz-4406760544": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4407668756": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4407657840": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4407655932": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-emea-remote-at-pragmatike-4407661799": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-elite-magazine-4406748545": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4407684259": 1,
     "https://www.linkedin.com/jobs/view/consultant-england-blind-head-coach-secondments-and-consultants-considered-at-england-wales-cricket-board-ecb-4406449917": 1,
     "https://www.linkedin.com/jobs/view/remote-e-marketing-executive-at-ecobright-consulting-4407692029": 1,
     "https://www.linkedin.com/jobs/view/workfront-fusion-consultant-at-brickred-systems-4409138933": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/software-engineer-i-secure-platform-operations-remote-eligible-at-smartsheet-4387718236": 1,
     "https://www.linkedin.com/jobs/view/salesforce-engineer-at-netrolynx-ai-4412375919": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dataannotation-4324760839": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-mineralys-therapeutics-inc-4403884282": 1
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-mineralys-therapeutics-inc-4403884282": 1,
+    "https://www.linkedin.com/jobs/view/defence-consultant-at-kainos-4412399152": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-talent-design-d-exp%c3%a9rience-4412603016": 1,
+    "https://www.linkedin.com/jobs/view/online-marketing-manager-m-w-d-fokus-auf-performance-seo-social-media-at-mod-education-4412376788": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-funnel-manager-m-w-d-at-lff-marketing-and-pr-est-4412557422": 1,
+    "https://www.linkedin.com/jobs/view/client-success-manager-%c2%b7-marketing-agency-%c2%b7-remote-latam-at-emma-of-torre-ai-4412305755": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-social-media-m-w-d-fokus-auf-datengest%c3%bctztes-marketing-at-mod-education-4412376784": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-adoption-lifecycle-at-bloomerang-4408877100": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-bloomerang-4400459296": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-x-academy-hotselling-4412523730": 1,
+    "https://www.linkedin.com/jobs/view/audience-insights-strategy-manager-influencer-marketing-at-the-shelf-influencer-marketing-agency-4412321845": 1,
+    "https://www.linkedin.com/jobs/view/sr-field-marketing-manager-at-alteryx-4398706621": 1,
+    "https://www.linkedin.com/jobs/view/senior-online-marketing-manager-m-f-d-at-onepage-4412539378": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-10",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
