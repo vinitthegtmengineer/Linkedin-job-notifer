@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/e-builder-consultant-at-avicado-4409582243": 1,
-    "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409584244": 1,
-    "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409578285": 1,
-    "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409584245": 1,
-    "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409582240": 1,
-    "https://www.linkedin.com/jobs/view/workspace-one-operations-engineer-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4409570322": 1,
-    "https://www.linkedin.com/jobs/view/onboarding-consultant-i-xtrachef-bilingual-mandarin-at-toast-4400656379": 1,
-    "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-paid-ads-at-digitalads-4407279144": 1,
-    "https://www.linkedin.com/jobs/view/merchandise-planner-at-petco-4400587700": 1,
     "https://www.linkedin.com/jobs/view/consultant-brazil-at-sailpoint-4388104875": 1,
     "https://www.linkedin.com/jobs/view/e-builder-analyst-at-avicado-4409568351": 1,
     "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4407237366": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/managing-director-marketing-services-at-jobgether-4412713549": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-iperformance-media-pvt-ltd-4413025536": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401616474": 1,
-    "https://www.linkedin.com/jobs/view/strategy-operations-analyst-remote-at-crossing-hurdles-4412753492": 1
+    "https://www.linkedin.com/jobs/view/strategy-operations-analyst-remote-at-crossing-hurdles-4412753492": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-fidenda-4412774322": 1,
+    "https://www.linkedin.com/jobs/view/entra-id-consultant-at-globalsource-it-4412777071": 1,
+    "https://www.linkedin.com/jobs/view/senior-viva-consultant-at-innovator-web-solutions-pvt-ltd-4413015902": 1,
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-%e2%80%93-builder-plateforme-sant%c3%a9-at-relaisant%c3%a9-4412772568": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-datadog-at-insight-global-4413025746": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-bsc-freelancer-at-deccan-ai-experts-4412743777": 1,
+    "https://www.linkedin.com/jobs/view/staff-ai-engineer-grafana-ops-ai-ml-canada-remote-at-grafana-labs-4346487893": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-sales-at-jobgether-4412755593": 1,
+    "https://www.linkedin.com/jobs/view/strategy-operations-analyst-remote-at-crossing-hurdles-4412754455": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
