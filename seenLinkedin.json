@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-ops-event-coordinator-at-booth-4407606321": 1,
-    "https://www.linkedin.com/jobs/view/co-founder-healthcare-operator-healthcare-startup-at-aurux-4409819540": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-commercial-content-at-veeva-systems-4377294801": 1,
     "https://www.linkedin.com/jobs/view/consultant-clinical-operations-remote-europe-at-veeva-systems-4377600634": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105946897": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-agent-builder-at-altimetrik-4412960505": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-software-engineer-at-akkodis-4413137342": 1,
     "https://www.linkedin.com/jobs/view/digital-advertising-campaign-manager-at-tremendous-4412956538": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412932419": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412932419": 1,
+    "https://www.linkedin.com/jobs/view/creative-repair-specialist-at-surface-experts-4412752709": 1,
+    "https://www.linkedin.com/jobs/view/cement-finisher-3353-b-rev-08-04-25-at-city-of-los-angeles-4412721752": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
