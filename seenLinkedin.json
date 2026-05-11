@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-partner-enablement-aws-cloud-at-openai-4398861087": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-mongoose-4407960512": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-strategist-real-estate-niche-at-emma-of-torre-ai-4409553155": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-crm-b2b-professional-services-at-erp-apps-pty-ltd-4407980702": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-netrolynx-ai-4409528928": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-anywhere-real-estate-inc-4409538747": 1,
-    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-gamechanger-4400261355": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4398063298": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-software-engineer-data-observability-operational-tooling-at-accelerant-4409478013": 1,
-    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4407996401": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-mongoose-4407962438": 1,
-    "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4409563904": 1,
-    "https://www.linkedin.com/jobs/view/google-workspace-engineer-at-nasscomm-4407973113": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-operations-engineer-customer-experience-at-reap-4409571004": 1,
     "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4407256696": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-mongoose-4407953559": 1,
     "https://www.linkedin.com/jobs/view/adobe-core-workfront-consultant-at-sixteenfifty-4406792679": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/marketing-crm-campaign-planning-delivery-manager-at-amgen-4406828360": 1,
     "https://www.linkedin.com/jobs/view/executive-level-remote-role-in-personal-development-marketing-at-3-years-on-a-rock-4412724512": 1,
     "https://www.linkedin.com/jobs/view/associate-digital-marketing-manager-at-dexcom-4380600310": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-specialist-ii-at-infoblox-4401281447": 1
+    "https://www.linkedin.com/jobs/view/campaign-operations-specialist-ii-at-infoblox-4401281447": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4412684658": 1,
+    "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4412692285": 1,
+    "https://www.linkedin.com/jobs/view/german-speaking-customer-support-operator-at-autodoc-4412681717": 1,
+    "https://www.linkedin.com/jobs/view/consultor-brm-at-gedos-tu-negocio-m%c3%a1s-rentable-4412719546": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-emea-at-smartcat-4412738949": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-we%e2%80%99re-hiring-senior-databricks-engineer-fully-remote-%f0%9f%8c%8d-eu-based-at-datanet-systems-4412743639": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-%e2%80%94-jax-pytorch-triton-remote-india-at-para-ai-labs-4412666734": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-relocation-to-munich-at-understanding-recruitment-4412748259": 1,
+    "https://www.linkedin.com/jobs/view/workspace-one-operations-engineer-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4412740873": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-automation-testing-python-pyspark-sql-at-nielseniq-4412750317": 1,
+    "https://www.linkedin.com/jobs/view/process-improvment-engineer-dairy-at-csg-talent-4412742685": 1,
+    "https://www.linkedin.com/jobs/view/regional-vice-president-lakebase-sales-specialists-at-databricks-4380290818": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401627360": 1,
+    "https://www.linkedin.com/jobs/view/strategy-operations-analyst-remote-at-crossing-hurdles-4412751646": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
