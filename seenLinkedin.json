@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/zoa-remote-pilot-operator-at-saic-4409159917": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-custom-logic-automa%c3%a7%c3%a3o-4407943219": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409184194": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409406851": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-analyst-fl-nc-tx-at-zumba-4409425383": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387886936": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388103246": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/sr-director-go-to-market-apac-at-g-p-4390036423": 1,
     "https://www.linkedin.com/jobs/view/director-fusion-sales-americas-at-autodesk-4324090389": 1,
     "https://www.linkedin.com/jobs/view/junior-marketing-executive-remote-vietnam-based-at-dream-station-pte-limited-4412608944": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-packback-4408505059": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-at-packback-4408505059": 1,
+    "https://www.linkedin.com/jobs/view/freelance-job-posting-3d-modeler-architecture-landscape-or-interior-at-m-hudson-design-4412623314": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-remote-entry-level-at-holland-fintech-association-4412582973": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-thundersoft-4405953563": 1,
+    "https://www.linkedin.com/jobs/view/data-scientist-at-sundayy-4412388230": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
