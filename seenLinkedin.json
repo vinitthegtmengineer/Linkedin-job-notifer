@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4400201678": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-allwhere-4407226140": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387896608": 1,
-    "https://www.linkedin.com/jobs/view/senior-culinary-consultant-remote-at-foodbuy-usa-4409463289": 1,
-    "https://www.linkedin.com/jobs/view/consultor-fi-grow-at-perceptio-s-a-s-4407649686": 1,
-    "https://www.linkedin.com/jobs/view/eam-consultant-at-codex-4409192897": 1,
-    "https://www.linkedin.com/jobs/view/human-rights-investigations-team-lead-consultant-at-reliefweb-4409419761": 1,
-    "https://www.linkedin.com/jobs/view/senior-c%2b%2b-package-builder-engineer-at-softserve-4397276313": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-compute-forecast-4407205882": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-lifecycle-at-wealthfront-4407955155": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409456310": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-hired-4409442701": 1,
     "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4409457897": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-mobilus-corporation-4409462686": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4412706377": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4412712132": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4412711033": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-at-talent-studio-4411987284": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-at-talent-studio-4411987284": 1,
+    "https://www.linkedin.com/jobs/view/mason-at-bast-hatfield-construction-llc-4412590301": 1,
+    "https://www.linkedin.com/jobs/view/refractory-installation-bricklayer-at-bluescope-4412633421": 1,
+    "https://www.linkedin.com/jobs/view/spares-engineer-at-atexis-4401040685": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-ddn-4314714395": 1,
+    "https://www.linkedin.com/jobs/view/sr-director-field-marketing-ams-at-jobgether-4412718170": 1,
+    "https://www.linkedin.com/jobs/view/managing-director-revenue-operations-at-asme-the-american-society-of-mechanical-engineers-4398955273": 1,
+    "https://www.linkedin.com/jobs/view/campaign-success-executive-at-newrix-media-4412642207": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-campaign-operations-at-smartsheet-4412599864": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-remote-part-time-at-crucialpoint-4412714426": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-achilles-heel-productions-4412702869": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-jobgether-4412701928": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
