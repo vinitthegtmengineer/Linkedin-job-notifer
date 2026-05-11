@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-stem-engineer-brazil-at-rex-zone-4388393463": 1,
-    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388581562": 1,
-    "https://www.linkedin.com/jobs/view/detection-and-response-engineer-at-dataannotation-4387897577": 1,
     "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388593146": 1,
     "https://www.linkedin.com/jobs/view/genai-engineering-coach-all-genders-at-adesso-se-4329526868": 1,
     "https://www.linkedin.com/jobs/view/senior-observability-engineer-f-m-x-at-sii-poland-4399034298": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-mainspring-energy-4402788276": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-post-sales-at-dialpad-japan-4413062353": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413155382": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413153478": 1
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413153478": 1,
+    "https://www.linkedin.com/jobs/view/builder-in-residence-at-alana-ai-4412993192": 1,
+    "https://www.linkedin.com/jobs/view/fractional-go-to-market-engineer-at-atqleads-4412977698": 1,
+    "https://www.linkedin.com/jobs/view/vp-go-to-market-strategy-execution-at-goodrx-4412980676": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
