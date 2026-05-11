@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-commercial-content-at-veeva-systems-4377294801": 1,
-    "https://www.linkedin.com/jobs/view/consultant-clinical-operations-remote-europe-at-veeva-systems-4377600634": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105946897": 1,
-    "https://www.linkedin.com/jobs/view/deltek-costpoint-consultant-at-kinetek-consulting-4409805501": 1,
-    "https://www.linkedin.com/jobs/view/consultant-informationssicherheitsmanagement-kritis-all-genders-at-adesso-se-3959211244": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-provider-tech-at-baker-tilly-us-4399061507": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-pharma-gxp-csv-expert-erp-systems-all-genders-at-adesso-se-4105947717": 1,
-    "https://www.linkedin.com/jobs/view/consultant-informationssicherheitsmanagement-kritis-all-genders-at-adesso-se-3959207788": 1,
     "https://www.linkedin.com/jobs/view/consultant-siemens-opcenter-all-genders-at-adesso-se-4194198253": 1,
     "https://www.linkedin.com/jobs/view/cmdb-consultant-at-teconica-softwares-4407965009": 1,
     "https://www.linkedin.com/jobs/view/remote-stem-engineer-brazil-at-rex-zone-4388393463": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-advertising-campaign-manager-at-tremendous-4412956538": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412932419": 1,
     "https://www.linkedin.com/jobs/view/creative-repair-specialist-at-surface-experts-4412752709": 1,
-    "https://www.linkedin.com/jobs/view/cement-finisher-3353-b-rev-08-04-25-at-city-of-los-angeles-4412721752": 1
+    "https://www.linkedin.com/jobs/view/cement-finisher-3353-b-rev-08-04-25-at-city-of-los-angeles-4412721752": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-j-s-held-llc-4412966975": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-vizient-inc-4412974208": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-coach-innerschweiz-at-newplace-ag-4412952972": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413164101": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-orbital-4350906970": 1,
+    "https://www.linkedin.com/jobs/view/revops-manager-ny-or-boston-at-adaptive-ml-4400558842": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-mainspring-energy-4402788276": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-post-sales-at-dialpad-japan-4413062353": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
