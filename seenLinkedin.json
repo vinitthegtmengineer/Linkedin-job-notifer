@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4388593146": 1,
-    "https://www.linkedin.com/jobs/view/genai-engineering-coach-all-genders-at-adesso-se-4329526868": 1,
     "https://www.linkedin.com/jobs/view/senior-observability-engineer-f-m-x-at-sii-poland-4399034298": 1,
     "https://www.linkedin.com/jobs/view/engineer-autocad-drafter-at-the-a-career-4409593980": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-devops-at-remotehunter-4408329389": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413153478": 1,
     "https://www.linkedin.com/jobs/view/builder-in-residence-at-alana-ai-4412993192": 1,
     "https://www.linkedin.com/jobs/view/fractional-go-to-market-engineer-at-atqleads-4412977698": 1,
-    "https://www.linkedin.com/jobs/view/vp-go-to-market-strategy-execution-at-goodrx-4412980676": 1
+    "https://www.linkedin.com/jobs/view/vp-go-to-market-strategy-execution-at-goodrx-4412980676": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-hatchet-4413150620": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-remote-at-the-alora-collective-4412965446": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
