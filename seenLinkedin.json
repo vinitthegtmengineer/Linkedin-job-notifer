@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-revolut-4317896550": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409181263": 1,
-    "https://www.linkedin.com/jobs/view/machine-safety-specialist-%e2%80%93-sales-engineering-at-grantek-4406791693": 1,
-    "https://www.linkedin.com/jobs/view/business-intelligence-analyst-analytics-engineer-hybrid-usa-remote-at-turnitin-4388108320": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-giga-4368856872": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4361629431": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-talentoindia-jobs-hiring-platform-4407684066": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-specialist-at-fatty15-4407656444": 1,
-    "https://www.linkedin.com/jobs/view/vp-advisor-consultant-at-fidelity-investments-4378051673": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-manager-at-opensesame-4409407616": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-contract-at-tawkify-4407925332": 1,
-    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4399894997": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387889932": 1,
-    "https://www.linkedin.com/jobs/view/survey-instrument-operator-at-actalent-4409120682": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388101514": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-it-works-recruitment-europe-4351755815": 1,
     "https://www.linkedin.com/jobs/view/avi-consultant-vks-focused-at-tekgence-inc-4407943057": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/process-mechanical-engineer-at-jedson-engineering-4323573155": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-codex-hire-4412576706": 1,
     "https://www.linkedin.com/jobs/view/growth-performance-marketing-operator-at-findworka-4412585482": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-executive-demand-generation-at-unisys-4382126845": 1
+    "https://www.linkedin.com/jobs/view/field-marketing-executive-demand-generation-at-unisys-4382126845": 1,
+    "https://www.linkedin.com/jobs/view/senior-vascular-consultant-iowa-at-argon-medical-devices-inc-4390307053": 1,
+    "https://www.linkedin.com/jobs/view/adjunct-faculty-non-credit-ceramics-at-inside-higher-ed-4412607242": 1,
+    "https://www.linkedin.com/jobs/view/addetto-a-alla-smalteria-at-agenzia-regionale-per-il-lavoro-emilia-romagna-4412588127": 1,
+    "https://www.linkedin.com/jobs/view/ausbildung-zum-industriekeramiker-m-w-d-f%c3%bcr-anlagentechnik-at-steuler-linings-4412395875": 1,
+    "https://www.linkedin.com/jobs/view/plasterer-at-e-k-companies-inc-4342919965": 1,
+    "https://www.linkedin.com/jobs/view/finishing-technician-craftsperson-at-williams-sonoma-inc-4002947586": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-and-gtm-engineer-at-chatgpt-jobs-4412371804": 1,
+    "https://www.linkedin.com/jobs/view/country-manager-engineer-without-salary-only-commission-at-turali-group-4412606864": 1,
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-kubernetes-operations-at-marqeta-4411419348": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-at-stedi-4388542159": 1,
+    "https://www.linkedin.com/jobs/view/head-of-demand-partnerships-at-nimbus-4412582613": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analyst-marketing-operations-at-sundayy-4412378460": 1,
+    "https://www.linkedin.com/jobs/view/sr-digital-marketing-executive-at-seobrain-4412397460": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-terra-4402830213": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-05-10",
-    "cyclesToday": 40,
+    "date": "2026-05-11",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
