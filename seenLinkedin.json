@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/medical-claims-entry-operator-at-moda-health-4409828299": 1,
-    "https://www.linkedin.com/jobs/view/senior-effectiveness-consultant-at-mygwork-lgbtq%2b-business-community-4407274466": 1,
-    "https://www.linkedin.com/jobs/view/vacation-experience-consultant-at-blyss-journeys-4408317708": 1,
-    "https://www.linkedin.com/jobs/view/engineering-ai-transformation-director-at-ping-identity-4409593759": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad-dx-project%e3%80%91network-engineer%e3%80%90-%e6%96%b0%e3%83%81%e3%83%bc%e3%83%a0%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bbipo%e6%ba%96%e5%82%99%e4%b8%ad%e3%80%91-at-gaidoor-recruit-4409568448": 1,
-    "https://www.linkedin.com/jobs/view/head-of-americas-sales-at-miro-4399066385": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409813612": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-scada-engineering-thermal-at-invenergy-4369273678": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-ii-structures-at-rk-k-4406906927": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-client-manager-at-bankbound-4412904071": 1,
     "https://www.linkedin.com/jobs/view/urgent-need-for-ironclad-clm-consultant-remote-at-outdefine-4412912514": 1,
     "https://www.linkedin.com/jobs/view/ediscovery-consultant-%c2%a360-000-to-%c2%a370-000-remote-london-at-apt-search-4412912241": 1,
-    "https://www.linkedin.com/jobs/view/engineer-microsoft-at-jobgether-4412937015": 1
+    "https://www.linkedin.com/jobs/view/engineer-microsoft-at-jobgether-4412937015": 1,
+    "https://www.linkedin.com/jobs/view/modern-workplace-engineer-at-methods-4382049692": 1,
+    "https://www.linkedin.com/jobs/view/ai-fullstack-data-engineer-at-lasso-md-4412927990": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-campaign-marketing-manager-at-brightwheel-4412929761": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412927648": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412934305": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-remote-at-race-communications-4412938107": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
