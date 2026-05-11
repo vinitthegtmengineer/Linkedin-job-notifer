@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-and-marketing-manager-at-l3-campus-4409413913": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388108044": 1,
-    "https://www.linkedin.com/jobs/view/customer-support-operations-intelligence-engineer-at-seeq-corporation-4409435311": 1,
-    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4400210376": 1,
-    "https://www.linkedin.com/jobs/view/vp-revenue-operations-at-pindrop-4397617751": 1,
-    "https://www.linkedin.com/jobs/view/senior-martech-operations-manager-at-airbnb-4388184512": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-venus-fund-4407203841": 1,
-    "https://www.linkedin.com/jobs/view/remote-consultant-at-apex-workforce-advisory-4407691789": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-gtm-engineer-at-medscout-4409108289": 1,
-    "https://www.linkedin.com/jobs/view/regional-sales-engineer-chillers-western-us-at-lg-electronics-north-america-4329171537": 1,
     "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4400201678": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-allwhere-4407226140": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387896608": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/consultant-at-mercor-4412704181": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4412588964": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-and-project-manager-at-jobgether-4412121698": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-yibi-group-strategic-global-partner-to-luxury-maisons-4412622448": 1
+    "https://www.linkedin.com/jobs/view/marketing-director-at-yibi-group-strategic-global-partner-to-luxury-maisons-4412622448": 1,
+    "https://www.linkedin.com/jobs/view/german-speaking-customer-support-operator-at-autodoc-4390130628": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-at-sequence-computational-engineering-ltd-4412591298": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-riverside-4381270340": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-freemarket-4412362666": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-trimble-inc-4336732875": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4412590959": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4412706377": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4412712132": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4412711033": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-at-talent-studio-4411987284": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-11",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
