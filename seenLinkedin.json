@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-enix-ltd-4409852452": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-ai-jobs-4409818249": 1,
-    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-gulfton-capital-4407709683": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-franchise-enablement-manager-at-barre3-4409825249": 1,
-    "https://www.linkedin.com/jobs/view/remote-social-media-coordinator-at-jobs-via-dice-4407079795": 1,
-    "https://www.linkedin.com/jobs/view/operations-manager-europe-at-fever-4339795129": 1,
     "https://www.linkedin.com/jobs/view/income-builder-4404261134": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-youth-for-sustainable-policy-ysp-4408387123": 1,
     "https://www.linkedin.com/jobs/view/executive-operations-partner-philippines-remote-at-growthassistant-4409859070": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-goodstack-4413736000": 1,
     "https://www.linkedin.com/jobs/view/head-of-revenue-operations-at-you-com-4393260693": 1,
     "https://www.linkedin.com/jobs/view/director-enterprise-sales-us-at-firework-4413700782": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401623395": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401623395": 1,
+    "https://www.linkedin.com/jobs/view/monitoring-operator-at-exante-4413729372": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-j-s-held-llc-4413745001": 1,
+    "https://www.linkedin.com/jobs/view/software-development-engineer-ai-powered-high-velocity-builder-at-wve-la-4413808989": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406662410": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-na%c3%afve-4413562692": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-kavan%c3%a2-global-4413817725": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
