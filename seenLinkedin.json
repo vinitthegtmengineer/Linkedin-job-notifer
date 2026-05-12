@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/procore-consultant-at-avicado-4409584246": 1,
-    "https://www.linkedin.com/jobs/view/director-global-sales-enablement-at-dropbox-4400662600": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-managerial-at-microsourcing-4387939665": 1,
     "https://www.linkedin.com/jobs/view/benchmark-engineer-at-qdrant-4409800598": 1,
     "https://www.linkedin.com/jobs/view/director-revenue-operations-at-paper-4409859018": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-4407967621": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/campaign-management-analyst-at-accenture-in-india-4413206266": 1,
     "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-ig-group-4382794418": 1,
     "https://www.linkedin.com/jobs/view/paid-media-specialist-growth-marketing-at-gopuff-4404678356": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-customer-lifecycle-marketing-at-toast-4412998344": 1
+    "https://www.linkedin.com/jobs/view/senior-associate-customer-lifecycle-marketing-at-toast-4412998344": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4391712859": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-poly-bark-4407663956": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-210068-at-aquent-talent-4413180453": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
