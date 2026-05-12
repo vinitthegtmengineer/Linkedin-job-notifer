@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/brr%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%82%b7%e3%83%8b%e3%82%a2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bebit%ef%bc%86company-4341230063": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-m-w-at-strategy-transformation-consulting-gmbh-4407280395": 1,
-    "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-giga-4363520615": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-and-strategy-manager-at-samsara-4376201952": 1,
-    "https://www.linkedin.com/jobs/view/head-of-sales-ksa-at-sully-ai-4388771678": 1,
-    "https://www.linkedin.com/jobs/view/director-account-based-marketing-at-tempo-software-4363521406": 1,
-    "https://www.linkedin.com/jobs/view/sr-engineer-developer-relations-at-qualcomm-4398746895": 1,
-    "https://www.linkedin.com/jobs/view/manager-sales-strategy-operations-at-slice-4388550958": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-at-omnissa-4369836057": 1,
-    "https://www.linkedin.com/jobs/view/consultant-conveyancer-%e2%80%93-self-employed-at-pexa-4375528540": 1,
-    "https://www.linkedin.com/jobs/view/specialist-is-engineer-citrix-at-remotehunter-4408383146": 1,
-    "https://www.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4407708207": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-and-pharma-segment-director-at-mission-critical-group-4387945875": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-cognite-4362452162": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-whatnot-4398729460": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-netrolynx-ai-4409865015": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/head-of-gtm-strategy-and-execution-at-recomaze-ai-agent-4413152646": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-enterprise-strategy-gtm-americas-at-airwallex-4290959872": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-greyorange-media-4413526724": 1,
-    "https://www.linkedin.com/jobs/view/marketing-project-coordinator-at-jobgether-4413522055": 1
+    "https://www.linkedin.com/jobs/view/marketing-project-coordinator-at-jobgether-4413522055": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-iam-remoto-galicia-pa%c3%ads-vasco-o-catalu%c3%b1a-id-at-abalia-4410169131": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-at-everfield-4413552216": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91sre%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%80%bb%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e6%95%b030%e4%b8%87%e4%ba%ba%e4%bb%a5%e4%b8%8a%ef%bc%8fsier%e3%80%81%e4%ba%8b%e6%a5%ad%e4%bc%9a%e7%a4%be%e3%80%81%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc%e5%87%ba%e8%ba%ab%e3%81%ae%e6%96%b9%e3%81%8c%e6%b4%bb%e8%ba%8d%e4%b8%ad-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4413538699": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-engineer-at-fyxer-4386934020": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-at-chatbase-4413232179": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-specialist-at-ravenpack-4388070558": 1,
+    "https://www.linkedin.com/jobs/view/revenue-growth-hacker-at-resmed-4404025743": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-manager-engineer-at-camber-4403134182": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-expand-group-4410160000": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-auction-al-sahraa-4410166064": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401626362": 1,
+    "https://www.linkedin.com/jobs/view/remote-social-media-manager-at-twine-4401662007": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-specialist-at-ready-talent-4413553054": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
