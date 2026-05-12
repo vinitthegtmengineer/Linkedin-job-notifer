@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/secops-engineer-at-sourced-4409586810": 1,
-    "https://www.linkedin.com/jobs/view/regional-sales-director-data-as-a-service-at-snorkel-ai-4399063617": 1,
-    "https://www.linkedin.com/jobs/view/gtm-analytics-manager-at-blue-j-4400650930": 1,
-    "https://www.linkedin.com/jobs/view/overlay-sales-specialist-workforce-ai-at-cornerstone-ondemand-4400596034": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-epd-operations-at-1password-4387897766": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-of-global-technology-and-business-alliances-at-eset-4359810594": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-executive-at-precision-sales-recruiting-4402646871": 1,
     "https://www.linkedin.com/jobs/view/vp-of-operations-at-torq-4409595790": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-xinference-4413183911": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-enablement-at-shipbob-4413190926": 1,
     "https://www.linkedin.com/jobs/view/associate-campaign-manager-at-cre8r-ai-4412637602": 1,
-    "https://www.linkedin.com/jobs/view/ecommerce-operations-assistant-at-kuubiik-4410109247": 1
+    "https://www.linkedin.com/jobs/view/ecommerce-operations-assistant-at-kuubiik-4410109247": 1,
+    "https://www.linkedin.com/jobs/view/taper-at-clayton-4412994683": 1,
+    "https://www.linkedin.com/jobs/view/sash-wall-at-clayton-4412993656": 1,
+    "https://www.linkedin.com/jobs/view/workshop-trainer-%c3%a2%e2%82%ac%e2%80%9c-bricklaying-at-university-centre-at-the-heart-of-yorkshire-education-group-4413161746": 1,
+    "https://www.linkedin.com/jobs/view/seo-ai-marketing-executive-fresher-junior-at-inapps-technology-4413512123": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-infosys-bpm-4413516002": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
