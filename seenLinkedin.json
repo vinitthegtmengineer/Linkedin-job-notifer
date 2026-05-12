@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102411": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388106311": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387888978": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388109024": 1,
     "https://www.linkedin.com/jobs/view/consultant-veeva-promomats-at-veeva-systems-4377609318": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-usa-at-wesuite-4378668884": 1,
     "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-activecampaign-4369599673": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/process-engineer-bsc-freelancer-at-deccan-ai-experts-4412900622": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-sezzle-4404526826": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-bsc-freelancer-at-deccan-ai-experts-4412905297": 1,
-    "https://www.linkedin.com/jobs/view/revenue-conversion-growth-operator-at-innovision-marketing-group-4413101426": 1
+    "https://www.linkedin.com/jobs/view/revenue-conversion-growth-operator-at-innovision-marketing-group-4413101426": 1,
+    "https://www.linkedin.com/jobs/view/operadores-en-24x7-con-o-sin-experiencia-previa-at-inetum-4404344595": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-technician-%e2%80%93-field-based-at-normec-i2-analytical-4413435621": 1,
+    "https://www.linkedin.com/jobs/view/groundworks-technician-at-nhbc-4319457796": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-codex-hire-4410186132": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
