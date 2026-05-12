@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-marketing-business-partner-at-stanley-house-consulting-4405112812": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387893731": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388102411": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388106311": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387888978": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401623400": 1,
     "https://www.linkedin.com/jobs/view/uuv-technician-operator-mid-at-booz-allen-hamilton-4413288068": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-bsc-freelancer-at-deccan-ai-experts-4412900622": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-sezzle-4404526826": 1
+    "https://www.linkedin.com/jobs/view/marketing-manager-canada-at-sezzle-4404526826": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-bsc-freelancer-at-deccan-ai-experts-4412905297": 1,
+    "https://www.linkedin.com/jobs/view/revenue-conversion-growth-operator-at-innovision-marketing-group-4413101426": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
