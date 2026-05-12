@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lycored-food-project-manager-at-lycored-4403550806": 1,
-    "https://www.linkedin.com/jobs/view/project-manager-content-manager-100%25-worldwide-remote-6-months-contract-with-potential-ext-at-bitfinex-4409827977": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-remote-at-wcg-4399061041": 1,
-    "https://www.linkedin.com/jobs/view/partner-integration-compliance-manager-marketing-review-at-mercer-advisors-4399065860": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hire-feed-4409818161": 1,
     "https://www.linkedin.com/jobs/view/head-of-international-operations-india-at-wingstop-restaurants-inc-4369690225": 1,
     "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-w-a-s-media-marketing-pvt-ltd-4408377436": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-ii-mid-market-at-apollo-io-4413588764": 1,
     "https://www.linkedin.com/jobs/view/analytics-infrastructure-production-engineer-at-imcs-group-4413579996": 1,
     "https://www.linkedin.com/jobs/view/gm-emea-growth-expansion-at-fundraise-up-4404355652": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-inno-supps-4413589342": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-inno-supps-4413589342": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4413807149": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4413801366": 1,
+    "https://www.linkedin.com/jobs/view/visiting-scientist-at-planet-4413483138": 1,
+    "https://www.linkedin.com/jobs/view/commissioning-operations-engineer-at-mainspring-energy-4400003489": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
