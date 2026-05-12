@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-l-entry-level-usd-%2428%e2%80%93%2445-per-hour-at-quality-standards-for-information-technology-qsit-4408376704": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-veracity-insurance-solutions-llc-4379203819": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-executive-ryobi-uk-at-techtronic-industries-emea-4379041060": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4408382588": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-part-time-%2b-equity-at-stealth-startup-4407718050": 1,
-    "https://www.linkedin.com/jobs/view/ingenieur-at-ice-com-handelsgesellschaft-m-b-h-4400424820": 1,
-    "https://www.linkedin.com/jobs/view/deployed-engineer-dallas-at-langchain-4377654426": 1,
-    "https://www.linkedin.com/jobs/view/systems-engineer-production-at-clio-4377987539": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-joblet-ai-4409825148": 1,
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369597161": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-joblet-ai-4409813674": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-joblet-ai-4409814296": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406683496": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406668507": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-modern-family-law-4406682308": 1,
-    "https://www.linkedin.com/jobs/view/director-enterprise-sales-us-at-firework-4413477790": 1
+    "https://www.linkedin.com/jobs/view/director-enterprise-sales-us-at-firework-4413477790": 1,
+    "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4413474056": 1,
+    "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4413469205": 1,
+    "https://www.linkedin.com/jobs/view/stucco-color-tinter-at-gypsum-management-and-supply-4413811522": 1,
+    "https://www.linkedin.com/jobs/view/final-finish-at-clayton-4413476722": 1,
+    "https://www.linkedin.com/jobs/view/limestone-granite-marble-fabricator-experience-required-at-stone-center-4413441945": 1,
+    "https://www.linkedin.com/jobs/view/solid-surface-fabricator-at-solidlux-4413444110": 1,
+    "https://www.linkedin.com/jobs/view/aggregate-technician-amrg-llc-at-ecology-auto-parts-inc-4413543915": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-at-imerys-4413478248": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-strongyes-media-4413815227": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
