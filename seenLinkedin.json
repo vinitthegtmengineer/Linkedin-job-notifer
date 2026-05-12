@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/detection-engineer-at-dataannotation-4387896483": 1,
-    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-quik-hire-staffing-4409810454": 1,
-    "https://www.linkedin.com/jobs/view/algosec-resident-engineer-germany-at-algosec-4409591812": 1,
-    "https://www.linkedin.com/jobs/view/developer-relations-engineer-san-francisco-at-qdrant-4409592696": 1,
-    "https://www.linkedin.com/jobs/view/ai-strategist-at-ema-4409816705": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4409829900": 1,
-    "https://www.linkedin.com/jobs/view/associate-director-marketing-operations-at-ionis-pharmaceuticals-inc-4399320030": 1,
     "https://www.linkedin.com/jobs/view/procore-consultant-at-avicado-4409584246": 1,
     "https://www.linkedin.com/jobs/view/director-global-sales-enablement-at-dropbox-4400662600": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-managerial-at-microsourcing-4387939665": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4413040949": 1,
     "https://www.linkedin.com/jobs/view/sem-campaign-manager-at-forbes-advisor-4412908855": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-adecco-4413142522": 1,
-    "https://www.linkedin.com/jobs/view/employment-marketing-specialist-at-ventura-foods-4411785544": 1
+    "https://www.linkedin.com/jobs/view/employment-marketing-specialist-at-ventura-foods-4411785544": 1,
+    "https://www.linkedin.com/jobs/view/senior-enablement-ai-specialist-at-cohesity-4413207504": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-events-campaign-manager-work-4-days-a-week-at-chief-nation-4412793216": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-pink-squid-4412925644": 1,
+    "https://www.linkedin.com/jobs/view/campaign-management-analyst-at-accenture-in-india-4413206266": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-ig-group-4382794418": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-growth-marketing-at-gopuff-4404678356": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-customer-lifecycle-marketing-at-toast-4412998344": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
