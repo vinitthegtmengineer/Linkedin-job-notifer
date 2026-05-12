@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4387896589": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-dataannotation-4388105390": 1,
-    "https://www.linkedin.com/jobs/view/consultant-handel-und-omni-channel-commerce-all-genders-at-adesso-se-4203241529": 1,
-    "https://www.linkedin.com/jobs/view/volunteer-entrepreneurship-consultant-move-ong-at-move-ong-4409846645": 1,
-    "https://www.linkedin.com/jobs/view/consultant-handel-und-omni-channel-commerce-all-genders-at-adesso-se-4317167537": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-monopoly-go%21-at-scopely-4369767691": 1,
-    "https://www.linkedin.com/jobs/view/project-manager-ii-mechanical-engineer-sports-at-smith-seckman-reid-inc-4186432369": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-executive-music-arts-and-culture-at-metropolitan-youth-orchestra-of-hong-kong-4406538694": 1,
     "https://www.linkedin.com/jobs/view/community-engagement-manager-los-angeles-at-lime-4381086235": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-yellow-house-4409873375": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-hire-feed-4409815070": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/technical-operations-and-support-engineer-at-inspekt-ai-4413414987": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-ets-inc-4412949196": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-made-partnership-4410184439": 1,
-    "https://www.linkedin.com/jobs/view/operations-marketing-support-at-stranger-soccer-4413415455": 1
+    "https://www.linkedin.com/jobs/view/operations-marketing-support-at-stranger-soccer-4413415455": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9f%8d%b4-consultant-e-soci%c3%a9t%c3%a9s-de-restauration-f-h-at-le-c%c3%a8dre-4401659427": 1,
+    "https://www.linkedin.com/jobs/view/growth-analytics-expert-at-andishi-4410177729": 1,
+    "https://www.linkedin.com/jobs/view/senior-salesforce-admin-revenue-analytics-lead-at-ineight-4413587430": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4413590128": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rygor-group-4413455504": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-heda-firm-4413582579": 1,
+    "https://www.linkedin.com/jobs/view/assistant-manager-manager-campaign-management-us-markets-at-darwinbox-4404502360": 1,
+    "https://www.linkedin.com/jobs/view/marketing-client-relations-executive-at-bwf-legal-4413468661": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-12",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
