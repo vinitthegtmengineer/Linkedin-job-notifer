@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-at-daniels-health-4369959043": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-i-business-intelligence-at-melaleuca-the-wellness-company-4410505381": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-mercor-4408956582": 1,
-    "https://www.linkedin.com/jobs/view/ai-full-stack-engineer-at-teamified-4410556683": 1,
-    "https://www.linkedin.com/jobs/view/qa-engineer-%e2%80%94-%c2%a340k%e2%80%93%c2%a345k-%e2%80%94-join-a-high-growth-fintech-supporting-superyachts-artists-worldwide-at-venchr-4408993844": 1,
-    "https://www.linkedin.com/jobs/view/software-operations-engineer-at-remotehunter-4409349016": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-warehouse-automation-at-cencora-4408164865": 1,
     "https://www.linkedin.com/jobs/view/director-sales-enablement-at-the-woodmansee-group-4410560851": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sinkor-rac-sinkor-4410579024": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-cco-at-cfgi-4414241951": 1,
     "https://www.linkedin.com/jobs/view/manager-digital-analytics-marketing-integrations-at-victoria%e2%80%99s-secret-co-4413928127": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-spokane-puget-sound-south-%234818-at-grail-4414173838": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-architect-ping-identity-m-f-d-at-ic-consult-4408187947": 1
+    "https://www.linkedin.com/jobs/view/senior-consultant-architect-ping-identity-m-f-d-at-ic-consult-4408187947": 1,
+    "https://www.linkedin.com/jobs/view/growth-operator-at-distyl-4398875228": 1,
+    "https://www.linkedin.com/jobs/view/program-builder-at-galecki-search-associates-4414183686": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-vice-versa-4372101267": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-jobgether-4413866869": 1,
+    "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381891317": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-valiantys-4413769423": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
