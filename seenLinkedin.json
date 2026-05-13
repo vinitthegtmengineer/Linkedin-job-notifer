@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e7%94%9f%e6%88%90ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e5%88%b6%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4410230010": 1,
-    "https://www.linkedin.com/jobs/view/sales-strategy-operations-manager-%e2%80%93-us-east-coast-based-at-n8n-4410213778": 1,
-    "https://www.linkedin.com/jobs/view/co-marketing-manager-at-the-fountain-group-4410208581": 1,
-    "https://www.linkedin.com/jobs/view/builder-marketing-manager-at-cornerstone-home-lending-4408935267": 1,
-    "https://www.linkedin.com/jobs/view/channel-account-manager-at-nobleai-4410226162": 1,
-    "https://www.linkedin.com/jobs/view/managing-director-operator-partner-4408929637": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-alani-nu-at-celsius-4410229035": 1,
-    "https://www.linkedin.com/jobs/view/cresta-consultant-at-axiom-global-technologies-4408695476": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-coordinator-at-hire-profile-inc-4408126015": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-rebel-4410005821": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-doppel-4410081147": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-creai-4408928484": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410216069": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-enterprise-strategy-gtm-at-jobgether-4408651791": 1,
     "https://www.linkedin.com/jobs/view/head-of-west-coast-gtm-recruiting-at-luck-leverage-4410047380": 1,
     "https://www.linkedin.com/jobs/view/vp-product-marketing-gtm-enablement-training-at-edb-4410098174": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-creative-people-4407784867": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-dna-4413999434": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4404445297": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-b2b-revenue-operations-at-quince-4404432401": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-curemate-4410399404": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-curemate-4410399404": 1,
+    "https://www.linkedin.com/jobs/view/us-growth-operator-at-vsion-4414212882": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-corewise-workforce-strategy-partners-4414222486": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90cl%e3%80%91%e3%82%aa%e3%83%96%e3%82%b6%e3%83%bc%e3%83%90%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3%ef%bc%88datadog%ef%bc%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%82%a8%e3%83%bc%e3%83%94%e3%83%bc%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba-4410635095": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404890323": 1,
+    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4414235150": 1,
+    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4414228245": 1,
+    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4414233148": 1,
+    "https://www.linkedin.com/jobs/view/research-ops-engineer-at-sain-utrecht-4414230342": 1,
+    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4414234138": 1,
+    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4414225319": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-human-resources-professional-group-4414163026": 1,
+    "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-at-ford-medical-llc-4413828567": 1,
+    "https://www.linkedin.com/jobs/view/site-launch-manager-at-wing-4403994457": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
