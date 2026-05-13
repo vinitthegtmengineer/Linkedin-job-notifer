@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360592611": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544801": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4359844809": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4361001762": 1,
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-search-llm-ops-at-ravenpack-4360544758": 1,
     "https://www.linkedin.com/jobs/view/director-customer-success-at-wrike-4410041039": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4413901403": 1,
     "https://www.linkedin.com/jobs/view/%e6%9d%b1%e4%ba%ac-%e3%81%8a%e5%ae%a2%e6%a7%98%e3%81%a8%e5%85%b1%e3%81%abict%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae%e4%be%a1%e5%80%a4%e3%82%92%e9%ab%98%e3%82%81%e3%82%8b%e9%81%8b%e7%94%a8%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%ba%ef%bc%88%e6%a0%aa%ef%bc%89-4413911702": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-gravion-capital-4413824870": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-zillow-4413908226": 1
+    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-zillow-4413908226": 1,
+    "https://www.linkedin.com/jobs/view/engineering-operations-manufacturing-engineer-at-tekwissen-%c2%ae-4413807242": 1,
+    "https://www.linkedin.com/jobs/view/vp-north-america-gtm-at-sitecore-4403643978": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-veriforce-4403663996": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
