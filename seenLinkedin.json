@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-at-lumicity-4408934531": 1,
-    "https://www.linkedin.com/jobs/view/vmware-operations-engineer-at-talent-4408923615": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-analytics-and-operations-intelligence-at-crisis-text-line-4408117954": 1,
-    "https://www.linkedin.com/jobs/view/freelancing-swarmbench-task-engineer-%e2%80%94-planning-operations-%248-%2410-per-hour-remote-immediate-joiner-at-pgc-digital-america-inc-cmmi-level-3-company-4410507513": 1,
-    "https://www.linkedin.com/jobs/view/flexcube-consultant-at-ixceed-solutions-4410557752": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-react-native-trabalho-remoto-at-bairesdev-4408668924": 1,
-    "https://www.linkedin.com/jobs/view/sr-substation-engineer-at-jobgether-4408661616": 1,
-    "https://www.linkedin.com/jobs/view/sr-splunk-engineer-remote-usa-at-optiv-4410203366": 1,
-    "https://www.linkedin.com/jobs/view/genai-engineer-at-zenitech-4410569132": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-salesforce-trabajo-remoto-at-bairesdev-4408906213": 1,
-    "https://www.linkedin.com/jobs/view/golang-engineer-at-carecone-group-4410543291": 1,
-    "https://www.linkedin.com/jobs/view/sr-streaming-engineer-at-ness-digital-engineering-4408916975": 1,
-    "https://www.linkedin.com/jobs/view/semi-senior-chargebee-engineer-remote-work-at-bairesdev-4408692476": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-parentpay-group-4386925314": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operator-at-black-mast-marketing-4410517213": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-piper-maddox-4408928914": 1,
     "https://www.linkedin.com/jobs/view/manufacturing-production-system-engineer-at-swarm-aero-4400013890": 1,
     "https://www.linkedin.com/jobs/view/process-engineer-at-daniels-health-4369959043": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ai%e3%83%bbml%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%bc%81%e6%a5%ad%e5%88%86%e6%9e%90%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8c%e3%83%90%e3%83%95%e3%82%a7%e3%83%83%e3%83%88%e3%83%bb%e3%82%b3%e3%83%bc%e3%83%89%e3%80%8d%ef%bc%89-at-%e3%83%90%e3%83%95%e3%82%a7%e3%83%83%e3%83%88%e3%82%b3%e3%83%bc%e3%83%89%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4414266303": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2unity%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%9c%89%e5%90%8dip%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e9%96%8b%e7%99%ba%e3%81%82%e3%82%8a%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bejoro-4414258978": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2ai%e3%83%bbml%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%bc%81%e6%a5%ad%e5%88%86%e6%9e%90%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8c%e3%83%90%e3%83%95%e3%82%a7%e3%83%83%e3%83%88%e3%83%bb%e3%82%b3%e3%83%bc%e3%83%89%e3%80%8d%ef%bc%89-at-%e3%83%90%e3%83%95%e3%82%a7%e3%83%83%e3%83%88%e3%82%b3%e3%83%bc%e3%83%89%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4414256961": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%8fec%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e3%80%8cec-cube%e3%80%8d%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a4%e3%83%bc%e3%82%b7%e3%83%bc%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%96-4414268298": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%ef%bc%88%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%8fec%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e3%80%8cec-cube%e3%80%8d%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a4%e3%83%bc%e3%82%b7%e3%83%bc%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%96-4414268298": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-mercor-4414186107": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-%e2%80%93-high-growth-hunter-at-variacode-4414263863": 1,
+    "https://www.linkedin.com/jobs/view/senior-integration-platform-engineer-sales-team-at-semrush-4370772151": 1,
+    "https://www.linkedin.com/jobs/view/zscaler-engineer-%2311281-at-ecco-select-4414273189": 1,
+    "https://www.linkedin.com/jobs/view/senior-observability-engineer-at-reqroute-inc-4414221556": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-growth-operations-at-glossgenius-4414210525": 1,
+    "https://www.linkedin.com/jobs/view/agentic-marketing-engineer-at-skai-4401107737": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-lead-at-hockeystack-4394337652": 1,
+    "https://www.linkedin.com/jobs/view/agentic-marketing-engineer-at-skai-4401110779": 1,
+    "https://www.linkedin.com/jobs/view/product-growth-engineer-at-rendair-4413453612": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-growth-at-snorkel-ai-4410361205": 1,
+    "https://www.linkedin.com/jobs/view/channel-partnerships-manager-at-digitalzone-4410630899": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-strategist-at-carnegie-4402019527": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-cco-at-cfgi-4414241951": 1,
+    "https://www.linkedin.com/jobs/view/manager-digital-analytics-marketing-integrations-at-victoria%e2%80%99s-secret-co-4413928127": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
