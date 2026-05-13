@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410019076": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410011245": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410016087": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410009503": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-huzzle-com-4410014106": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-ultima-markets-4410009460": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-%e2%80%94-content-social-general-marketing-at-veraia-life-4407741496": 1,
-    "https://www.linkedin.com/jobs/view/e-marketing-executive-at-brand-promotion-specialist12-4408632387": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-for-dtc-company-us-based-remote-at-paired-4407735358": 1,
-    "https://www.linkedin.com/jobs/view/brim-som-consultant-senior-at-mobolutions-4408660022": 1,
-    "https://www.linkedin.com/jobs/view/cyberark-pam-consultant-at-cosette-network-pvt-ltd-4408657009": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-en-fusions-acquisitions-benelux-licence-exclusive-at-actoria-group-mergers-acquisitions-strategy-in-europe-and-africa-4410023456": 1,
     "https://www.linkedin.com/jobs/view/consultant-e-en-fusions-acquiistions-licence-exclusive-at-actoria-group-mergers-acquisitions-strategy-in-europe-and-africa-4410018429": 1,
     "https://www.linkedin.com/jobs/view/remote-consultant-at-nexus-waves-4407740976": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4413742130": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-agilegrid-solutions-4413789309": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-at-twine-4401615453": 1,
-    "https://www.linkedin.com/jobs/view/social-media-coordinator-at-hornet-staffing-inc-a-gee-group-company-4398764546": 1
+    "https://www.linkedin.com/jobs/view/social-media-coordinator-at-hornet-staffing-inc-a-gee-group-company-4398764546": 1,
+    "https://www.linkedin.com/jobs/view/quarry-operations-recycle-operator-at-pabco-building-products-llc-4413837928": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-wash-plant-at-martin-marietta-4413730779": 1,
+    "https://www.linkedin.com/jobs/view/cement-terminal-operator-at-calportland-4410199499": 1,
+    "https://www.linkedin.com/jobs/view/operator-2nd-shift-ball-mill-at-ahf-4407007251": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-martin-marietta-4413740687": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-at-vulcan-materials-company-4404806967": 1,
+    "https://www.linkedin.com/jobs/view/utility-operator-second-shift-at-covia-4405043767": 1,
+    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-amrg-llc-at-ecology-auto-parts-inc-4413545833": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-waste-connections-4413711620": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-engineer-ai-at-employment-hero-4413773058": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-a5-labs-4410139530": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
