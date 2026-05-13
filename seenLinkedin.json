@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-betwixt-4408970965": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2unity%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%9c%89%e5%90%8dip%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e9%96%8b%e7%99%ba%e3%81%82%e3%82%8a%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bejoro-4410210579": 1,
-    "https://www.linkedin.com/jobs/view/defi-engineer-at-mysten-labs-4410293509": 1,
-    "https://www.linkedin.com/jobs/view/defi-engineer-at-mysten-labs-4410502051": 1,
-    "https://www.linkedin.com/jobs/view/sales-digital-marketing-executive-part-time-au-at-staff-x-outsourcing-and-offshoring-4410283231": 1,
-    "https://www.linkedin.com/jobs/view/aqa-engineer-atm-stream-at-salmon-group-ltd-4408675106": 1,
-    "https://www.linkedin.com/jobs/view/conversion-engineer-at-bloomerang-4408111548": 1,
-    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4408670448": 1,
-    "https://www.linkedin.com/jobs/view/computer-engineering-expert-ai-content-specialist-at-alignerr-4410272887": 1,
-    "https://www.linkedin.com/jobs/view/hci-compute-engineer-at-stefanini-emea-4408657669": 1,
     "https://www.linkedin.com/jobs/view/cuda-kernel-engineer-at-pragmatike-4408942734": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-at-jobgether-4408658430": 1,
     "https://www.linkedin.com/jobs/view/aveva-osi-pi-engineer-at-hays-4407759788": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/crm-campaign-specialist-at-superdrug-4413998770": 1,
     "https://www.linkedin.com/jobs/view/marketing-strategy-planning-manager-at-rippling-4413767395": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-technology-at-opendoor-4413785014": 1,
-    "https://www.linkedin.com/jobs/view/b2b-marketing-operations-salesforce-systems-manager-at-everspring-4413747586": 1
+    "https://www.linkedin.com/jobs/view/b2b-marketing-operations-salesforce-systems-manager-at-everspring-4413747586": 1,
+    "https://www.linkedin.com/jobs/view/operator-i-at-lidworks-4414170363": 1,
+    "https://www.linkedin.com/jobs/view/cognigy-engineer-developer-at-optomi-4414133498": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404881518": 1,
+    "https://www.linkedin.com/jobs/view/sr-sales-engineer-at-mpulse-4389395037": 1,
+    "https://www.linkedin.com/jobs/view/operations-npi-test-engineer-at-apple-4414173033": 1,
+    "https://www.linkedin.com/jobs/view/operations-npi-test-engineer-at-apple-4414150979": 1,
+    "https://www.linkedin.com/jobs/view/customer-support-operations-intelligence-engineer-at-seeq-corporation-4414256280": 1,
+    "https://www.linkedin.com/jobs/view/commercial-strategy-and-operation-lead-at-nasco-4404867910": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-tri-unity-talent-sourcing-hr-management-services-4414158973": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-manager-at-seer-interactive-4414223497": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
