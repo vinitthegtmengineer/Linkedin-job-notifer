@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-foundation-marketing-4410016997": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4408650715": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-ii-at-arco-educa%c3%a7%c3%a3o-4388589551": 1,
-    "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-superkreatives-4409876570": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-specialist-at-oceans-talent-4410030748": 1,
-    "https://www.linkedin.com/jobs/view/performance-ads-operator-paid-media-conversion-systems-4408653874": 1,
-    "https://www.linkedin.com/jobs/view/perfil-jr-de-consultor%c3%ada-de-transformaci%c3%b3n-prodigioso-volc%c3%a1n-at-jungle-4407752889": 1,
-    "https://www.linkedin.com/jobs/view/clinical-study-builder-romania-at-indero-formerly-innovaderm-4410050345": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4407769644": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592349": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369581960": 1,
     "https://www.linkedin.com/jobs/view/desenvolvedor-power-builder-at-conquest-one-4410038790": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-at-1up-cargo-4407754970": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gururo-4407776131": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/equipment-operator-at-fisher-industries-4413859680": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-engineer-india-at-jumpcloud-4410358560": 1,
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-remote-at-1up-cargo-4410355443": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-marketing-agency-remote-431-at-remotivate-4406942992": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-marketing-agency-remote-431-at-remotivate-4406942992": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-at-love-boat-gold-cruise-4410351747": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410367834": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410372179": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410351873": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410350671": 1,
+    "https://www.linkedin.com/jobs/view/founding-devrel-at-mendral-yc-w26-4413862047": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-%e2%80%93-ai-training-workloads-performance-at-amd-4410340457": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-engineer-at-dsj-global-4410170782": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-senior-azure-devops-aws-serverless-at-jobgether-4413858973": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-clientbase-pte-ltd-4413859862": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-terabase-energy-4413734164": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
