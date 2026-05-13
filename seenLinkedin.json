@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-oceans-talent-4410051729": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-jr-marketing-%2b-ia-%2b-ads-at-universia-m%c3%a9xico-4408942251": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410202954": 1,
-    "https://www.linkedin.com/jobs/view/laborers-and-operators-talent-pool-future-opportunities-at-blattner-4410286389": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bekadode-4410208630": 1,
-    "https://www.linkedin.com/jobs/view/global-campaign-manager-at-bee-talent-solutions-4410084413": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-sales-product-enablement-at-zillow-4410297595": 1,
-    "https://www.linkedin.com/jobs/view/obaol-operator-at-obaol-supreme-4408967751": 1,
-    "https://www.linkedin.com/jobs/view/bond-consultant-at-nexa-bonds-4408113977": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410216066": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-curemate-4408145972": 1,
-    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4403722115": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-redwood-software-4401478370": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410220008": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-betwixt-4408970965": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%b7%e3%83%8b%e3%82%a2unity%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%9c%89%e5%90%8dip%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e9%96%8b%e7%99%ba%e3%81%82%e3%82%8a%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bejoro-4410210579": 1,
     "https://www.linkedin.com/jobs/view/defi-engineer-at-mysten-labs-4410293509": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404881517": 1,
     "https://www.linkedin.com/jobs/view/technology-process-engineer-at-teilur-talent-4414211132": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-consensus-4404854395": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-hr-operations-coordinator-at-mindful-career-4414203411": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-hr-operations-coordinator-at-mindful-career-4414203411": 1,
+    "https://www.linkedin.com/jobs/view/senior-agentic-orchestration-engineer-at-field-level-tech-4414229884": 1,
+    "https://www.linkedin.com/jobs/view/growth-leader-loyverse-pay-at-teya-4302168960": 1,
+    "https://www.linkedin.com/jobs/view/strategic-gtm-manager-at-mw-partners-4413825135": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-lead-at-ivee-4410605013": 1,
+    "https://www.linkedin.com/jobs/view/senior-specialist-campaigns-at-affinity-global-4402217821": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-unleash-4414210078": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-iwoca-4413440753": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-at-deliveroo-4414124654": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-paid-social-at-carmoola-4413948837": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-biscuiteers-4410615190": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaign-specialist-at-superdrug-4413998770": 1,
+    "https://www.linkedin.com/jobs/view/marketing-strategy-planning-manager-at-rippling-4413767395": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-technology-at-opendoor-4413785014": 1,
+    "https://www.linkedin.com/jobs/view/b2b-marketing-operations-salesforce-systems-manager-at-everspring-4413747586": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
