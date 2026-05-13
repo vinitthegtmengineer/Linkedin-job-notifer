@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/aws-student-builder-campus-leader-2026-%e2%80%93-stellenbeschreibung-at-simtech-cluster-of-excellence-university-of-stuttgart-4408667351": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-new-existing-business-at-ladders-4407770158": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-jane-creative-4410055793": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369589748": 1,
-    "https://www.linkedin.com/jobs/view/director-of-client-services-and-communications-at-vitl-4408683325": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-strategic-growth-operations-at-belgem-jewelry-4407778149": 1,
-    "https://www.linkedin.com/jobs/view/consultor-a-senior-de-talent-management-remoto-at-bizneo-hr-4407777190": 1,
     "https://www.linkedin.com/jobs/view/enablement-platform-specialist-at-spectraforce-4410061432": 1,
     "https://www.linkedin.com/jobs/view/marketing-coordinator-state-and-local-at-cloud-for-good-4410061467": 1,
     "https://www.linkedin.com/jobs/view/director-of-innovation-and-product-marketing-at-jobgether-4408661789": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/junior-executive-digital-marketing-at-ncatalysts-4413866941": 1,
     "https://www.linkedin.com/jobs/view/simphony-consultant-at-itc-infotech-4413884431": 1,
     "https://www.linkedin.com/jobs/view/vp-north-america-gtm-at-sitecore-4403662147": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-at-velocity-made-good-vmg-4413886327": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-at-velocity-made-good-vmg-4413886327": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-consultant-at-circit-4413964258": 1,
+    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410364827": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91azure%ef%bc%8faws%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8fntt%e3%83%87%e3%83%bc%e3%82%bf%c3%97%e6%97%a5%e6%9c%ac%e7%b7%8f%e5%90%88%e7%a0%94%e7%a9%b6%e6%89%80%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%8a%ef%bd%93%ef%bd%8f%ef%bd%8c-4413703818": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-strategy-at-jobgether-4413852673": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-novaon-group-4413886527": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-samsara-4382526142": 1,
+    "https://www.linkedin.com/jobs/view/social-media-%2b-content-lead-at-aktin-4413955008": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
