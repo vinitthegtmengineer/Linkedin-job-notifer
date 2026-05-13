@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/traffic-acquisition-operator-at-hekma-4407792561": 1,
-    "https://www.linkedin.com/jobs/view/operador-24-7-linux-jr-at-metrica-4407774711": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-analytics-engineer-at-momence-4407793582": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-smart-oasis-4407778844": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-sotalent-4407784460": 1,
     "https://www.linkedin.com/jobs/view/vp-marketing-at-montu-4401036084": 1,
     "https://www.linkedin.com/jobs/view/captioning-and-text-labeling-operator-at-myremoteteam-inc-4408254146": 1,
     "https://www.linkedin.com/jobs/view/raiser-s-edge-consultant-at-spokane-public-radio-4408673996": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392475497": 1,
     "https://www.linkedin.com/jobs/view/senior-databricks-engineer-remote-anywhere-in-pakistan-usd-salary-at-hr-pod-careers-4413576262": 1,
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-exec-at-alumiermd-4413964579": 1,
-    "https://www.linkedin.com/jobs/view/commercial-marketing-manager-12-month-contract-at-tahaluf-4413962545": 1
+    "https://www.linkedin.com/jobs/view/commercial-marketing-manager-12-month-contract-at-tahaluf-4413962545": 1,
+    "https://www.linkedin.com/jobs/view/crm-delivery-apprenticeship-at-station-f-4413890849": 1,
+    "https://www.linkedin.com/jobs/view/sr-solutions-engineer-mid-enterprise-at-klaviyo-4392404970": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-platform-google-cloud-at-google-4403971325": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-analytics-engineer-momence-at-xplor-technologies-4413968449": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-viventis-search-asia-4413871827": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
