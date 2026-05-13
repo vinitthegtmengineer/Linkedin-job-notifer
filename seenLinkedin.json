@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-consultant-at-autotrader-ca-4408906198": 1,
-    "https://www.linkedin.com/jobs/view/honeycolony-%e2%80%94-operator-brand-partner-acquisition-opportunity-at-honeycolony-llc-4410200213": 1,
-    "https://www.linkedin.com/jobs/view/otx-runtime-engineer-at-salvo-software-4410200543": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jobgether-4408668822": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-shark-life-media-4408673590": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-professional-physical-therapy-4410094528": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-domestic-relocation-us-based-remote-at-compass-international-holdings-4410088927": 1,
-    "https://www.linkedin.com/jobs/view/oncore-calendar-builder-remote-clinical-trials-unit-staff-wage-at-university-of-virginia-4410089767": 1,
-    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410216083": 1,
-    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410214117": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-esvp-coaching-inc-4410097406": 1,
-    "https://www.linkedin.com/jobs/view/brand-manager-at-halfday-iced-tea-4408910474": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-manager-at-virtually-4410205650": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-coordinator-at-padi-4408905610": 1,
     "https://www.linkedin.com/jobs/view/senior-product-manager-ai-builder-online-at-volumental-4410212448": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/revenue-strategy-operations-lead-at-serval-4404268257": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-fieldpulse-4413751467": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-dazos-4413856013": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4410616027": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-careerxperts-consulting-4410616027": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-operator-directly-with-ceo-4414138091": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-sofomation-4413983883": 1,
+    "https://www.linkedin.com/jobs/view/cloud-operations-engineer-at-provenir-4324123398": 1,
+    "https://www.linkedin.com/jobs/view/manager-gtm-analytics-intelligence-at-apollo-io-4413599273": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-%e2%80%93-philippines-at-ucm-global-talent-4414126455": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-remote-%e2%80%93-kenya-at-ucm-global-talent-4414115976": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-americas-at-stripe-4413494555": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-navan-4413594447": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-platform-operations-at-aaa-mountain-west-group-4400474814": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-marketing-operations-specialist-at-screenbeam-inc-4413805028": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-xelix-4413705032": 1,
+    "https://www.linkedin.com/jobs/view/global-marketing-operations-manager-at-lifewave-corporate-4413809575": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
