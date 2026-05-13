@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-west-coast-gtm-recruiting-at-luck-leverage-4410047380": 1,
-    "https://www.linkedin.com/jobs/view/vp-product-marketing-gtm-enablement-training-at-edb-4410098174": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-creative-people-4407784867": 1,
-    "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-resilience-care-4410054946": 1,
-    "https://www.linkedin.com/jobs/view/part-time-social-media-manager-at-dean-s-dogs-4410261044": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-crowdmakers-4408917839": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-oceans-talent-4410051729": 1,
     "https://www.linkedin.com/jobs/view/growth-operator-jr-marketing-%2b-ia-%2b-ads-at-universia-m%c3%a9xico-4408942251": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-maintainx-4410202954": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-human-resources-professional-group-4414163026": 1,
     "https://www.linkedin.com/jobs/view/ecommerce-marketing-manager-at-ford-medical-llc-4413828567": 1,
-    "https://www.linkedin.com/jobs/view/site-launch-manager-at-wing-4403994457": 1
+    "https://www.linkedin.com/jobs/view/site-launch-manager-at-wing-4403994457": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-well-abandonment-at-clean-harbors-4393276617": 1,
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ii-page-builder-retailer-platform-at-instacart-4393938474": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404881517": 1,
+    "https://www.linkedin.com/jobs/view/technology-process-engineer-at-teilur-talent-4414211132": 1,
+    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-consensus-4404854395": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-assistant-hr-operations-coordinator-at-mindful-career-4414203411": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
