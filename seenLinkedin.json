@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/project-engineer-warehouse-automation-at-cencora-4408164865": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-at-the-woodmansee-group-4410560851": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sinkor-rac-sinkor-4410579024": 1,
-    "https://www.linkedin.com/jobs/view/mobile-reactive-builder-multi-trader-at-design-management-contractors-4410590374": 1,
     "https://www.linkedin.com/jobs/view/founding-ai-ops-engineer-aiops-%2b-devops-%2b-cloudops-at-insiteverse-4409348449": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-wfg-at-transamerica-4400022953": 1,
     "https://www.linkedin.com/jobs/view/internationaal-kraanmachinist-operator-vrachtwagenchauffeur-at-jawiflo-b-v-4408429383": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/operations-engineer-at-vice-versa-4372101267": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-jobgether-4413866869": 1,
     "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381891317": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-valiantys-4413769423": 1
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-valiantys-4413769423": 1,
+    "https://www.linkedin.com/jobs/view/operador-i-joinville-sc-at-axalta-4414293194": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4414188659": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4414177934": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-sonatype-4414191502": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-13",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
