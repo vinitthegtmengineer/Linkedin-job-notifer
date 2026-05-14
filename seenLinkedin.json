@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-golang-developer-at-futran-solutions-4410753310": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-amaze-manors-4408987126": 1,
-    "https://www.linkedin.com/jobs/view/country-marketing-manager-at-duolingo-4401090684": 1,
-    "https://www.linkedin.com/jobs/view/senior-field-marketing-and-events-manager-at-lime-4408975647": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-base44-at-base44-4410219390": 1,
-    "https://www.linkedin.com/jobs/view/ediscovery-consultant-%c2%a360-000-to-%c2%a370-000-remote-london-at-apt-search-4408197671": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-clevanoo-llc-4410735822": 1,
     "https://www.linkedin.com/jobs/view/hubspot-consultant-at-steadman-hub-4408174502": 1,
     "https://www.linkedin.com/jobs/view/partition-at-clayton-4410749057": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/manager-marketing-operations-at-instinct-science-4414255564": 1,
     "https://www.linkedin.com/jobs/view/hubspot-crm-automation-specialist-n8n-clay-at-fyndr-4408999647": 1,
     "https://www.linkedin.com/jobs/view/commercial-marketing-manager-12-month-contract-at-tahaluf-4414540725": 1,
-    "https://www.linkedin.com/jobs/view/community-activation-coordinator-at-hiretalent-staffing-recruiting-firm-4414244218": 1
+    "https://www.linkedin.com/jobs/view/community-activation-coordinator-at-hiretalent-staffing-recruiting-firm-4414244218": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-mindset-mastery-remote-autonomy-at-resonating-with-life-4414456187": 1,
+    "https://www.linkedin.com/jobs/view/insurance-agency-builder-ai-sme-at-kforce-inc-4404313762": 1,
+    "https://www.linkedin.com/jobs/view/ai-prompt-engineer-agent-builder-at-nixor-4410385321": 1,
+    "https://www.linkedin.com/jobs/view/power-builder-developer-at-emagine-portugal-4410396695": 1,
+    "https://www.linkedin.com/jobs/view/delivery-manager-shop-builder-at-xsolla-4395066561": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-dataverseafrica-4411134874": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
