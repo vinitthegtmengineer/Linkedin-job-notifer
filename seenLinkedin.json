@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-at-square-4401513772": 1,
-    "https://www.linkedin.com/jobs/view/director-pmm-for-enterprise-gtm-at-jobgether-4408985247": 1,
-    "https://www.linkedin.com/jobs/view/director-ai-gtm-strategy-enablement-at-reltio-4399736008": 1,
     "https://www.linkedin.com/jobs/view/gtm-growth-lead-at-heunets-4408959487": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4410773514": 1,
     "https://www.linkedin.com/jobs/view/gtm-partnerships-enablement-lead-at-openai-4408153386": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402478911": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392470947": 1,
     "https://www.linkedin.com/jobs/view/product-owner-devx-and-ai-%e2%80%94-shop-builder-at-xsolla-4411192725": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4414712278": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4414712278": 1,
+    "https://www.linkedin.com/jobs/view/director-of-business-systems-technology-at-gorjana-4414263401": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-boston-ma-at-foundation-egi-4414672105": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
