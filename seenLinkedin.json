@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-driven-full-stack-developer-growth-operator-client-facing-at-excellorix-4409331998": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategic-consultant-%e2%80%93-pharma-flavours-middle-east-africa-at-palomba-general-trading-4408425988": 1,
-    "https://www.linkedin.com/jobs/view/head-of-market-development-agent-builder-ecosystem-at-fairplay-ai-4410255150": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-at-techshack-4410744442": 1,
-    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4410206655": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-headlight-4410721717": 1,
-    "https://www.linkedin.com/jobs/view/sr-social-media-manager-at-franki-4408699348": 1,
-    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-true-classic-4409377295": 1,
     "https://www.linkedin.com/jobs/view/consultor-logix-at-dwc-consult-4408442264": 1,
     "https://www.linkedin.com/jobs/view/territory-builder-cairo-at-dose-4408440257": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-at-niksoft-systems-corporation-4410748363": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404876601": 1,
     "https://www.linkedin.com/jobs/view/mid-senior-data-engineer-powerbi-azure-fabric-ops-banking-fintech-exp-at-digiex-group-4414408838": 1,
     "https://www.linkedin.com/jobs/view/enablement-manager-sales-customer-success-at-storable-4414400995": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-nutrition-in-sync-4414412889": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-nutrition-in-sync-4414412889": 1,
+    "https://www.linkedin.com/jobs/view/director-revenue-operations-at-storable-4414404852": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-programs-operations-manager-at-doubleverify-4414263562": 1,
+    "https://www.linkedin.com/jobs/view/agentic-marketing-operations-manager-at-skai-4401102760": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-operations-specialist-at-thoughtspot-4414249571": 1,
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-operations-manager-at-together-ai-4382453785": 1,
+    "https://www.linkedin.com/jobs/view/agentic-marketing-operations-manager-at-skai-4401115534": 1,
+    "https://www.linkedin.com/jobs/view/associate-director-of-marketing-operations-at-william-h-sadlier-inc-4414210471": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-208843-at-aquent-4394620283": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
