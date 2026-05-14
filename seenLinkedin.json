@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/treasury-operator-night-shift-new-grad-welcome-at-bitazza-4408822561": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
-    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-powertofly-4408171923": 1,
-    "https://www.linkedin.com/jobs/view/board-advisor-enterprise-gtm-revenue-at-deepgrids-4410780508": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-kuubiik-4408829083": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-thrivin-4408812583": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-international-at-e-l-f-beauty-4346384436": 1,
-    "https://www.linkedin.com/jobs/view/commercial-manager-operator-at-great-british-energy-nuclear-4409792980": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-tampa-fl-%234747-at-grail-4400794701": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-ann-arbor-mi-%234667-at-grail-4379118302": 1,
     "https://www.linkedin.com/jobs/view/operations-manager-engineering-team-india-at-neuvior%c2%ae-4408816916": 1,
     "https://www.linkedin.com/jobs/view/sales-enablement-lead-remote-at-geotab-4409752341": 1,
     "https://www.linkedin.com/jobs/view/crisis-hotline-operator-contract-basis-my-at-thoughtfull-4409781361": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/ai-architect-ai-agent-builder-at-jobs-via-dice-4414735469": 1,
     "https://www.linkedin.com/jobs/view/ai-automation-engineer-operator-a377-at-pearl-4414588201": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-client-applications-at-gigarev-4414730588": 1,
-    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402494100": 1
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402494100": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4414762610": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-u-k-at-parcelhero-4414512111": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaign-specialist-at-superdrug-4411156653": 1,
+    "https://www.linkedin.com/jobs/view/campaign-management-specialist-ad-ops-at-cond%c3%a9-nast-4414647930": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-spotlight-recruitment-4414596551": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-up-to-%c2%a365-000-at-blu-digital-4405142004": 1,
+    "https://www.linkedin.com/jobs/view/campaign-operation-manager-at-jd-com-4414668968": 1,
+    "https://www.linkedin.com/jobs/view/campaigns-manager-at-department-for-science-innovation-and-technology-4414493252": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-specialist-at-symplr-4372810525": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-dsw-designer-shoe-warehouse-4411550606": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
