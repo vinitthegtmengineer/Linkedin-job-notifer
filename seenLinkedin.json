@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-managementberater-m-w-d-at-fichtner-management-consulting-4410598601": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-seo-growth-at-wazobia-technologies-custom-software-development-company-4408497972": 1,
     "https://www.linkedin.com/jobs/view/rover-operator-%e2%80%93-utilities-lng-plant-at-ener-technology-4408496308": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-ismartrecruit-4409780217": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e6%a5%ad%e5%8b%99%e7%b3%bb%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e4%b8%80%e6%ac%a1%e9%9d%a2%e6%8e%a5%e3%81%8b%e3%82%89%e7%a4%be%e9%95%b7%e3%81%a8%e4%bc%9a%e3%81%88%e3%82%8b%ef%bc%81%ef%bc%8f%e3%81%bb%e3%81%bc%e6%ae%8b%e6%a5%ad%e7%84%a1%e3%81%97%ef%bc%8f%e5%83%8d%e3%81%8d%e6%96%b9%e2%97%8e%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%ba-4414938633": 1,
     "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4414942587": 1,
     "https://www.linkedin.com/jobs/view/ai-enablement-engineer-sales-marketing-revenue-operations-at-civicplus-4414958056": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-of-national-marketing-at-qdoba-restaurant-corporation-4414776279": 1
+    "https://www.linkedin.com/jobs/view/sr-manager-of-national-marketing-at-qdoba-restaurant-corporation-4414776279": 1,
+    "https://www.linkedin.com/jobs/view/ai-architect-ai-agent-builder-at-jobs-via-dice-4414735469": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
