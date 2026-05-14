@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4409751837": 1,
-    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-en-d%c3%a9samiantage-sous-section-3-at-groupe-r%c3%a9silians-4410942976": 1,
-    "https://www.linkedin.com/jobs/view/web-operations-engineer-at-simply-secure-group-4410775803": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-lead-remote-at-geotab-4409739737": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-lithan-4409732471": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-meth-protocol-4409758296": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410555453": 1,
     "https://www.linkedin.com/jobs/view/specialist-audience-gtm-at-jobgether-4409307240": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/labourer-operator-at-elders-4414735780": 1,
     "https://www.linkedin.com/jobs/view/consultant-brazil-at-sailpoint-4414917664": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-apartmentiq-4414935009": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4404438264": 1
+    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4404438264": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-capital-markets-at-colliers-4382886254": 1,
+    "https://www.linkedin.com/jobs/view/sr-relationship-manager-home-builder-finance-work-from-home-at-flagstar-bank-4414748977": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-enterprise-at-zapier-4402820408": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91pmo%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%a4%a7%e6%89%8b%e4%bf%9d%e9%99%ba%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%ef%bc%8f%e4%b8%8a%e6%b5%81%e3%81%8b%e3%82%89%e5%8f%82%e7%94%bb%ef%bc%8f%e6%ae%8b%e6%a5%ad%e5%b9%b3%e5%9d%8720h%ef%bc%8ftis%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4414554949": 1,
+    "https://www.linkedin.com/jobs/view/swarmbench-task-engineer-planning-operations-75063-at-turing-4414617811": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
