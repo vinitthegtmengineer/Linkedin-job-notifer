@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-seo-growth-at-wazobia-technologies-custom-software-development-company-4408497972": 1,
-    "https://www.linkedin.com/jobs/view/rover-operator-%e2%80%93-utilities-lng-plant-at-ener-technology-4408496308": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-ismartrecruit-4409780217": 1,
     "https://www.linkedin.com/jobs/view/treasury-operator-night-shift-new-grad-welcome-at-bitazza-4408822561": 1,
     "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-st-louis-mo-east-%234668-at-grail-4379107623": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-powertofly-4408171923": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-general-motors-4414942587": 1,
     "https://www.linkedin.com/jobs/view/ai-enablement-engineer-sales-marketing-revenue-operations-at-civicplus-4414958056": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-of-national-marketing-at-qdoba-restaurant-corporation-4414776279": 1,
-    "https://www.linkedin.com/jobs/view/ai-architect-ai-agent-builder-at-jobs-via-dice-4414735469": 1
+    "https://www.linkedin.com/jobs/view/ai-architect-ai-agent-builder-at-jobs-via-dice-4414735469": 1,
+    "https://www.linkedin.com/jobs/view/ai-automation-engineer-operator-a377-at-pearl-4414588201": 1,
+    "https://www.linkedin.com/jobs/view/ai-product-builder-client-applications-at-gigarev-4414730588": 1,
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402494100": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
