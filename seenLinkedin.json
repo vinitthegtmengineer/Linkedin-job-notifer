@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-growth-lead-at-heunets-4408959487": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-strategy-partnerships-manager-at-spring-health-4410773514": 1,
-    "https://www.linkedin.com/jobs/view/gtm-partnerships-enablement-lead-at-openai-4408153386": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-paid-social-at-gr0-4409396459": 1,
-    "https://www.linkedin.com/jobs/view/creator-campaign-manager-at-creatorworks-4410564154": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-panorama-education-4410773857": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-account-manager-at-storable-4409715959": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410570130": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-ninetwothree-ai-studio-4410701138": 1,
     "https://www.linkedin.com/jobs/view/vp-marketing-at-chamberlain-advisors-4408449396": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4414712278": 1,
     "https://www.linkedin.com/jobs/view/director-of-business-systems-technology-at-gorjana-4414263401": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-boston-ma-at-foundation-egi-4414672105": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402483864": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392488221": 1,
+    "https://www.linkedin.com/jobs/view/fractional-cxo-venture-builder-capital-strategy-partner-%e2%80%94-ai-saas-venture-at-vegah-4414692170": 1,
+    "https://www.linkedin.com/jobs/view/no-code-builder-at-wolf-webinaire-4411517105": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-netpolarity-inc-saicon-consultants-inc-4414625962": 1,
+    "https://www.linkedin.com/jobs/view/ai-led-revenue-operations-lead-at-merge-4414731220": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-slg-at-peregrine-4382834899": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-slg-at-peregrine-4382840433": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
