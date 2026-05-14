@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-up-to-%c2%a365-000-at-blu-digital-4405142004": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-propel-4410583866": 1,
-    "https://www.linkedin.com/jobs/view/senior-b2c-campaigns-manager-at-stopgap-marketing-digital-creative-recruitment-4408425915": 1,
-    "https://www.linkedin.com/jobs/view/global-campaigns-senior-strategist-at-ifs-4410554356": 1,
     "https://www.linkedin.com/jobs/view/social-media-operator-at-meshionai-4409721415": 1,
     "https://www.linkedin.com/jobs/view/oper%c3%a1tor-call-centra-slovak-language-remote-4408171641": 1,
     "https://www.linkedin.com/jobs/view/new-product-development-supervisor-%e2%80%93-formulated-products-at-american-art-clay-company-4410747215": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/process-engineer-at-fqe-power-4411178502": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-jax-pytorch-pallas-triton-at-great-value-hiring-4414460700": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-marketing-at-moneyhero-group-nasdaq-mny-4405243928": 1,
-    "https://www.linkedin.com/jobs/view/customer-supply-chain-manager-%e2%80%93-club-at-olly-pbc-4404987542": 1
+    "https://www.linkedin.com/jobs/view/customer-supply-chain-manager-%e2%80%93-club-at-olly-pbc-4404987542": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-cresta-4374434995": 1,
+    "https://www.linkedin.com/jobs/view/ml-ops-engineer-contract-at-createfuture-4402487445": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-meanpug-digital-4414596709": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-brand-at-revolut-4404450386": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
