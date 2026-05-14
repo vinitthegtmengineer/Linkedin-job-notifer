@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cvd-operator-4408168618": 1,
-    "https://www.linkedin.com/jobs/view/growth-expert-m-w-d-remote-at-zimmer-consulting-ehem-social-selling-4403629760": 1,
-    "https://www.linkedin.com/jobs/view/affiliate-network-builder-at-hyphen-connect-4389547596": 1,
-    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-dispel-4410722846": 1,
     "https://www.linkedin.com/jobs/view/ai-driven-full-stack-developer-growth-operator-client-facing-at-excellorix-4409331998": 1,
     "https://www.linkedin.com/jobs/view/senior-strategic-consultant-%e2%80%93-pharma-flavours-middle-east-africa-at-palomba-general-trading-4408425988": 1,
     "https://www.linkedin.com/jobs/view/head-of-market-development-agent-builder-ecosystem-at-fairplay-ai-4410255150": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/b2b-education-gtm-manager-at-jobs-via-dice-4413840995": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91unity%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e6%9c%89%e5%90%8dip%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e9%96%8b%e7%99%ba%e3%81%82%e3%82%8a-%e6%ae%8b%e6%a5%ad%e6%99%82%e9%96%9330h%e4%bb%a5%e4%b8%8b%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%bejoro-4414262887": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-workflow-automation-lead-at-greenlight-ai-4414528493": 1,
-    "https://www.linkedin.com/jobs/view/manager-sales-enablement-at-flex-4414509316": 1
+    "https://www.linkedin.com/jobs/view/manager-sales-enablement-at-flex-4414509316": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineering-i-marketing-at-sezzle-4404876601": 1,
+    "https://www.linkedin.com/jobs/view/mid-senior-data-engineer-powerbi-azure-fabric-ops-banking-fintech-exp-at-digiex-group-4414408838": 1,
+    "https://www.linkedin.com/jobs/view/enablement-manager-sales-customer-success-at-storable-4414400995": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-nutrition-in-sync-4414412889": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
