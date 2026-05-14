@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revops-f-m-x-at-personio-4408424697": 1,
-    "https://www.linkedin.com/jobs/view/staff-ai-product-builder-at-brightwheel-4409726827": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-impulse-latam-4410724663": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-and-gtm-engineer-at-omnibound-ai-4407766260": 1,
-    "https://www.linkedin.com/jobs/view/marketing-gtm-engineer-at-quadsci-ai-4410755465": 1,
     "https://www.linkedin.com/jobs/view/gtm-revenue-operations-engineer-at-harmonic-security-4410756903": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-paralleldots-4408931211": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-sps-commerce-4400061351": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/consultant-only-for-fresher-at-decabyte-4411182706": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-director-agi-genai-builders-at-telus-digital-4392474986": 1,
     "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4411191206": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-ai-program-lead-at-vena-solutions-4405416562": 1
+    "https://www.linkedin.com/jobs/view/revenue-operations-ai-program-lead-at-vena-solutions-4405416562": 1,
+    "https://www.linkedin.com/jobs/view/spray-foam-installer-at-truteam-4404243473": 1,
+    "https://www.linkedin.com/jobs/view/field-caulker-at-fabcon-4344170091": 1,
+    "https://www.linkedin.com/jobs/view/installer-at-groundworks-4404882942": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-at-wells-4396757766": 1,
+    "https://www.linkedin.com/jobs/view/senior-member-growth-manager-at-omada-health-4402478911": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
