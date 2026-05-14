@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hubspot-consultant-latam-at-4cast-agency-4410957937": 1,
-    "https://www.linkedin.com/jobs/view/principal-product-manager-builder-at-life360-4410788495": 1,
-    "https://www.linkedin.com/jobs/view/principal-product-manager-builder-at-life360-4410781609": 1,
-    "https://www.linkedin.com/jobs/view/sales-director-workforce-training-at-creatium-4410075738": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4409751837": 1,
     "https://www.linkedin.com/jobs/view/op%c3%a9rateur-en-d%c3%a9samiantage-sous-section-3-at-groupe-r%c3%a9silians-4410942976": 1,
     "https://www.linkedin.com/jobs/view/web-operations-engineer-at-simply-secure-group-4410775803": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/swarmbench-task-engineer-planning-operations-75063-at-turing-4414630519": 1,
     "https://www.linkedin.com/jobs/view/swarmbench-task-engineer-planning-operations-75063-at-turing-4414632409": 1,
     "https://www.linkedin.com/jobs/view/ai-process-engineer-at-tag-software-group-4383798432": 1,
-    "https://www.linkedin.com/jobs/view/director-category-growth-general-manager-at-stockx-4404435301": 1
+    "https://www.linkedin.com/jobs/view/director-category-growth-general-manager-at-stockx-4404435301": 1,
+    "https://www.linkedin.com/jobs/view/labourer-operator-at-elders-4414735780": 1,
+    "https://www.linkedin.com/jobs/view/consultant-brazil-at-sailpoint-4414917664": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-apartmentiq-4414935009": 1,
+    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4404438264": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
