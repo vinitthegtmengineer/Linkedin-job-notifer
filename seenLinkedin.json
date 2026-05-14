@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-tatari-4388669307": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-associate-at-nooks-4408918491": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sevaro-4410757775": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-engineer-at-sevaro-4410754940": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-virtustant-4408405807": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-milyux-4409399596": 1,
-    "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4410754373": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-at-tebra-4401514660": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-whisker-labs-4410505976": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-people-partner-4408449664": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-manager-at-two-ten-footwear-foundation-4410761059": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/air-vehicle-operator-2-deployed-at-aevex-4225584184": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4414172549": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e8%84%86%e5%bc%b1%e6%80%a7%e7%ae%a1%e7%90%86%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91%e3%83%93%e3%82%ba%e3%83%aa%e3%83%bc%e3%83%81%e6%93%81%e3%81%99%e3%82%8bvisional%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%e2%96%a0%e5%9c%a8%e5%ae%85%e5%8f%af-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4414554811": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sunway-university-4414476250": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-club-of-sunway-university-4414476250": 1,
+    "https://www.linkedin.com/jobs/view/founding-operator-brand-growth-at-equal-collective-4414471426": 1,
+    "https://www.linkedin.com/jobs/view/detective-consultant-fully-remote-at-mercor-4414172564": 1,
+    "https://www.linkedin.com/jobs/view/genai-consultant-%e2%80%93-consumer-goods-at-hmg-america-llc-4414165158": 1,
+    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-%e2%80%94-workflow-builder-at-plexis-ai-techstars-25-4414457972": 1,
+    "https://www.linkedin.com/jobs/view/relationship-officer-balance-builder-mashreq-global-network-pakistan-at-mashreq-4411157607": 1,
+    "https://www.linkedin.com/jobs/view/lead-sales-growth-operations-analyst-at-tebra-4405263606": 1,
+    "https://www.linkedin.com/jobs/view/gtm-event-manager-b2b-at-classpass-4371974302": 1,
+    "https://www.linkedin.com/jobs/view/sr-growth-marketing-manager-new-products-at-samsara-4402836162": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-14",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
