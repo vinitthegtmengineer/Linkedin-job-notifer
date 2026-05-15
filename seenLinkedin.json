@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411455156": 1,
-    "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4411426677": 1,
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411441711": 1,
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411451561": 1,
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411450581": 1,
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411434963": 1,
     "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411445610": 1,
     "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411435827": 1,
     "https://www.linkedin.com/jobs/view/remote-marketing-executive-at-independent-consultant-4409227973": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-ig-group-4411525883": 1,
     "https://www.linkedin.com/jobs/view/paid-search-manager-at-bray-leino-4373813547": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4415083847": 1,
-    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415506345": 1
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415506345": 1,
+    "https://www.linkedin.com/jobs/view/developer-growth-manager-at-ably-4415338505": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-engineer-at-bloom-4414917936": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-engineer-at-moritz-4415365496": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-at-nogood-4414969210": 1,
+    "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-schoox-4414958468": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-alorica-4415088755": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
