@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-talent-design-d-exp%c3%a9rience-4409298479": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411436561": 1,
-    "https://www.linkedin.com/jobs/view/strategic-email-deliverability-consultant-at-bloomreach-4380965337": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-enablement-manager-at-truehold-4411668327": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-digital-marketing-at-elevate-and-delegate-4410810851": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-pwc-4411656986": 1,
-    "https://www.linkedin.com/jobs/view/senior-platform-ops-engineer-at-press-ganey-4389806503": 1,
-    "https://www.linkedin.com/jobs/view/creative-operations-manager-at-baggu-4382476838": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-wealthbox-4410401069": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-palm-springs-%234807-at-grail-4410848488": 1,
-    "https://www.linkedin.com/jobs/view/consultant-team-lead-at-owen-associates-4411685702": 1,
-    "https://www.linkedin.com/jobs/view/marktgebietsverantwortliche-n-senior-consultant-bern-at-newplace-ag-4410841229": 1,
-    "https://www.linkedin.com/jobs/view/strategic-consultant-at-freedom-practice-coaching-4410415071": 1,
     "https://www.linkedin.com/jobs/view/senior-ai-builder-agent-development-at-jobs-via-dice-4410851432": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-sme-at-largeton-group-4411639919": 1,
     "https://www.linkedin.com/jobs/view/azure-devops-engineer-%e2%80%93-operational-support-role-at-dignifyd-4409605836": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-nextview-backed-sales-ai-startup-at-jack-jill-4415008409": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-infosys-bpm-4412040777": 1,
     "https://www.linkedin.com/jobs/view/senior-director-marketing-at-jobgether-4415026317": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c-at-%e3%83%8d%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%ef%bc%88%e6%a0%aa%ef%bc%89-4415537606": 1
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c-at-%e3%83%8d%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%ef%bc%88%e6%a0%aa%ef%bc%89-4415537606": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-german-speaking-in-poland-at-keyence-corporation-4415144048": 1,
+    "https://www.linkedin.com/jobs/view/art-ceramics-emphasis-instructor-part-time-faculty-pool-at-ohlone-college-4415106971": 1,
+    "https://www.linkedin.com/jobs/view/principal-ceramic-engineer-onsite-at-pratt-whitney-4395264646": 1,
+    "https://www.linkedin.com/jobs/view/maestr%40-de-cer%c3%a1mica-at-arozarena-de-la-fuente-4415532344": 1,
+    "https://www.linkedin.com/jobs/view/artista-ceramista-4415506476": 1,
+    "https://www.linkedin.com/jobs/view/experienced-mason-at-carolina-masonry-and-concrete-4415548474": 1,
+    "https://www.linkedin.com/jobs/view/mason-at-carolina-masonry-and-concrete-4415550499": 1,
+    "https://www.linkedin.com/jobs/view/kiln-operator-plant-utility-multiple-positions%21-4415305157": 1,
+    "https://www.linkedin.com/jobs/view/ausbildung-zum-industriekeramiker-m-w-d-f%c3%bcr-anlagentechnik-at-steuler-linings-4415560521": 1,
+    "https://www.linkedin.com/jobs/view/concrete-mold-carpenter-at-rinker-materials-4415571194": 1,
+    "https://www.linkedin.com/jobs/view/housing-project-sign-off-engineer-p-eng-%e2%80%93-remote-ontario-at-forever-renewables-technology-consulting-inc-4409839222": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-at-xsolla-4397166497": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-jobgether-4414795528": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
