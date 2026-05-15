@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-launch-operator-at-versai-labs-4409922773": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-annapurna-4408858963": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-opera%c3%a7%c3%b5es-remota-at-capco-4411210974": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-engineer-ai-automation-at-commandlink-4410981370": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-openloop-4410415060": 1,
-    "https://www.linkedin.com/jobs/view/marketplace-executive-at-no-fluff-4408810103": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-edit-media-group-4410409212": 1,
-    "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-edit-media-group-4410402314": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-worldstrides-4402024091": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-manager-americas-at-immutable-4338777478": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-automation-manager-at-fynity-4410978745": 1,
-    "https://www.linkedin.com/jobs/view/director-pmm-for-enterprise-gtm-at-veeam-software-4409731697": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-sales-enablement-at-doordash-4399917415": 1,
     "https://www.linkedin.com/jobs/view/product-partnerships-manager-at-jane-app-4410963261": 1,
     "https://www.linkedin.com/jobs/view/director-of-revenue-systems-ai-at-openloop-4410403416": 1,
     "https://www.linkedin.com/jobs/view/vp-of-revenue-operations-global-at-safeguard-global-4411247324": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-jobgether-4415020343": 1,
     "https://www.linkedin.com/jobs/view/senior-revenue-operations-specialist-at-contentsquare-4396062273": 1,
     "https://www.linkedin.com/jobs/view/manager-ai-revenue-operations-at-turn-river-capital-4406130616": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4415017327": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4415017327": 1,
+    "https://www.linkedin.com/jobs/view/utilities-operator-at-msr-technology-group-4415082216": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-at-buzz-4415033598": 1,
+    "https://www.linkedin.com/jobs/view/channel-ads-executive-at-propelpad-4412009055": 1,
+    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-phifer-company-4415360587": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-lifecycle-marketing-at-point-4404444256": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-automation-analytics-at-jobgether-4415066304": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-optimite-4414775950": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-remote-raven-4414721448": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-jobgether-4414783895": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-exeed-digitals-4415375580": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-manager-at-the-global-talent-co-4414918436": 1,
+    "https://www.linkedin.com/jobs/view/partner-marketing-campaigns-manager-at-chasepro-talent-4414762216": 1,
+    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4406128172": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
