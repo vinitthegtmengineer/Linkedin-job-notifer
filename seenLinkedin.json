@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-partnerships-manager-at-jane-app-4410963261": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-systems-ai-at-openloop-4410403416": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-revenue-operations-global-at-safeguard-global-4411247324": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-program-manager-at-magview-4409959125": 1,
-    "https://www.linkedin.com/jobs/view/sr-partner-manager-at-g-p-4408862509": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-founder-at-swooped-4410995288": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-ai-automation-at-opensesame-4411413313": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineering-post-sales-remote-at-geotab-4410441473": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineering-post-sales-remote-at-geotab-4410455043": 1,
     "https://www.linkedin.com/jobs/view/senior-edge-engineer-firmware-mcu-at-sje-inc-4410441273": 1,
     "https://www.linkedin.com/jobs/view/ai-workflow-operations-revenue-strategy-operations-at-openai-4409222629": 1,
     "https://www.linkedin.com/jobs/view/senior-strategist-pilates-strength-gtm-at-ifit-4409965941": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-exeed-digitals-4415375580": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-manager-at-the-global-talent-co-4414918436": 1,
     "https://www.linkedin.com/jobs/view/partner-marketing-campaigns-manager-at-chasepro-talent-4414762216": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4406128172": 1
+    "https://www.linkedin.com/jobs/view/junior-marketing-analyst-comms-at-sezzle-4406128172": 1,
+    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-builder-at-highlevel-4382799571": 1,
+    "https://www.linkedin.com/jobs/view/global-sales-enablement-leader-at-wellhub-4382829330": 1,
+    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pandadoc-4405833798": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-at-jobgether-4414797754": 1,
+    "https://www.linkedin.com/jobs/view/marketing-and-education-executive-at-johnson-johnson-medtech-4215344048": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-twilio-4405610466": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-jobgether-4414798518": 1,
+    "https://www.linkedin.com/jobs/view/vp-brand-marketing-operations-at-claire-s-4415396321": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
