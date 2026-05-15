@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411445610": 1,
-    "https://www.linkedin.com/jobs/view/automation-specialist-marketing-industry-at-huzzle-com-4411435827": 1,
-    "https://www.linkedin.com/jobs/view/remote-marketing-executive-at-independent-consultant-4409227973": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-ukpharm-limited-4411452495": 1,
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-at-route-marketing-4409256497": 1,
     "https://www.linkedin.com/jobs/view/media-executive-remote-at-publicis-groupe-4410440488": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4411476327": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-engineer-at-moritz-4415365496": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-manager-at-nogood-4414969210": 1,
     "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-schoox-4414958468": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-alorica-4415088755": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-alorica-4415088755": 1,
+    "https://www.linkedin.com/jobs/view/revenue-cycle-implementation-leader-at-convergenz-4415529437": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-hvac-tab-commissioning-at-solvo-global-4412003768": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-midmac-construction-company-ltd-4412038154": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-jobgether-4415001479": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
