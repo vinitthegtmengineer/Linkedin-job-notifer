@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-previdenza-e-risparmio-entrata-laterale-ote-fino-a-7-500-chf-at-convit-international-gmbh-4409938421": 1,
-    "https://www.linkedin.com/jobs/view/solutions-architect-model-builder-latam-at-nvidia-4401138339": 1,
     "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4409973162": 1,
     "https://www.linkedin.com/jobs/view/partner-manager-at-square-4399996398": 1,
     "https://www.linkedin.com/jobs/view/sales-commercial-lead-at-filament-4411220062": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4415005289": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e5%9c%b0%e6%96%b9%e8%87%aa%e6%b2%bb%e4%bd%93%e5%90%91%e3%81%91%e4%bc%81%e7%94%bb%e6%8f%90%e6%a1%88%e5%96%b6%e6%a5%ad%ef%bc%88%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%bbpm%e6%a5%ad%e5%8b%99%ef%bc%89%e2%97%86%e7%a4%be%e4%bc%9a%e8%b2%a2%e7%8c%ae%e6%80%a7%e3%83%bb%e6%b3%a8%e7%9b%ae%e5%ba%a6%e3%81%ae%e9%ab%98%e3%81%84%e4%bb%95%e4%ba%8b%e2%97%8e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4414564010": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-blytheco-4414685432": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-%e2%80%93-remote-at-symetra-4405440989": 1
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-%e2%80%93-remote-at-symetra-4405440989": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-engineer-remote-at-clearout-4415005519": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-jobgether-4414794999": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
