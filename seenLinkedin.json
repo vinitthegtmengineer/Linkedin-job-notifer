@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-l-entry-level-usd-%2428%e2%80%93%2445-per-hour-at-quality-standards-for-information-technology-qsit-4408881364": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-the-sterling-choice-4411210129": 1,
-    "https://www.linkedin.com/jobs/view/product-manager-latam-s%c3%a3o-paulo-brazil-at-airbnb-4370994280": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402063456": 1,
     "https://www.linkedin.com/jobs/view/principal-software-engineer-agent-builder-search-at-elastic-4402057789": 1,
     "https://www.linkedin.com/jobs/view/brand-marketing-executive-corporate-office-at-madi-international-4411219263": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/product-marketing-manager-measurement-at-spotify-4414532868": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-unite-us-4382473981": 1,
     "https://www.linkedin.com/jobs/view/swarmbench-task-engineer-planning-operations-75063-at-turing-4414613881": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-part-time-at-hellokindred-4414575734": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-part-time-at-hellokindred-4414575734": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sdr-enterprise-ai-at-owow-4414761976": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-palette-media-4415301301": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-agilegrid-solutions-4414986510": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
