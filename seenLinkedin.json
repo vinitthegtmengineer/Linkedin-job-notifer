@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-edge-engineer-firmware-mcu-at-sje-inc-4410441273": 1,
-    "https://www.linkedin.com/jobs/view/ai-workflow-operations-revenue-strategy-operations-at-openai-4409222629": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategist-pilates-strength-gtm-at-ifit-4409965941": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-growth-executive-at-bruntwork-4408876291": 1,
-    "https://www.linkedin.com/jobs/view/navigation-engineer-at-wing-4410426022": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-setup-executive-at-outsourced-4409235357": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4410439503": 1,
     "https://www.linkedin.com/jobs/view/twin-screw-operator-at-alok-masterbatches-ltd-4410449883": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405510268": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/marketing-and-education-executive-at-johnson-johnson-medtech-4215344048": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-twilio-4405610466": 1,
     "https://www.linkedin.com/jobs/view/customer-marketing-manager-at-jobgether-4414798518": 1,
-    "https://www.linkedin.com/jobs/view/vp-brand-marketing-operations-at-claire-s-4415396321": 1
+    "https://www.linkedin.com/jobs/view/vp-brand-marketing-operations-at-claire-s-4415396321": 1,
+    "https://www.linkedin.com/jobs/view/consulente-at-universit%c3%a0-degli-studi-ecampus-4364963607": 1,
+    "https://www.linkedin.com/jobs/view/consultant-international-pour-la-re-%c3%a9criture-du-document-de-la-politique-nationale-d%e2%80%99%c3%a9valuation-de-la-rdc-2027-2037-kinshasa-rdc-%c3%a0-distance-3-mois-req%23593021-at-unicef-4415353329": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-wolf-webinaire-4411520130": 1,
+    "https://www.linkedin.com/jobs/view/us-revenue-enablement-systems-associate-at-pointclickcare-4405008294": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-high-growth-environment-at-digital-lemon-talent-%f0%9f%8d%8b-4412008989": 1,
+    "https://www.linkedin.com/jobs/view/freelance-content-creator-social-media-manager-at-makerz-4414725305": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
