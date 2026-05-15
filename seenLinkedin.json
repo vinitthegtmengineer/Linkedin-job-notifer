@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4409973162": 1,
-    "https://www.linkedin.com/jobs/view/partner-manager-at-square-4399996398": 1,
-    "https://www.linkedin.com/jobs/view/sales-commercial-lead-at-filament-4411220062": 1,
-    "https://www.linkedin.com/jobs/view/digital-commerce-manager-at-dollar-general-4409972224": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-cypress-hcm-4409388712": 1,
-    "https://www.linkedin.com/jobs/view/consultant-3a-3b-verm%c3%b6gensaufbau-quereinstieg-at-convit-central-gmbh-4409947212": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-quadsci-ai-4410994958": 1,
     "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-yum%21-brands-4408890691": 1,
     "https://www.linkedin.com/jobs/view/senior-software-engineer-revenue-payments-at-openloop-4370417997": 1,
     "https://www.linkedin.com/jobs/view/senior-ingenieur-sekund%c3%a4rtechnik-m-w-d-at-bkw-hochspannungsanlagen-4410997201": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-blytheco-4414685432": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-%e2%80%93-remote-at-symetra-4405440989": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-remote-at-clearout-4415005519": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-jobgether-4414794999": 1
+    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-jobgether-4414794999": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-m-w-d-remote-%2b-vor-ort-beim-kunden-at-mhlr-advisory-4411586122": 1,
+    "https://www.linkedin.com/jobs/view/floors-at-clayton-4414677269": 1,
+    "https://www.linkedin.com/jobs/view/drywall-finish-at-clayton-4414678269": 1,
+    "https://www.linkedin.com/jobs/view/pipelayer-at-the-walsh-group-walsh-construction-archer-western-4414961949": 1,
+    "https://www.linkedin.com/jobs/view/pipe-layer-at-ranger-environmental-services-4414698451": 1,
+    "https://www.linkedin.com/jobs/view/handyman-drywall-expert-at-ace-handyman-services-4414488374": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-virtustant-4411537419": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
