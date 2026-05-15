@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jhorgan-ltd-4410830166": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-talent-design-d-exp%c3%a9rience-4409298479": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411436561": 1,
     "https://www.linkedin.com/jobs/view/strategic-email-deliverability-consultant-at-bloomreach-4380965337": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/solution-sales-engineer-at-fortress-safety-4412022434": 1,
     "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-nextview-backed-sales-ai-startup-at-jack-jill-4415008409": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-infosys-bpm-4412040777": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-jobgether-4415026317": 1
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-jobgether-4415026317": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e5%80%99%e8%a3%9c-at-%e3%83%8d%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88%ef%bc%88%e6%a0%aa%ef%bc%89-4415537606": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
