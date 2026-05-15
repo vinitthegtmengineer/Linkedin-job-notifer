@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-carepolicy-us-4410496670": 1,
     "https://www.linkedin.com/jobs/view/remote-ecommerce-email-marketing-crm-retention-manager-at-sterling-forever-4409278819": 1,
     "https://www.linkedin.com/jobs/view/associate-director-marketing-effectiveness-at-jobgether-4410481294": 1,
     "https://www.linkedin.com/jobs/view/vp-of-brand-operations-at-icam-partners-sa-4411634452": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/manager-sales-enablement-at-jobgether-4415020433": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-amicable-4406349076": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-lead-london-based-at-agile-partnering-4415501211": 1,
-    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415508243": 1
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415508243": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4415394042": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
