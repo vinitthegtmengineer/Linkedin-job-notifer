@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-ecommerce-email-marketing-crm-retention-manager-at-sterling-forever-4409278819": 1,
-    "https://www.linkedin.com/jobs/view/associate-director-marketing-effectiveness-at-jobgether-4410481294": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-brand-operations-at-icam-partners-sa-4411634452": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-operator-at-meshionai-4410488784": 1,
-    "https://www.linkedin.com/jobs/view/ai-red-team-operator-remote-or-hybrid-in-mn-or-dc-at-unitedhealth-group-4411645584": 1,
-    "https://www.linkedin.com/jobs/view/well-certification-consultant-well-ap-at-ekkist-4411490828": 1,
-    "https://www.linkedin.com/jobs/view/flexplm-consultant-at-wise-skulls-4409202015": 1,
-    "https://www.linkedin.com/jobs/view/martech-engineer-bloomreach-klaviyo-at-sprint-consulting-llc-4409608041": 1,
-    "https://www.linkedin.com/jobs/view/chief-growth-officer-at-stocksnips-4407936495": 1,
-    "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4410813042": 1,
-    "https://www.linkedin.com/jobs/view/manager-field-marketing-events-at-zeta-global-4410800972": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jhorgan-ltd-4410830166": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-talent-design-d-exp%c3%a9rience-4409298479": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411436561": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-amicable-4406349076": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-lead-london-based-at-agile-partnering-4415501211": 1,
     "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415508243": 1,
-    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4415394042": 1
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4415394042": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-renewable-electrical-engineering-scada-at-invenergy-4405685568": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-renewable-electrical-engineering-scada-at-invenergy-4405800323": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-renewable-electrical-engineering-scada-at-invenergy-4405689581": 1,
+    "https://www.linkedin.com/jobs/view/transmission-line-project-engineer-rock-mountain-remote-at-wsp-in-the-u-s-4384356195": 1,
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-operations-engineer-at-housecall-pro-4414954976": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-project-engineering-manager-%e2%80%93-integrated-project-solutions-at-ge-vernova-4395702643": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-at-discover-international-4412042437": 1,
+    "https://www.linkedin.com/jobs/view/solution-sales-engineer-at-fortress-safety-4412022434": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-nextview-backed-sales-ai-startup-at-jack-jill-4415008409": 1,
+    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-infosys-bpm-4412040777": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-marketing-at-jobgether-4415026317": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
