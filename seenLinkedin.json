@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-automation-builder-%e2%80%93-healthcare-clinic-workflows-at-automatii-ai-4410457360": 1,
     "https://www.linkedin.com/jobs/view/rust-engineer-80%25-100%25-%e2%80%93-zurich-at-code-compass-%f0%9f%a7%ad-4409285964": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-unicorn-formerly-wiser-elite-4411640465": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-carepolicy-us-4410496670": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-tatari-4388654886": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-tatari-4388669307": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-heidi-4373984217": 1,
-    "https://www.linkedin.com/jobs/view/manager-sales-enablement-at-jobgether-4415020433": 1
+    "https://www.linkedin.com/jobs/view/manager-sales-enablement-at-jobgether-4415020433": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-amicable-4406349076": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
