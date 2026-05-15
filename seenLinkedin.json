@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4410439503": 1,
-    "https://www.linkedin.com/jobs/view/twin-screw-operator-at-alok-masterbatches-ltd-4410449883": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-100%25-remote-at-lezzat-4405510268": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4409234518": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%9a%a8-recrutement-%e2%80%94-creative-operator-video-tiktok-meta-ads-s%c3%a9n%c3%a9gal-at-adsoleo-4411435716": 1,
-    "https://www.linkedin.com/jobs/view/bd-presales-data-engineering-machine-engineering-solutioning-at-tiger-analytics-4410482192": 1,
-    "https://www.linkedin.com/jobs/view/data-ml-engineering-bd-solutioning-sm-ad-at-tiger-analytics-4410473244": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-de-opera%c3%a7%c3%b5es-pleno-remota-at-capco-4411226517": 1,
-    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-turquoise-4411409431": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-talent-connect-group-tcg-4408850653": 1,
-    "https://www.linkedin.com/jobs/view/site-reliability-engineer-operations-pst-timezone-at-skyflow-4364360046": 1,
     "https://www.linkedin.com/jobs/view/project-program-engineer-new-grad-at-ciena-4393474966": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-vinn-digital-media-4410436108": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4411455156": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/product-builder-at-wolf-webinaire-4411520130": 1,
     "https://www.linkedin.com/jobs/view/us-revenue-enablement-systems-associate-at-pointclickcare-4405008294": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-remote-high-growth-environment-at-digital-lemon-talent-%f0%9f%8d%8b-4412008989": 1,
-    "https://www.linkedin.com/jobs/view/freelance-content-creator-social-media-manager-at-makerz-4414725305": 1
+    "https://www.linkedin.com/jobs/view/freelance-content-creator-social-media-manager-at-makerz-4414725305": 1,
+    "https://www.linkedin.com/jobs/view/ai-health-growth-operator-4415103000": 1,
+    "https://www.linkedin.com/jobs/view/clinical-ai-builder-at-avo-4414959163": 1,
+    "https://www.linkedin.com/jobs/view/senior-ad-ops-engineer-at-jobs-via-dice-4414733699": 1,
+    "https://www.linkedin.com/jobs/view/senior-partner-enablement-manager-at-wiz-4412016387": 1,
+    "https://www.linkedin.com/jobs/view/campaign-marketing-manager-at-feefo-4397520500": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-wiser-4405028971": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-lead-at-hays-4415013908": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-lead-at-wiser-4405032895": 1,
+    "https://www.linkedin.com/jobs/view/media-campaign-lead-london-at-justwatch-4415348178": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-ig-group-4411525883": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-manager-at-bray-leino-4373813547": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
