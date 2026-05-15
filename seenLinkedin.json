@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-gtm-enablement-partner-at-fundraise-up-4401115917": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-operations-manager-at-medisolv-inc-4400612974": 1,
-    "https://www.linkedin.com/jobs/view/vp-north-america-gtm-at-sitecore-4409735365": 1,
     "https://www.linkedin.com/jobs/view/gtm-sales-enablement-manager-at-presidio-4411275317": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-kindred-4382357285": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-outbound-at-elevenlabs-4401121829": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-executive-paid-social-at-wpp-media-4409286113": 1,
     "https://www.linkedin.com/jobs/view/senior-executive-paid-social-at-wpp-media-4409270962": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-grg-india-4411578887": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-bigstep-technologies-4411581586": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bigstep-technologies-4411581586": 1,
+    "https://www.linkedin.com/jobs/view/head-of-technology-transformation-full-stack-builder-at-workleap-4397140528": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-brand-marketing-communications-at-jobgether-4415022431": 1,
+    "https://www.linkedin.com/jobs/view/operations-marketing-support-at-stranger-soccer-4415340295": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-15",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
