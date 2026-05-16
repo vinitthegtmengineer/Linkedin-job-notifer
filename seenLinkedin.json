@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quarry-operator-at-amrize-4388404453": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-crh-4411656299": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-vulcan-materials-company-4401808176": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-martin-marietta-4402913948": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-plant-operator-at-crh-4411656295": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategic-gtm-consultant-at-gtm-growth-4410817139": 1,
-    "https://www.linkedin.com/jobs/view/%e9%99%b6%e8%89%ba%e8%80%81%e5%b8%88-at-%e5%90%88%e8%82%a5%e6%b2%83%e6%96%af%e7%89%b9%e8%b4%b8%e6%98%93%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4409241051": 1,
-    "https://www.linkedin.com/jobs/view/pottery-assistant-at-center-parcs-uk-ireland-4410807185": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-iii-at-kohler-co-4402523573": 1,
-    "https://www.linkedin.com/jobs/view/shell-processor-lpct-826-at-precision-castparts-4411428637": 1,
     "https://www.linkedin.com/jobs/view/art-teacher-full-time-at-davis-school-district-4411430355": 1,
     "https://www.linkedin.com/jobs/view/quartz-finisher-at-wren-kitchens-4390143006": 1,
     "https://www.linkedin.com/jobs/view/ceramic-engineer-at-utility-4390621804": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-townsquare-ignite-4412048032": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-12-month-ftc-at-active-care-group-4412022138": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-%2450-hr-remote-at-crossing-hurdles-4415034005": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-amperity-4403271610": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-amperity-4403271610": 1,
+    "https://www.linkedin.com/jobs/view/operador-en-adaptaciones-de-arte-at-foic-lecanda-4412053248": 1,
+    "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415124266": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415584955": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415596333": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415803016": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415800148": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415595426": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415596334": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415588865": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%97%e3%83%ad%e3%83%80%e3%82%af%e3%83%88%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%90%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%e3%80%91%ef%bc%88%e7%9f%b3%e5%b7%9d%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%8b%e3%82%b8%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9%ef%bc%88nijibox-co-ltd-%ef%bc%89-4415533666": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
