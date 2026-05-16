@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-api-engineer-sdui-backend-operations-at-turnkey-tech-staffing-4411439635": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4410104074": 1,
-    "https://www.linkedin.com/jobs/view/founding-operator-at-codeln-4411351154": 1,
-    "https://www.linkedin.com/jobs/view/final-at-clayton-4411837273": 1,
-    "https://www.linkedin.com/jobs/view/sidewalls-at-clayton-4411657765": 1,
-    "https://www.linkedin.com/jobs/view/3673-concrete-finisher-journeyman-at-overland-contracting-inc-4411855703": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-ground-groundman-at-granite-construction-4411454485": 1,
     "https://www.linkedin.com/jobs/view/join-our-team-as-an-acrylic-bath-installer-at-bath-planet-4411850568": 1,
     "https://www.linkedin.com/jobs/view/join-our-team-as-an-acrylic-bath-installer-at-bath-planet-4411849581": 1,
     "https://www.linkedin.com/jobs/view/3669-concrete-finisher-gen-fore-at-overland-contracting-inc-4411871258": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/gtm-strategy-founding-at-exitopp-4415101865": 1,
     "https://www.linkedin.com/jobs/view/principal-gtm-engineer-at-disqo-4415585365": 1,
     "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-ultra-clean-technology-4403277235": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
+    "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415122422": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-de-canales-digitales-conversacionales-at-entel-per%c3%ba-4415861116": 1,
+    "https://www.linkedin.com/jobs/view/fusion-global-pay-plus-engineer-at-xcede-4415176702": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-data-platform-at-movable-ink-4415122204": 1,
+    "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-dotdigital-4412016733": 1,
+    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415159390": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
