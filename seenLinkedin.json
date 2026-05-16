@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-in-q-tel-backed-ai-cybersecurity-startup-at-jack-jill-4410846408": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-front-4370937406": 1,
-    "https://www.linkedin.com/jobs/view/principal-engineering-at-k2m-design-4395452203": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-integrated-marketing-at-shutterfly-4411825733": 1,
     "https://www.linkedin.com/jobs/view/senior-o9-consultant-at-amazure-technologies-pvt-ltd-4411051160": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-systems-engineer-at-zuddl-4410803113": 1,
     "https://www.linkedin.com/jobs/view/digital-movement-builder-4411868277": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-lhoist-4404107204": 1,
     "https://www.linkedin.com/jobs/view/grounds-person-at-arcosa-inc-4406684864": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-at-giga-4406676950": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-everlign-social-4415565847": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-everlign-social-4415565847": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-senior-external-advisor-consultant-at-lasalle-investment-management-4415861657": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-central-illinois-iowa-%234757-at-grail-4403767563": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4415186516": 1,
+    "https://www.linkedin.com/jobs/view/operations-planning-engineer-iii-senior-expert-at-eqt-corporation-4405258779": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
