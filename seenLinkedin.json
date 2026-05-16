@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-checkout-com-4400803166": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-and-systems-associate-at-decagon-4411862249": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-strategy-manager-at-hover-4409691474": 1,
-    "https://www.linkedin.com/jobs/view/think-100%25-campaigns-manager-at-hip-hop-caucus-4410863244": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-19298-at-somewhere-4411381152": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371147012": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411875294": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411866779": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-market-lead-bern-at-newplace-ag-4410841229": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-trane-technologies-4405706015": 1,
     "https://www.linkedin.com/jobs/view/solution-engineer-google-at-avepoint-4384218334": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-at-11x-4405709098": 1,
-    "https://www.linkedin.com/jobs/view/developer-experience-engineer-at-openai-4250302588": 1
+    "https://www.linkedin.com/jobs/view/developer-experience-engineer-at-openai-4250302588": 1,
+    "https://www.linkedin.com/jobs/view/builder-install-professional-at-peachtree-pest-control-4415891087": 1,
+    "https://www.linkedin.com/jobs/view/handyman-at-ace-handyman-services-capital-district-saratoga-region-4412097294": 1,
+    "https://www.linkedin.com/jobs/view/store-construction-at-braum-s-4415879571": 1,
+    "https://www.linkedin.com/jobs/view/content-marketing-executive-video-at-soar-with-us-4415191663": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-think-orion-4416004110": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-media-magnetix-4415178249": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
