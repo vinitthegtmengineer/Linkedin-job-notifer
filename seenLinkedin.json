@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quartz-finisher-at-wren-kitchens-4390143006": 1,
-    "https://www.linkedin.com/jobs/view/ceramic-engineer-at-utility-4390621804": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-manos-software-group-4381128799": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-sprinto-4390424624": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-othor-ai-4410449419": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-100%25-remote-contract-at-surf-office-4411817512": 1,
-    "https://www.linkedin.com/jobs/view/h-f-gtm-engineer-at-gatling-4411653306": 1,
-    "https://www.linkedin.com/jobs/view/h-f-gtm-engineer-at-gatling-4411642782": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-automation-engineer-at-precisely-4401444641": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411659840": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411666767": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415596334": 1,
     "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4415588865": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e3%83%97%e3%83%ad%e3%83%80%e3%82%af%e3%83%88%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%b9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%90%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%e3%80%91%ef%bc%88%e7%9f%b3%e5%b7%9d%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%8b%e3%82%b8%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9%ef%bc%88nijibox-co-ltd-%ef%bc%89-4415533666": 1,
-    "https://www.linkedin.com/jobs/view/lead-telecomm-operator-pbx-services-ft-08a-6-30p-at-baptist-health-4415565260": 1
+    "https://www.linkedin.com/jobs/view/lead-telecomm-operator-pbx-services-ft-08a-6-30p-at-baptist-health-4415565260": 1,
+    "https://www.linkedin.com/jobs/view/quarry-operator-at-quikrete-4415585052": 1,
+    "https://www.linkedin.com/jobs/view/cement-operator-2-dot-nex-at-patterson-uti-4415113928": 1,
+    "https://www.linkedin.com/jobs/view/ergon-asphalt-and-emulsions-facility-operator-at-ergon-inc-4415112956": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-landfill-at-gfl-environmental-inc-4415801682": 1,
+    "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415104871": 1,
+    "https://www.linkedin.com/jobs/view/gtm-outbound-engineer-at-stx-next-4415366131": 1,
+    "https://www.linkedin.com/jobs/view/demo-engineer-at-cresta-4415804492": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-ote-up-to-%24180-000-per-year-at-castellum-ai-4415397293": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
