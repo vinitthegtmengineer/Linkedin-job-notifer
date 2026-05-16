@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-competitive-technical-marketing-engineer-at-hpe-aruba-networking-4410794535": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-patch-4411297984": 1,
     "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-afore-capital-backed-ai-cost-management-startup-at-jack-jill-4410840448": 1,
     "https://www.linkedin.com/jobs/view/sr-distinguished-engineer-ai-first-transformation-at-palo-alto-networks-unit-42-4409607382": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-engineer-at-omnivision-4410820640": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-kharon-4415395056": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-amperity-4403267650": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-ai-security-at-lakera-4393030809": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-thv-at-infosoft-inc-4415554907": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-thv-at-infosoft-inc-4415554907": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4415846001": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-databank-recruiter-4412070786": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
