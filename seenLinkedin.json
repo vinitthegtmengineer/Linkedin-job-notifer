@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/detective-consultant-fully-remote-at-mercor-4411334029": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-a-founder-track-role-at-biorender-4402307064": 1,
-    "https://www.linkedin.com/jobs/view/specialist-ai-engineer-builder-llm-healthcare-remote-job-at-evanthys-4411886592": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-fqe-power-4411368632": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411865778": 1,
-    "https://www.linkedin.com/jobs/view/glaze-prep-operator-days-at-dal-tile-llc-4380589068": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-tester-at-krazan-associates-inc-4411803884": 1,
-    "https://www.linkedin.com/jobs/view/shell-finishing-processor-ssbo-at-precision-castparts-4402167789": 1,
-    "https://www.linkedin.com/jobs/view/limestone-marble-granite-fabricator-experience-required-at-stone-center-4411331325": 1,
     "https://www.linkedin.com/jobs/view/production-technician-ii-at-coorstek-inc-4411327182": 1,
     "https://www.linkedin.com/jobs/view/caulker-at-wells-4411366513": 1,
     "https://www.linkedin.com/jobs/view/brick-and-stone-mason-at-glencore-canada-4411644008": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-social-media-manager-wedded-wonderland-at-wedded-wonderland-4415188118": 1,
     "https://www.linkedin.com/jobs/view/fiberglass-mold-building-technician-at-bass-pro-shops-4385160833": 1,
     "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404116504": 1,
-    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404115658": 1
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404115658": 1,
+    "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415111673": 1,
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404131198": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-lead-at-ben-4397594142": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-tickle-wickle-4415190029": 1,
+    "https://www.linkedin.com/jobs/view/campaign-management-sr-analyst-at-accenture-in-india-4415586487": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-at-wiley-4396965216": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-account-manager-at-starcom-4415117800": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-glood-ai-4415162882": 1,
+    "https://www.linkedin.com/jobs/view/marketing-technology-solutions-lead-at-rakuten-kobo-inc-4385813309": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
