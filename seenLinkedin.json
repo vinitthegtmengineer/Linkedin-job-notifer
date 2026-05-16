@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cement-mason-phx-at-granite-construction-4411457290": 1,
-    "https://www.linkedin.com/jobs/view/brick-mason-and-labors-at-jw-masonry-4411630426": 1,
-    "https://www.linkedin.com/jobs/view/pipe-layer-at-brasfield-gorrie-llc-4362022269": 1,
-    "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-vionlabs-4411334643": 1,
     "https://www.linkedin.com/jobs/view/low-code-engineer-at-hackajob-4411862585": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411328561": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411320058": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
     "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403785370": 1,
     "https://www.linkedin.com/jobs/view/partner-success-engineer-at-deepgram-4405714988": 1,
-    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404134121": 1
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404134121": 1,
+    "https://www.linkedin.com/jobs/view/ceramic-engineer-at-cybercoders-4404121405": 1,
+    "https://www.linkedin.com/jobs/view/furnace-mason-at-ati-4384510691": 1,
+    "https://www.linkedin.com/jobs/view/no-bake-moulder-at-penticton-foundry-4415148063": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-lockheed-martin-4415547818": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
