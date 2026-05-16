@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/projektingenieur-tga-rechenzentren-datacenter-m-w-d-at-zwp-ingenieur-ag-4400414472": 1,
-    "https://www.linkedin.com/jobs/view/cyber-security-engineer-%e2%80%93-security-operations-m-w-d-at-sopra-steria-4411630514": 1,
-    "https://www.linkedin.com/jobs/view/apprentice-operations-engineer-end-user-computing-f-m-d-at-decathlon-digital-4403997960": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411301833": 1,
-    "https://www.linkedin.com/jobs/view/mixing-engineer-%e2%80%93-rock-pop-project-at-twine-4400196485": 1,
-    "https://www.linkedin.com/jobs/view/substation-project-engineer-at-nei-electric-power-engineering-inc-4411830578": 1,
     "https://www.linkedin.com/jobs/view/senior-api-engineer-sdui-backend-operations-at-turnkey-tech-staffing-4411439635": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-uk-at-bjak-4410104074": 1,
     "https://www.linkedin.com/jobs/view/founding-operator-at-codeln-4411351154": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/seo-social-media-manager-at-factor-4415155931": 1,
     "https://www.linkedin.com/jobs/view/google-workspace-consultant-at-velan-consulting-pty-ltd-4412072751": 1,
     "https://www.linkedin.com/jobs/view/databricks-engineer-at-jobgether-4415090292": 1,
-    "https://www.linkedin.com/jobs/view/backend-engineer-%e2%80%93-threat-intelligence-data-operations-at-unity-systems-4412097112": 1
+    "https://www.linkedin.com/jobs/view/backend-engineer-%e2%80%93-threat-intelligence-data-operations-at-unity-systems-4412097112": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-operator-at-frouv-4412088837": 1,
+    "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403774542": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-founding-at-exitopp-4415101865": 1,
+    "https://www.linkedin.com/jobs/view/principal-gtm-engineer-at-disqo-4415585365": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-ultra-clean-technology-4403277235": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
