@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/executive-ppc-paid-media-ads-at-vaidam-health-4372062316": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-%e2%80%93-real-estate-at-genrec-ai-4411039623": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-weddings-luxury-brands-at-the-oyster-studios-4410813881": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-senior-executive-at-realatte-4411377658": 1,
-    "https://www.linkedin.com/jobs/view/facebook-ads-executive-at-influx-online-4411314814": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-lighthouse-4411659484": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-inspira-education-4411817377": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-prophix-4410816965": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-and-automations-lead-at-guesty-4410499548": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-4397612499": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-highway-4411649013": 1,
     "https://www.linkedin.com/jobs/view/growth-operations-manager-at-jellyvision-4391746463": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%8f%e3%82%a4%e3%82%af%e3%83%a9%e3%82%b9%ef%bc%8f%e7%94%9f%e6%88%90ai%e3%83%bbai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%besignate-4415885858": 1,
     "https://www.linkedin.com/jobs/view/senior-rust-consultant-engineer-m-w-d-at-cmdscale-gmbh-4412094221": 1,
     "https://www.linkedin.com/jobs/view/jewelry-plating-engineer-at-kendra-scott-4415153523": 1,
-    "https://www.linkedin.com/jobs/view/head-of-sales-operations-and-analytics-at-dropbox-4404104365": 1
+    "https://www.linkedin.com/jobs/view/head-of-sales-operations-and-analytics-at-dropbox-4404104365": 1,
+    "https://www.linkedin.com/jobs/view/project-consultant-at-cybercoders-4404112748": 1,
+    "https://www.linkedin.com/jobs/view/materials-testing-technician-readymix-at-tarmac-4406660961": 1,
+    "https://www.linkedin.com/jobs/view/trenchless-technology-specialist-at-brown-and-caldwell-4415134039": 1,
+    "https://www.linkedin.com/jobs/view/senior-geo-environmental-consultant-at-celnor-group-4358462907": 1,
+    "https://www.linkedin.com/jobs/view/earthworks-ganger-at-reliable-contractors-4412064911": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-geo-technology-associates-inc-gta-4397363136": 1,
+    "https://www.linkedin.com/jobs/view/ausbildung-zum-industriekeramiker-m-w-d-f%c3%bcr-anlagentechnik-at-steuler-linings-4415848429": 1,
+    "https://www.linkedin.com/jobs/view/kiln-furnace-technician-i-at-coorstek-inc-4412061316": 1,
+    "https://www.linkedin.com/jobs/view/agent-experience-engineer-at-acto-4415130449": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
