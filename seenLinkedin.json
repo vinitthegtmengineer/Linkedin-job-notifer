@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-legora-4400845675": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-secret-clearance-at-hackajob-4410843842": 1,
     "https://www.linkedin.com/jobs/view/projektingenieur-tga-rechenzentren-datacenter-m-w-d-at-zwp-ingenieur-ag-4400414472": 1,
     "https://www.linkedin.com/jobs/view/cyber-security-engineer-%e2%80%93-security-operations-m-w-d-at-sopra-steria-4411630514": 1,
     "https://www.linkedin.com/jobs/view/apprentice-operations-engineer-end-user-computing-f-m-d-at-decathlon-digital-4403997960": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-scale-labs-4412095099": 1,
     "https://www.linkedin.com/jobs/view/quick-commerce-ads-performance-marketing-at-shftx-tech-pvt-ltd-4415068872": 1,
     "https://www.linkedin.com/jobs/view/campaign-strategist-at-celigo-4397594730": 1,
-    "https://www.linkedin.com/jobs/view/seo-social-media-manager-at-factor-4415155931": 1
+    "https://www.linkedin.com/jobs/view/seo-social-media-manager-at-factor-4415155931": 1,
+    "https://www.linkedin.com/jobs/view/google-workspace-consultant-at-velan-consulting-pty-ltd-4412072751": 1,
+    "https://www.linkedin.com/jobs/view/databricks-engineer-at-jobgether-4415090292": 1,
+    "https://www.linkedin.com/jobs/view/backend-engineer-%e2%80%93-threat-intelligence-data-operations-at-unity-systems-4412097112": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
