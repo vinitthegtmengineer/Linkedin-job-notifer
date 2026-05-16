@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411323111": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-at-phluid-worldwide-4410487210": 1,
-    "https://www.linkedin.com/jobs/view/creative-operator-ai-native-multi-brand-performance-focused-at-anka-global-inc-4409689784": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-operator-%e2%80%93-performance-marketing-meta-focus-at-hotsourced-4411865734": 1,
-    "https://www.linkedin.com/jobs/view/projektingenieur-batteriespeichersysteme-bess-m-w-d-at-cubos-4409694888": 1,
-    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398271109": 1,
-    "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398260301": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-home-textiles-b2b-private-label-at-house-of-fashion-associates-4410803706": 1,
-    "https://www.linkedin.com/jobs/view/entrepreneur-indonesian-%247-hr-remote-at-crossing-hurdles-4410828701": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-employer-activation-at-swooped-4411640951": 1,
-    "https://www.linkedin.com/jobs/view/vp-b2b-marketing-remote-opportunity-at-tivity-health-4402976479": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-crystal-practice-management-4410491919": 1,
-    "https://www.linkedin.com/jobs/view/regional-human-resources-business-partner-hrbp-at-alliance-animal-health-4410866241": 1,
-    "https://www.linkedin.com/jobs/view/marketing-lead-brazil-at-bsi-4378980787": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411878045": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411861888": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411854955": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/project-engineer-at-lockheed-martin-4415547818": 1,
     "https://www.linkedin.com/jobs/view/startup-operator-founding-team-member-at-hyperreal-4415885400": 1,
     "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415108699": 1,
-    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415195764": 1
+    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415195764": 1,
+    "https://www.linkedin.com/jobs/view/date-entry-operator-4412094523": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-snorkel-ai-4383174732": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-systems-analyst-at-snorkel-ai-4383169575": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-snorkel-ai-4383174731": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-analyst-%e2%80%93-travel-entertainment-brazil-at-truelogic-software-4415542811": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-sales-executive-at-digital-blitz-media-marketing-4415887080": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-business-partner-at-impel-consultants-4415866813": 1,
+    "https://www.linkedin.com/jobs/view/remote-account-executive-sr-account-executive-knoxville-tn-at-q1media-4415582309": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-growth-marketing-at-axiad-4415801628": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-porcellia-4415189661": 1,
+    "https://www.linkedin.com/jobs/view/executive-creative-director-at-instrument-4415570456": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-analytics-manager-at-gong-4415399791": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analytics-manager-ai-model-training-remote-at-yo-it-consulting-4415156225": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-ai-manager-at-zenity-4410852824": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
