@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411878045": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411861888": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411854955": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411865789": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411864777": 1,
-    "https://www.linkedin.com/jobs/view/vp-svp-technical-underwriting-builders-risk-at-ladders-4411356098": 1,
-    "https://www.linkedin.com/jobs/view/delay-start-up-builders-risk-insurance-claims-director-of-quantum-delay-at-ladders-4411347866": 1,
     "https://www.linkedin.com/jobs/view/lead-sales-engineer-at-afiniti-4381707953": 1,
     "https://www.linkedin.com/jobs/view/reinforcement-learning-engineer-at-code-metal-4411864904": 1,
     "https://www.linkedin.com/jobs/view/generative-ai-operations-engineer-genai-ops-at-epam-systems-4398257413": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/executive-creative-director-at-instrument-4415570456": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-analytics-manager-at-gong-4415399791": 1,
     "https://www.linkedin.com/jobs/view/marketing-analytics-manager-ai-model-training-remote-at-yo-it-consulting-4415156225": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-ai-manager-at-zenity-4410852824": 1
+    "https://www.linkedin.com/jobs/view/marketing-campaign-operations-ai-manager-at-zenity-4410852824": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-workforce-training-at-creatium-4415404211": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-recroot-jobs-4415178780": 1,
+    "https://www.linkedin.com/jobs/view/global-campaign-manager-at-bee-talent-solutions-4415521229": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-strategy-operations-manager-at-roller-4314617106": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-operations-manager-at-fireworks-ai-4384582098": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-%e2%80%93-marketing-platforms-enablement-at-planet-pharma-4412043624": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-%e2%80%93-marketing-platforms-enablement-at-spectraforce-4415583340": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
