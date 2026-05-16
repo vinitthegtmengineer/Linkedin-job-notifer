@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-automation-engineer-at-precisely-4401444641": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411659840": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411666767": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-lead-at-commerce-4410845033": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411663748": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-partners-americas-at-smartsheet-4410463959": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-enablement-at-genetec-4411678281": 1,
     "https://www.linkedin.com/jobs/view/head-of-gtm-at-netswick-4411466051": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-operations-at-sprypoint-4411415376": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415104871": 1,
     "https://www.linkedin.com/jobs/view/gtm-outbound-engineer-at-stx-next-4415366131": 1,
     "https://www.linkedin.com/jobs/view/demo-engineer-at-cresta-4415804492": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-ote-up-to-%24180-000-per-year-at-castellum-ai-4415397293": 1
+    "https://www.linkedin.com/jobs/view/solutions-engineer-ote-up-to-%24180-000-per-year-at-castellum-ai-4415397293": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-unilever-4415092348": 1,
+    "https://www.linkedin.com/jobs/view/cpas-lead-at-the-niche-brands-4415074920": 1,
+    "https://www.linkedin.com/jobs/view/client-servicing-executive-%e2%80%93-influencer-integrated-campaigns-at-lokmat-media-pvt-ltd-4411580858": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-the-solved-skin-4411580442": 1,
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415399652": 1,
+    "https://www.linkedin.com/jobs/view/ads-marketing-manager-germany-at-netflix-4412033188": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
