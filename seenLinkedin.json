@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/low-code-engineer-at-hackajob-4411862585": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411328561": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411320058": 1,
     "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4411323111": 1,
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-at-phluid-worldwide-4410487210": 1,
     "https://www.linkedin.com/jobs/view/creative-operator-ai-native-multi-brand-performance-focused-at-anka-global-inc-4409689784": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/ceramic-engineer-at-cybercoders-4404121405": 1,
     "https://www.linkedin.com/jobs/view/furnace-mason-at-ati-4384510691": 1,
     "https://www.linkedin.com/jobs/view/no-bake-moulder-at-penticton-foundry-4415148063": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-lockheed-martin-4415547818": 1
+    "https://www.linkedin.com/jobs/view/project-engineer-at-lockheed-martin-4415547818": 1,
+    "https://www.linkedin.com/jobs/view/startup-operator-founding-team-member-at-hyperreal-4415885400": 1,
+    "https://www.linkedin.com/jobs/view/athletic-consultant-at-husch-blackwell-4415108699": 1,
+    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415195764": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
