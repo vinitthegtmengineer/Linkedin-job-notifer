@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-manager-strategic-accounts-at-legora-4405148119": 1,
     "https://www.linkedin.com/jobs/view/gtm-lead-at-legora-4400845675": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-to-the-chief-marketing-officer-at-bentley-systems-4383962338": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-secret-clearance-at-hackajob-4410843842": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-inboxkit-4415178690": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-scale-labs-4412095099": 1,
     "https://www.linkedin.com/jobs/view/quick-commerce-ads-performance-marketing-at-shftx-tech-pvt-ltd-4415068872": 1,
-    "https://www.linkedin.com/jobs/view/campaign-strategist-at-celigo-4397594730": 1
+    "https://www.linkedin.com/jobs/view/campaign-strategist-at-celigo-4397594730": 1,
+    "https://www.linkedin.com/jobs/view/seo-social-media-manager-at-factor-4415155931": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
