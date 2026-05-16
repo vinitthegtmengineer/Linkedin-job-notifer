@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/join-our-team-as-an-acrylic-bath-installer-at-bath-planet-4411850568": 1,
-    "https://www.linkedin.com/jobs/view/join-our-team-as-an-acrylic-bath-installer-at-bath-planet-4411849581": 1,
-    "https://www.linkedin.com/jobs/view/3669-concrete-finisher-gen-fore-at-overland-contracting-inc-4411871258": 1,
     "https://www.linkedin.com/jobs/view/cement-mason-phx-at-granite-construction-4411457290": 1,
     "https://www.linkedin.com/jobs/view/brick-mason-and-labors-at-jw-masonry-4411630426": 1,
     "https://www.linkedin.com/jobs/view/pipe-layer-at-brasfield-gorrie-llc-4362022269": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/senior-engineer-data-platform-at-movable-ink-4415122204": 1,
     "https://www.linkedin.com/jobs/view/platform-operations-engineer-at-dotdigital-4412016733": 1,
     "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415159390": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1
+    "https://www.linkedin.com/jobs/view/vice-president-gtm-dem-at-tp-4366877830": 1,
+    "https://www.linkedin.com/jobs/view/software-development-manager-ai-builder-tools-at-maintainx-4403785370": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-engineer-at-deepgram-4405714988": 1,
+    "https://www.linkedin.com/jobs/view/ai-support-operations-engineer-at-cybercoders-4404134121": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-16",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
