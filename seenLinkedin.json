@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/databricks-engineer-at-razor-4412191339": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-lago-4411759946": 1,
-    "https://www.linkedin.com/jobs/view/luxury-vacation-consultant-remote-at-sun-kissed-and-moonlit-travel-4411713334": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4411318892": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-claude-at-hire-overseas-4412401379": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-attentive-4389964157": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-rime-4411722004": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-contract-at-engrow-4409335447": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-gtm-tech-at-mongodb-4403100152": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-marketing-operations-ai-innovation-at-toast-4391955766": 1,
-    "https://www.linkedin.com/jobs/view/%e3%83%bb%e3%80%90%e5%a4%a7%e9%98%aa%e3%80%91%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%ef%bc%9asap%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%9c%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99%e5%8f%af%ef%bc%9e-at-scsk-corporation-4411746916": 1,
-    "https://www.linkedin.com/jobs/view/senior-sap-devops-operations-engineer-at-prime-therapeutics-4411730589": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4412112044": 1,
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4412110070": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-piper-maddox-4411731991": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4415898786": 1,
     "https://www.linkedin.com/jobs/view/content-inbound-marketing-specialist-remote-worldwide-at-replug-app-marketing-experts-4412085993": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-analyst-upto-%2495-hr-part-time-at-mercor-4415190719": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-coordinator-philippines-remote-at-growthassistant-4416003836": 1
+    "https://www.linkedin.com/jobs/view/event-marketing-coordinator-philippines-remote-at-growthassistant-4416003836": 1,
+    "https://www.linkedin.com/jobs/view/manufacturing-blaster-at-newterra-4416015103": 1,
+    "https://www.linkedin.com/jobs/view/sandblaster-flame-sprayer-at-the-entwistle-company-4415861130": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-technician-at-actalent-4415854087": 1,
+    "https://www.linkedin.com/jobs/view/l2-engineer-msp-au-homebased-at-connectos-4412099446": 1,
+    "https://www.linkedin.com/jobs/view/mems-engineer-at-vexara-4411503861": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4416029018": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4416026120": 1,
+    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4415440013": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4415440012": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4416030020": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-intern-remote-at-giftsbazaar-in-4415192125": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-specialist-at-jazzx-ai-4412206788": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
