@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-management-senior-analyst-at-accenture-in-india-4412195928": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-paid-media-at-jpmorganchase-4403520341": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-aisensy-4411990404": 1,
     "https://www.linkedin.com/jobs/view/activation-manager-at-wpp-media-4405542166": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-lead-meta-google-ads-adtech-startup-2-8-years-at-expertrons-delhi-4411987241": 1,
     "https://www.linkedin.com/jobs/view/campaigns-manager-at-vanta-4411942881": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/mold-shop-carpenter-at-stonecast-products-inc-4416059301": 1,
     "https://www.linkedin.com/jobs/view/facility-carpenter-at-six-flags-entertainment-corporation-4416053215": 1,
     "https://www.linkedin.com/jobs/view/product-enablement-manager-go-to-market-specialist-at-scholarship-for-phd-4416035426": 1,
-    "https://www.linkedin.com/jobs/view/associate-director-of-campaigns-at-multiplier-4385054309": 1
+    "https://www.linkedin.com/jobs/view/associate-director-of-campaigns-at-multiplier-4385054309": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-engineer-operations-at-optum-4416053667": 1,
+    "https://www.linkedin.com/jobs/view/associate-director-brand-media-remote-at-optum-4416051717": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304455515": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
