@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-gomining-4412141097": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4410896137": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-lead-at-trust-in-soda-4410483679": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-token-ai-infra-at-palebluedot-ai-4410873834": 1,
-    "https://www.linkedin.com/jobs/view/paid-search-executive-at-jellyfish-4403174991": 1,
-    "https://www.linkedin.com/jobs/view/paid-search-executive-at-jellyfish-4403184951": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-meta-ads-at-nua-4409672663": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-kapiva-4411097664": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-lead-at-pipedrive-4390361493": 1,
     "https://www.linkedin.com/jobs/view/paid-ads-manager-at-rightangled-4404561600": 1,
     "https://www.linkedin.com/jobs/view/paid-media-manager-at-tribal-recruitment-the-uk-s-leading-digital-r2r-recruiters-4405560114": 1,
     "https://www.linkedin.com/jobs/view/paid-media-lead-media-agency-at-hyered-4407886555": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/craftsman-at-ace-handyman-services-4415407958": 1,
     "https://www.linkedin.com/jobs/view/display-builder-at-floor-decor-4408137163": 1,
     "https://www.linkedin.com/jobs/view/momentum-engineer-at-saic-4406613767": 1,
-    "https://www.linkedin.com/jobs/view/in%c5%bcynier-mes-fea-k-m-praca-zdalna-at-astek-4403760408": 1
+    "https://www.linkedin.com/jobs/view/in%c5%bcynier-mes-fea-k-m-praca-zdalna-at-astek-4403760408": 1,
+    "https://www.linkedin.com/jobs/view/pki-consultant-at-millenilink-4412097057": 1,
+    "https://www.linkedin.com/jobs/view/%e5%85%ac%e5%85%b1dx%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e8%8b%a5%e6%89%8b%e6%b4%bb%e8%ba%8d%e4%b8%ad-%e6%9c%88%e3%81%ab10%e5%9b%9e%e3%81%be%e3%81%a7%e3%81%ae%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8b%a4%e5%8b%99%e5%8f%af%e8%83%bd-at-%ef%bc%88%e6%a0%aa%ef%bc%89%e3%82%a2%e3%82%b7%e3%82%b9%e3%83%88-4415890244": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-snorkel-ai-4383172425": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-affirm-4393812064": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-affirm-4393810254": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-open-systems-technologies-4415891514": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-systems-at-nasuni-4395718443": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-iru-4385109976": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-scale-army-careers-4415421374": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
