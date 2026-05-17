@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-at-arco-educa%c3%a7%c3%a3o-4381670627": 1,
-    "https://www.linkedin.com/jobs/view/consultant-japanese-bilingual-contractor-4411785182": 1,
-    "https://www.linkedin.com/jobs/view/ai-prompt-engineer-agent-builder-at-absolute-applications-4412110836": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-builder-audience-at-figma-4362551757": 1,
-    "https://www.linkedin.com/jobs/view/practice-builder-geotechnical-geostructural-engineering-at-geosyntec-consultants-4391929646": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-postman-4336826982": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-giga-4371258107": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390738442": 1,
-    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4412304082": 1,
-    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4411993418": 1,
-    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4412304081": 1,
-    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4412306045": 1,
     "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4411991859": 1,
     "https://www.linkedin.com/jobs/view/strategic-technology-partnerships-manager-at-attentive-4403539730": 1,
     "https://www.linkedin.com/jobs/view/global-integrated-campaigns-manager-at-managed-staffing-inc-4412152548": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344913138": 1,
     "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4345022223": 1,
     "https://www.linkedin.com/jobs/view/clinical-study-builder-canada-at-indero-formerly-innovaderm-4416054228": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-at-h-k-group-4415452607": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-waste-connections-4416014376": 1,
+    "https://www.linkedin.com/jobs/view/plant-loader-operator-at-martin-marietta-4385379959": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-quikrete-4397330296": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-at-h-k-group-4415461670": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-utility-at-quikrete-4406876606": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-waste-connections-4416012988": 1,
+    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-arcosa-inc-4375834029": 1,
+    "https://www.linkedin.com/jobs/view/ergon-asphalt-and-emulsions-facility-operator-at-ergon-asphalt-emulsions-inc-4415875889": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-at-oldcastle-infrastructure-4412098376": 1,
+    "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-gong-4284449702": 1,
+    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-hightouch-4375081864": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
