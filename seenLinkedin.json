@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-director-gtm-strategy-and-marketing-operations-at-soci-ai-4412178515": 1,
-    "https://www.linkedin.com/jobs/view/vp-product-marketing-gtm-enablement-training-at-jobgether-4409674598": 1,
-    "https://www.linkedin.com/jobs/view/b2b-campaign-manager-at-atis-4411716384": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-us-market-remote-fast-paced-at-muses-consulting-studio-4411078873": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-nielsen-4411753735": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-good-feet-midwest-4412170945": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-cherry-assistant-4396379705": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304459374": 1,
     "https://www.linkedin.com/jobs/view/manager-sr-manager-biopharma-marketing-at-pathai-4383049759": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-%c3%a1guila-international-services-s-de-r-l-de-c-v-4397352246": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-emma-of-torre-ai-4415873870": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-emma-of-torre-ai-4415873870": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-geopolymer-at-puris-4412208445": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-geopolymer-at-puris-4412201586": 1,
+    "https://www.linkedin.com/jobs/view/consultant-at-elixirr-4358262255": 1,
+    "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4410754373": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
