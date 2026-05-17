@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-remotehunter-4411995111": 1,
-    "https://www.linkedin.com/jobs/view/sr-director-partnership-strategy-at-zeta-global-4407098007": 1,
-    "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-impiricus-4412130987": 1,
-    "https://www.linkedin.com/jobs/view/head-of-demand-generation-at-openai-4381103217": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-gomining-4412124789": 1,
-    "https://www.linkedin.com/jobs/view/ecosystem-builder-at-listlab-4411998161": 1,
-    "https://www.linkedin.com/jobs/view/growth-solutions-architect-uki-at-deel-4402779286": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-quant-at-revolut-4402105996": 1,
-    "https://www.linkedin.com/jobs/view/ceramic-coating-technician-at-national-indoor-rv-centers-nirvc-4411969713": 1,
-    "https://www.linkedin.com/jobs/view/luxury-destination-consultant-at-affinity-travels-4412477414": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290926936": 1,
     "https://www.linkedin.com/jobs/view/consultor-a-de-sucesso-escolar-at-arco-educa%c3%a7%c3%a3o-4381670627": 1,
     "https://www.linkedin.com/jobs/view/consultant-japanese-bilingual-contractor-4411785182": 1,
     "https://www.linkedin.com/jobs/view/ai-prompt-engineer-agent-builder-at-absolute-applications-4412110836": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-pretty-good-ai-4412099604": 1,
     "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385891174": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-beyondbeings-4415452479": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-flyt-golf-pte-ltd-4415450634": 1
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-flyt-golf-pte-ltd-4415450634": 1,
+    "https://www.linkedin.com/jobs/view/only-w2-candidates-in-est-cst-time-zones-mf-idms-consultant-10-15-yrs-exp-at-jobs-via-dice-4415433196": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344932975": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344932974": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344813742": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344823658": 1,
+    "https://www.linkedin.com/jobs/view/aesthetic-consultant-georgia-at-sciton-4385162890": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344883420": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344913138": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4345022223": 1,
+    "https://www.linkedin.com/jobs/view/clinical-study-builder-canada-at-indero-formerly-innovaderm-4416054228": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-209666-at-skill-4406803189": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
