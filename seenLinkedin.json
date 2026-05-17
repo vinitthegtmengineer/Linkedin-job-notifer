@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-trust-in-soda-4409952387": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402327201": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-san-francisco-at-harness-4349430475": 1,
-    "https://www.linkedin.com/jobs/view/sr-account-director-at-power-digital-marketing-4411715402": 1,
-    "https://www.linkedin.com/jobs/view/information-security-operations-engineer-intern-at-cushman-wakefield-4411752733": 1,
-    "https://www.linkedin.com/jobs/view/campaign-program-manager-at-neo4j-4402170727": 1,
-    "https://www.linkedin.com/jobs/view/senior-client-success-manager-programmatic-at-zeta-global-4405937721": 1,
-    "https://www.linkedin.com/jobs/view/director-media-at-huge-4390897850": 1,
     "https://www.linkedin.com/jobs/view/principal-creative-at-jobgether-4411887887": 1,
     "https://www.linkedin.com/jobs/view/campaign-content-manager-at-joko-4403111466": 1,
     "https://www.linkedin.com/jobs/view/influencer-campaign-manager-in-mit-franz%c3%b6sisch-kenntnissen-dach-at-we-are-era-4408002043": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
     "https://www.linkedin.com/jobs/view/regional-growth-director-south-east-asia-minipay-at-opera-4415186682": 1,
     "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304464327": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-specialist-latam-remote-at-growthassistant-4415897987": 1
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-specialist-latam-remote-at-growthassistant-4415897987": 1,
+    "https://www.linkedin.com/jobs/view/finisher-at-baker-construction-4406886525": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-construction-materials-professional-at-s-me-4397310433": 1,
+    "https://www.linkedin.com/jobs/view/concrete-finisher-at-oldcastle-infrastructure-4412202271": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-at-braun-intertec-corporation-4356492474": 1,
+    "https://www.linkedin.com/jobs/view/consultant-senior-consultant-m-w-d-remote-und-vor-ort-beim-kunden-at-mhlr-advisory-4412216922": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-re-partners-4415465233": 1,
+    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385896287": 1,
+    "https://www.linkedin.com/jobs/view/sales-strategy-and-operations-lead-at-remotehunter-4415455243": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
