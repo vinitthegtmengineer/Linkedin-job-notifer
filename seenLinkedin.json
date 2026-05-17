@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-nielsen-4411753735": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-good-feet-midwest-4412170945": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-assistant-at-cherry-assistant-4396379705": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-lykke-4412131487": 1,
-    "https://www.linkedin.com/jobs/view/strategic-transformation-lead-digital-marketing-operations-at-the-sage-group-4410886031": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-associate-operator-at-jobgether-4411862786": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-4411904043": 1,
     "https://www.linkedin.com/jobs/view/senior-product-designer-and-builder-at-learnlux-financial-wellbeing-4412417222": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-manufacturing-at-brilliant%c2%ae-4407478311": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/field-technician-geopolymer-at-puris-4412208445": 1,
     "https://www.linkedin.com/jobs/view/field-technician-geopolymer-at-puris-4412201586": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-elixirr-4358262255": 1,
-    "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4410754373": 1
+    "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4410754373": 1,
+    "https://www.linkedin.com/jobs/view/anylogic-simulation-consultant-at-ellora-bpo-4415447129": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-outsourcing-zaventem-at-bdo-belgium-4309393062": 1,
+    "https://www.linkedin.com/jobs/view/physics-consultant-%24250-task-at-crossing-hurdles-4415178330": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-sft-rlhf-post-training-at-achieve-group-4413879660": 1,
+    "https://www.linkedin.com/jobs/view/data-center-operations-process-engineer-at-oracle-4383166854": 1,
+    "https://www.linkedin.com/jobs/view/client-relationship-manager-at-moris-media-4412214939": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
