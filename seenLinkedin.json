@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-yupmd-4410835013": 1,
-    "https://www.linkedin.com/jobs/view/vp-head-of-international-marketing-at-axon-4403501071": 1,
-    "https://www.linkedin.com/jobs/view/aus-remote-pilot-operator-at-saic-4403835139": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-marketri-4411753988": 1,
-    "https://www.linkedin.com/jobs/view/global-security-operations-center-operator-at-twilio-4403507549": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-growth-operations-at-glossgenius-4403521964": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365265785": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365268618": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/ict-system-engineer-operation-polycom-at-swiss-federal-administration-4415464880": 1,
     "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-jobgether-4415458821": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-jobgether-4415450867": 1,
-    "https://www.linkedin.com/jobs/view/director-commercial-marketing-at-jobgether-4415456834": 1
+    "https://www.linkedin.com/jobs/view/director-commercial-marketing-at-jobgether-4415456834": 1,
+    "https://www.linkedin.com/jobs/view/plasterer-at-pci-services-llc-4416041444": 1,
+    "https://www.linkedin.com/jobs/view/concrete-coating-tech-at-rock-my-floor-4415451499": 1,
+    "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416050803": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416061649": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416046820": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
