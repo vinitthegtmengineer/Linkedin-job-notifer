@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-account-director-at-power-digital-marketing-4411715401": 1,
-    "https://www.linkedin.com/jobs/view/clay-modeler-at-stellantis-4382353593": 1,
-    "https://www.linkedin.com/jobs/view/kiln-technician-shaped-plant-3rd-shift-with-weekends-at-rhi-magnesita-4411752923": 1,
-    "https://www.linkedin.com/jobs/view/shell-processor-at-precision-castparts-4411914279": 1,
-    "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4410995237": 1,
-    "https://www.linkedin.com/jobs/view/3rd-shift-kiln-fireman-at-pine-hall-brick-4411918814": 1,
-    "https://www.linkedin.com/jobs/view/art-instructor-i-ii-adult-pottery-at-foothills-park-recreation-district-4411907554": 1,
-    "https://www.linkedin.com/jobs/view/soils-laboratory-technician-at-ecs-group-of-companies-4411739160": 1,
-    "https://www.linkedin.com/jobs/view/soil-field-technician-4411785034": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-hunt-oil-company-of-peru-4412452407": 1,
-    "https://www.linkedin.com/jobs/view/qc-technician-at-simon-pearce-4412170419": 1,
     "https://www.linkedin.com/jobs/view/careers-in-advanced-materials-material-scientists-at-lucideon-4389751789": 1,
     "https://www.linkedin.com/jobs/view/ceramics-engineering-manager-at-spectrum-control-4400475362": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402319224": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/consultant-takaful-advisor-at-aia-4409739958": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-usu-defence-m-w-d-at-materna-4384822779": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-openloop-4394217800": 1,
-    "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-sundayy-4416026504": 1
+    "https://www.linkedin.com/jobs/view/operations-analyst-marketing-at-sundayy-4416026504": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-utilities-decarbonization-at-west-monroe-4367385675": 1,
+    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-spokane-puget-sound-south-%234818-at-biospace-4415805959": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-russian-english-at-dataannotation-4406692152": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-japanese-english-at-dataannotation-4344913137": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-russian-english-at-dataannotation-4406801162": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-russian-english-at-dataannotation-4406690194": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-russian-english-at-dataannotation-4406699187": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-russian-english-at-dataannotation-4406802163": 1,
+    "https://www.linkedin.com/jobs/view/bilingual-linguistic-consultant-korean-english-at-dataannotation-4344803806": 1,
+    "https://www.linkedin.com/jobs/view/presales-engineer-ai-observability-start-up-vendor-at-stealthwatch-4415455329": 1,
+    "https://www.linkedin.com/jobs/view/engineer-plattform-ai-ops-m-w-d-95-000%e2%82%ac-remote-at-computer-futures-4416016971": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
