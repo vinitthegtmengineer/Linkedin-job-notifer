@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-lago-4411761869": 1,
-    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listen-labs-4371257764": 1,
-    "https://www.linkedin.com/jobs/view/lead-gtm-engineer-at-listen-labs-4371270368": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-taktile-4412183147": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-trust-in-soda-4409952387": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402327201": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-san-francisco-at-harness-4349430475": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/senior-esia-consultant-at-slr-consulting-4257013497": 1,
     "https://www.linkedin.com/jobs/view/senior-splunk-engineer-infrastructure-operations-at-govcio-4367418617": 1,
     "https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-at-arcesium-4374322659": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-manager-growth-at-snorkel-ai-4404111831": 1
+    "https://www.linkedin.com/jobs/view/senior-operations-manager-growth-at-snorkel-ai-4404111831": 1,
+    "https://www.linkedin.com/jobs/view/network-engineer-edge-operations-level-1-at-govcio-4345224420": 1,
+    "https://www.linkedin.com/jobs/view/regional-growth-director-south-east-asia-minipay-at-opera-4415186682": 1,
+    "https://www.linkedin.com/jobs/view/social-media-content-manager-at-dataannotation-4304464327": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-specialist-latam-remote-at-growthassistant-4415897987": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
