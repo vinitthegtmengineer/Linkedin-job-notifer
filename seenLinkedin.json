@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-at-mercor-4412430242": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-tree-care-at-granum-4412416944": 1,
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-granum-4412423557": 1,
-    "https://www.linkedin.com/jobs/view/marketing-program-manager-sports-sponsorship-at-stripe-4411929252": 1,
-    "https://www.linkedin.com/jobs/view/resident-consultant-manager-at-samsara-4412442348": 1,
     "https://www.linkedin.com/jobs/view/junior-lead-generation-specialist-1-2-years-at-restack-ops-4411953320": 1,
     "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-qed-investors-4411960213": 1,
     "https://www.linkedin.com/jobs/view/payment-operations-engineer-at-caliza-4412156079": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/head-of-partnerships-crypto-at-plexus-resource-solutions-4412210169": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-weimann-4416016511": 1,
     "https://www.linkedin.com/jobs/view/senior-vice-president-strategic-marketing-at-bangladesh-fintech-forum-4415895941": 1,
-    "https://www.linkedin.com/jobs/view/administrative-assistant-philippines-remote-at-growthassistant-4416013785": 1
+    "https://www.linkedin.com/jobs/view/administrative-assistant-philippines-remote-at-growthassistant-4416013785": 1,
+    "https://www.linkedin.com/jobs/view/builder-architect-engineer-expert-consultant-part-time-contractor-at-brain-co-4397393968": 1,
+    "https://www.linkedin.com/jobs/view/product-operations-engineer-at-happyrobot-4344791019": 1,
+    "https://www.linkedin.com/jobs/view/agentic-operator-growth-marketing-at-ramp-4385179776": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-suno-4347704726": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-jobs-via-dice-4415407869": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
