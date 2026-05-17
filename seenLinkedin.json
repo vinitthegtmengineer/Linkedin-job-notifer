@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/avp-model-ops-engineer-l10-at-synchrony-4411991859": 1,
-    "https://www.linkedin.com/jobs/view/strategic-technology-partnerships-manager-at-attentive-4403539730": 1,
-    "https://www.linkedin.com/jobs/view/global-integrated-campaigns-manager-at-managed-staffing-inc-4412152548": 1,
-    "https://www.linkedin.com/jobs/view/national-builder-account-manager-insinkerator-at-whirlpool-corporation-4382158258": 1,
-    "https://www.linkedin.com/jobs/view/practice-builder-geotechnical-geostructural-engineering-at-geosyntec-consultants-4391929645": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-circit-4412303145": 1,
     "https://www.linkedin.com/jobs/view/head-of-revenue-enablement-at-mercury-4392772619": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-gomining-4412121841": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/ergon-asphalt-and-emulsions-facility-operator-at-ergon-asphalt-emulsions-inc-4415875889": 1,
     "https://www.linkedin.com/jobs/view/machine-operator-at-oldcastle-infrastructure-4412098376": 1,
     "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-gong-4284449702": 1,
-    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-hightouch-4375081864": 1
+    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-hightouch-4375081864": 1,
+    "https://www.linkedin.com/jobs/view/marketing-growth-operator-at-grupo-horizonte-digital-4416045324": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88ntt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e5%87%ba%e8%b3%87%e3%81%ae%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e5%b0%82%e9%96%80%e4%bc%81%e6%a5%ad%ef%bc%8fpython-%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%8c%e3%83%bb%e3%82%a8%e3%83%95%e3%83%bb%e3%83%a9%e3%83%9c%e3%83%a9%e3%83%88%e3%83%aa%e3%83%bc%e3%82%ba-4416042504": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8f%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%9f%e3%83%89%e3%83%ab%ef%bc%8f%e7%94%9f%e6%88%90ai%e3%83%bbai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%besignate-4416041513": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e7%94%9f%e6%88%90ai%c3%97%e4%b8%8d%e5%8b%95%e7%94%a3dx%ef%bc%8f%e6%8a%80%e8%a1%93%e9%81%b8%e5%ae%9a%ef%bd%9e%e5%ae%9f%e8%a3%85%e3%83%bb%e9%81%8b%e7%94%a8%e3%81%be%e3%81%a7%e4%b8%80%e6%b0%97%e9%80%9a%e8%b2%ab%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4416038637": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analytics-manager-ai-model-training-remote-at-yo-it-consulting-4415406890": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
