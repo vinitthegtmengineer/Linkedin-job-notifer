@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-proeze-4411967354": 1,
-    "https://www.linkedin.com/jobs/view/meta-ads-executive-at-offshore-marketers-4411389541": 1,
-    "https://www.linkedin.com/jobs/view/paid-marketing-manager-at-stripe-4411750790": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-well-built-consulting-4410218720": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-associate-at-thanks-4412413938": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400838122": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-verticals-specialist-at-townsquare-ignite-4400837146": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-manager-det-india-at-duolingo-4342792965": 1,
     "https://www.linkedin.com/jobs/view/consultant-at-scoutit-4411969650": 1,
     "https://www.linkedin.com/jobs/view/forgerock-engineer-at-synchrony-systems-inc-4412173784": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-netrolynx-ai-4411963292": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/technologyone-engineer-at-private-advertiser-4415414865": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-trattamento-acque-industriali-at-solenis-4373495680": 1,
     "https://www.linkedin.com/jobs/view/customer-success-manager-scaled-programs-at-contentsquare-4397591311": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-agital-4415848474": 1
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-agital-4415848474": 1,
+    "https://www.linkedin.com/jobs/view/remote-vacation-booking-consultant-flexible-schedule-no-experience-necessary-at-jj-adventures-in-traveling-4415460414": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-nodejs-typescript-90-150k-telecom-infrastructure-startup-eu-remote-at-owen-thomas-b-corp%e2%84%a2-4416045030": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-cybercoders-4404112757": 1,
+    "https://www.linkedin.com/jobs/view/sales-lead-founding-team-at-kynetiq-labs-4415455403": 1,
+    "https://www.linkedin.com/jobs/view/senior-partner-marketing-manager-at-1password-4407122048": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-colibri-group-4385854154": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-coordinator-at-liaison-creative-%2b-marketing-4412229650": 1,
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-marketing-manager-new-ventures-at-pomelo-care-4331960323": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
