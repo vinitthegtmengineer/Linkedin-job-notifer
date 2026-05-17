@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/groundworker-at-ian-williams-ltd-4412168354": 1,
-    "https://www.linkedin.com/jobs/view/stringless-paving-technician-at-clarkson-construction-company-4372436300": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-builder-at-hello-heart-4403537044": 1,
-    "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390947166": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-epaypolicy-4402747874": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-manager-systems-at-flex-4411920379": 1,
     "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-remotehunter-4411995111": 1,
     "https://www.linkedin.com/jobs/view/sr-director-partnership-strategy-at-zeta-global-4407098007": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-impiricus-4412130987": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/growth-engineer-at-suno-4347762756": 1,
     "https://www.linkedin.com/jobs/view/growth-generalist-at-consuma-4415466162": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-snorkel-ai-4383177650": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-gade-nutrition-4415393527": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-gade-nutrition-4415393527": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-customer-engagement-d365-at-hso-4331240106": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-design-engineer-at-turvo-4416038356": 1,
+    "https://www.linkedin.com/jobs/view/founding-enterprise-account-executive-at-pretty-good-ai-4412099604": 1,
+    "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385891174": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-beyondbeings-4415452479": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-marketing-at-flyt-golf-pte-ltd-4415450634": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
