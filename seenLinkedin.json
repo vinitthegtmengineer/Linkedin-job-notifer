@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-growth-operations-at-glossgenius-4403521964": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365265785": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365268618": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-exclusivelane-4412311358": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/concrete-coating-tech-at-rock-my-floor-4415451499": 1,
     "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416050803": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416061649": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416046820": 1
+    "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416046820": 1,
+    "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416041906": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 38,
+    "cyclesToday": 39,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
