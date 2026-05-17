@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-upto-%24160-hr-at-mercor-4411343139": 1,
-    "https://www.linkedin.com/jobs/view/principal-horizon-engineer-%e2%80%93-vdi-operations-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4412467027": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-d2c-fmcg-at-fitspire-health-wellness-4411974160": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketer-at-noa-4411972093": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-my-wall-4411971522": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-proeze-4411967354": 1,
     "https://www.linkedin.com/jobs/view/meta-ads-executive-at-offshore-marketers-4411389541": 1,
     "https://www.linkedin.com/jobs/view/paid-marketing-manager-at-stripe-4411750790": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarter-technologies-4375469163": 1,
     "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-vivid-creatives-4415451362": 1,
     "https://www.linkedin.com/jobs/view/executive-assistant-at-grayson-ai-4412234449": 1,
-    "https://www.linkedin.com/jobs/view/administative-marketing-assistant-at-parkside-group-4415886388": 1
+    "https://www.linkedin.com/jobs/view/administative-marketing-assistant-at-parkside-group-4415886388": 1,
+    "https://www.linkedin.com/jobs/view/associate-engineer-2-at-boyd-4339123011": 1,
+    "https://www.linkedin.com/jobs/view/technologyone-engineer-at-private-advertiser-4415414865": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-%e2%80%93-trattamento-acque-industriali-at-solenis-4373495680": 1,
+    "https://www.linkedin.com/jobs/view/customer-success-manager-scaled-programs-at-contentsquare-4397591311": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-agital-4415848474": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-17",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
