@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365265785": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-channel-at-rippling-4365268618": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-exclusivelane-4412311358": 1,
-    "https://www.linkedin.com/jobs/view/associate-marketing-manager-marketing-manager-social-influencer-us-at-gymkhana-fine-foods-4412152877": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-director-remote-at-rg-t-solutions-4411789918": 1,
-    "https://www.linkedin.com/jobs/view/consultor-compesion-at-grupo-baxtech-4412310469": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-golden-technology-4411993832": 1,
-    "https://www.linkedin.com/jobs/view/b2b-lead-generation-operator-remote-at-marketing-by-professionals-4412490402": 1,
-    "https://www.linkedin.com/jobs/view/founding-operator-4412490394": 1,
-    "https://www.linkedin.com/jobs/view/consultant-i-domestic-relocation-us-based-remote-at-compass-international-holdings-4412406032": 1,
     "https://www.linkedin.com/jobs/view/saas-engineer-%2480-hr-remote-at-crossing-hurdles-4390939291": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-and-project-manager-at-jobgether-4412118848": 1,
     "https://www.linkedin.com/jobs/view/content-marketing-executive-cyber-security-at-sophos-4385145942": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416050803": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416061649": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-technology-partnerships-at-anaplan-4416046820": 1,
-    "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416041906": 1
+    "https://www.linkedin.com/jobs/view/social-impact-venture-builder-at-thawer-philanthropies-endowment-4416041906": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gc-ai-4397581206": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-partnerships-lead-at-elevenlabs-4397327895": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-expansion-at-elevenlabs-4397346113": 1,
+    "https://www.linkedin.com/jobs/view/gtm-talent-community-at-extrahop-4397401587": 1,
+    "https://www.linkedin.com/jobs/view/gtm-leader-founding-team-at-trugen-ai-4415421176": 1,
+    "https://www.linkedin.com/jobs/view/b2b-performance-campaign-manager-at-moburst-growth-done-right-4416014881": 1,
+    "https://www.linkedin.com/jobs/view/only-w2-global-campaign-manager-remote-role-at-infotree-global-solutions-4415467743": 1,
+    "https://www.linkedin.com/jobs/view/b2b-performance-campaign-manager-at-moburst-growth-done-right-4416036540": 1,
+    "https://www.linkedin.com/jobs/view/fundraising-campaign-manager-at-ideabrella-%f0%9f%92%a1%e2%98%82%ef%b8%8f-4415466840": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-operations-manager-at-neubird-ai-4415462662": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2202,8 +2202,8 @@
     "manager, gtm strategy and integration|||earned": "2026-03-16T14:39:33.423Z"
   },
   "stats": {
-    "date": "2026-05-17",
-    "cyclesToday": 39,
+    "date": "2026-05-18",
+    "cyclesToday": 1,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
