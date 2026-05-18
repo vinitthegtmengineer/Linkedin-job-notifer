@@ -410,20 +410,30 @@ function isRemoteJob(item) {
     /\bunited states\b/i,
     /\banywhere\b/i,
     /\bglobal\b/i,
-    /\busa\s+wide\b/i,
-    /\bUS\s+wide\b/i,
+    /\busa\s*wide\b/i,
+    /\bUS\s*wide\b/i,
     /\bnationwide\b/i,
-    /\bacross\s+the\s+(US|us)\b/i
+    /\bacross\s+the\s+(US|us)\b/i,
+    /\bEU\b/i,
+    /\beurope\b/i,
+    /\bUK\b/i,
+    /\bUnited Kingdom\b/i
   ];
   if (remoteLocationIndicators.some(ind => ind.test(location))) return true;
 
-  // If location has a specific city/state pattern like "San Francisco, CA" or "New York, NY"
-  // AND title doesn't mention remote → it's onsite/hybrid, skip it
-  const cityStatePattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2}/;
-  if (cityStatePattern.test(location)) return false;
+  // If location has a specific city/country pattern AND title doesn't mention remote → skip
+  // US pattern: "San Francisco, CA"
+  const usCityStatePattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2}(?:\s|$)/;
+  // International pattern: "London, UK" or "Berlin, Germany" or "Toronto, ON"
+  const intlCityCountryPattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2,3}(?:\s|$)/;
+  // UK postcodes like "London SW1A" or "Manchester M1"
+  const ukPostcodePattern = /[A-Z][a-z]+(?:\s+[A-Z0-9]+)+\s+\d+/i;
 
-  // If location is just a country name with no specific city (e.g., "United States"), allow it
-  // as LinkedIn often marks these as eligible for remote work
+  if (usCityStatePattern.test(location) || intlCityCountryPattern.test(location) || ukPostcodePattern.test(location)) {
+    return false;
+  }
+
+  // If location is just a country name with no specific city, allow it
   return true;
 }
 
