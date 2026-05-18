@@ -518,13 +518,13 @@ async function runCycle() {
 
   console.log(`\n=== Cycle at ${new Date().toISOString()} ===`);
 
-  // Fetch all items in parallel
+  // Fetch LinkedIn Jobs API only (RSS disabled for cleaner remote filtering)
   const [rssItems, jobItems] = await Promise.all([
-    fetchRssFeeds(),
+    Promise.resolve([]), // disabled
     fetchLinkedinJobs()
   ]);
 
-  const allItems = [...rssItems, ...jobItems];
+  const allItems = [...jobItems];
   console.log(`Total raw items: ${allItems.length}`);
 
   // Dedup by URL key into a Map (same job from multiple queries = 1 entry)
