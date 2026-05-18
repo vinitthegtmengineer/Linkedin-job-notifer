@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-afrolinkworks-4410349577": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-technician-%e2%80%93-field-based-at-normec-i2-analytical-4413435621": 1,
-    "https://www.linkedin.com/jobs/view/aggregate-technician-amrg-llc-at-ecology-auto-parts-inc-4413543915": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-technician-at-imerys-4413478248": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410372179": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410351873": 1,
-    "https://www.linkedin.com/jobs/view/payroll-builder-full-remote-at-jet-hr-4410348768": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-blacksmith-4407622025": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-senior-analyst-lead-routing-gtm-efficiency-at-eve-4413706369": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-senior-analyst-lead-routing-gtm-efficiency-at-lightspeed-4413851371": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-fieldpulse-4413751467": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-sensor-tower-4392142501": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-dazos-4413856013": 1,
     "https://www.linkedin.com/jobs/view/revenue-operation-enablement-lead-at-salt-4410169031": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-east-daley-analytics-4413580778": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-sales-at-orbital-4410154236": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-boston-ma-at-chatgpt-jobs-4412859059": 1,
     "https://www.linkedin.com/jobs/view/paid-social-media-strategist-remote-at-laurel-and-grey-4415717572": 1,
     "https://www.linkedin.com/jobs/view/outside-sales-representative-at-optimize-talent-llc-4415701588": 1,
-    "https://www.linkedin.com/jobs/view/sales-business-development-representative-at-mcc-label-4415487798": 1
+    "https://www.linkedin.com/jobs/view/sales-business-development-representative-at-mcc-label-4415487798": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-israel-at-algosec-4416252448": 1,
+    "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-gong-4284457092": 1,
+    "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-gong-4284453299": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-lead-universal-ads-at-hackajob-4390278327": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-developer-at-futran-solutions-4416441389": 1,
+    "https://www.linkedin.com/jobs/view/lead-demand-generation-executive-s-at-adeverra-4412281239": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-prectech-4415662487": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-lead-specialist-at-maatya-4415602287": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-at-hourglass-research-4412255885": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-associate-at-impresario-4413885401": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-specialist-at-matchlab-talent-4415660215": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-stackholic-infotech-4415491962": 1,
+    "https://www.linkedin.com/jobs/view/program-assistant-1857-at-bakerripley-4415737126": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
