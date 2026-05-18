@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-demand-generation-at-market-recruitment-4412108678": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-brightside-marketing-4413755505": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-veriforce-4403663996": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-inbox-manager-appointment-setter-at-profitpath-growth-partners-4410329410": 1,
-    "https://www.linkedin.com/jobs/view/bdr-uki-at-remotepass-4413297907": 1,
-    "https://www.linkedin.com/jobs/view/administrative-and-customer-service-support-1582-at-lateam-partners-4413733957": 1,
-    "https://www.linkedin.com/jobs/view/bdr-uki-at-remotepass-4413403183": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-outbound-at-contentsmash-4413578089": 1,
-    "https://www.linkedin.com/jobs/view/part-time-account-executive-it-us-msp-solutions-wfh-at-connectos-4410199823": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-us-remote-at-crossing-hurdles-4381564674": 1,
-    "https://www.linkedin.com/jobs/view/sales-crm-virtual-assistant-full-time-remote-at-leiva-assistants-4413590181": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-specialist-at-scale-army-careers-4398734795": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-commercial-at-samsara-4175899536": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-manager-at-med-talent-4413821657": 1,
     "https://www.linkedin.com/jobs/view/inbound-sales-specialist-at-scale-army-careers-4398733823": 1,
     "https://www.linkedin.com/jobs/view/account-executive-smb-sales-at-workwave-4413266743": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/facilitated-enroller-manhattan-at-vns-health-4383175961": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-manager-at-build-a-class-initiative-4415631018": 1,
     "https://www.linkedin.com/jobs/view/outreach-admissions-counselor-at-nafsa-association-of-international-educators-4415445322": 1,
-    "https://www.linkedin.com/jobs/view/key-account-manager-at-jobgether-4415473450": 1
+    "https://www.linkedin.com/jobs/view/key-account-manager-at-jobgether-4415473450": 1,
+    "https://www.linkedin.com/jobs/view/founding-operator-at-codeln-4415651650": 1,
+    "https://www.linkedin.com/jobs/view/consulente-previdenziale-at-moltiply-group-4415656725": 1,
+    "https://www.linkedin.com/jobs/view/pigment-consultant-at-brabner-fox-4416231561": 1,
+    "https://www.linkedin.com/jobs/view/engineering-specialist-at-careerxperts-consulting-4412291852": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-developer-api-integrations-workflow-automation-remote-at-pave-talent-4415660551": 1,
+    "https://www.linkedin.com/jobs/view/head-of-sales-at-reven-ai-4412278963": 1,
+    "https://www.linkedin.com/jobs/view/client-success-executive-b2b-outbound-at-palm-outsourcing-4393467199": 1,
+    "https://www.linkedin.com/jobs/view/remote-phone-salesperson-at-launch-321-4415465693": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-altaclaro-4412286815": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415655677": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415658724": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415644854": 1,
+    "https://www.linkedin.com/jobs/view/2x-assistant-cultural-property-mcp22-and-mcp33-at-arts-council-england-4416225312": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
