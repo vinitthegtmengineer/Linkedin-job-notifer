@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1,
-    "https://www.linkedin.com/jobs/view/solids-control-technician-at-clean-harbors-4403554730": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e5%9b%bd%e5%86%85%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e3%81%ae%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e9%95%b7%e6%9c%9f%e6%a1%88%e4%bb%b6%e5%a4%9a%e6%95%b0%ef%bc%8fiij%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beiij%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba-4412321005": 1,
-    "https://www.linkedin.com/jobs/view/ai-ml-engineering-at-daice-labs-4412493601": 1,
-    "https://www.linkedin.com/jobs/view/operations-analyst-automation-engineer-at-remotehunter-4412322026": 1,
-    "https://www.linkedin.com/jobs/view/manager-performance-marketing-at-h2o-digital-marketing-agency-4412464766": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-at-revolut-4371124973": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-quant-at-revolut-4402124093": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-psytech-vr-vr-exposure-therapy-for-mental-health-4412485666": 1,
-    "https://www.linkedin.com/jobs/view/sales-strategy-operations-lead-at-langchain-4412432753": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-higher-options-4412484828": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-neighborhoods-com-4412304802": 1,
     "https://www.linkedin.com/jobs/view/operator-condensate-at-qatarenergy-4288792857": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-engineer-senior-enterprise-new-york-at-hightouch-4391541806": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-dtc-performance-marketing-at-attn-agency-4412303964": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-m-f-x-at-yoc-4412217840": 1,
     "https://www.linkedin.com/jobs/view/gtm-systems-lead-universal-ads-at-hackajob-4390278327": 1,
     "https://www.linkedin.com/jobs/view/gestionnaire-de-campagnes-interm%c3%a9diaire-at-high5-agence-cr%c3%a9ative-4416022887": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-strategist-at-fatty15-4415478371": 1
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-strategist-at-fatty15-4415478371": 1,
+    "https://www.linkedin.com/jobs/view/detective-consultant-fully-remote-at-mercor-4415480483": 1,
+    "https://www.linkedin.com/jobs/view/pipe-layer-at-quikrete-4383178272": 1,
+    "https://www.linkedin.com/jobs/view/12w-carpentry-and-masonry-specialist-at-dc-army-national-guard-4415450809": 1,
+    "https://www.linkedin.com/jobs/view/craftsman-at-ace-handyman-services-capital-district-saratoga-region-4412234653": 1,
+    "https://www.linkedin.com/jobs/view/drywall-finisher-tile-handyman-at-ace-handyman-services-capital-district-saratoga-region-4412202893": 1,
+    "https://www.linkedin.com/jobs/view/bricklayer-p-i-at-wood-4367338093": 1,
+    "https://www.linkedin.com/jobs/view/co-foreman-at-groundworks-4345433863": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-at-brasfield-gorrie-llc-4216904648": 1,
+    "https://www.linkedin.com/jobs/view/craftsman-at-ace-handyman-services-4415479546": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4345011745": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4412255124": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-talentoindia-jobs-hiring-platform-4415482542": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
