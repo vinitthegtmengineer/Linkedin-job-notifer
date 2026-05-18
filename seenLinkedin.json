@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultor-a-iam-remoto-galicia-pa%c3%ads-vasco-o-catalu%c3%b1a-id-at-abalia-4410169131": 1,
-    "https://www.linkedin.com/jobs/view/consultant-senior-advisor-4413403833": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%8d%b4-consultant-e-soci%c3%a9t%c3%a9s-de-restauration-f-h-at-le-c%c3%a8dre-4401659427": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-insight-global-4413826708": 1,
-    "https://www.linkedin.com/jobs/view/senior-hubspot-consultant-at-all-demand-4413750659": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-scout-global-4405566659": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-oil-gas-travels-75%25-in-nam-can-at-gea-group-4413821797": 1,
-    "https://www.linkedin.com/jobs/view/renewables-project-engineer-at-zelestra-4413735574": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-insight-genesis-igai-4410325491": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-valiantys-4413760486": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-terabase-energy-4413741044": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-terabase-energy-4413721985": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-offsec-4413721214": 1,
-    "https://www.linkedin.com/jobs/view/social-media-coordinator-at-hornet-staffing-inc-a-gee-group-company-4398764546": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-sr-manager-director-at-procare-hr-4413463825": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-specialist-at-concentrix-4404956959": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-representative-cold-calling-lead-generation-specialist-at-growvex-digital-4413543052": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/customer-support-representative-at-jobgether-4415650950": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415650891": 1,
     "https://www.linkedin.com/jobs/view/instagram-assistant-appointment-setter-dm-based-at-global-careers-recruitment-gcr-4415672052": 1,
-    "https://www.linkedin.com/jobs/view/patient-care-coordinator-at-flytehealth-4416248413": 1
+    "https://www.linkedin.com/jobs/view/patient-care-coordinator-at-flytehealth-4416248413": 1,
+    "https://www.linkedin.com/jobs/view/consultor-indirectos-agentes-de-recaudaci%c3%b3n-argentina-at-kpmg-argentina-4416242818": 1,
+    "https://www.linkedin.com/jobs/view/observability-engineer-at-talentbridge-4415672427": 1,
+    "https://www.linkedin.com/jobs/view/devops-engineer-engineering-productivity-tooling-at-point-4415672524": 1,
+    "https://www.linkedin.com/jobs/view/senior-rust-engineer-at-betwixt-4416239818": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-careerxperts-consulting-4412292899": 1,
+    "https://www.linkedin.com/jobs/view/senior-vp-sales-ai-factory-at-armada-4416242723": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-jobgether-4415683144": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-executive-at-wisekapital-llc-4416250868": 1,
+    "https://www.linkedin.com/jobs/view/brand-content-digital-operations-coordinator-at-hardman-design-4416257586": 1,
+    "https://www.linkedin.com/jobs/view/remote-client-acquisition-specialist-at-virtualite-4412815616": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-consultant-at-deluxe-4405124666": 1,
+    "https://www.linkedin.com/jobs/view/sales-business-development-rep-locums-tenens-at-cynet-systems-4416237411": 1,
+    "https://www.linkedin.com/jobs/view/talent-management-assistant-at-acm-talent-4416249895": 1,
+    "https://www.linkedin.com/jobs/view/dollar-channel-account-manager-at-ruiz-foods-4385818451": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
