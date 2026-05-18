@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-at-love-boat-gold-cruise-4410351747": 1,
-    "https://www.linkedin.com/jobs/view/sessional-lecturer-pottery-at-carshalton-college-4413835756": 1,
-    "https://www.linkedin.com/jobs/view/keramiker-in-m-w-d-bei-der-coyooco-gmbh-at-coyooco-4410187288": 1,
-    "https://www.linkedin.com/jobs/view/materials-production-technician-ii-at-coorstek-inc-4413775601": 1,
-    "https://www.linkedin.com/jobs/view/solid-surface-fabricator-at-solidlux-4413444110": 1,
-    "https://www.linkedin.com/jobs/view/stucco-color-tinter-at-gypsum-management-and-supply-4413811522": 1,
     "https://www.linkedin.com/jobs/view/limestone-granite-marble-fabricator-experience-required-at-stone-center-4413441945": 1,
     "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4413453357": 1,
     "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4413474056": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/c%23-engineer-at-sme-careers-4416245391": 1,
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-core-engineering-at-remotehunter-4415706838": 1,
     "https://www.linkedin.com/jobs/view/oss%e6%8a%80%e8%a1%93%e8%80%85%e2%97%86%e5%ae%9f%e6%a9%9f%e8%a9%95%e4%be%a1%e3%83%bb%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e5%8c%96%ef%bc%8f%e6%8a%80%e8%a1%93%e7%9a%84%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e6%8f%90%e4%be%9b%e3%82%92%e3%83%aa%e3%83%bc%e3%83%89%e2%80%bbnec%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%8f%e5%9c%a8%e5%ae%85%e5%8f%af%ef%bc%88ts34%ef%bc%89-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4416079687": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-localstack-4416261151": 1
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-localstack-4416261151": 1,
+    "https://www.linkedin.com/jobs/view/senior-frontend-engineer-%e2%80%94-workflow-builder-at-mappa-4415736033": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-public-sector-at-edgetrace-4415471015": 1,
+    "https://www.linkedin.com/jobs/view/strategic-solutions-market-expansions-lead-emea-at-causaly-4412807115": 1,
+    "https://www.linkedin.com/jobs/view/strategic-solutions-market-expansion-lead-at-causaly-4412299193": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-creative-people-4412820910": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-marketing-at-bonkers-toys-4415119826": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
