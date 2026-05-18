@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ground-investigation-consultant-at-arcadis-4363039806": 1,
-    "https://www.linkedin.com/jobs/view/archaeological-technician-at-terracon-4402155454": 1,
-    "https://www.linkedin.com/jobs/view/driller-exploration-team-member-v-at-terracon-4403063353": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-redcat-digital-4412492557": 1,
-    "https://www.linkedin.com/jobs/view/offline-marketing-manager-at-redcat-digital-4412505104": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-2-26-01171-at-akraya-inc-4405433232": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-marketing-technology-london-at-fitch-ratings-4371511591": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-the-headline-theory-4412311902": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-khepri-digital-4411993187": 1,
-    "https://www.linkedin.com/jobs/view/demo-engineer-at-improbable-4391480845": 1,
-    "https://www.linkedin.com/jobs/view/engenheiro-ai-at-fcamara-4391380798": 1,
-    "https://www.linkedin.com/jobs/view/rust-engineer-trading-at-keyrock-4390745384": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-enablement-at-zillow-4403576770": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-leader-revenue-enablement-at-schoolai-4411974003": 1,
     "https://www.linkedin.com/jobs/view/managing-director-revenue-operations-at-asme-the-american-society-of-mechanical-engineers-4398954298": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-manager-digital-growth-marketing-at-jobgether-4415484412": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-content-creation-lab-4416080486": 1,
     "https://www.linkedin.com/jobs/view/senior-director-of-growth-dtc-at-forcebrands-4416083406": 1,
-    "https://www.linkedin.com/jobs/view/marketing-execution-lead-work-from-home-at-the-men-s-cave-4415491405": 1
+    "https://www.linkedin.com/jobs/view/marketing-execution-lead-work-from-home-at-the-men-s-cave-4415491405": 1,
+    "https://www.linkedin.com/jobs/view/consultant-e-commercial-e-4416066915": 1,
+    "https://www.linkedin.com/jobs/view/r-d-engineer-%e2%80%93-biomaterials-tissue-engineering-at-auxein-medical-4412624986": 1,
+    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4416084284": 1,
+    "https://www.linkedin.com/jobs/view/prozessingenieur-in-life-science-all-gender-at-alten-germany-4389895845": 1,
+    "https://www.linkedin.com/jobs/view/sales-director-us-at-rivvun-ai-4415492825": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-personal-brand-at-fat-cow-skincare-4416071845": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-personal-brand-at-fat-cow-skincare-4416078674": 1,
+    "https://www.linkedin.com/jobs/view/social-media-and-marketing-manager-m-f-d-at-lemio-live-more-scroll-less-4412255349": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4415492885": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-jobgether-4415496075": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-remote-at-crossing-hurdles-4415602060": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-remote-at-crossing-hurdles-4415603060": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
