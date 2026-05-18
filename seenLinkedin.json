@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-digital-marketing-executive-remote-at-1up-cargo-4410355443": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-terabase-energy-4413734164": 1,
-    "https://www.linkedin.com/jobs/view/consulente-yves-rocher-da-casa-at-y-ves-rocher-4410167850": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-engineer-india-at-jumpcloud-4410358560": 1,
-    "https://www.linkedin.com/jobs/view/aba-operations-manager-independent-operator-remote-quito-at-opsarmy-careers-4410334535": 1,
-    "https://www.linkedin.com/jobs/view/aba-operations-manager-independent-operator-remote-la-paz-at-opsarmy-careers-4410327539": 1,
-    "https://www.linkedin.com/jobs/view/integrated-campaigns-manager-startups-ai-at-stripe-4413489643": 1,
-    "https://www.linkedin.com/jobs/view/growth-and-outbound-automation-specialist-at-inspekt-ai-4413432091": 1,
     "https://www.linkedin.com/jobs/view/business-development-rep-outbound-at-mediavalet-4413819046": 1,
     "https://www.linkedin.com/jobs/view/sdr-l-ote-%c2%a380k-l-london-l-hybrid-at-meritt-4410160609": 1,
     "https://www.linkedin.com/jobs/view/linkedin-growth-outreach-specialist-remote-at-raygtm-4413533929": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-toronto-at-sage-4407449351": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-solve-4416422115": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415708439": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-snappt-4415708823": 1
+    "https://www.linkedin.com/jobs/view/account-manager-at-snappt-4415708823": 1,
+    "https://www.linkedin.com/jobs/view/studio-potter-at-farmhouse-pottery-4416260990": 1,
+    "https://www.linkedin.com/jobs/view/ceramics-tutor-wcc624172-at-westminster-adult-education-service-4416270157": 1,
+    "https://www.linkedin.com/jobs/view/experienced-mason-learn-historic-restoration-lime-mortar-systems-at-the-durable-slate-company-4416409078": 1,
+    "https://www.linkedin.com/jobs/view/art-ceramics-teacher-oghs-at-escondido-union-high-school-district-4416409600": 1,
+    "https://www.linkedin.com/jobs/view/concrete-specialist-at-wells-4412831671": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-laboratory-supervisor-bagdad-mine-at-ninyo-moore-a-socotec-company-4416285332": 1,
+    "https://www.linkedin.com/jobs/view/operations-reliability-engineer-automations-at-alpaca-4416410379": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-jobgether-4415676772": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
