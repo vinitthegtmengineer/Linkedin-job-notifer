@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/crm-campaigns-manager-marketing-maternity-cover-12-months-at-christie-s-4402711207": 1,
-    "https://www.linkedin.com/jobs/view/senior-encompass-consultant-los-at-ice-4290930597": 1,
-    "https://www.linkedin.com/jobs/view/palantir-engineer-at-blu-omega-4411213444": 1,
-    "https://www.linkedin.com/jobs/view/lead-senior-data-engineering-roles-at-robocrit-4411967794": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-executive-at-kaizen-gaming-4402701424": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-virtual-assistant-at-the-swick-real-estate-group-4407986973": 1,
-    "https://www.linkedin.com/jobs/view/client-experience-operations-manager-at-zeta-global-4411794521": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4385205527": 1,
     "https://www.linkedin.com/jobs/view/solids-control-technician-at-clean-harbors-4403554730": 1,
     "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e5%9b%bd%e5%86%85%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e3%81%ae%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e9%95%b7%e6%9c%9f%e6%a1%88%e4%bb%b6%e5%a4%9a%e6%95%b0%ef%bc%8fiij%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beiij%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%82%bd%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ba-4412321005": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/go-to-market-at-talentpluto-4416067146": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-and-operations-manager-housing-at-eliseai-4385598350": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-at-halkin-global-4412248002": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-at-mello-hq-4412211975": 1
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-mello-hq-4412211975": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-snorkel-ai-4383166610": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-hubspot-expert-at-rounds-4416015796": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-revenue-strategy-at-mercury-4397585276": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-manager-m-f-x-at-yoc-4412217840": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-lead-universal-ads-at-hackajob-4390278327": 1,
+    "https://www.linkedin.com/jobs/view/gestionnaire-de-campagnes-interm%c3%a9diaire-at-high5-agence-cr%c3%a9ative-4416022887": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-strategist-at-fatty15-4415478371": 1
   },
   "sentTitles": {
     "gtm engineer, marketing operations|||dbt labs": "2026-03-06T11:51:45.671Z",
@@ -2203,7 +2203,7 @@
   },
   "stats": {
     "date": "2026-05-18",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
