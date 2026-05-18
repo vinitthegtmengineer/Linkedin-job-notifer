@@ -395,7 +395,7 @@ function isExcludedTitle(item) {
   return EXCLUDED_TITLE_PATTERNS.some((pattern) => pattern.test(title));
 }
 
-// Check if a LinkedIn Jobs API job is truly remote (not onsite/hybrid)
+// Check if a LinkedIn Jobs API job is truly remote
 function isRemoteJob(item) {
   const location = normalize(item.contentSnippet || "");
   const title = normalize(item.title || "");
@@ -403,37 +403,22 @@ function isRemoteJob(item) {
   // If title explicitly says remote, treat as remote
   if (/\bremote\b/.test(title)) return true;
 
-  // If location indicates remote, treat as remote
+  // If location explicitly indicates remote, treat as remote
   const remoteLocationIndicators = [
     /\bremote\b/i,
     /\bworldwide\b/i,
-    /\bunited states\b/i,
     /\banywhere\b/i,
     /\bglobal\b/i,
-    /\busa\s*wide\b/i,
-    /\bUS\s*wide\b/i,
-    /\bnationwide\b/i,
-    /\bacross\s+the\s+(US|us)\b/i,
     /\bEU\b/i,
     /\beurope\b/i,
     /\bUK\b/i,
-    /\bUnited Kingdom\b/i
+    /\bUnited Kingdom\b/i,
+    /\bUSA?\s*wide\b/i,
+    /\bnationwide\b/i
   ];
   if (remoteLocationIndicators.some(ind => ind.test(location))) return true;
 
-  // If location has a specific city/country pattern AND title doesn't mention remote → skip
-  // US pattern: "San Francisco, CA"
-  const usCityStatePattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2}(?:\s|$)/;
-  // International pattern: "London, UK" or "Berlin, Germany" or "Toronto, ON"
-  const intlCityCountryPattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2,3}(?:\s|$)/;
-  // UK postcodes like "London SW1A" or "Manchester M1"
-  const ukPostcodePattern = /[A-Z][a-z]+(?:\s+[A-Z0-9]+)+\s+\d+/i;
-
-  if (usCityStatePattern.test(location) || intlCityCountryPattern.test(location) || ukPostcodePattern.test(location)) {
-    return false;
-  }
-
-  // If location is just a country name with no specific city, allow it
+  // Trust LinkedIn's f_WT=2 filter — if it came through, accept it
   return true;
 }
 
