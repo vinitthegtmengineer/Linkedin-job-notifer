@@ -14,11 +14,51 @@ const MAX_SEEN = 2000;
 const DEFAULT_MAX_ALERTS_PER_CYCLE = 5;
 const DEFAULT_MAX_POST_AGE_HOURS = 48;
 
+// Countries to exclude from job alerts
+const EXCLUDED_COUNTRIES = ["bangladesh", "pakistan", "kenya"];
+
+// Job title patterns to exclude (not related to your skills)
+const EXCLUDED_TITLE_PATTERNS = [
+  /sem\s*campaign/i,
+  /seo\s*campaign/i,
+  /search\s*engine\s*marketing/i,
+  /search\s*engine\s*optimization/i,
+  /ppc\s*manager/i,
+  /paid\s*search/i,
+  /google\s*ads/i,
+  /facebook\s*ads/i,
+  /paid\s*social/i,
+  /social\s*media\s*manager/,
+  /content\s*writer/,
+  /copywriter/,
+  /content\s*marketing/,
+  // Exclude all Director-level titles
+  /^\s*director\s+/i,
+  /\s+director\s+/i,
+  // Exclude all Head-level titles
+  /^\s*head\s+of\s+/i,
+  /\s+head\s+of\s+/i,
+  // Exclude VP, VP of, Vice President
+  /^\s*vp\s+/i,
+  /\s+vp\s+/i,
+  /vice\s+president/i,
+  // Exclude other senior titles
+  /^\s*chief/i,
+  /^\s*sVP\s+/i,
+  /^\s*evp\s+/i,
+  // Exclude Founding GTM Engineer and GTM Director
+  /founding\s+gtm\s*engineer/i,
+  /gtm\s+director/i
+];
+
 // Google News RSS query groups for LinkedIn posts
 const RSS_QUERY_GROUPS = [
   "(%22clay.com%22+OR+%22clay+gtm%22+OR+%22clay+automation%22+OR+%22clay+workflows%22+OR+%22clay+operator%22+OR+%22clay+specialist%22+OR+%22clay+consultant%22+OR+%22clay+expert%22+OR+%22clay+builder%22)",
-  "(%22gtm+engineer%22+OR+%22go+to+market+engineer%22+OR+%22revenue+operations+engineer%22+OR+%22growth+operations+engineer%22)",
-  "(%22campaign+executive%22+OR+%22campaign+manager%22+OR+%22marketing+operations%22)"
+  "(%22gtm+engineer%22+OR+%22go+to+market+engineer%22+OR+%22growth+operations+engineer%22)",
+  "(%22campaign+executive%22+OR+%22campaign+manager%22+OR+%22marketing+operations%22)",
+  "(%22cold+email%22+OR+%22outbound+sales%22+OR+%22sdr%22+OR+%22bdr%22+OR+%22sales+development%22+OR+%22lead+generation%22)",
+  "(%22growth+outreach+specialist%22+OR+%22outreach+specialist%22)",
+  "(%22account+executive%22+OR+%22sales+development+representative%22)"
 ];
 
 // LinkedIn jobs API search queries
@@ -30,25 +70,45 @@ const JOB_SEARCH_QUERIES = [
   "clay builder",
   "gtm engineer",
   "go to market engineer",
-  "revenue operations engineer",
   "growth operations engineer",
   "gtm",
   "campaign executive",
   "campaign manager",
-  "marketing operations"
+  "marketing operations",
+  "cold email",
+  "outbound sales",
+  "bdr",
+  "lead generation",
+  "growth outreach specialist",
+  "outreach specialist",
+  "account executive",
+  "sales development representative"
 ];
 
 // Only fetch LinkedIn POSTS that contain explicit hiring phrases alongside the role keywords
-const DEFAULT_RSS_FEEDS = RSS_QUERY_GROUPS.map(
-  (q) => `https://news.google.com/rss/search?q=site:linkedin.com/posts+(%22we+are+hiring%22+OR+%22we%27re+hiring%22+OR+%22now+hiring%22+OR+%22job+opening%22+OR+%22open+role%22+OR+%22open+position%22+OR+%22apply+now%22+OR+%22join+our+team%22)+${q}+when:1d&hl=en&gl=US&ceid=US:en`
-);
+const DEFAULT_RSS_FEEDS = RSS_QUERY_GROUPS.flatMap((q, idx) => {
+  // Group 0 = clay terms, Group 1 = gtm engineer terms, Group 2 = marketing ops
+  // Add extra broader hiring search for gtm/marketing groups to catch more posts
+  if (idx === 0) {
+    return [`https://news.google.com/rss/search?q=site:linkedin.com/posts+(%22we+are+hiring%22+OR+%22we%27re+hiring%22+OR+%22now+hiring%22+OR+%22job+opening%22+OR+%22open+role%22+OR+%22open+position%22+OR+%22apply+now%22+OR+%22join+our+team%22+OR+%22careers+page%22+OR+%22check+out+our+open+roles%22+OR+%22hiring+specialists%22+OR+%22hiring+experts%22)+${q}+when:2d&hl=en&gl=US&ceid=US:en`];
+  }
+  // For gtm engineer and marketing ops, add a broader "hiring" search too
+  return [
+    `https://news.google.com/rss/search?q=site:linkedin.com/posts+(%22we+are+hiring%22+OR+%22we%27re+hiring%22+OR+%22now+hiring%22+OR+%22job+opening%22+OR+%22open+role%22+OR+%22open+position%22+OR+%22apply+now%22+OR+%22join+our+team%22+OR+%22careers+page%22+OR+%22check+out+our+open+roles%22)+${q}+when:2d&hl=en&gl=US&ceid=US:en`,
+    // Extra broad search: just "hiring" + keywords, longer timeframe
+    `https://news.google.com/rss/search?q=site:linkedin.com/posts+(hiring)+${q}+when:3d&hl=en&gl=US&ceid=US:en`
+  ];
+});
 
 // Hiring intent words — RSS items must contain at least one of these to be sent
 const HIRING_INTENT = [
   "we are hiring", "we're hiring", "now hiring", "job opening", "open role",
   "open position", "apply now", "join our team", "looking to hire",
   "seeking a", "seeking an", "we need a", "we need an", "hiring a", "hiring an",
-  "recruiting", "job opportunity", "career opportunity"
+  "recruiting", "job opportunity", "career opportunity", "#hiring", "hiring ",
+  "careers page", "check out our open roles", "hiring specialists", "hiring experts",
+  "hiring GTM", "hiring marketing", "hiring for", "hiring GTM engineer",
+  "hiring hubspot", "hiring revops", "full time", "full-time"
 ];
 
 const LINKEDIN_JOB_SEARCH_BASE =
@@ -267,7 +327,16 @@ async function fetchRssFeeds() {
       const feedItems = result.value.items || [];
       for (const item of feedItems) {
         const linkedinUrl = extractLinkedinUrl(item);
+        // Debug: log ALL extracted URLs (not just successful ones)
+        if (items.length < 10 && !linkedinUrl) {
+          console.log(`RSS no URL: title="${(item.title || "").slice(0, 40)}" | link="${(item.link || "").slice(0, 50)}"`);
+        }
         if (!linkedinUrl) continue; // skip if we can't get a real LinkedIn URL
+
+        // Debug: log raw RSS items before filtering
+        if (items.length < 5) {
+          console.log(`RSS raw: ${linkedinUrl.slice(0, 50)} | ${(item.title || "").slice(0, 40)}`);
+        }
 
         // Only keep posts that contain actual hiring intent
         const itemText = normalize(
@@ -275,10 +344,14 @@ async function fetchRssFeeds() {
         );
         const hasHiringIntent = HIRING_INTENT.some((phrase) => itemText.includes(phrase));
         if (!hasHiringIntent) {
-          console.log(`RSS skip (no hiring intent): ${(item.title || "").slice(0, 60)}`);
+          // console.log(`RSS skip (no hiring intent): ${(item.title || "").slice(0, 60)}`);
           continue;
         }
 
+        // Debug: log first few RSS items after filtering
+        if (items.length < 5) {
+          console.log(`RSS item (passed): ${linkedinUrl.slice(0, 50)}`);
+        }
         items.push({ ...item, link: linkedinUrl, sourceFeed: feedUrls[i] });
       }
       console.log(`RSS OK: ${feedItems.length} items`);
@@ -299,13 +372,59 @@ function matchesKeywords(item, keywords) {
   return keywords.filter((k) => text.includes(k));
 }
 
-function isWithinAge(item, maxAgeHours) {
+function isWithinAge(item, maxAgeHours, source) {
+  // RSS posts skip age check since Google News already filters by time in query
+  const isRss = source && source.startsWith('http');
+  if (isRss) return true;
+
   const raw = item.isoDate || item.pubDate;
   if (!raw) return true; // allow if no date
   const d = new Date(raw);
   if (isNaN(d.getTime())) return true; // allow if unparseable
   const ageMs = Date.now() - d.getTime();
   return ageMs >= 0 && ageMs <= maxAgeHours * 3600 * 1000;
+}
+
+function isExcludedLocation(item) {
+  const location = normalize(item.contentSnippet || "");
+  return EXCLUDED_COUNTRIES.some((country) => location.includes(country));
+}
+
+function isExcludedTitle(item) {
+  const title = item.title || "";
+  return EXCLUDED_TITLE_PATTERNS.some((pattern) => pattern.test(title));
+}
+
+// Check if a LinkedIn Jobs API job is truly remote (not onsite/hybrid)
+function isRemoteJob(item) {
+  const location = normalize(item.contentSnippet || "");
+  const title = normalize(item.title || "");
+
+  // If title explicitly says remote, treat as remote
+  if (/\bremote\b/.test(title)) return true;
+
+  // If location indicates remote, treat as remote
+  const remoteLocationIndicators = [
+    /\bremote\b/i,
+    /\bworldwide\b/i,
+    /\bunited states\b/i,
+    /\banywhere\b/i,
+    /\bglobal\b/i,
+    /\busa\s+wide\b/i,
+    /\bUS\s+wide\b/i,
+    /\bnationwide\b/i,
+    /\bacross\s+the\s+(US|us)\b/i
+  ];
+  if (remoteLocationIndicators.some(ind => ind.test(location))) return true;
+
+  // If location has a specific city/state pattern like "San Francisco, CA" or "New York, NY"
+  // AND title doesn't mention remote → it's onsite/hybrid, skip it
+  const cityStatePattern = /[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z]{2}/;
+  if (cityStatePattern.test(location)) return false;
+
+  // If location is just a country name with no specific city (e.g., "United States"), allow it
+  // as LinkedIn often marks these as eligible for remote work
+  return true;
 }
 
 // --- Telegram ---
@@ -418,10 +537,31 @@ async function runCycle() {
   }
   console.log(`Unique by URL: ${uniqueByUrl.size}`);
 
+  // Debug: count RSS vs Jobs and show first few URLs
+  let rssCount = 0;
+  let jobCount = 0;
+  let sampleRss = [];
+  let sampleJobs = [];
+  for (const [uk, item] of uniqueByUrl) {
+    const isRss = item.sourceFeed && item.sourceFeed.startsWith('http');
+    if (isRss) {
+      rssCount++;
+      if (sampleRss.length < 3) sampleRss.push({ url: uk.slice(0, 60), source: item.sourceFeed?.slice(0, 40) });
+    } else {
+      jobCount++;
+      if (sampleJobs.length < 3) sampleJobs.push({ url: uk.slice(0, 60), source: item.sourceFeed });
+    }
+  }
+  console.log(`RSS posts: ${rssCount}, Jobs: ${jobCount}`);
+  console.log(`Sample RSS:`, JSON.stringify(sampleRss));
+  console.log(`Sample Jobs:`, JSON.stringify(sampleJobs));
+
   let sent = 0;
   let skippedSeen = 0;
   let skippedKeyword = 0;
   let skippedAge = 0;
+  let skippedCountry = 0;
+  let skippedTitlePattern = 0;
   let skippedTitle = 0;
 
   for (const [uk, item] of uniqueByUrl) {
@@ -433,32 +573,72 @@ async function runCycle() {
       continue;
     }
 
-    // Age check
-    if (!isWithinAge(item, maxPostAgeHours)) {
+    // Age check (pass source to give RSS more lenient window)
+    const itemIsRss = item.sourceFeed && item.sourceFeed.startsWith('http');
+    if (!isWithinAge(item, maxPostAgeHours, item.sourceFeed)) {
+      // Debug: log RSS items that fail age check
+      if (itemIsRss) {
+        console.log(`RSS age skip: ${(item.title || "").slice(0, 50)} | date: ${item.isoDate || item.pubDate || 'none'}`);
+      }
       skippedAge++;
       state.seen[uk] = 1;
       continue;
     }
 
-    // Keyword match
-    const matched = matchesKeywords(item, keywords);
-    if (matched.length === 0) {
-      skippedKeyword++;
-      state.seen[uk] = 1; // mark as seen so we don't re-check
+    // Use the itemIsRss computed earlier
+
+    // Location exclusion check - skip for RSS posts since location info is unreliable
+    if (!itemIsRss && isExcludedLocation(item)) {
+      skippedCountry++;
+      state.seen[uk] = 1;
       continue;
+    }
+
+    // Title exclusion check (SEM, SEO, etc.) - skip for RSS posts
+    if (!itemIsRss && isExcludedTitle(item)) {
+      skippedTitlePattern++;
+      state.seen[uk] = 1;
+      continue;
+    }
+
+    // Remote check - skip onsite/hybrid jobs from LinkedIn Jobs API
+    if (!itemIsRss && !isRemoteJob(item)) {
+      skippedCountry++;
+      state.seen[uk] = 1;
+      continue;
+    }
+
+    // Keyword match - RSS items skip this since query already has keywords
+    let matched = [];
+    if (!itemIsRss) {
+      // Only filter Jobs by keywords, not RSS posts
+      matched = matchesKeywords(item, keywords);
+      if (matched.length === 0) {
+        skippedKeyword++;
+        state.seen[uk] = 1;
+        continue;
+      }
+    } else {
+      // For RSS posts, use a default matched keyword since query already has keywords
+      matched = ['RSS hiring post'];
     }
 
     // Title+company dedup (catches Sr./Senior/Lead variants)
     const tk = titleKey(item);
     if (state.sentTitles[tk]) {
+      if (itemIsRss) {
+        console.log(`RSS title dup skip: "${item.title}"`);
+      }
       skippedTitle++;
       state.seen[uk] = 1;
-      console.log(`Skip duplicate title: "${item.title}"`);
       continue;
     }
 
     // Send alert
     const message = formatMessage(item, matched);
+    if (itemIsRss) {
+      console.log(`RSS SENDING: "${item.title}" | company: "${item.company || 'none'}" | key: "${tk}"`);
+    }
     const ok = await sendTelegram(message);
 
     if (ok) {
@@ -476,7 +656,7 @@ async function runCycle() {
   state.stats.matchedToday = (state.stats.matchedToday || 0) + sent;
   writeState(state);
 
-  console.log(`Done: sent=${sent}, skipped(seen=${skippedSeen}, keyword=${skippedKeyword}, age=${skippedAge}, titleDup=${skippedTitle})`);
+  console.log(`Done: sent=${sent}, skipped(seen=${skippedSeen}, keyword=${skippedKeyword}, age=${skippedAge}, country=${skippedCountry}, titlePattern=${skippedTitlePattern}, titleDup=${skippedTitle})`);
 
   await maybeSendDailySummary(state);
 }
