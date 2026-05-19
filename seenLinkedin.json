@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/pottery-instructor-throwing-and-hand-building-on-call-at-mii-amo-4414233709": 1,
-    "https://www.linkedin.com/jobs/view/pottery-instructor-throwing-and-hand-building-on-call-at-enchantment-resort-4414264372": 1,
-    "https://www.linkedin.com/jobs/view/processing-operator-south-plant-at-oil-dri-corporation-of-america-4410638484": 1,
-    "https://www.linkedin.com/jobs/view/yard-specialist-at-clark-pacific-4414270958": 1,
-    "https://www.linkedin.com/jobs/view/sales-enablement-manager-at-abc-fitness-4392460334": 1,
-    "https://www.linkedin.com/jobs/view/strategic-finance-operator-at-mechanism-ventures-4404939693": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-programs-operations-manager-at-doubleverify-4414263562": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-operations-specialist-at-thoughtspot-4414249571": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-208843-at-aquent-4394620283": 1,
-    "https://www.linkedin.com/jobs/view/sales-assistant-propertry-management-real-estate-remote-at-cherry-assistant-4414248442": 1,
     "https://www.linkedin.com/jobs/view/b2b-cold-caller-appointment-setter-at-remoteva-4414253480": 1,
     "https://www.linkedin.com/jobs/view/gtm-automation-revops-at-obligo-4414262795": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-financeit-4414227647": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/latam-business-development-rep-b2b-appointment-setter-outbound-sales-at-winning-assistants-llc-4416678149": 1,
     "https://www.linkedin.com/jobs/view/lead-setter-appointment-setter-at-ignite-test-prep-4415967211": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-sundayy-4415942159": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-oxbow-talent-4413337143": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-at-oxbow-talent-4413337143": 1,
+    "https://www.linkedin.com/jobs/view/test-operations-analytics-engineer-at-lockheed-martin-4416959497": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-skylane-solutions-llc-4415787994": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-b2b-gurugram-sector-23-at-iklavya-4415952057": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-b2b-gurugram-sector-23-at-iklavya-4412871317": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-springsoft-infotech-private-limited-4413326588": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-apptribute-4416631700": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-bench-sales-at-brightpath-associates-llc-4408511781": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-ts-finvest-financemandi-apka-trusted-finance-dost-4413307987": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-codevyasa-4413324079": 1,
+    "https://www.linkedin.com/jobs/view/patient-outreach-care-coordinator-at-infusystem-4416963635": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-19",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
