@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-at-cherry-assistant-4414257211": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4414173110": 1,
-    "https://www.linkedin.com/jobs/view/asistente-virtual-at-universia-m%c3%a9xico-4414417076": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-ph-remote-at-snapscale-4414293702": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4414174042": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4414171113": 1,
-    "https://www.linkedin.com/jobs/view/asistente-virtual-at-universia-m%c3%a9xico-4414400633": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-assistant-at-remotehunter-4414162891": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4414157767": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-zuora-community-4410643733": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-biddable-media-at-havas-media-network-india-4290686082": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-ad-ops-brand-business-at-anymind-group-4373920727": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-storable-4414418294": 1,
-    "https://www.linkedin.com/jobs/view/clay-artist-at-sloomoo-institute-4414229193": 1,
     "https://www.linkedin.com/jobs/view/pottery-instructor-throwing-and-hand-building-on-call-at-mii-amo-4414233709": 1,
     "https://www.linkedin.com/jobs/view/pottery-instructor-throwing-and-hand-building-on-call-at-enchantment-resort-4414264372": 1,
     "https://www.linkedin.com/jobs/view/processing-operator-south-plant-at-oil-dri-corporation-of-america-4410638484": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-mews-4405585862": 1,
     "https://www.linkedin.com/jobs/view/event-manager-global-events-experiences-at-nielsen-4413355911": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415951387": 1,
-    "https://www.linkedin.com/jobs/view/svp-sales-core-digital-at-blossom-4416948052": 1
+    "https://www.linkedin.com/jobs/view/svp-sales-core-digital-at-blossom-4416948052": 1,
+    "https://www.linkedin.com/jobs/view/consultant-japan-at-insight-assurance-4416948737": 1,
+    "https://www.linkedin.com/jobs/view/principal-technical-marketing-engineer-prisma-airs-at-palo-alto-networks-4413379013": 1,
+    "https://www.linkedin.com/jobs/view/mcu-ecosystem-technical-marketing-engineer-at-nxp-semiconductors-4416949255": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-nomad-4416479429": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-openart-ai-4416497335": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-at-arbor-4413322267": 1,
+    "https://www.linkedin.com/jobs/view/strategy-ops-engineering-at-happyrobot-4384005650": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-sales-cxt-software-at-cxt-software-4416634873": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-analytics-at-new-engen-4413359550": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-cranberry-panda-4413360099": 1,
+    "https://www.linkedin.com/jobs/view/latam-business-development-rep-b2b-appointment-setter-outbound-sales-at-winning-assistants-llc-4416678149": 1,
+    "https://www.linkedin.com/jobs/view/lead-setter-appointment-setter-at-ignite-test-prep-4415967211": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-sundayy-4415942159": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-oxbow-talent-4413337143": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-19",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
