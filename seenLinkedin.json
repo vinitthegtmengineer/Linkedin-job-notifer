@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/national-account-manager-costco-at-forcebrands-4414234274": 1,
-    "https://www.linkedin.com/jobs/view/key-account-manager-kam-at-whirlpool-corporation-4413576647": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-manager-at-priority-4414125717": 1,
-    "https://www.linkedin.com/jobs/view/gcc-account-manager-at-checkmarx-4382281666": 1,
-    "https://www.linkedin.com/jobs/view/head-of-demand-generation-at-pepper-4410645757": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-specialist-at-suna-solutions-4414192365": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-manager-at-zutacore-4401733266": 1,
-    "https://www.linkedin.com/jobs/view/growth-generalist-at-duvo-ai-4414531836": 1,
-    "https://www.linkedin.com/jobs/view/partner-marketing-specialist-hr-solutions-at-mitratech-4410631492": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-at-hirehawk-4414284501": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-coordinator-at-kuraray-america-inc-4414531536": 1,
     "https://www.linkedin.com/jobs/view/cold-caller-%e2%80%93-ghl-focused-at-the-plumtree-group-global-4414255533": 1,
     "https://www.linkedin.com/jobs/view/account-executive-smb-sales-at-workwave-4414290726": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-demand-generation-%e2%80%93-edtech-e-learning-industry-at-makonis-4415957090": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415931293": 1,
     "https://www.linkedin.com/jobs/view/project-administrator-remote-60348406950-at-somewhere-4416946120": 1,
-    "https://www.linkedin.com/jobs/view/programme-coordinator-at-association-of-british-orchestras-4413348559": 1
+    "https://www.linkedin.com/jobs/view/programme-coordinator-at-association-of-british-orchestras-4413348559": 1,
+    "https://www.linkedin.com/jobs/view/startup-growth-operator%e2%80%8b-founder%e2%80%99s-special-projects%e2%80%8b-at-a-hiring-group-4416947126": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-education-first-consulting-4416934617": 1,
+    "https://www.linkedin.com/jobs/view/senior-golang-engineer-at-jobgether-4415780723": 1,
+    "https://www.linkedin.com/jobs/view/tiktok-lead-campaign-manager-at-eduex-4416943600": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-catapult-solutions-group-4413815779": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-falcon-innovation-partners-fzco-4413338827": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-saas-startup-at-scale-up-recruiting-partners-4415779149": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4415954302": 1,
+    "https://www.linkedin.com/jobs/view/scheduling-coordinator-at-workinvirtual-4413315313": 1,
+    "https://www.linkedin.com/jobs/view/client-engagement-outreach-social-media-coordinator-bilingual-spanish-english-%e2%80%93-c2-level-at-love-discovery-institute-4416670079": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-19",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
