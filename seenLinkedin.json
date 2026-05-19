@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-financeit-4414227647": 1,
-    "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-savvy-wealth-4410619769": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-at-glean-4414189817": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-logicalis-uk-i-4414238018": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-u-k-at-parcelhero-4414512111": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-currys-plc-4414228807": 1,
     "https://www.linkedin.com/jobs/view/community-activation-coordinator-at-hiretalent-staffing-recruiting-firm-4414244218": 1,
     "https://www.linkedin.com/jobs/view/account-manager-promotional-merchandise-at-3ecruit-4413962436": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-codevyasa-4413324079": 1,
     "https://www.linkedin.com/jobs/view/patient-outreach-care-coordinator-at-infusystem-4416963635": 1,
     "https://www.linkedin.com/jobs/view/senior-product-design-engineer-at-turvo-4416955242": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-dr-woof-apparel-4415757931": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-content-creator-at-dr-woof-apparel-4415757931": 1,
+    "https://www.linkedin.com/jobs/view/dealer-consultant-pittsburgh-at-forddirect-4410225408": 1,
+    "https://www.linkedin.com/jobs/view/the-city-of-guelph-at-city-of-guelph-4415962614": 1,
+    "https://www.linkedin.com/jobs/view/materials-process-operator-at-coorstek-inc-4413351705": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4416949357": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-dimond-connect-4415963573": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-19",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
