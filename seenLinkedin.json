@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-manager-revenue-intelligence-gtm-analytics-at-oro-labs-4411153101": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-pet-set-go-4414453697": 1,
-    "https://www.linkedin.com/jobs/view/clay-modeler-at-technicon-design-4405282749": 1,
-    "https://www.linkedin.com/jobs/view/summer-in-the-arts-teacher-potter-s-wheel-at-loudoun-county-public-schools-4410634475": 1,
-    "https://www.linkedin.com/jobs/view/crm-campaign-specialist-at-superdrug-4413998770": 1,
-    "https://www.linkedin.com/jobs/view/zscaler-engineer-%2311281-at-ecco-select-4414273189": 1,
-    "https://www.linkedin.com/jobs/view/senior-revenue-operations-analyst-at-alation-4414444481": 1,
-    "https://www.linkedin.com/jobs/view/global-social-media-manager-crypto-at-revolut-4381884670": 1,
-    "https://www.linkedin.com/jobs/view/remote-ugc-influencer-campaign-manager-at-day-1-marketing-4410713909": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-manager-apac-at-established-search-4410399936": 1,
-    "https://www.linkedin.com/jobs/view/social-media-community-manager-at-jobgether-4414131225": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-retool-4398612567": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-function-health-4392147068": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-at-tide-4414178212": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-storable-4415972113": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-variphy-inc-4415934951": 1,
     "https://www.linkedin.com/jobs/view/founding-sales-development-representative-sdr-at-busplanner-4413303492": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-navis-pack-ship-orange-county-4415716573": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-navis-pack-ship-orange-county-4415716573": 1,
+    "https://www.linkedin.com/jobs/view/roof-build-at-clayton-4416909922": 1,
+    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4416925150": 1,
+    "https://www.linkedin.com/jobs/view/laborer-perry-fl-at-hensel-phelps-4385604277": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-dbeaver-4412851697": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-gtm-engineer-at-talkpush-4414212483": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%e2%80%94-ai-native-revenue-systems-at-quanterian-4415788972": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%82%b3%e3%82%a2%e3%82%bf%e3%82%a4%e3%83%a0%e3%81%aa%e3%81%97%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e5%89%af%e6%a5%ad%e5%8f%af%ef%bc%8fai%e6%96%b0%e8%a6%8f%e4%ba%8b%e6%a5%ad%ef%bc%89-at-%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%8a%ef%bd%93%ef%bd%8f%ef%bd%8c-4416982776": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-emea-based-at-akt-global-4416640322": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-paid-social-at-samsara-4413367496": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-vividly-4416494921": 1,
+    "https://www.linkedin.com/jobs/view/patient-outreach-specialist-at-winning-assistants-llc-4416679397": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-20",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
