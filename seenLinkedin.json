@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enterprise-bdr-at-emergent-4414442555": 1,
-    "https://www.linkedin.com/jobs/view/connector-b2b-introductions-no-selling-at-warmconnects-4414140667": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-betterbizs-4414456744": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-stan-ai-4410619888": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-xdrhub-4414151770": 1,
     "https://www.linkedin.com/jobs/view/email-sms-strategist-at-bellaconnections-llc-4410632006": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sdr-outbound-at-keka-hr-4412896358": 1,
     "https://www.linkedin.com/jobs/view/b2c-cold-caller-%e2%80%94-saas-sales-at-corvi-technologies-4412871455": 1,
     "https://www.linkedin.com/jobs/view/business-development-manager-international-domestic-at-smartbox-lockers-4415775315": 1,
-    "https://www.linkedin.com/jobs/view/outbound-specialist-at-native-teams-4416699542": 1
+    "https://www.linkedin.com/jobs/view/outbound-specialist-at-native-teams-4416699542": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416936647": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-employer-brand-at-revolut-4405987286": 1,
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-manager-at-vasion-4416908110": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-20",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
