@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/nomadic-mission-operator-contractor-evening-night-shift-at-latitude-ai-4354586277": 1,
-    "https://www.linkedin.com/jobs/view/new-business-account-executive-us-market-at-revolut-4049902680": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-zutacore-4415364846": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-rdash-yc-w22-4410364453": 1,
-    "https://www.linkedin.com/jobs/view/immigration-outbound-sales-us-process-at-sharda-consultancy-services-4415024296": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-hevo-data-4411580358": 1,
-    "https://www.linkedin.com/jobs/view/immigration-outbound-sales-at-sharda-consultancy-services-4415021340": 1,
-    "https://www.linkedin.com/jobs/view/business-development-lead-generator-at-ideal-ignite-4415016002": 1,
-    "https://www.linkedin.com/jobs/view/b2b-outbound-lead-gtm-engineer-at-consistent-performance-4415365767": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-specialist-at-dexian-4415063724": 1,
     "https://www.linkedin.com/jobs/view/outbound-telemarketer-at-scale-army-careers-4362578246": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-emea-south-africa-based-at-asksuite-4415360879": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/lead-generation-executive-b2b-gurugram-sector-23-at-iklavya-4416392616": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-globaltize-4417387452": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-adaca-4416398331": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-beyond-med-4417391055": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-beyond-med-4417391055": 1,
+    "https://www.linkedin.com/jobs/view/lcm-engineer-at-cedge-inc-4416700285": 1,
+    "https://www.linkedin.com/jobs/view/senior-executive-performance-marketing-at-tonic-worldwide-4416379740": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-at-grapes-worldwide-4417486229": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-manager-smb-at-block-4398634395": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-manager-smb-at-square-4398633420": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-manager-smb-at-block-4398630426": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-enterprise-at-docebo-4384507208": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-representative-at-volaris-group-4417763278": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-tp-4417732624": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-21",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
