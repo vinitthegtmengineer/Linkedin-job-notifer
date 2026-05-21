@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/materials-production-technician-ii-at-coorstek-inc-4411525765": 1,
-    "https://www.linkedin.com/jobs/view/sessional-lecturer-pottery-at-carshalton-college-4414766733": 1,
-    "https://www.linkedin.com/jobs/view/adjunct-3d-art-studio-at-inside-higher-ed-4414663643": 1,
-    "https://www.linkedin.com/jobs/view/kiln-furnace-technician-i-at-coorstek-inc-4411517782": 1,
-    "https://www.linkedin.com/jobs/view/refractory-installation-specialist-at-materion-corporation-4414628744": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-manager-strategic-at-tebra-4405258767": 1,
-    "https://www.linkedin.com/jobs/view/chief-of-staff-at-dimond-connect-4414755994": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-content-marketing-manager-at-tebra-4405269038": 1,
-    "https://www.linkedin.com/jobs/view/customer-vice-president-albertsons-at-mondel%c4%93z-international-4393939582": 1,
-    "https://www.linkedin.com/jobs/view/marketing-and-crm-internship-at-taskforce-on-nature-related-financial-disclosures-tnfd-4414471153": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-keyfactor-4405345043": 1,
     "https://www.linkedin.com/jobs/view/mid-market-customer-success-manager-emea-at-ashby-4404491091": 1,
     "https://www.linkedin.com/jobs/view/director-of-organic-growth-at-learneo-4405256856": 1,
     "https://www.linkedin.com/jobs/view/manager-business-development-strategy-at-sigma-4414664892": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/account-executive-at-responsive-4416104900": 1,
     "https://www.linkedin.com/jobs/view/associate-social-media-manager-at-instacart-4417418948": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-connecteam-4386966462": 1,
-    "https://www.linkedin.com/jobs/view/coordinator-rotation-remote-at-tango-4416350746": 1
+    "https://www.linkedin.com/jobs/view/coordinator-rotation-remote-at-tango-4416350746": 1,
+    "https://www.linkedin.com/jobs/view/ai-venture-operator-at-basis-vectors-capital-4417452232": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-ia-automa%c3%a7%c3%a3o-vp-de-gente-at-grupo-sbf-4417444716": 1,
+    "https://www.linkedin.com/jobs/view/channel-manager-at-jobgether-4417457451": 1,
+    "https://www.linkedin.com/jobs/view/lead-global-marketing-campaigns-manager-at-gitlab-4417425356": 1,
+    "https://www.linkedin.com/jobs/view/lead-global-marketing-campaigns-manager-at-gitlab-4417427322": 1,
+    "https://www.linkedin.com/jobs/view/associate-social-media-manager-at-instacart-4417437258": 1,
+    "https://www.linkedin.com/jobs/view/remote-appointment-setter-at-talentoma-4416370053": 1,
+    "https://www.linkedin.com/jobs/view/seo-lead-generation-analyst-at-fusionhit-4417388311": 1,
+    "https://www.linkedin.com/jobs/view/remote-project-assistant-at-talentoma-4416367137": 1,
+    "https://www.linkedin.com/jobs/view/national-account-manager-foods-italy-at-unilever-4416339054": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-patientiq-4417317220": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-21",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
