@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%95%e3%83%ab%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e5%9c%b0%e6%96%b9%e8%87%aa%e6%b2%bb%e4%bd%93%e5%90%91%e3%81%91%e4%bc%81%e7%94%bb%e6%8f%90%e6%a1%88%e5%96%b6%e6%a5%ad%ef%bc%88%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%bbpm%e6%a5%ad%e5%8b%99%ef%bc%89%e2%97%86%e7%a4%be%e4%bc%9a%e8%b2%a2%e7%8c%ae%e6%80%a7%e3%83%bb%e6%b3%a8%e7%9b%ae%e5%ba%a6%e3%81%ae%e9%ab%98%e3%81%84%e4%bb%95%e4%ba%8b%e2%97%8e-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4414564010": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4415318249": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-remote-at-onedigital-4411519344": 1,
-    "https://www.linkedin.com/jobs/view/director-demand-generation-at-qohash-4414921160": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-talentneuron-4407034290": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-workato-4415305839": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-manager-at-ncino-4411508293": 1,
-    "https://www.linkedin.com/jobs/view/senior-demand-generation-strategist-remote-canada-at-directive-4414964442": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-sage-4414924770": 1,
-    "https://www.linkedin.com/jobs/view/senior-operations-engineer-at-jobgether-4414794999": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-engineer-remote-at-clearout-4415005519": 1,
     "https://www.linkedin.com/jobs/view/job-opportunities-at-arizona-tile-4414687740": 1,
     "https://www.linkedin.com/jobs/view/adjunct-instructor-ceramics-at-palm-beach-state-college-4414702839": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/lead-generation-and-marketing-associate-at-jobgether-4416395321": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-and-marketing-associate-at-jobgether-4416393418": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-and-marketing-associate-at-jobgether-4416500139": 1,
-    "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4416367419": 1
+    "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4416367419": 1,
+    "https://www.linkedin.com/jobs/view/consultancy-partnerships-manager-at-yourprime-4413673649": 1,
+    "https://www.linkedin.com/jobs/view/builder-in-residence-at-codewords-4417483437": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-object-first-4417479733": 1,
+    "https://www.linkedin.com/jobs/view/trading-operations-engineer-us-at-arcus-search-4413676480": 1,
+    "https://www.linkedin.com/jobs/view/channel-partner-enablement-manager-at-smarsh-4408585207": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-abm-at-jobgether-4416393768": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-kitsch-4417476695": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-jobgether-4416381653": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-customer-service-representative-home-services-at-pavago-4417375059": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-and-marketing-associate-at-jobgether-4416502073": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-21",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
