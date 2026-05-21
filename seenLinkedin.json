@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/wfh-account-sales-advisor-at-virtualite-4412024089": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4415154711": 1,
     "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4415083847": 1,
     "https://www.linkedin.com/jobs/view/operador-en-adaptaciones-de-arte-at-foic-lecanda-4412053248": 1,
     "https://www.linkedin.com/jobs/view/ai-health-growth-operator-4415103000": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4416724453": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-maternity-leave-replacement-at-solvo-now-part-of-cye-4417426821": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-va-at-sphere-rocket-va-us-4416580720": 1,
-    "https://www.linkedin.com/jobs/view/provider-network-specialist-at-bardavon-4414064049": 1
+    "https://www.linkedin.com/jobs/view/provider-network-specialist-at-bardavon-4414064049": 1,
+    "https://www.linkedin.com/jobs/view/part-time-marketing-executive-at-jhanvi-technologies-4414062033": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-sales-operations-at-azul-4418017346": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-21",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
