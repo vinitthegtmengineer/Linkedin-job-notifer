@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/technical-delivery-at-hebbia-4416677905": 1,
-    "https://www.linkedin.com/jobs/view/deployed-engineer-at-cognition-4347976932": 1,
-    "https://www.linkedin.com/jobs/view/field-solutions-engineer-austin-texas-at-plixer-4415925230": 1,
-    "https://www.linkedin.com/jobs/view/senior-kotlin-engineer-at-progressocore-4413312791": 1,
-    "https://www.linkedin.com/jobs/view/cloud-native-sales-specialist-at-nutanix-indonesia-4416916199": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mixrank-4415906722": 1,
-    "https://www.linkedin.com/jobs/view/digital-growth-marketing-executive-at-london-school-of-excellence-4413321573": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-delaware-united-kingdom-ireland-4415920355": 1,
     "https://www.linkedin.com/jobs/view/global-campaign-manager-at-bee-talent-solutions-4415521229": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-strategist-at-perseus-group-constellation-software-4413327665": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/telesales-representative-at-ashvi-net-4417540414": 1,
     "https://www.linkedin.com/jobs/view/real-estate-appointment-setter-isa-at-the-redux-group-4417565587": 1,
     "https://www.linkedin.com/jobs/view/data-entry-assistant-at-remotehunter-4417580417": 1,
-    "https://www.linkedin.com/jobs/view/remote-account-executive-at-remindermedia-4418432876": 1
+    "https://www.linkedin.com/jobs/view/remote-account-executive-at-remindermedia-4418432876": 1,
+    "https://www.linkedin.com/jobs/view/value-consultant-at-ashby-4417506364": 1,
+    "https://www.linkedin.com/jobs/view/value-consultant-at-ashby-4417502388": 1,
+    "https://www.linkedin.com/jobs/view/materials-testing-technician-iii-at-terracon-4416140708": 1,
+    "https://www.linkedin.com/jobs/view/research-laboratory-technician-at-agr-llc-4417577244": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-product-development-at-fortera-4363089125": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b8%a0%e9%81%93%e9%94%80%e5%94%ae%e5%b7%a5%e7%a8%8b%e5%b8%88%ef%bc%88%e6%b1%9f%e8%8b%8f%e5%9c%b0%e5%8c%ba%ef%bc%89-at-%e5%ae%81%e6%b3%a2%e9%95%bf%e5%9f%8e%e7%b2%be%e5%b7%a5%e5%ae%9e%e4%b8%9a%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4414393154": 1,
+    "https://www.linkedin.com/jobs/view/direct-sales-account-executive-remote-at-remindermedia-4418454058": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-23",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
