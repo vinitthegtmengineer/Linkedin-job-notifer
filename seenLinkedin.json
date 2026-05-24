@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quality-manager-at-crh-4416975313": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-at-arm-group-4416308475": 1,
-    "https://www.linkedin.com/jobs/view/research-technician-at-allied-mineral-products-4417323079": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-tenex-ai-4413645290": 1,
-    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-nvidia-4395487136": 1,
-    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-dgx-cloud-at-nvidia-4395468723": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%e2%80%94-conversion-ai-at-david-joseph-company-4416323518": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-marketing-at-email-donut-4417390251": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-success-manager-at-sierra-interactive-4417315824": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-terra-4402830213": 1,
-    "https://www.linkedin.com/jobs/view/sdr-recruitment-services-at-promogeneration-4416309963": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-night-shift-at-fleekbiz-pakistan-4416320544": 1,
     "https://www.linkedin.com/jobs/view/bdr-business-development-rep-recruitment-services-at-promogeneration-4416328378": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-demand-generation-%e2%80%93-edtech-e-learning-industry-at-makonis-4416319886": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-and-business-operations-lead-at-toku-4415364565": 1,
     "https://www.linkedin.com/jobs/view/crm-manager-at-too-good-to-go-4375982525": 1,
     "https://www.linkedin.com/jobs/view/telesales-representative-at-earthlink-consultants-4414868656": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-aisle-and-abroad-4418678938": 1
+    "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-aisle-and-abroad-4418678938": 1,
+    "https://www.linkedin.com/jobs/view/research-technologist-1-2-at-los-alamos-national-laboratory-4367126478": 1,
+    "https://www.linkedin.com/jobs/view/research-technologist-3-at-los-alamos-national-laboratory-4367129372": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-london-uk-at-infisical-4418690238": 1,
+    "https://www.linkedin.com/jobs/view/operations-technologist-revops-js-at-factorial-4190444456": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-growth-marketing-associate-f-m-d-full-remote-at-otera-4417825013": 1,
+    "https://www.linkedin.com/jobs/view/marketing-growth-%e2%80%94-factorial-it-at-factorial-4387909901": 1,
+    "https://www.linkedin.com/jobs/view/manager-partner-strategy-and-operations-at-hyperproof-4415813810": 1,
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-venture-studio-family-4418009779": 1,
+    "https://www.linkedin.com/jobs/view/operations-coordinator-at-triple-4418670751": 1,
+    "https://www.linkedin.com/jobs/view/care-management-coordinator-i-at-moda-health-4418681959": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-at-lixil-4418695135": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-24",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
