@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/paycor-consultant-at-rockcrest-4413357690": 1,
-    "https://www.linkedin.com/jobs/view/mason-at-u-s-department-of-veterans-affairs-4416479521": 1,
-    "https://www.linkedin.com/jobs/view/cement-mason-at-granite-construction-4415941414": 1,
-    "https://www.linkedin.com/jobs/view/field-patcher-at-fabcon-4394499440": 1,
-    "https://www.linkedin.com/jobs/view/concrete-patcher-starting-pay-%2420-per-hr-at-fabcon-4405148543": 1,
-    "https://www.linkedin.com/jobs/view/concrete-finisher-at-ke-g-construction-inc-4416944749": 1,
-    "https://www.linkedin.com/jobs/view/pipe-layer-at-ranger-environmental-services-4416943550": 1,
-    "https://www.linkedin.com/jobs/view/concrete-civil-construction-laborer-at-cd-h-inc-4416927787": 1,
-    "https://www.linkedin.com/jobs/view/installer-construction-general-laborer-at-groundworks-4407537003": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-mento-4416956046": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-quorum-4416941980": 1,
-    "https://www.linkedin.com/jobs/view/exchange-copilot-operations-support-engineer-at-cvs-health-4416600431": 1,
-    "https://www.linkedin.com/jobs/view/av-project-engineer-at-kinly-4411711666": 1,
-    "https://www.linkedin.com/jobs/view/it-support-engineer-i-ops-tech-solutions-delivery-at-amazon-4385853809": 1,
     "https://www.linkedin.com/jobs/view/ai-benchmark-engineer-planning-operations-75063-at-turing-4416497845": 1,
     "https://www.linkedin.com/jobs/view/field-operations-engineer-data-collection-optical-sensor-payload-boat-aviation-travel-50%25-at-love-your-work-4416495189": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-benelux-at-clinisys-4398504939": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-postsales-ai-4325465900": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-accelera-4417577714": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-gitlab-4409460290": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-gitlab-4409443838": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-gitlab-4409443838": 1,
+    "https://www.linkedin.com/jobs/view/energy-efficiency-project-engineer-at-resource-innovations-4399894997": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-lead-at-sap-4407998236": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-lead-smb-at-reddit-inc-4417531637": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-lead-smb-at-sequoia-capital-global-equities-4418622601": 1,
+    "https://www.linkedin.com/jobs/view/digital-native-go-to-market-gtm-leader-at-databricks-4398890698": 1,
+    "https://www.linkedin.com/jobs/view/gtm-specialist-at-ivo-4401456737": 1,
+    "https://www.linkedin.com/jobs/view/principal-cortex-gtm-strategy-ops-at-palo-alto-networks-4385093717": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-lead-smb-at-reddit-inc-4417526695": 1,
+    "https://www.linkedin.com/jobs/view/sr-worldwide-specialist-streaming-analytics-data-ai-gtm-at-amazon-web-services-aws-4400317394": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-growth-executive-%e2%80%93-automotive-4417556542": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-acktivateyou-4418635700": 1,
+    "https://www.linkedin.com/jobs/view/b2b-business-development-executive-from-event-industry-at-career-bloc-4417537706": 1,
+    "https://www.linkedin.com/jobs/view/marketing-growth-manager-%e2%80%93-hyper-personalized-outreach-at-mg-environmental-consulting-4417198681": 1,
+    "https://www.linkedin.com/jobs/view/graduate-sales-development-representative-at-canonical-4286644647": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-24",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
