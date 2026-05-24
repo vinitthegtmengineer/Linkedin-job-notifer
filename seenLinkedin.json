@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-hg-insights-4304681168": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-internship-at-kynetiq-labs-4416140622": 1,
-    "https://www.linkedin.com/jobs/view/spacenos-habitat-lab-%e2%80%93-architecture-intern-2-months-%e2%80%93-real-home-project-%e2%80%93-portfolio-builder-at-spacenos-4416179209": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-deepgram-4406554865": 1,
-    "https://www.linkedin.com/jobs/view/gtm-analytics-engineer-at-gusto-4386589683": 1,
-    "https://www.linkedin.com/jobs/view/google-dialogflow-engineer-at-miratech-4417078133": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-postman-4398311608": 1,
-    "https://www.linkedin.com/jobs/view/strategic-solutions-engineer-northeast-corridor-at-dynatrace-4398575992": 1,
-    "https://www.linkedin.com/jobs/view/value-engineer-at-reindeer-4370514688": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-israel-at-algosec-4417017560": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-mechanical-engineering-at-steam-management-inc-4417091489": 1,
-    "https://www.linkedin.com/jobs/view/head-of-sales-operations-at-edged-4384455517": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-sales-enterprise-at-softserve-4405809559": 1,
     "https://www.linkedin.com/jobs/view/regional-director-strategic-sales-high-tech-at-cursor-4407872779": 1,
     "https://www.linkedin.com/jobs/view/national-channel-sales-manager-us-remote-at-verkada-4386714199": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-search-social-at-atidiv-4416163474": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/creative-marketing-manager-people-product-at-revolut-4369592347": 1,
     "https://www.linkedin.com/jobs/view/growth-associate-at-namoza-4417806203": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-collo-4417800881": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-brandshield-4402005218": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-brandshield-4402005218": 1,
+    "https://www.linkedin.com/jobs/view/tailings-engineer-at-cleveland-cliffs-4376206874": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-technician-cmt-experienced-at-braun-intertec-corporation-4359578297": 1,
+    "https://www.linkedin.com/jobs/view/soils-inspector-specialist-at-wsp-in-the-u-s-4398187022": 1,
+    "https://www.linkedin.com/jobs/view/special-inspector-construction-materials-testing-at-intertek-building-construction-4398178332": 1,
+    "https://www.linkedin.com/jobs/view/mineral-processing-specialist-at-sibelco-group-4360094014": 1,
+    "https://www.linkedin.com/jobs/view/concrete-helper-various-locations-at-yates-construction-4378765755": 1,
+    "https://www.linkedin.com/jobs/view/assembler-mfg-direct-interior-doors-at-builders-firstsource-4377924514": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-boulevard-4398197655": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-subscription-conversion-m-w-d-at-berliner-verlag-4414870390": 1,
+    "https://www.linkedin.com/jobs/view/ai-marketing-specialist-at-edreams-odigeo-4360539522": 1,
+    "https://www.linkedin.com/jobs/view/regional-operation-manager-at-tripo-ai-4418666141": 1,
+    "https://www.linkedin.com/jobs/view/customer-acquisition-executive-at-bwbmart-4414853557": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-assistant-at-remotehunter-4417800900": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-24",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
