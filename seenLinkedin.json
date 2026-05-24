@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-benchmark-engineer-planning-operations-75063-at-turing-4417319312": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%9a%a8-fully-remote%21-founding-ae-ai-%2b-devtools-%2b-enterprise-saas-at-bundoran-group-4417308344": 1,
-    "https://www.linkedin.com/jobs/view/co-founder-business-gtm-sales-at-clara-ai-sdr-4417023621": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-brainwave-professionals-4416183169": 1,
-    "https://www.linkedin.com/jobs/view/marketing-business-executive-at-vexelab-digital-creative-4416161585": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-campaign-operations-at-abc-global-services-4417311148": 1,
-    "https://www.linkedin.com/jobs/view/acquisition-specialist-at-hirehuddle-4417304877": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-representative-formations-at-expertise-com-4416947196": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-shoplift-4417337100": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-canonical-4286646516": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4416172724": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4416172667": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4416166868": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/account-manager-b2b-sales-at-airtel-4414814519": 1,
     "https://www.linkedin.com/jobs/view/b2b-key-account-manager-4417804788": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-manager-at-hitachi-vantara-4400919029": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-dhimson-group-4417553598": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-dhimson-group-4417553598": 1,
+    "https://www.linkedin.com/jobs/view/senior-generative-ai-operations-genai-ops-engineer-at-epam-systems-4403710452": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-first-resource-financial-corp-4418682584": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-brand-experience-at-orosoffiato-4417812158": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-global-brand-strategy-and-insights-at-lux-motion-4417818110": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-at-panorama-education-4388117753": 1,
+    "https://www.linkedin.com/jobs/view/marketing-analytics-operations-at-anchorage-digital-4328811115": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-at-tag-software-group-4378009298": 1,
+    "https://www.linkedin.com/jobs/view/client-success-manager-%e2%80%93-remote-at-the-hunt-agency-inc-4417585203": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-strategist-at-threadpoint-4418667453": 1,
+    "https://www.linkedin.com/jobs/view/executive-support-coordinator-remote-opportunity-at-create-your-life-4418682546": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-24",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
