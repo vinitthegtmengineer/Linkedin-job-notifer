@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-operations-specialist-at-prelude-4414059538": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4418034943": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-zoro-misr-4414068258": 1,
     "https://www.linkedin.com/jobs/view/high-ticket-appointment-setter-warm-leads-at-the-wfs-group-4417798690": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-clearml-4416720016": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4416594763": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4417899234": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-hensel-phelps-4325605252": 1,
     "https://www.linkedin.com/jobs/view/railroad-laborer-trackman-i-at-north-american-rail-solutions-4417543361": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418965820": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418965820": 1,
+    "https://www.linkedin.com/jobs/view/muratore-da-formare-come-operatore-su-doppia-fune-4415246448": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-cmo-at-hyprwork-4418945902": 1,
+    "https://www.linkedin.com/jobs/view/remote-receptionist-administrative-coordinator-at-remotehunter-4418210198": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-25",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
