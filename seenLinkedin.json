@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/experienced-jumbo-robolter-operators-needed-at-thyssen-mining-4414061396": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-iii-at-ues-4414054740": 1,
-    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4417767859": 1,
-    "https://www.linkedin.com/jobs/view/partition-at-clayton-4418037749": 1,
-    "https://www.linkedin.com/jobs/view/technician-block-production-at-cemex-us-4414066028": 1,
-    "https://www.linkedin.com/jobs/view/automation-engineer-marketing-at-fever-4340182686": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gradial-4416741014": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-kriya-at-allica-bank-4416540600": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-specialist-at-prelude-4414056657": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-business-operations-at-initialized-capital-4416594128": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-specialist-at-prelude-4414059538": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4418034943": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-zoro-misr-4414068258": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4418206094": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4417885997": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-apac-at-mastercard-4407730446": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-work-from-home-at-persona-4417857286": 1
+    "https://www.linkedin.com/jobs/view/virtual-assistant-work-from-home-at-persona-4417857286": 1,
+    "https://www.linkedin.com/jobs/view/construction-laborer-at-core-main-4410003861": 1,
+    "https://www.linkedin.com/jobs/view/construction-crew-member-at-walker-property-services-llc-4417892562": 1,
+    "https://www.linkedin.com/jobs/view/store-construction-at-braum-s-4418964586": 1,
+    "https://www.linkedin.com/jobs/view/assembler-i-at-builders-firstsource-4368792025": 1,
+    "https://www.linkedin.com/jobs/view/laborer-primoris-energy-services-at-primoris-services-corporation-4369822895": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4377936963": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4417899234": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-hensel-phelps-4325605252": 1,
+    "https://www.linkedin.com/jobs/view/railroad-laborer-trackman-i-at-north-american-rail-solutions-4417543361": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418965820": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-25",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
