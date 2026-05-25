@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-smb-at-carrot-4414020176": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-usa-at-fort-robotics-4414008015": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-canada-at-fort-robotics-4414004086": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-wrike-4417492932": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-canada-at-fort-robotics-4413689932": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-acquia-4398928573": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-usa-at-fort-robotics-4414008017": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-usa-at-fort-robotics-4413693796": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-media-tv-sales-%24150k-%24250k-inbound-at-inside-success-tv-4416717494": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-mri-software-4417431701": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-microsourcing-4417479425": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sea-india-region-at-osome-4408766506": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-nezda-global-4416511173": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-email-strategist-at-palo-alto-networks-4399511399": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418975694": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418970768": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418974665": 1
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418974665": 1,
+    "https://www.linkedin.com/jobs/view/team-leader-advanced-triaxial-at-fugro-4397060165": 1,
+    "https://www.linkedin.com/jobs/view/customer-success-manager-intern-at-pipeline-ai-4418207124": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-smartcat-4413800585": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-datadog-4387993969": 1,
+    "https://www.linkedin.com/jobs/view/senior-partner-engineer-at-github-4369876929": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e7%94%9f%e6%88%90ai%c3%97%e4%b8%8d%e5%8b%95%e7%94%a3dx%ef%bc%8f%e6%8a%80%e8%a1%93%e9%81%b8%e5%ae%9a%ef%bd%9e%e5%ae%9f%e8%a3%85%e3%83%bb%e9%81%8b%e7%94%a8%e3%81%be%e3%81%a7%e4%b8%80%e6%b0%97%e9%80%9a%e8%b2%ab%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%beterass-4418987276": 1,
+    "https://www.linkedin.com/jobs/view/part-time-business-development-representative-work-from-home-luzon-at-sozoroad-4418990180": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-aisle-and-abroad-4418981666": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-aisle-and-abroad-4418963814": 1,
+    "https://www.linkedin.com/jobs/view/regional-account-manager-il-at-taranis-4417861505": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-25",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
