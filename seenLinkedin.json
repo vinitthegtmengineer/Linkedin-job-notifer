@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-at-culturex-4411369937": 1,
     "https://www.linkedin.com/jobs/view/key-account-executive-at-hypd-4417129752": 1,
     "https://www.linkedin.com/jobs/view/professional-services-account-executive-at-adobe-4354406974": 1,
     "https://www.linkedin.com/jobs/view/senior-account-executive-at-adbanana-4414357766": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/outbound-sales-specialist-at-hire-with-near-4419519572": 1,
     "https://www.linkedin.com/jobs/view/sales-cold-calling-remote-paid-at-insdr-enterprise-solutions-4415271769": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-specialist-at-momentive-4354253418": 1,
-    "https://www.linkedin.com/jobs/view/senior-strategic-account-manager-at-square-4416835849": 1
+    "https://www.linkedin.com/jobs/view/senior-strategic-account-manager-at-square-4416835849": 1,
+    "https://www.linkedin.com/jobs/view/svp-americas-at-ping-identity-4419416762": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-26",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
