@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/fractional-advisory-board-member-%e2%80%93-industrial-growth-gtm-strategy-at-board-match-up-4417188140": 1,
-    "https://www.linkedin.com/jobs/view/director-partner-gtm-activation-at-idc-4409004033": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-agilegrid-solutions-4418465108": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-manager-hubspot-at-brillio-4417192272": 1,
-    "https://www.linkedin.com/jobs/view/remote-virtual-assistant-flexible-work-up-to-%24750-wk-at-val-s-services-4418445378": 1,
-    "https://www.linkedin.com/jobs/view/program-enrollment-associate-at-remotehunter-4417506556": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-matched-4417188802": 1,
-    "https://www.linkedin.com/jobs/view/key-account-manager-%e2%80%93-fmcg-modern-trade-at-nova-nova-4414088532": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4414343158": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-bolt-new-4414359228": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4417127417": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-hybrid-at-nitro-software-4419510198": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-outbound-at-maintainx-4419503069": 1,
     "https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-aisle-and-abroad-4419411927": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-unacademy-4418265535": 1
+    "https://www.linkedin.com/jobs/view/growth-manager-at-unacademy-4418265535": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4418510781": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operator-ecommerce-at-ecommerce-scaling-secrets-4416855824": 1,
+    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ai-builder-at-covergo-insurtech-4415295635": 1,
+    "https://www.linkedin.com/jobs/view/business-development-lead-new-verticals-at-tremendous-4418522355": 1,
+    "https://www.linkedin.com/jobs/view/senior-director-sales-enablement-at-g2-4419531012": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-representative-fully-remote-caribbean-at-meadow-memorials-4419516029": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-edsights-4418514393": 1,
+    "https://www.linkedin.com/jobs/view/specialist-iii-outreach-and-recruitment-at-lone-star-college-4418516563": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-26",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
