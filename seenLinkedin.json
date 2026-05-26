@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-gong-4284456235": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-los-angeles-at-harness-4414360459": 1,
-    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4418451169": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-smb-at-jobgether-4417146292": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-smb-at-jobgether-4417158203": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-smb-at-jobgether-4417147271": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-smb-at-jobgether-4417140370": 1,
-    "https://www.linkedin.com/jobs/view/sales-specialist-at-virtustant-4414335739": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-outbound-sales-%2b-marketing-at-jobgether-4417148134": 1,
     "https://www.linkedin.com/jobs/view/senior-customer-account-executive-at-jobgether-4414090217": 1,
     "https://www.linkedin.com/jobs/view/direct-sales-closer-remote-at-remindermedia-4418442514": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-specialist-dayshift-work-from-home-at-getmycourse-4386711394": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/remote-assistant-at-lbc-mortgage-4419504248": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-aisle-and-abroad-4419471464": 1,
     "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4418285985": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-mass-club-at-cirkul-4418262793": 1
+    "https://www.linkedin.com/jobs/view/national-account-manager-mass-club-at-cirkul-4418262793": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-at-aet-4419521207": 1,
+    "https://www.linkedin.com/jobs/view/intermediate-geotechnical-engineer-denver-or-tucson-at-ausenco-4369161236": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-entry-level-at-shannon-wilson-4419497298": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-project-manager-at-ecs-group-of-companies-4419492950": 1,
+    "https://www.linkedin.com/jobs/view/underwriter-%e2%80%93-inland-marine-builders-risk-at-polikov-recruitment-solutions-4418505345": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-talent-4418509275": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4419478476": 1,
+    "https://www.linkedin.com/jobs/view/healthtech-appointment-setter-at-arloe-ai-4419514257": 1,
+    "https://www.linkedin.com/jobs/view/renewal-specialist-at-remotehunter-4418506340": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-26",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
