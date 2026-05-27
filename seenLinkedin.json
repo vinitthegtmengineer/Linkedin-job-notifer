@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-laboratory-technician-at-cmt-technical-services-4418627487": 1,
-    "https://www.linkedin.com/jobs/view/brand-management-assistant-amazon-philippines-remote-at-growthassistant-4418483198": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-the-people-group-4418629694": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-plaid-4418425939": 1,
     "https://www.linkedin.com/jobs/view/specialist-mining-at-mckinsey-company-4399407515": 1,
     "https://www.linkedin.com/jobs/view/construction-observation-technician-denver-co-at-ctl-thompson-4418630362": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-hackajob-4406940205": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-representative-at-revision-skincare%c2%ae-4419935142": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-petdesk-4419910465": 1,
-    "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4418853215": 1
+    "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4418853215": 1,
+    "https://www.linkedin.com/jobs/view/ppc-executive-at-kumbh-design-inc-4419997010": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-dme-service-solutions-4418859840": 1,
+    "https://www.linkedin.com/jobs/view/key-account-manager-at-airtel-4417222896": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-27",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
