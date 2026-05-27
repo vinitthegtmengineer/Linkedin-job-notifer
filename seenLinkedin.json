@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4417544762": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4417558039": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-hr-remote-at-crossing-hurdles-4417536988": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-director-at-giga-4368856872": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-inboxkit-4415178690": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-paid-search-at-wpp-media-4414307800": 1,
-    "https://www.linkedin.com/jobs/view/event-marketing-coordinator-philippines-remote-at-growthassistant-4418465820": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-matched-4417191751": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-manager-at-terracon-4418604084": 1,
-    "https://www.linkedin.com/jobs/view/materials-field-engineer-at-terracon-4416639383": 1,
-    "https://www.linkedin.com/jobs/view/lead-engineer-workflow-builder-dsl-at-highlevel-4353431272": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418485930": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418609070": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418608101": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418489852": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418486879": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418604228": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-aisle-and-abroad-4418605177": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/outreach-coordinator-at-medical-scholars-society-4418502144": 1,
     "https://www.linkedin.com/jobs/view/talent-attraction-events-coordinator-at-ams-4418520652": 1,
     "https://www.linkedin.com/jobs/view/scheduler-work-from-home-fully-remote-at-cleardesk-4416855201": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4419137866": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4419137866": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-jobgether-4418577168": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-jobgether-4418582086": 1,
+    "https://www.linkedin.com/jobs/view/ad-operations-executive-at-adsphire-media-llc-4417856226": 1,
+    "https://www.linkedin.com/jobs/view/saas-performance-marketing-executive-b2b-at-mg-4418577180": 1,
+    "https://www.linkedin.com/jobs/view/saas-performance-marketing-executive-b2b-at-mg-4418584066": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-consultant-at-autotrader-ca-4408906198": 1,
+    "https://www.linkedin.com/jobs/view/operations-assistant-marketing-coordinator-at-alcott-global-4419147479": 1,
+    "https://www.linkedin.com/jobs/view/social-media-coordinator-at-typeform-4416814857": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-smarkupp-studios-4418541831": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-outbound-at-kritikal-solutions-4418565382": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-adsynergix-4418576343": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-betterbizs-4416878905": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-mechon-international-4419806295": 1,
+    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-hackingly-4418560811": 1,
+    "https://www.linkedin.com/jobs/view/fundraising-direct-marketing-at-the-akshaya-patra-foundation-4418558555": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-27",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
