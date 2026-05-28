@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/production-worker-at-oldcastle-apg-4414824581": 1,
-    "https://www.linkedin.com/jobs/view/utility-person-yard-loader-operator-at-martin-marietta-4409424224": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4397619399": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-dhaka-bangladesh-at-speechify-4418657431": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-suno-4414848706": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-development-americas-united-states-remote-at-sequoia-capital-global-equities-4418627574": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-agilegrid-solutions-4418661126": 1,
-    "https://www.linkedin.com/jobs/view/project-manager-gtm-operations-at-zigsaw-4417557051": 1,
-    "https://www.linkedin.com/jobs/view/crm-operations-associate-at-fanduel-4361412869": 1,
-    "https://www.linkedin.com/jobs/view/team-lead-marketing-automation-in-product-marketing-all-genders-at-teamviewer-4400239178": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-%e2%80%93-seo-digital-marketing-solutions-at-digital-savvy-ai-%c2%ae-4414830979": 1,
-    "https://www.linkedin.com/jobs/view/field-outreach-and-referral-specialist-at-milestones-moments-4417575847": 1,
     "https://www.linkedin.com/jobs/view/field-outreach-and-referral-specialist-at-milestones-moments-4417566869": 1,
     "https://www.linkedin.com/jobs/view/field-officer-at-bharatiya-yuva-shakti-trust-byst-4418629753": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-at-u-s-vets-4405450733": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-at-attentive-4409909049": 1,
     "https://www.linkedin.com/jobs/view/key-account-executive-accounts-%2450-million-%241-billion-western-us-at-rithum-4419936199": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-avkin-4418829077": 1,
-    "https://www.linkedin.com/jobs/view/key-account-manager-at-cruise-tour-4418819922": 1
+    "https://www.linkedin.com/jobs/view/key-account-manager-at-cruise-tour-4418819922": 1,
+    "https://www.linkedin.com/jobs/view/administrador-a-y-operador-a-de-plataforma-microsoft-dynamics-365-crm-at-experience-it-solutions-4419822693": 1,
+    "https://www.linkedin.com/jobs/view/notion-consultant-at-parser-4419989009": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cloudeagle-ai-4418809435": 1,
+    "https://www.linkedin.com/jobs/view/jewelry-plating-engineer-at-kendra-scott-4415153523": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-fonio-ai-4417244424": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-operations-specialist-at-thoughtspot-4414249571": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-email-audience-and-enablement-at-snowflake-4419997323": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-campaign-operations-email-audience-and-enablement-at-snowflake-4419976873": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-operations-manager-at-pinnacle-4418584946": 1,
+    "https://www.linkedin.com/jobs/view/growth-specialist-at-leadhaste-4418869594": 1,
+    "https://www.linkedin.com/jobs/view/customer-sales-specialist-at-boldr-4418862706": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-au-telco-at-microsourcing-4389045291": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-28",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
