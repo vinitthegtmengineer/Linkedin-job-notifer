@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-receptionist-administrative-coordinator-at-remotehunter-4417847215": 1,
-    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4417841234": 1,
-    "https://www.linkedin.com/jobs/view/process-operator-at-economy-polymers-chemicals-4418679060": 1,
     "https://www.linkedin.com/jobs/view/treatment-plant-operator-i-wastewater-at-city-of-pearland-texas-4418679999": 1,
     "https://www.linkedin.com/jobs/view/systems-engineer-production-at-clio-4377987539": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-at-careerpass-in-4417850162": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sales-development-manager-at-punch%21-4420472141": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-dtc-performance-marketing-at-attn-agency-4419310065": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-strategy-operations-manager-at-fetch-4420618628": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-4419076412": 1
+    "https://www.linkedin.com/jobs/view/appointment-setter-4419076412": 1,
+    "https://www.linkedin.com/jobs/view/consulente-oro-fisico-da-investimento-at-helior-banco-metalli-golden-age-4417901085": 1,
+    "https://www.linkedin.com/jobs/view/consultor-experiencia-pedagogica-bil%c3%adngue-at-bernoulli-educa%c3%a7%c3%a3o-4420644294": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-internal-tools-automation-at-techunting-4419350804": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-28",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
