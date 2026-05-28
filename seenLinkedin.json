@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-first-resource-financial-corp-4418695154": 1,
-    "https://www.linkedin.com/jobs/view/data-and-operations-coordinator-at-caritas-australia-4407342993": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-iac-ai-4415505011": 1,
-    "https://www.linkedin.com/jobs/view/sales-closer-4417580460": 1,
     "https://www.linkedin.com/jobs/view/corporate-sales-executive-at-fibre-centre-4418654119": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-representative-ii-at-thermo-fisher-scientific-4407297704": 1,
     "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-aisle-and-abroad-4418680878": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/assistant-manager-social-media-%e2%80%93-cadillac-f1-lead-at-cadillac-4420615708": 1,
     "https://www.linkedin.com/jobs/view/inbound-sales-representative-i-at-transcat-4420611581": 1,
     "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-travel-planners-careers-in-travel-4420485020": 1,
-    "https://www.linkedin.com/jobs/view/booking-reservations-coordinator-remote-training-provided-at-aisles-and-abroad-4420247219": 1
+    "https://www.linkedin.com/jobs/view/booking-reservations-coordinator-remote-training-provided-at-aisles-and-abroad-4420247219": 1,
+    "https://www.linkedin.com/jobs/view/laborer-unskilled-at-granite-construction-4419333296": 1,
+    "https://www.linkedin.com/jobs/view/laborer-skilled-at-granite-construction-4419341274": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-travel-planners-careers-in-travel-4420466687": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-manager-at-punch%21-4420472141": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-28",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
