@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/demand-generation-lead-at-clients-blackbox-inc-4418962345": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-clients-blackbox-inc-4418978183": 1,
-    "https://www.linkedin.com/jobs/view/member-success-community-associate-at-heydelegate-4417881660": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4418202054": 1,
-    "https://www.linkedin.com/jobs/view/consulente-4418983202": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-khan-chacha-4417882835": 1,
-    "https://www.linkedin.com/jobs/view/senior-media-executive-at-m%2bc-saatchi-group-4418965133": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-midway-travel-4415221149": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-at-procter-gamble-4415212737": 1,
-    "https://www.linkedin.com/jobs/view/senior-inside-sales-representative-remote-at-revvity-4309659110": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-canonical-4286649014": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-inroom-media-4417886666": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4417886614": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4417895594": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-60712982846-at-somewhere-4420989985": 1,
     "https://www.linkedin.com/jobs/view/regional-sales-specialist-at-cogir-senior-living-4421205885": 1,
     "https://www.linkedin.com/jobs/view/calendar-specialist-at-lexitas-4417963810": 1,
-    "https://www.linkedin.com/jobs/view/rate-case-coordinator-at-thecorporate-4422034306": 1
+    "https://www.linkedin.com/jobs/view/rate-case-coordinator-at-thecorporate-4422034306": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-manager-at-ues-4421229415": 1,
+    "https://www.linkedin.com/jobs/view/mendix-developer-agent-builder-at-processa-business-process-automation-with-siemens-mendix-4422006754": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-starbridge-4421208721": 1,
+    "https://www.linkedin.com/jobs/view/sales-solutions-engineer-at-artie-4417978209": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%89%e3%80%91%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e7%b5%84%e7%b9%94%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e3%83%9e%e3%83%8d%e3%82%b8%e3%83%a1%e3%83%b3%e3%83%88%e5%8f%8a%e3%81%b3%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e6%a5%ad%e5%8b%99%ef%bc%8f%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af-at-fenrir-inc-4421206984": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-lead-funnel-at-asana-4417985024": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-advantage-powered-by-jmfa-4420973573": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-chestnut-health-company-4421202867": 1,
+    "https://www.linkedin.com/jobs/view/outreach-engagement-coordinator-at-lifetime-arts-4421222049": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-and-project-coordinator-at-talentally-4421214633": 1,
+    "https://www.linkedin.com/jobs/view/enrollment-specialist-at-insight-global-4422048511": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-29",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
