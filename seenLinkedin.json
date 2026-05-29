@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enrollment-specialist-at-aisle-and-abroad-4418967784": 1,
-    "https://www.linkedin.com/jobs/view/enrollment-specialist-at-aisle-and-abroad-4418962883": 1,
-    "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-hekma-4415245230": 1,
-    "https://www.linkedin.com/jobs/view/lider-t%c3%a9cnico-tunning-net-pl-sql-necess%c3%a1rio-conhecimento-em-operadoras-de-saude-at-nexmuv-tecnologia-4415249173": 1,
     "https://www.linkedin.com/jobs/view/senior-strategic-people-consultant-4418969858": 1,
     "https://www.linkedin.com/jobs/view/global-product-solutions-lead-search%2b-at-google-4418203338": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-at-airwallex-4339787613": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/cmt-technician-icc-inspector-at-atlas-4417154500": 1,
     "https://www.linkedin.com/jobs/view/director-sales-strategy-operations-at-marqeta-4421249077": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-media-at-the-coca-cola-company-4421256135": 1,
-    "https://www.linkedin.com/jobs/view/media-buyer-at-mohammad-aljasem-law-firm-legal-consulting-group-4417975792": 1
+    "https://www.linkedin.com/jobs/view/media-buyer-at-mohammad-aljasem-law-firm-legal-consulting-group-4417975792": 1,
+    "https://www.linkedin.com/jobs/view/outcome-customer-engineer-ii-google-cloud-platform-google-cloud-at-google-4422009377": 1,
+    "https://www.linkedin.com/jobs/view/associate-manager-campaigns-at-hanna-andersson-4421259155": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-manager-at-ambi-robotics-4421251667": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-remoteva-4420980751": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-29",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
