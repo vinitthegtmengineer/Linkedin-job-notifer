@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-at-shree-durga-syntex-pvt-ltd-4417831333": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-pericent-bpm-and-dms-software-p-limited-4417597655": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-lloyds-ventures-4417846161": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-argano-4376202658": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-temu-4415446533": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-smb-benelux-at-deel-4298620851": 1,
-    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-ai-at-liberate-4417829496": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-vaidyaratnam-4417537999": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-haystack-4414873377": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-campaigns-operations-growth-at-one-model-4417836448": 1,
-    "https://www.linkedin.com/jobs/view/workplace-solutions-sales-development-representative-at-jpmorganchase-4388233790": 1,
-    "https://www.linkedin.com/jobs/view/key-account-executive-accounts-%2450-million-%241-billion-central-us-at-rithum-4400587805": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-singapore-singapore-at-speechify-4418685603": 1,
     "https://www.linkedin.com/jobs/view/b2b-appointment-setter-at-cloud3-digital-4418699740": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-milan-italy-at-speechify-4418670927": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-sts-4419003333": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-global-programs-at-wiz-4417906163": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-eu-at-open-yc-w24-4420415020": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-emea-at-laravel-4420427865": 1
+    "https://www.linkedin.com/jobs/view/account-executive-emea-at-laravel-4420427865": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4337191081": 1,
+    "https://www.linkedin.com/jobs/view/%e5%8b%98%e5%af%9f%e5%ae%a4%e5%86%85%e5%9c%9f%e5%b7%a5%e8%af%95%e9%aa%8c%e5%91%98-at-%e5%9e%92%e7%9f%a5%e7%a7%91%e6%8a%80%e9%9b%86%e5%9b%a2%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4419399163": 1,
+    "https://www.linkedin.com/jobs/view/founding-engineer-%2b-equity-at-fast-growing-ai-automation-startup-at-jack-jill-4419372336": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-netrolynx-ai-4420649737": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-ugreen-group-limited-4420665842": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-mamba-marketing-4420488743": 1,
+    "https://www.linkedin.com/jobs/view/social-influencer-marketing-manager-at-oliver-the-brandtech-group-4409283067": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-numeral-4420675363": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-numeral-4420674419": 1,
+    "https://www.linkedin.com/jobs/view/offshore-sales-manager-at-people-prime-worldwide-4411973214": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-ll-noida-at-ebizon-4420681074": 1,
+    "https://www.linkedin.com/jobs/view/executive-assistant-operations-manager-at-sam-4420621013": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-29",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
