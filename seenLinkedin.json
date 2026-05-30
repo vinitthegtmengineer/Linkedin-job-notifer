@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-automation-expert%e2%80%8b-at-volvo-trucks-4419170052": 1,
-    "https://www.linkedin.com/jobs/view/full-time-virtual-assistant-remote-at-compound-group-4415287201": 1,
-    "https://www.linkedin.com/jobs/view/full-time-virtual-assistant-remote-at-compound-group-4415284571": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-data-queue-4415265841": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-at-swades-ai-4418230895": 1,
-    "https://www.linkedin.com/jobs/view/remote-operator-portpeople-at-jobster-4419177435": 1,
-    "https://www.linkedin.com/jobs/view/consulente-setter-at-italiani-in-germania-4417723376": 1,
-    "https://www.linkedin.com/jobs/view/senior-intacct-cre-consultant-at-gazelle-global-4415289568": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-product-designer-builder-at-eneba-4417020826": 1,
-    "https://www.linkedin.com/jobs/view/d2c-startup-builders-course-instructor-at-tutedude-4419190310": 1,
-    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ai-builder-at-covergo-insurtech-4415292665": 1,
-    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ai-builder-at-covergo-insurtech-4415286714": 1,
-    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ai-builder-at-covergo-insurtech-4416807144": 1,
     "https://www.linkedin.com/jobs/view/senior-detection-engineer-at-activecampaign-4369599673": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-neureality-4415298345": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-strider-4416293729": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/growth-associate-at-lyceum-4414145334": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-netskope-4411945501": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-ambi-robotics-4421254478": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-north-america-at-evaluagent%c2%ae-4422031995": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-north-america-at-evaluagent%c2%ae-4422031995": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-lab-technician-at-olsson-4390362351": 1,
+    "https://www.linkedin.com/jobs/view/principle-product-builder-at-falkster-ai-4422514748": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-reducto-4339044744": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-reducto-4338954885": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-fonoa-4305147772": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-post-sales-us-remote-west-coast-at-rudderstack-4316540626": 1,
+    "https://www.linkedin.com/jobs/view/manager-revenue-strategy-enablement-sg-sea-at-airwallex-4363235496": 1,
+    "https://www.linkedin.com/jobs/view/integrated-marketing-manager-at-24-seven-talent-4422046999": 1,
+    "https://www.linkedin.com/jobs/view/senior-creative-project-manager-at-mindbody-4417969838": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-marketing-at-brightstar-care-4422044827": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-senior-vice-president-operations-remote-at-tia-4345475466": 1,
+    "https://www.linkedin.com/jobs/view/provider-enrollment-specialist-philippines-remote-at-growthassistant-4421343822": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-microsourcing-4411390254": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-30",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
