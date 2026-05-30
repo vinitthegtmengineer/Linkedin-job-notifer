@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-sunnyvale-ca-usa-at-speechify-4418929081": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-chennai-india-at-speechify-4418936005": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-hyderabad-india-at-speechify-4418925145": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-productboard-4418998773": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4417939706": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-pursuit-4420975777": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-top-mobile-vision-4417926842": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-flowfi-4420956930": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-flowfi-4420956930": 1,
+    "https://www.linkedin.com/jobs/view/sdr-gtm-engineer-at-gloroots-ai-4420901832": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-30",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
