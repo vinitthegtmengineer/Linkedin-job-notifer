@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/school-outreach-telesales-executive-at-international-education-olympiads-4418246226": 1,
-    "https://www.linkedin.com/jobs/view/consultant-at-moh-doh-dha-career-portal-4419154035": 1,
-    "https://www.linkedin.com/jobs/view/murex-consultant-at-sni-4404816429": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-sequoia-capital-global-equities-4419153185": 1,
-    "https://www.linkedin.com/jobs/view/engineer-platform-operations-at-atmail-4418238548": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-the-freedom-geek-4418229425": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-demand-generation-manager-at-scout-global-4411152384": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-jobgether-4418231404": 1,
     "https://www.linkedin.com/jobs/view/marketing-growth-operations-specialist-at-seven-peaks-4418215603": 1,
     "https://www.linkedin.com/jobs/view/strategy-and-operations-manager-global-ads-and-commerce-marketing-at-google-4417885631": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-operations-associate-crm-junior-senior-at-bitkub-4413535250": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/client-onboarding-specialist-at-market-nexus-edge-4418313637": 1,
     "https://www.linkedin.com/jobs/view/field-experience-assistant-coordinator-at-walden-university-4412163406": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-uki-at-notion-4365383280": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-cleardesk-4417951921": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-cleardesk-4417951921": 1,
+    "https://www.linkedin.com/jobs/view/manager-resident-consultants-at-samsara-4412442348": 1,
+    "https://www.linkedin.com/jobs/view/remote-coverage-consultant-at-fbspl-4422007703": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91%e5%9c%b0%e6%96%b9%e5%89%b5%e7%94%9f%e4%ba%8b%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%89%e3%82%a2%e3%82%a6%e3%83%88%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4421207717": 1,
+    "https://www.linkedin.com/jobs/view/recommerce-consultant-at-tomorrow-4414766904": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91grc%e6%8e%a8%e9%80%b2%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88-at-%ef%bd%93%ef%bd%8f%ef%bd%8d%ef%bd%90%ef%bd%8f%e3%83%aa%e3%82%b9%e3%82%af%e3%83%9e%e3%83%8d%e3%82%b8%e3%83%a1%e3%83%b3%e3%83%88%ef%bc%88%e6%a0%aa%ef%bc%89-4421216232": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-vizient-inc-4422057498": 1,
+    "https://www.linkedin.com/jobs/view/general-laborer-at-rinker-materials-4371610334": 1,
+    "https://www.linkedin.com/jobs/view/email-campaign-manager-at-kimiyi-ai-4422520339": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-30",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
