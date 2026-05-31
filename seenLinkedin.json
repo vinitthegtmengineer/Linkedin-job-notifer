@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-velcor-ai-4418829133": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-confidential-4419988528": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-at-symphonyai-4419912483": 1,
-    "https://www.linkedin.com/jobs/view/cloud-native-sales-specialist-at-nutanix-4416919732": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%2b-equity-at-fast-growing-ai-automation-startup-at-jack-jill-4418800428": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-apron-4416884647": 1,
     "https://www.linkedin.com/jobs/view/senior-director-gtm-strategy-ai-automation-at-jobgether-4417210237": 1,
     "https://www.linkedin.com/jobs/view/global-channel-gtm-lead-at-nvidia-4418521927": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/co-founder-head-of-business-development-at-orvev-4422096284": 1,
     "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4421629489": 1,
     "https://www.linkedin.com/jobs/view/renewal-specialist-at-remotehunter-4422580785": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-joblet-ai-4421631165": 1
+    "https://www.linkedin.com/jobs/view/account-manager-at-joblet-ai-4421631165": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-czech-speaking-in-poland-at-keyence-corporation-4422565914": 1,
+    "https://www.linkedin.com/jobs/view/consultor-de-lojas-select-iii-at-ra%c3%adzen-4418700741": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-nextview-backed-sales-ai-startup-at-jack-jill-4422570768": 1,
+    "https://www.linkedin.com/jobs/view/chief-of-staff-at-onehouse-4362645937": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-lead-contract-at-welcomelend-4422587080": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-31",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
