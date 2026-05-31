@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/processing-operator-job-south-plant-at-oil-dri-corporation-of-america-4416837601": 1,
-    "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4416853900": 1,
-    "https://www.linkedin.com/jobs/view/inspector-i-at-ues-4419511190": 1,
-    "https://www.linkedin.com/jobs/view/yard-team-member-at-srm-concrete-4418523177": 1,
-    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4416473254": 1,
-    "https://www.linkedin.com/jobs/view/roof-set-at-clayton-4419557093": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-at-square-4401513772": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-director-at-castlight-health-4416831403": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-freelancer-at-deccan-ai-experts-4419472252": 1,
-    "https://www.linkedin.com/jobs/view/vp-strategic-marketing-at-tanger-4419433970": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-paymend-4416809267": 1,
-    "https://www.linkedin.com/jobs/view/commercial-account-executive-at-athena-4407007861": 1,
     "https://www.linkedin.com/jobs/view/sales-assistant-at-virtual-latinos-4419534801": 1,
     "https://www.linkedin.com/jobs/view/latam-sales-development-rep-at-ready-talent-4418515000": 1,
     "https://www.linkedin.com/jobs/view/junior-sales-development-representative-spain-remote-at-buddyfit-4419159368": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/outreach-executive-i-at-oak-street-health-part-of-cvs-health-4421303202": 1,
     "https://www.linkedin.com/jobs/view/social-worker-at-trax-road-safety-ngo-india-4401423536": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-central-california-at-national-university-4380224642": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-bgb-group-4421312206": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-bgb-group-4421312206": 1,
+    "https://www.linkedin.com/jobs/view/ejecutiva-prospecci%c3%b3n-clientes-consultora-chilena-headhunting-100%25-remoto-at-b2b-compass-consultora-comercial-4418366162": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-executive-at-trinetra-venture-india-private-limited-4418361559": 1,
+    "https://www.linkedin.com/jobs/view/media-buyer-at-marktro-digital-marketing-4421375313": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-tennisacademy-4418362482": 1,
+    "https://www.linkedin.com/jobs/view/outbound-account-executive-at-wing-assistant-4418351247": 1,
+    "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4421355613": 1,
+    "https://www.linkedin.com/jobs/view/b2b-marketing-generalist-at-kraftshala-4421399153": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-partner-at-desixports-4421370182": 1,
+    "https://www.linkedin.com/jobs/view/tele-calling-lead-conversion-at-national-olympiad-foundation-4418306584": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-4422532181": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-4422512578": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-31",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
