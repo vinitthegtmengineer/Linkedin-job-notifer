@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/presales-engineer-at-teamwork-com-4419948298": 1,
-    "https://www.linkedin.com/jobs/view/presales-specialist-at-teamwork-com-4418843305": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-stuut-4393947587": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%9d%b1%e4%ba%ac%ef%bc%9a%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%80%91ml%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-kauche-inc-4419949494": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-%2450m-series-b-a16z-and-yc-backed-b2b-fashion-marketplace-at-jack-jill-4418840637": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-mediaflow-4418841500": 1,
-    "https://www.linkedin.com/jobs/view/growth-hacker-at-cyberr%c2%ae-4418826802": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-at-the-ginger-people%c2%ae-ginger-people-group-4418825044": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-truff-4419954205": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-representative-advertising-at-rockbot-4412174467": 1,
     "https://www.linkedin.com/jobs/view/inbound-sales-representative-fully-remote-latam-at-meadow-memorials-4419512185": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/vice-president-of-customer-experience-at-aret%c3%a9-engineering-llc-4418395534": 1,
     "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4421614830": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-field-marketing-at-kaaiser-australian-education-4421613881": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-joblet-ai-4421621352": 1
+    "https://www.linkedin.com/jobs/view/account-manager-at-joblet-ai-4421621352": 1,
+    "https://www.linkedin.com/jobs/view/remote-vacation-consultant-at-dia-services-4422562916": 1,
+    "https://www.linkedin.com/jobs/view/agentic-engineer-at-twinnin-4421624517": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-confidential-careers-4422576665": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-patriot-insurance-group-4422565682": 1,
+    "https://www.linkedin.com/jobs/view/%d9%83%d8%a8%d9%8a%d8%b1-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-at-zyntra-digital-solutions-4414336903": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-specialist-at-international-academy-for-advanced-research-and-studies-iars-london-4418398569": 1,
+    "https://www.linkedin.com/jobs/view/retail-marketing-manager-at-beast-bites-4421235628": 1,
+    "https://www.linkedin.com/jobs/view/vice-president-global-market-operations-at-skroman-new-energy-4422581587": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-05-31",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
