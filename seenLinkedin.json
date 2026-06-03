@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-careerscape-4418337438": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-representative-at-ethicwise-ai-4421298764": 1,
-    "https://www.linkedin.com/jobs/view/alibaba-com-account-executive-%e2%80%94-us-local-supplier-at-alibaba-group-4411986078": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-buxton-4421315463": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-square-4400847751": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-square-4400857568": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-square-4400855597": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-square-4400858611": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-square-4400866479": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-night-shift-at-dennemeyer-4391548089": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-wing-assistant-4418331474": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-microsourcing-4371856153": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-we-are-legal-revolution-4414896466": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4424248541": 1,
     "https://www.linkedin.com/jobs/view/patient-outreach-specialist-at-octdaily-4424264509": 1,
     "https://www.linkedin.com/jobs/view/community-and-events-specialist-at-the-test-tribe-4423014478": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-temu-4424268405": 1
+    "https://www.linkedin.com/jobs/view/account-manager-at-temu-4424268405": 1,
+    "https://www.linkedin.com/jobs/view/document-support-operator-at-hall-wilcox-4419659462": 1,
+    "https://www.linkedin.com/jobs/view/consultor-a-en-convalidaci%c3%b3n-de-t%c3%adtulos-extranjeros-at-eadic-4423041202": 1,
+    "https://www.linkedin.com/jobs/view/tailings-technology-lead-at-wsp-in-canada-4420147447": 1,
+    "https://www.linkedin.com/jobs/view/tailings-technology-lead-at-wsp-in-canada-4420155015": 1,
+    "https://www.linkedin.com/jobs/view/outbound-campaign-manager-at-agi-media-4424264092": 1,
+    "https://www.linkedin.com/jobs/view/sr-content-marketing-manager-at-masterclass-4422965974": 1,
+    "https://www.linkedin.com/jobs/view/director-growth-marketing-at-jobgether-4424058250": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-at-360clean-complete-facility-care-4422951156": 1,
+    "https://www.linkedin.com/jobs/view/b2b-sales-specialist-at-salibo-4418759274": 1,
+    "https://www.linkedin.com/jobs/view/project-administrator-fulfillment-at-booth-4424054606": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-03",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
