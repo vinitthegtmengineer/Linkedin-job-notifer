@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-marketing-operations-ai-innovation-at-toast-4391955766": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-piper-maddox-4411731991": 1,
-    "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-hamilton-barnes-%f0%9f%8c%b3-4417951412": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4421314299": 1,
     "https://www.linkedin.com/jobs/view/meta-ads-executive-at-subyarth-craft-pvt-ltd-4422534164": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-prestige-pursuits-pvt-ltd-4422008179": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-at-360clean-complete-facility-care-4421266444": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/account-executive-at-eateasy-4419602279": 1,
     "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4419257351": 1,
     "https://www.linkedin.com/jobs/view/territory-account-executive-at-salesforce-4422335171": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4423894436": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4423894436": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-operator-at-ahmad-abdulla-ahli-advocates-and-legal-consultants-4419607443": 1,
+    "https://www.linkedin.com/jobs/view/gtm-operations-manager-at-giant-group-4422414712": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-monetization-at-fastly-4422643560": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-avua-4422654866": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-03",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
