@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-solution-engineer-at-freshworks-4403554612": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-at-talentpluto-4421620899": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-lead-%24120k-%24150k-%2b-0-20%25-0-40%25-equity-at-a-confidential-company-yc-backed-ai-browser-workforce-at-jack-jill-4422575749": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-operations-senior-associate-product-gtm-at-google-4390980073": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-operations-associate-gtm-at-google-4402397799": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategist-at-capsule-ai-4422579893": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-agilegrid-solutions-4421645673": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hire-feed-4421638444": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/inbound-sales-rep-us-home-services-at-emma-of-torre-ai-4423537957": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-specialist-at-unitxt-pro-4424366786": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-associate-at-magicindi-4424223588": 1,
-    "https://www.linkedin.com/jobs/view/talent-agency-coordinator-at-artist-brand-management-4424272785": 1
+    "https://www.linkedin.com/jobs/view/talent-agency-coordinator-at-artist-brand-management-4424272785": 1,
+    "https://www.linkedin.com/jobs/view/cmt-field-testing-technician-at-ues-4424129440": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-consultant-commerce-at-hopper-4424499183": 1,
+    "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4420787087": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-%2450m-series-b-a16z-and-yc-backed-b2b-fashion-marketplace-at-jack-jill-4424483872": 1,
+    "https://www.linkedin.com/jobs/view/growth-hacker-ai-first-at-enterprise-influencer-marketing-platform-at-jack-jill-4424481788": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-05",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
