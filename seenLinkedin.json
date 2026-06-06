@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/active-directory-operations-engineer-at-exalto-consulting-4422348412": 1,
-    "https://www.linkedin.com/jobs/view/%e8%a7%86%e9%a2%91%e4%bc%9a%e8%ae%ae%e8%bf%90%e7%bb%b4%e5%b7%a5%e7%a8%8b%e5%b8%88-at-%e6%b7%b1%e5%9c%b3%e5%b8%82%e5%b1%b1%e5%ba%b7%e7%94%b5%e5%ad%90%e6%8a%80%e6%9c%af%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4423838845": 1,
-    "https://www.linkedin.com/jobs/view/cyberark-operations-engineer-at-exalto-consulting-4422349347": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-diver-at-kci-4363415965": 1,
-    "https://www.linkedin.com/jobs/view/side-project-ai-engineer-remote-at-hire-feed-4422323372": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-confidential-4421894857": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-metering-at-mindlance-4422136497": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%82%b7%e3%83%8b%e3%82%a2qa%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e3%80%91qa%e6%88%a6%e7%95%a5%e7%ad%96%e5%ae%9a%e5%ae%9f%e8%a1%8c%ef%bc%8f%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9%e6%94%b9%e5%96%84%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9%ef%bc%8f%e3%83%95%e3%83%ab%e3%83%95%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%betrailblazer-4421888783": 1,
-    "https://www.linkedin.com/jobs/view/content-marketing-executive-at-imagine-learning-4422870434": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-industrial-technology-at-huzzle-com-4421812482": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-tech-saas-at-huzzle-com-4422336007": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-at-shambhavi-synth%c3%a9-4423778500": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-identixweb-limited-4419239589": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-manager-at-betterbizs-4422305823": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-at-magicfunnel-4423213323": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-geo-technology-associates-inc-gta-4393203385": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-geo-technology-associates-inc-gta-4392984997": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-executive-at-amari-4424647910": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-dropdash-4421518831": 1,
     "https://www.linkedin.com/jobs/view/executive-sales-representative-at-echt-ventures-4421145695": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-hevo-data-4421147644": 1
+    "https://www.linkedin.com/jobs/view/senior-account-executive-at-hevo-data-4421147644": 1,
+    "https://www.linkedin.com/jobs/view/social-media-operator-%e2%80%93-performance-marketing-meta-focus-at-hotsourced-4411865734": 1,
+    "https://www.linkedin.com/jobs/view/product-go-to-market-gtm-lead-at-sentilink-4406106712": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-manager-at-evenup-4383971032": 1,
+    "https://www.linkedin.com/jobs/view/director-category-growth-general-manager-at-stockx-4404435301": 1,
+    "https://www.linkedin.com/jobs/view/tiktok-shop-growth-manager-at-levels-4421197070": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-freetime-hospitality-india-4424571563": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-magolitica-4421149805": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-toronto-at-planhat-4424974791": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-eso-4424593374": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-marcus-evans-group-4386524961": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-accordible-4421567224": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-growth-marketing-upto-7-lpa-at-tag-ingredients-india-pvt-ltd-4424666869": 1,
+    "https://www.linkedin.com/jobs/view/startup-corporate-outreach-manager-at-nxtwave-4424669782": 1,
+    "https://www.linkedin.com/jobs/view/client-acquisition-at-washmart-4424659865": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
