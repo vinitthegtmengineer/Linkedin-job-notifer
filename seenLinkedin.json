@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-manager-applied-field-engineering-ai-ml-product-specialist-at-snowflake-4422313679": 1,
-    "https://www.linkedin.com/jobs/view/shopify-engineer-remote-work-at-bairesdev-4422891808": 1,
-    "https://www.linkedin.com/jobs/view/llm-fine-tuning-engineer-at-bright-vision-technologies-4422193452": 1,
-    "https://www.linkedin.com/jobs/view/sr-kubernetes-engineer-at-hays-4422102705": 1,
-    "https://www.linkedin.com/jobs/view/mlops-engineer-at-silversearch-inc-4415125531": 1,
-    "https://www.linkedin.com/jobs/view/ocs-charging-engineer-at-webbing-4413047903": 1,
-    "https://www.linkedin.com/jobs/view/sr-m365-engineer-at-leidos-4419232054": 1,
-    "https://www.linkedin.com/jobs/view/senior-roku-engineer-at-kake-4423221429": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-clay-4267973872": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-process-engineer-at-remotehunter-4423904167": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-united-consulting-hub-4422126348": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-franchises-at-pilot-com-4400277690": 1,
-    "https://www.linkedin.com/jobs/view/junior-marketing-executive-at-growth-onomics-performance-marketing-agency-4419297433": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-desk-masters-ltd-4414202160": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-veriforce-4403663996": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-finch-4423211952": 1,
     "https://www.linkedin.com/jobs/view/b2b-cold-caller-at-gushwork-4423899969": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-mongodb-4395395331": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4421174908": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-cleardesk-4421175877": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-canto-4405808303": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-canto-4405808303": 1,
+    "https://www.linkedin.com/jobs/view/engineering-scientific-technician-at-schnabel-engineering-4397554627": 1,
+    "https://www.linkedin.com/jobs/view/demo-engineer-at-cresta-4415804492": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-specialist-at-asana-4373713755": 1,
+    "https://www.linkedin.com/jobs/view/group-product-manager-growth-crm-at-mindbody-4372600666": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-sales-at-amylyx-pharmaceuticals-4415378934": 1,
+    "https://www.linkedin.com/jobs/view/brand-campaigns-manager-at-maintainx-4415506345": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-commerce-officer-at-jobgether-4424663960": 1,
+    "https://www.linkedin.com/jobs/view/smb-sales-specialist-outbound-mindbody-at-mindbody-4396758450": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-at-bay-4405019994": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-conversion-lab-4424761905": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-specialist-remote-at-prism-data-consulting-4424660532": 1,
+    "https://www.linkedin.com/jobs/view/administrative-coordinator-us-remote-at-amgen-4425109894": 1,
+    "https://www.linkedin.com/jobs/view/provider-enrollment-specialist-anchorage-ak-remote-at-gainwell-technologies-4421196244": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-m3-communications-4424665752": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
