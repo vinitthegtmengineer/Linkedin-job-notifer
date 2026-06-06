@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lpg-engineer-at-avantigas-4422446487": 1,
-    "https://www.linkedin.com/jobs/view/lpg-engineer-at-avantigas-4422430539": 1,
-    "https://www.linkedin.com/jobs/view/claude-engineer-at-alined-consulting-group-4419466292": 1,
     "https://www.linkedin.com/jobs/view/remote-rust-engineer-at-turing-4422438584": 1,
     "https://www.linkedin.com/jobs/view/deployed-engineer-salt-lake-city-at-langchain-4403910461": 1,
     "https://www.linkedin.com/jobs/view/engineer-senior-engineer-perception-capabilities-at-motional-4395578092": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/data-entry-specialist-remote-at-prism-data-consulting-4424668473": 1,
     "https://www.linkedin.com/jobs/view/data-entry-specialist-remote-at-prism-data-consulting-4424668467": 1,
     "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4424679446": 1,
-    "https://www.linkedin.com/jobs/view/remote-support-associate-at-talentoma-4424674471": 1
+    "https://www.linkedin.com/jobs/view/remote-support-associate-at-talentoma-4424674471": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-yc-f25-real-time-web-intelligence-api-at-jack-jill-4424671909": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaigns-manager-at-akkodis-4424695204": 1,
+    "https://www.linkedin.com/jobs/view/growth-strategist-at-without%c2%ae-4421517793": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
