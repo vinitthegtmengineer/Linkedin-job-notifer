@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-crm-expert-at-gap-international-4419425610": 1,
-    "https://www.linkedin.com/jobs/view/regional-director-k12-academic-partnerships-at-dreamscape-learn-4422128987": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-sdr-at-metaseries-4418787368": 1,
-    "https://www.linkedin.com/jobs/view/telesales-agent-4418794523": 1,
-    "https://www.linkedin.com/jobs/view/cold-caller-at-blue-star-manufacturing-pvt-limited-4418784383": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-growth-partners-4422103340": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-rep-cold-caller-at-mna-transport-logistics-llc-4418758146": 1,
-    "https://www.linkedin.com/jobs/view/sales-specialist-at-blueedge-digital-marketing-agency-4418758304": 1,
-    "https://www.linkedin.com/jobs/view/remote-business-development-representative-at-task-buddie-virtual-assistance-services-4418782738": 1,
     "https://www.linkedin.com/jobs/view/executive-director-k12-academic-partnerships-at-dreamscape-learn-4422128914": 1,
     "https://www.linkedin.com/jobs/view/solutions-services-executive-global-accounts-at-lenovo-4413027629": 1,
     "https://www.linkedin.com/jobs/view/account-manager-ai-trainer-%24100-hour-at-linkedin-4423278287": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-the-gti-group-4421191517": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-au-d%c3%a9veloppement-des-ventes-sdr-at-billdr-4424927318": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-enterprise-outbound-at-soti-4414923279": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-minds-task-technologies-4424555509": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-minds-task-technologies-4424555509": 1,
+    "https://www.linkedin.com/jobs/view/ai-ops-manager-builder-%e2%80%94-part-time-colombia-or-mexico-at-bijou-getaways-4424646259": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-brands-influencer-latam-remote-at-selkirk-sport-we-are-pickleball-4414903799": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4421178150": 1,
+    "https://www.linkedin.com/jobs/view/community-engagement-research-assistant-job-1362-at-dlh-corporation-4424739493": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-executive-at-greyorange-4421149881": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-kdci-outsourcing-4424495626": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-fps-innovation-labs-4424577399": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-palexy-4424566169": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-payhawk-4404838040": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
