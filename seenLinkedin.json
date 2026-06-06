@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/national-account-manager-foodservice-at-principle-4422355564": 1,
-    "https://www.linkedin.com/jobs/view/remote-candidate-marketing-specialist-at-executive-career-partners-4423987470": 1,
-    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-hightouch-4422623021": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-lity-4422426590": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-specialist-at-nuclio-talent-4419607078": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-getcarl-4422410370": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-ai-revenue-automation-lead-at-wowist-4422439596": 1,
     "https://www.linkedin.com/jobs/view/head-of-gtm-operations-americas-at-mendix-4419636358": 1,
     "https://www.linkedin.com/jobs/view/quick-commerce-ads-executive-at-beyond-border-consultants-4423906157": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-at-m-s-services-4423919133": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-marc-jacobs-4406107992": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representatives-night-shift-%e2%80%93-office-based-at-bpo-impact-4421548792": 1,
     "https://www.linkedin.com/jobs/view/data-entry-at-fetchjobs-co-4424690488": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-saas-20%25-growth-at-sales-talent-inc-4424624160": 1
+    "https://www.linkedin.com/jobs/view/account-executive-saas-20%25-growth-at-sales-talent-inc-4424624160": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-fully-remote-upto-%2485-hr-part-time-at-mercor-4424958939": 1,
+    "https://www.linkedin.com/jobs/view/ai-infrastructure-operations-engineer-at-private-health-management-4421198494": 1,
+    "https://www.linkedin.com/jobs/view/developer-engineer-intern-remote-entry-level-cloud-operations-deployment-systems-infrastructure-automation-at-inficore-soft-4424684082": 1,
+    "https://www.linkedin.com/jobs/view/sales-team-leader-remote-at-rem-waste-management-4424982851": 1,
+    "https://www.linkedin.com/jobs/view/call-agent-at-atshomebuyer-4421535042": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-specialist-bangalore-at-lenovo-4394214797": 1,
+    "https://www.linkedin.com/jobs/view/field-account-manager-nyc-at-classpass-4421512081": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
