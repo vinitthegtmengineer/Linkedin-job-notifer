@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/amazon-operator-at-profitzon-4419217032": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-geotechnical-at-colliers-engineering-design-4423288291": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-field-technician-2-at-atlas-4423270479": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-contract-part-time-at-medbridge-4423272483": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-founding-hire-%e2%80%94-m-f-d-at-valueworks-ai-4418728398": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-%2450m-series-b-a16z-and-yc-backed-b2b-fashion-marketplace-at-jack-jill-4422879616": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-growth-at-navan-4412390461": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-bambuser-4422110450": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-synthflow-ai-4409883605": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-sourcestack-group-4418762642": 1,
-    "https://www.linkedin.com/jobs/view/marketing-engineer-at-samba-tv-4422134549": 1,
-    "https://www.linkedin.com/jobs/view/founding-revops-at-composio-4421899944": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-nextview-backed-sales-ai-startup-at-jack-jill-4423268251": 1,
-    "https://www.linkedin.com/jobs/view/external-job-post-at-notion-4422140074": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-crm-expert-at-gap-international-4419425610": 1,
     "https://www.linkedin.com/jobs/view/regional-director-k12-academic-partnerships-at-dreamscape-learn-4422128987": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-sdr-at-metaseries-4418787368": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/district-account-manager-at-johnson-johnson-medtech-4405238237": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-thomson-reuters-4424552995": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-uk-at-coreview-4424188005": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cosmos-ai-4424759437": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cosmos-ai-4424759437": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-operator-at-atelia-4167236666": 1,
+    "https://www.linkedin.com/jobs/view/ai-ecosystem-builder-at-emma-of-torre-ai-4424782569": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-instagram-reels-growth-strategist-at-buzzybooth-4421177924": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-instagram-reels-growth-strategist-at-buzzybooth-4421183842": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-development-representative-at-bonterra-4421509043": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-brainstation-4424926306": 1,
+    "https://www.linkedin.com/jobs/view/expression-of-interest-sales-development-representative-at-darktrace-4414691077": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-quadient-4424923368": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-development-representative-at-lightspeed-commerce-4402823905": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-toronto-at-owner-com-4412417171": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-the-gti-group-4421191517": 1,
+    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-au-d%c3%a9veloppement-des-ventes-sdr-at-billdr-4424927318": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-enterprise-outbound-at-soti-4414923279": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-minds-task-technologies-4424555509": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-06",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
