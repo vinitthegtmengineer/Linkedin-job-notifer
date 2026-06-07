@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/virtual-assistant-hn-at-core-code-io-4424279363": 1,
-    "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4424070641": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-cr-at-core-code-io-4424286270": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-trapeze-group-4409944280": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-geo-technology-associates-inc-gta-4392996715": 1,
     "https://www.linkedin.com/jobs/view/underwriter-%e2%80%93-inland-marine-builders-risk-at-polikov-recruitment-solutions-4418505345": 1,
     "https://www.linkedin.com/jobs/view/growth-gtm-operations-lead-at-pricing-hub-4419282443": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-yourprime-4413630046": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4425412374": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-we%e2%80%99re-hiring-remote-appointment-setter-high-ticket-coaching-offers-at-bootcamp-mentoring-4425415368": 1,
     "https://www.linkedin.com/jobs/view/executive-%e2%80%93-corporate-sponsorship-at-eduskills-foundation%c2%ae-4425036315": 1,
-    "https://www.linkedin.com/jobs/view/tele-call-at-eduland-immigration-pvt-ltd-4425020677": 1
+    "https://www.linkedin.com/jobs/view/tele-call-at-eduland-immigration-pvt-ltd-4425020677": 1,
+    "https://www.linkedin.com/jobs/view/head-of-growth-at-genpire-4421116608": 1,
+    "https://www.linkedin.com/jobs/view/marketing-automation-manager-at-agilina-4425060012": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-account-management-at-motive-4159643496": 1,
+    "https://www.linkedin.com/jobs/view/mid-market-bdr-at-doctustech-4425023322": 1,
+    "https://www.linkedin.com/jobs/view/off-plan-lead-generation-specialist-at-rhk-properties-4425035226": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-07",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
