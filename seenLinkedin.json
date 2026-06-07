@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-gusher-4422411121": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-canadian-firm-tj-1837306-at-agay-barho%21-4422394573": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-instagram-growth-accessories-at-twine-4419272319": 1,
-    "https://www.linkedin.com/jobs/view/ai-campaign-manager-growth-marketing-programs-at-altify-4422494894": 1,
-    "https://www.linkedin.com/jobs/view/brand-marketing-manager-at-markerstudy-group-4419286476": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-kaleo-design-llc-4422376329": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-top-recruit-4422468691": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-simplepractice-4422456196": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-campaigns-manager-at-pilot-com-4423985384": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/buisnes-development-at-el-bharat-4424689694": 1,
     "https://www.linkedin.com/jobs/view/gtm-pilot-growth-lead-construction-ai-saas-at-fse-research-and-investments-4424693137": 1,
     "https://www.linkedin.com/jobs/view/account-executive-google-customer-solutions-at-google-4403757718": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-dci-nordics-at-doit-4382733137": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-dci-nordics-at-doit-4382733137": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-venture-backed-enterprise-candidate-engagement-platform-at-jack-jill-4424684850": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-thrive-capital-backed-enterprise-ai-startup-at-jack-jill-4424671912": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-product-canada-at-jobgether-4425005394": 1,
+    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pandadoc-4405853280": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-at-ismartrecruit-4424694794": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hired-4425168554": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-07",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
