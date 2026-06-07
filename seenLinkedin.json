@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-remotepass-4423043721": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-ii-mid-market-at-apollo-io-4413588764": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%e3%80%91%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e8%87%aa%e7%a4%be%e9%96%8b%e7%99%basaas%e3%81%ae%e9%81%8b%e7%94%a8%e6%94%b9%e5%96%84%e3%83%bb%e5%9f%ba%e7%9b%a4%e6%a7%8b%e7%af%89%ef%bc%8faws%e7%b5%8c%e9%a8%93%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%aa%e3%83%97%e3%83%ad-4423011996": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-drmtlgy-4423004326": 1,
-    "https://www.linkedin.com/jobs/view/sr-marketing-manager-at-two-ten-footwear-foundation-4410761059": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-and-performance-at-sgs-4420217262": 1,
-    "https://www.linkedin.com/jobs/view/senior-resourcing-lead-creative-operations-at-airbnb-4423023422": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-nlb-services-4424237102": 1,
-    "https://www.linkedin.com/jobs/view/junior-account-executive-closing-adr-b2b-saas-remote-at-whistle-4424206609": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-veteran-hiring-solutions-4392934508": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-us-smb-at-sprinto-4424213390": 1,
     "https://www.linkedin.com/jobs/view/it-account-executive-part-time-us-msp-solutions-wfh-at-connectos-4424021518": 1,
     "https://www.linkedin.com/jobs/view/account-executive-commercial-at-samsara-4175899536": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-deepgram-4267336140": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/self-closer-digital-marketing-at-the-nevon-4421912289": 1,
     "https://www.linkedin.com/jobs/view/b2b-busines-development-executive-at-aavishkarit-4421908278": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-radiance-growth-4425051061": 1,
-    "https://www.linkedin.com/jobs/view/creator-relationship-executive-at-chatspark-4425071028": 1
+    "https://www.linkedin.com/jobs/view/creator-relationship-executive-at-chatspark-4425071028": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-air-apps-4425198607": 1,
+    "https://www.linkedin.com/jobs/view/marketing-technology-solutions-lead-at-rakuten-kobo-inc-4385813309": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-docusign-4394201028": 1,
+    "https://www.linkedin.com/jobs/view/admissions-crm-operations-specialist-at-ssa-group-4356552635": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-docusign-4394201029": 1,
+    "https://www.linkedin.com/jobs/view/sales-coordinator-at-outdoor-fit-4425408043": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-assistant-at-remotehunter-4425405421": 1,
+    "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-remotehunter-4425422313": 1,
+    "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4425402450": 1,
+    "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4425418321": 1,
+    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4425402425": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-07",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
