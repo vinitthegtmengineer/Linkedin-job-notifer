@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4420199062": 1,
-    "https://www.linkedin.com/jobs/view/consultant-vae-h-f-at-comp%c3%a9tences-et-m%c3%a9tiers-4422912277": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-granum-4423092820": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-builder-%e2%80%94-automation-agent-development-at-seamless-assist-4424288689": 1,
-    "https://www.linkedin.com/jobs/view/engineer-platform-operations-at-atmail-4418238548": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-partner-growth-sales-operations-at-ivision-4420169401": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-nabu-casa-4423309226": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-at-octave-4410198551": 1,
-    "https://www.linkedin.com/jobs/view/amazon-advertising-strategist-at-lago-4424262097": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-toronto-remote-at-war-room-4422677610": 1,
-    "https://www.linkedin.com/jobs/view/centre-of-excellence-manager-%e2%80%93-marketing-automation-at-contact-energy-ltd-4423048846": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-sell-then-stay-az-4414755011": 1,
     "https://www.linkedin.com/jobs/view/community-campaign-manager-%e2%80%93-energy-nuts-m-w-d-at-ovi-4422963949": 1,
     "https://www.linkedin.com/jobs/view/digital-advertising-brand-manager-at-uniquely-digital-4424271259": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-metlife-4424251755": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/growth-operations-associate-at-sleepalfa-4425041157": 1,
     "https://www.linkedin.com/jobs/view/abm-lead-ai-b2b-saas-at-your-hrm-expert-4425047098": 1,
     "https://www.linkedin.com/jobs/view/telecalling-executive-at-reliance-nippon-life-insurance-4425051141": 1,
-    "https://www.linkedin.com/jobs/view/team-coordinator-at-pnb-metlife-india-insurance-co-ltd-4425050125": 1
+    "https://www.linkedin.com/jobs/view/team-coordinator-at-pnb-metlife-india-insurance-co-ltd-4425050125": 1,
+    "https://www.linkedin.com/jobs/view/underwriter-%e2%80%93-inland-marine-builders-risk-at-polikov-recruitment-solutions-4418505345": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4425411554": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4425405620": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4425406613": 1,
+    "https://www.linkedin.com/jobs/view/computational-engineering-specialist-remote-at-hire-feed-4425191226": 1,
+    "https://www.linkedin.com/jobs/view/llm-engineer-remote-at-hire-feed-4425184557": 1,
+    "https://www.linkedin.com/jobs/view/senior-data-engineering-at-trinca-4425014890": 1,
+    "https://www.linkedin.com/jobs/view/devsecops-engineer-at-naveera-tech-4424675738": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-college-graduates-welcomed-to-apply-at-jpglobal-4425048118": 1,
+    "https://www.linkedin.com/jobs/view/salesperson-at-replyquik-4425419604": 1,
+    "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4425415384": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-jobright-ai-4425059085": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-07",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
