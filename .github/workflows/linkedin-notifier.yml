@@ -32,7 +32,7 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           GROUP_ID: ${{ secrets.GROUP_ID }}
-          MAX_ALERTS_PER_CYCLE: "5"
+          MAX_ALERTS_PER_CYCLE: "50"
           MAX_POST_AGE_HOURS: "24"
           REQUIRE_REMOTE: "0"
           STARTUP_PING: "0"
