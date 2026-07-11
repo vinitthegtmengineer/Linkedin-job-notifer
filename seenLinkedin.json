@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sdr-at-zota-4427508646": 1,
-    "https://www.linkedin.com/jobs/view/otc-sales-development-representative-at-btse-4369452337": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-japan-at-glean-4407658078": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-persona-ly-4437121188": 1,
-    "https://www.linkedin.com/jobs/view/outbound-lead-generation-specialist-at-elspec-engineering-ltd-4433798221": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-europe-at-giskard-4437100248": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-europe-at-giskard-4436986758": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-europe-at-giskard-4436991600": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-europe-at-giskard-4437105092": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-representative-tv-marketing-%7e%24200k%2b-ote-inbound-remote-at-inside-success-tv-network-4436976719": 1,
     "https://www.linkedin.com/jobs/view/inbound-sales-representative-tv-marketing-%7e%24200k%2b-ote-inbound-remote-at-inside-success-tv-network-4436972829": 1,
     "https://www.linkedin.com/jobs/view/telesales-specialist-b2b-b2c-at-york-towers-4436037377": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-hypertrain-ai-4436042523": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sr-gtm-operations-manager-marketing-at-pendo-io-4439373559": 1,
     "https://www.linkedin.com/jobs/view/lead-campaign-operations-at-trimble-inc-4439094897": 1,
     "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-assistant-admin-at-recruitlytixs-hirings-4439005169": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-codevertex-careers-4436621389": 1
+    "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-codevertex-careers-4436621389": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-testing-technician-at-tiptopjob-4439509063": 1,
+    "https://www.linkedin.com/jobs/view/scientist-at-laticrete-international-4419925741": 1,
+    "https://www.linkedin.com/jobs/view/remote-ai-go-to-market-engineer-at-val-s-services-4439393152": 1,
+    "https://www.linkedin.com/jobs/view/remote-go-to-market-engineer-at-rg-t-solutions-4438368892": 1,
+    "https://www.linkedin.com/jobs/view/analytics-engineering-at-packback-4439373089": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4438397108": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-b2b-outbound-lead-generation-specialist-at-hasamedia-io-4436638277": 1,
+    "https://www.linkedin.com/jobs/view/cold-outreach-specialist-lead-generation-appointment-setting-at-croncore-4436637434": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-pursuit-4431934891": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-careerscape-4435950388": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2482,13 +2482,14 @@
     "gtm engineer|||livtech": "2026-07-10T21:19:42.586Z",
     "growth marketing manager|||wit": "2026-07-10T21:19:44.081Z",
     "gtm ai engineer|||customer.io": "2026-07-10T23:32:18.837Z",
-    "gtm operations manager- marketing|||pendo.io": "2026-07-10T23:32:20.318Z"
+    "gtm operations manager- marketing|||pendo.io": "2026-07-10T23:32:20.318Z",
+    "ai go-to-market engineer|||val's services": "2026-07-11T01:05:16.882Z"
   },
   "stats": {
-    "date": "2026-07-10",
-    "cyclesToday": 11,
-    "matchedToday": 21,
-    "sentToday": 21,
+    "date": "2026-07-11",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
