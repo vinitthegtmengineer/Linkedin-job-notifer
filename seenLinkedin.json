@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/builder-pm-product-manager-%c3%97-ai-at-mvst-4438277410": 1,
-    "https://www.linkedin.com/jobs/view/creative-producer-founding-builder-opportunity-at-apptrip-ventures-private-limited-4437017008": 1,
-    "https://www.linkedin.com/jobs/view/builders-risk-construction-director-at-cwa-recruiting-4438264871": 1,
-    "https://www.linkedin.com/jobs/view/workflow-builder-at-nscale-4410581859": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-co-builder-at-infleuince-4436863396": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-at-motion-recruitment-4438258352": 1,
-    "https://www.linkedin.com/jobs/view/software-development-engineer-iii-backend-builder-at-highlevel-4408417338": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-dovetail-4434820381": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-revin-4403269326": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-pre-and-post-sales-smb-at-attio-4429702160": 1,
     "https://www.linkedin.com/jobs/view/customer-success-engineer-at-walkme-4438275484": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-specialist-4439104312": 1,
     "https://www.linkedin.com/jobs/view/communications-outreach-officer-at-talentia-4439105269": 1,
     "https://www.linkedin.com/jobs/view/communications-and-outreach-officer-at-talentia-4437215887": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-patientnow-4422011732": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-patientnow-4422011732": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371147012": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-consumer-growth-marketing-at-yelp-4411904950": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-nousu-4439102646": 1,
+    "https://www.linkedin.com/jobs/view/telecaller-at-bk-nexora-tech-4437212713": 1,
+    "https://www.linkedin.com/jobs/view/executive-sales-representative-at-sendissa-transportation-4437214962": 1,
+    "https://www.linkedin.com/jobs/view/remote-inside-sales-representative-at-primops-4438998768": 1,
+    "https://www.linkedin.com/jobs/view/remote-sales-development-representative-sdr-at-primops-4439110077": 1,
+    "https://www.linkedin.com/jobs/view/call-center-telemarketer-at-utility-concepts-business-solutions-ltd-ucbs-4439750441": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2520,7 +2520,7 @@
   },
   "stats": {
     "date": "2026-07-12",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
