@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/inspector-i-at-ues-4419511190": 1,
-    "https://www.linkedin.com/jobs/view/2nd-shift-general-labor-plant-team-at-work-at-county-4434809867": 1,
-    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-google-4428035757": 1,
-    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-google-4428030787": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-the-cypress-group-4437827583": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-monumint-4437058106": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-east-at-datadog-4414276964": 1,
-    "https://www.linkedin.com/jobs/view/channel-solutions-engineer-south-at-netskope-4429725245": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-f-m-d-at-osapiens-4410031654": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-workiz-4438190045": 1,
     "https://www.linkedin.com/jobs/view/growth-associate-at-lyceum-4437022583": 1,
     "https://www.linkedin.com/jobs/view/growth-associate-at-layla-ai-travel-agent-4434545270": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/ngo-field-executive-mumbai-only-at-paranubhuti-foundation-4438977582": 1,
     "https://www.linkedin.com/jobs/view/account-executive-4437232019": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-mavericks-education-4435206541": 1,
-    "https://www.linkedin.com/jobs/view/silvus-international-inside-sales-representative-philippines-at-motorola-solutions-4402911083": 1
+    "https://www.linkedin.com/jobs/view/silvus-international-inside-sales-representative-philippines-at-motorola-solutions-4402911083": 1,
+    "https://www.linkedin.com/jobs/view/crm-retention-executive-at-sevora-4438995604": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-demand-planning-at-meyer-4411962012": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-sales-outreach-va-at-onlinejobs-ph-4438995707": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-at-core-main-4342655857": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-at-cascades-4412198816": 1,
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-executive-4439708751": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-lorimer-ventures-4437230135": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-the-alvoria-4437218671": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-sales-executive-at-lrn-4384484700": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2517,7 +2517,7 @@
   },
   "stats": {
     "date": "2026-07-12",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
