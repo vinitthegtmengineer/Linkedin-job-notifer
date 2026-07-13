@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-revin-4403269326": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-and-post-sales-smb-at-attio-4429702160": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-engineer-at-walkme-4438275484": 1,
-    "https://www.linkedin.com/jobs/view/staff-gtm-engineer-at-buildkite-4437067373": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4437046796": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-workiz-4438116194": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-fleek-at-jack-jill-4437044952": 1,
-    "https://www.linkedin.com/jobs/view/growth-ops-h-f-at-gekko-group-4438236930": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-mid-senior-revenue-operations-at-nexos-ai-4438234538": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-lead-at-inworld-ai-4425879048": 1,
-    "https://www.linkedin.com/jobs/view/alliance-manager-microsoft-at-gong-4427057179": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4437050632": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-hirekul-4438215410": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-uniqoe-media-4436895792": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-international-markets-at-lenskart-com-4434835675": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/executive-sales-representative-at-sendissa-transportation-4437214962": 1,
     "https://www.linkedin.com/jobs/view/remote-inside-sales-representative-at-primops-4438998768": 1,
     "https://www.linkedin.com/jobs/view/remote-sales-development-representative-sdr-at-primops-4439110077": 1,
-    "https://www.linkedin.com/jobs/view/call-center-telemarketer-at-utility-concepts-business-solutions-ltd-ucbs-4439750441": 1
+    "https://www.linkedin.com/jobs/view/call-center-telemarketer-at-utility-concepts-business-solutions-ltd-ucbs-4439750441": 1,
+    "https://www.linkedin.com/jobs/view/outbound-growth-manager-at-talently-4435328533": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4438992771": 1,
+    "https://www.linkedin.com/jobs/view/hyperscalar-commercial-lead-pre-sales-gtm-at-tykhe-inc-4433449394": 1,
+    "https://www.linkedin.com/jobs/view/marketing-events-and-programs-coordinatorq-at-remotehunter-4439109205": 1,
+    "https://www.linkedin.com/jobs/view/cold-caller-at-algoacquisition-4439774133": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-rutke-search-4439101594": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-vip-motors-4439120310": 1,
+    "https://www.linkedin.com/jobs/view/housing-outreach-liaison-at-rediscover-4439117117": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sgs-4437224831": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-benelux-at-mendixapp-4439754321": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-specialist-dayshift-hybrid-at-zigzag-careers-4439108618": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-elyos-ai-4437220789": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2519,10 +2519,10 @@
     "community outreach specialist|||energy at sea": "2026-07-12T21:23:48.046Z"
   },
   "stats": {
-    "date": "2026-07-12",
-    "cyclesToday": 16,
-    "matchedToday": 17,
-    "sentToday": 17,
+    "date": "2026-07-13",
+    "cyclesToday": 1,
+    "matchedToday": 0,
+    "sentToday": 0,
     "lastSummaryDate": ""
   }
 }
