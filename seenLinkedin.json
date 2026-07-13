@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-hitachi-construction-machinery-europe-nv-hcme-4437369653": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-dach-at-controlup-4435909871": 1,
-    "https://www.linkedin.com/jobs/view/business-development-bangladesh-at-prismteck-4437586324": 1,
-    "https://www.linkedin.com/jobs/view/b2b-lead-generation-at-yuja-4438835210": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-tapmango-4437923161": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-zam-fm-ltd-4435688737": 1,
-    "https://www.linkedin.com/jobs/view/lead-generator-4435903189": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%94-us-market-at-brankit-4435901501": 1,
-    "https://www.linkedin.com/jobs/view/growth-specialist-at-cloud-va-4437917095": 1,
-    "https://www.linkedin.com/jobs/view/partnerships-specialist-at-faraz-4437487454": 1,
-    "https://www.linkedin.com/jobs/view/community-relations-associate-at-etasha-society-4437907691": 1,
-    "https://www.linkedin.com/jobs/view/community-mobilizer-vawg-protection-at-international-medical-corps-4438592732": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-acm-global-laboratories-4435687181": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-strategic-accounts-at-connecteam-4438825273": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-strategic-accounts-at-connecteam-4438810841": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-strategic-accounts-at-connecteam-4438808868": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-guidebook-inc-4440040427": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4437613659": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4437614501": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-rep-sdr-at-edia-4439475211": 1
+    "https://www.linkedin.com/jobs/view/sales-development-rep-sdr-at-edia-4439475211": 1,
+    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437609966": 1,
+    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437621579": 1,
+    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437622584": 1,
+    "https://www.linkedin.com/jobs/view/general-laborer-at-rogers-group-inc-4437619777": 1,
+    "https://www.linkedin.com/jobs/view/yard-technician-at-satellite-shelters-inc-4440342257": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-goarc-4440301201": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-intandem-4440036281": 1,
+    "https://www.linkedin.com/jobs/view/lead-ml-ops-devops-engineer-ai-engineering-at-fico-4440327264": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-franchises-at-pilot-com-4400277690": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-moda-4440342578": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-edit-media-group-4439455962": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-piqsal-4437631060": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-tessera-data-4440337777": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2547,13 +2547,16 @@
     "partnerships growth ops|||qonto": "2026-07-13T19:53:39.641Z",
     "growth marketing manager (performance marketing)|||revolut": "2026-07-13T19:53:41.123Z",
     "go-to-market (gtm) specialist|||venngage": "2026-07-13T20:58:54.568Z",
-    "gtm engineer|||greenhouse software": "2026-07-13T22:03:13.524Z"
+    "gtm engineer|||greenhouse software": "2026-07-13T22:03:13.524Z",
+    "go-to-market engineer|||goarc": "2026-07-13T23:10:28.346Z",
+    "gtm engineer|||intandem": "2026-07-13T23:10:29.868Z",
+    "founding gtm lead|||moda": "2026-07-13T23:10:31.344Z"
   },
   "stats": {
     "date": "2026-07-13",
-    "cyclesToday": 10,
-    "matchedToday": 31,
-    "sentToday": 31,
+    "cyclesToday": 11,
+    "matchedToday": 34,
+    "sentToday": 34,
     "lastSummaryDate": ""
   }
 }
