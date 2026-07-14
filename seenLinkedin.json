@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-omnify-home-of-lumisheet%e2%84%a2-4438341728": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-mclean-company-4429693797": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-sales-development-representative-at-toptal-4439350515": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-development-representative-at-toptal-4439355456": 1,
     "https://www.linkedin.com/jobs/view/scheduling-specialist-at-the-ima-group-4439325973": 1,
     "https://www.linkedin.com/jobs/view/junior-remote-assistant-at-valatam-4439300742": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4439909343": 1,
     "https://www.linkedin.com/jobs/view/provider-outreach-specialist-at-remotehunter-4439919448": 1,
     "https://www.linkedin.com/jobs/view/chain-account-manager-at-celsius-4440824791": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-microsourcing-4439821516": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-microsourcing-4439821516": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-datasnipper-4440823765": 1,
+    "https://www.linkedin.com/jobs/view/ai-growth-engineer-at-satispay-4386887426": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-tessera-data-4440869077": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2583,7 +2583,7 @@
   },
   "stats": {
     "date": "2026-07-14",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 29,
     "sentToday": 29,
     "lastSummaryDate": ""
