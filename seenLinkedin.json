@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-business-development-representative-at-talentpluto-4438813844": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-talentpluto-4438821580": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-strategic-accounts-at-connecteam-4438808867": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-upmarket-at-jamf-4438687189": 1,
-    "https://www.linkedin.com/jobs/view/admission-operations-associate-at-remotehunter-4437905865": 1,
-    "https://www.linkedin.com/jobs/view/provider-outreach-specialist-at-rvo-health-4438823826": 1,
-    "https://www.linkedin.com/jobs/view/gcp-new-business-sales-executive-at-google-4437579012": 1,
-    "https://www.linkedin.com/jobs/view/sr-business-development-executive-delhi-at-birla-pivot-4430491274": 1,
-    "https://www.linkedin.com/jobs/view/key-account-executive-at-unilever-4437918440": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-relationship-manager-at-nexthire-4437541820": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-supy-4435655578": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-seven-4435640198": 1,
     "https://www.linkedin.com/jobs/view/customer-success-account-manager-at-adobe-4428722247": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/executivo-de-contas-seguro-at-bancorbr%c3%a1s-4437632151": 1,
     "https://www.linkedin.com/jobs/view/entry-level-account-executive-base-%2b-commission-%24100k-ote-at-unishippers-hudson-group-4439411700": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-xplor-pay-4440321948": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-paragon-4439443786": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-paragon-4439443786": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-fresh-ventures-4439807493": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-gtm-at-fresh-ventures-4439808468": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4439497469": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-pi-security-4440373484": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-baselayer-4435842816": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-specialist-self-serve-at-lovable-4439485011": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-work-from-home-at-hire-feed-4440389777": 1,
+    "https://www.linkedin.com/jobs/view/marketing-experience-senior-associate-at-jpmorganchase-4440389280": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-zimaw-llc-4439490813": 1,
+    "https://www.linkedin.com/jobs/view/senior-email-specialist-at-growth-cx-4439813466": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2554,13 +2554,14 @@
     "gtm engineer|||agentmail (yc s25)": "2026-07-14T03:40:10.246Z",
     "founding gtm & partnerships lead|||mixedbread": "2026-07-14T03:40:11.734Z",
     "gtm engineer|||hud": "2026-07-14T03:40:13.286Z",
-    "founding us gtm lead - agentic ai|||humaans": "2026-07-14T03:40:14.764Z"
+    "founding us gtm lead - agentic ai|||humaans": "2026-07-14T03:40:14.764Z",
+    "forward deployed engineer, gtm|||fresh ventures": "2026-07-14T05:57:14.774Z"
   },
   "stats": {
     "date": "2026-07-14",
-    "cyclesToday": 2,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 3,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
