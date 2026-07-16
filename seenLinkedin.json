@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-hashorn-4438955198": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-lead-at-birdella-group-4439728815": 1,
-    "https://www.linkedin.com/jobs/view/instagram-growth-specialist-at-hiring-insider-4438996795": 1,
-    "https://www.linkedin.com/jobs/view/international-business-development-executive-at-cock-colours-4439106103": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-abbasi-developers-4437212886": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-bdr-business-development-resources-4439753463": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-permisso-4439753370": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-stockholm-at-tandem-health-4439750642": 1,
-    "https://www.linkedin.com/jobs/view/power-tong-operators-4439108162": 1,
-    "https://www.linkedin.com/jobs/view/remote-hiring-consultant-at-primops-4439107200": 1,
-    "https://www.linkedin.com/jobs/view/production-team-member-at-oldcastle-infrastructure-4437221722": 1,
-    "https://www.linkedin.com/jobs/view/concrete-carpenter-positions-at-mgc-contractors-inc-4439758004": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4438994837": 1,
-    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-northeast-at-cloudera-4411049604": 1,
     "https://www.linkedin.com/jobs/view/senior-developer-operations-engineer-at-unity-4435472602": 1,
     "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4439106174": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-tajorah-com-4439762135": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/program-operations-associate-at-youthbuild-global-4441627968": 1,
     "https://www.linkedin.com/jobs/view/program-operations-associate-at-youthbuild-global-4441639502": 1,
     "https://www.linkedin.com/jobs/view/secretariat-administrator-at-bruntwork-4438761230": 1,
-    "https://www.linkedin.com/jobs/view/founding-sdr-at-talentpluto-4441672091": 1
+    "https://www.linkedin.com/jobs/view/founding-sdr-at-talentpluto-4441672091": 1,
+    "https://www.linkedin.com/jobs/view/construction-observation-technician-fort-collins-co-at-ctl-thompson-4441628635": 1,
+    "https://www.linkedin.com/jobs/view/mason-at-u-s-department-of-veterans-affairs-4441684138": 1,
+    "https://www.linkedin.com/jobs/view/solutions-consultant-us-at-frontify-4441498159": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-antithesis-4441422231": 1,
+    "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-campfire-4440783405": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%2b-equity-at-helmguard-at-jack-jill-4440779987": 1,
+    "https://www.linkedin.com/jobs/view/strategy-ops-engineering-at-voice-ai-space-4441104438": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-marketing-26-01823-at-akraya-inc-4433895162": 1,
+    "https://www.linkedin.com/jobs/view/tiktok-shop-growth-manager-at-that-s-it-4440758874": 1,
+    "https://www.linkedin.com/jobs/view/ph-sales-virtual-professional-at-myoutdesk-4441657218": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-executive-at-treatwell-4422911599": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-talentpluto-4441647231": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-talentpluto-4441669081": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-saas-at-huzzle-com-4441662590": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2631,13 +2631,14 @@
     "gtm & customer success lead – ai platform|||lumenci": "2026-07-16T20:14:16.687Z",
     "go-to-market generalist|||talentpluto": "2026-07-16T21:28:22.498Z",
     "gtm strategy & execution senior manager|||equinix": "2026-07-16T21:28:24.034Z",
-    "gtm lead|||deft robotics": "2026-07-16T21:28:25.563Z"
+    "gtm lead|||deft robotics": "2026-07-16T21:28:25.563Z",
+    "ai gtm engineer|||campfire": "2026-07-16T22:31:49.960Z"
   },
   "stats": {
     "date": "2026-07-16",
-    "cyclesToday": 12,
-    "matchedToday": 27,
-    "sentToday": 27,
+    "cyclesToday": 13,
+    "matchedToday": 28,
+    "sentToday": 28,
     "lastSummaryDate": ""
   }
 }
