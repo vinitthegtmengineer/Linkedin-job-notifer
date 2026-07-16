@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-developer-operations-engineer-at-unity-4435472602": 1,
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4439106174": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-tajorah-com-4439762135": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-performance-advertising-at-branding-pioneers-4439100609": 1,
-    "https://www.linkedin.com/jobs/view/business-developer-representative-at-kercus-4439591615": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-performance-leader-at-express-chipping-inc-4439754210": 1,
-    "https://www.linkedin.com/jobs/view/remote-appointment-setter-at-primops-4439105266": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-fitness-industry-4437216720": 1,
-    "https://www.linkedin.com/jobs/view/leave-success-coordinator-at-squadra-ventures-4439753580": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-specialist-at-energy-at-sea-4437756135": 1,
-    "https://www.linkedin.com/jobs/view/remote-candidate-outreach-specialist-at-primops-4439100538": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-atlassian-4420931057": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-growth-engineer-%c2%a365k-%c2%a380k-%2b-equity-at-readywhen-at-jack-jill-4439108104": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-m-w-d-at-flyeralarm-4437214959": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-roomadda-4438982335": 1,
     "https://www.linkedin.com/jobs/view/senior-events-marketing-manager-base44-at-base44-4427044052": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/outbound-sales-executive-at-treatwell-4422911599": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-talentpluto-4441647231": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-talentpluto-4441669081": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-saas-at-huzzle-com-4441662590": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-saas-at-huzzle-com-4441662590": 1,
+    "https://www.linkedin.com/jobs/view/outbound-systems-operator-at-localeyes-video-production-4441118276": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-welli-at-welli-4441676522": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-gtm-lead-brazil-at-voice-ai-space-4440797909": 1,
+    "https://www.linkedin.com/jobs/view/head-of-gtm-operations-at-voice-ai-space-4440796898": 1,
+    "https://www.linkedin.com/jobs/view/sr-creative-strategist-at-new-engen-4441663350": 1,
+    "https://www.linkedin.com/jobs/view/strategy-operations-lead-at-talentpluto-4441660638": 1,
+    "https://www.linkedin.com/jobs/view/strategy-operations-lead-at-talentpluto-4441645647": 1,
+    "https://www.linkedin.com/jobs/view/b2b-growth-specialist-at-mbu-devs-4438729424": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-peachtree-va-4233694305": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-reflectiz-4440761533": 1,
+    "https://www.linkedin.com/jobs/view/smb-account-executive-london-at-square-4420738503": 1,
+    "https://www.linkedin.com/jobs/view/account-supervisor-at-jobgether-4440761220": 1,
+    "https://www.linkedin.com/jobs/view/founding-sdr-at-talentpluto-4441679134": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2632,13 +2632,14 @@
     "go-to-market generalist|||talentpluto": "2026-07-16T21:28:22.498Z",
     "gtm strategy & execution senior manager|||equinix": "2026-07-16T21:28:24.034Z",
     "gtm lead|||deft robotics": "2026-07-16T21:28:25.563Z",
-    "ai gtm engineer|||campfire": "2026-07-16T22:31:49.960Z"
+    "ai gtm engineer|||campfire": "2026-07-16T22:31:49.960Z",
+    "enterprise gtm lead - brazil|||voice ai space": "2026-07-16T23:35:31.192Z"
   },
   "stats": {
     "date": "2026-07-16",
-    "cyclesToday": 13,
-    "matchedToday": 28,
-    "sentToday": 28,
+    "cyclesToday": 14,
+    "matchedToday": 29,
+    "sentToday": 29,
     "lastSummaryDate": ""
   }
 }
