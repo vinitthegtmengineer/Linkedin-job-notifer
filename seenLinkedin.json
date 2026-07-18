@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/wfh-account-sales-advisor-at-virtualite-4437287710": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-team-manager-at-bullpen-talent-4431646683": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-representative-appointment-setting-upselling-at-sagan-recruitment-4434642128": 1,
-    "https://www.linkedin.com/jobs/view/manager-ticket-sales-service-at-pwhl-4437603789": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-pleno-at-neogrid-4437607055": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-closer-at-hunt-remotely-4439436215": 1,
-    "https://www.linkedin.com/jobs/view/sales-assistant-sales-executive-at-ep-cube-4416768833": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-litify-4440082599": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-wiv-ai-4437618304": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-guidebook-inc-4440040427": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4437613659": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4437614501": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-rep-sdr-at-edia-4439475211": 1,
-    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437609966": 1,
-    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437621579": 1,
     "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4437622584": 1,
     "https://www.linkedin.com/jobs/view/general-laborer-at-rogers-group-inc-4437619777": 1,
     "https://www.linkedin.com/jobs/view/yard-technician-at-satellite-shelters-inc-4440342257": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/hospitality-support-coordinator-remote-at-jobsinmass-com-4441945736": 1,
     "https://www.linkedin.com/jobs/view/executive-sr-executive-asst-manager-at-als-4439264677": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-i-at-the-linux-foundation-4439270646": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4439259169": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4439259169": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-laboratory-supervisor-at-s-me-4442176009": 1,
+    "https://www.linkedin.com/jobs/view/builder-instructure-foundry-at-instructure-4439280425": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-majors-nyc-at-cloudflare-4420761836": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4441398181": 1,
+    "https://www.linkedin.com/jobs/view/tv-partner-engineer-youtube-at-google-4432631870": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-atos-4439282028": 1,
+    "https://www.linkedin.com/jobs/view/marketing-lead-at-oltek-4442404700": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-4439281582": 1,
+    "https://www.linkedin.com/jobs/view/gtm-operations-manager-at-cortex-4441346722": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-%e2%80%93-commercial-cleaning-industry-outbound-b2b-at-peniculus-9-corp-4441386278": 1,
+    "https://www.linkedin.com/jobs/view/executive-virtual-assistant-appointment-setter-cold-calling-admin-social-media-support-at-linkedhelpers-4441362302": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-equals-five-4441964107": 1,
+    "https://www.linkedin.com/jobs/view/executive-operations-assistant-at-scale-army-careers-4441315910": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-lakshmi-vacuum-heat-treaters-pvt-ltd-4441398294": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4442107711": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2660,7 +2660,7 @@
   },
   "stats": {
     "date": "2026-07-18",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
