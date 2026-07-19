@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-growth-associate-%e2%80%93-founder-s-office-4438099014": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-lead-generation-executive-at-target-integration-4439979972": 1,
-    "https://www.linkedin.com/jobs/view/admission-outreach-manager-offline-sales-at-virohan-4440208629": 1,
-    "https://www.linkedin.com/jobs/view/global-partnership-associate-at-recruitable-4440277109": 1,
-    "https://www.linkedin.com/jobs/view/learning-services-operations-administrator-at-avid-4422666995": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-remotehunter-4440254846": 1,
-    "https://www.linkedin.com/jobs/view/general-virtual-assistant-remote-work-for-pooling-at-virtuallyincredible-careers-hub-4440206719": 1,
-    "https://www.linkedin.com/jobs/view/agent-onboarding-specialist-ghl-experience-%e2%80%93-virtual-assistant-at-rockstar-global-careers-4439925521": 1,
-    "https://www.linkedin.com/jobs/view/national-account-manager-at-future-beauty-brands-formerly-ppi-beauty-4441236528": 1,
-    "https://www.linkedin.com/jobs/view/automation-operator-representative-at-quest-diagnostics-4438023705": 1,
-    "https://www.linkedin.com/jobs/view/cmt-technician-materials-at-wsb-4440270812": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-spellbook-4441243941": 1,
     "https://www.linkedin.com/jobs/view/entry-level-cmt-field-technician-at-ecs-group-of-companies-4441227874": 1,
     "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4440863606": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-raydar-4441238744": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-sales-executive-airlines-at-auxo-talent-4441778304": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-dex-specialist-remote-usa-at-teamviewer-4406669762": 1,
     "https://www.linkedin.com/jobs/view/account-executive-east-us-select-by-doit-at-doit-4411548606": 1,
-    "https://www.linkedin.com/jobs/view/business-development-manager-at-xero-4392890914": 1
+    "https://www.linkedin.com/jobs/view/business-development-manager-at-xero-4392890914": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-consultant-at-bac-4441787677": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-at-gfi-team-ikigai-4440100206": 1,
+    "https://www.linkedin.com/jobs/view/remote-consultant-at-gfi-team-ikigai-4439699264": 1,
+    "https://www.linkedin.com/jobs/view/consultant-engineer-juniper-at-nwn-4425636952": 1,
+    "https://www.linkedin.com/jobs/view/business-marketing-manager-growth-at-revolut-4393062861": 1,
+    "https://www.linkedin.com/jobs/view/e-commerce-marketing-manager-us-market-at-digitrix-software-llp-4439675398": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-manager-at-hoselink-usa-4441784482": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-at-ilawyermarketing-4442548579": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-gibran-outsourcing-4439682708": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-firstrep-4442554354": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-evlo-ai-4441785464": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-scale-jobs-4439670920": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2691,13 +2691,14 @@
     "gtm lead (north america)|||adaption": "2026-07-19T17:42:07.440Z",
     "ai growth & gtm engineer|||s2o sales": "2026-07-19T19:58:19.309Z",
     "gtm engineer|||bac": "2026-07-19T22:06:52.193Z",
-    "founding gtm lead (north america)|||adaption": "2026-07-19T22:06:53.687Z"
+    "founding gtm lead (north america)|||adaption": "2026-07-19T22:06:53.687Z",
+    "gtm consultant|||bac": "2026-07-19T23:09:33.944Z"
   },
   "stats": {
     "date": "2026-07-19",
-    "cyclesToday": 15,
-    "matchedToday": 16,
-    "sentToday": 16,
+    "cyclesToday": 16,
+    "matchedToday": 17,
+    "sentToday": 17,
     "lastSummaryDate": ""
   }
 }
