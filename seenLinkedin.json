@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-jobright-ai-4441788546": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-salesforce-4439995453": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-wing-assistant-4433754730": 1,
-    "https://www.linkedin.com/jobs/view/production-potter-4441740714": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-bac-4441720127": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-a-%e2%80%93-junior-%e2%80%93-mec%c3%a1nico-proceso-at-eptisa-philippines-inc-4442544772": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-lead-north-america-at-adaption-4439688161": 1,
-    "https://www.linkedin.com/jobs/view/field-marketing-manager-command-center-at-intrado-4408116084": 1,
-    "https://www.linkedin.com/jobs/view/campagnemanager-sea-at-contique-marketing-beeldconcepten-4442551436": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-programs-at-high-bridge-co-4442532932": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-paydora-pay-4441751825": 1,
-    "https://www.linkedin.com/jobs/view/specialist-volunteer-recruitment-at-remotehunter-4441787658": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-dealer-channel-west-region-at-canon-usa-4424627034": 1,
-    "https://www.linkedin.com/jobs/view/sales-account-executive-remote-at-hired-4442521166": 1,
     "https://www.linkedin.com/jobs/view/named-account-executive-at-saviynt-4374471760": 1,
     "https://www.linkedin.com/jobs/view/account-executive-cleveland-at-newfi-lending-4303856953": 1,
     "https://www.linkedin.com/jobs/view/agency-account-executive-at-riverside-4348069251": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/executive-assistant-%e2%80%93-consulting-firm-philippines-%e2%80%93-remote-independent-contractor-%e2%80%93-mid-level-at-pharmavise-corporation-4444001719": 1,
     "https://www.linkedin.com/jobs/view/program-virtual-assistant-at-emma-of-torre-ai-4444706735": 1,
     "https://www.linkedin.com/jobs/view/internal-only-at-home-regional-scheduler-at-remotehunter-4443840680": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-talentpluto-4444734295": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-talentpluto-4444734295": 1,
+    "https://www.linkedin.com/jobs/view/construction-material-testing-tech-lenexa-ks-at-certerra-4441572246": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-lenexa-ks-at-certerra-4441560796": 1,
+    "https://www.linkedin.com/jobs/view/a-mining-career-or-a-travel-club-at-kj-kuchling-consulting-ltd-4444711355": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-bobyard-4444739508": 1,
+    "https://www.linkedin.com/jobs/view/manager-revenue-strategy-enablement-americas-at-airwallex-4441563333": 1,
+    "https://www.linkedin.com/jobs/view/seo-analyst-at-techyscouts-4444713676": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-campaign-marketing-at-levels-4444034284": 1,
+    "https://www.linkedin.com/jobs/view/global-campaign-manager-at-creative-circle-4441555941": 1,
+    "https://www.linkedin.com/jobs/view/retention-and-lifecycle-marketing-manager-remote-at-ezcater-4434656125": 1,
+    "https://www.linkedin.com/jobs/view/event-marketing-specialist-at-movable-ink-4444018809": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-marketing-at-prolific-4416648342": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-noteefy-%f0%9f%94%94-4441579109": 1,
+    "https://www.linkedin.com/jobs/view/business-development-rep-san-francisco-at-ahf-4441547773": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-us-market-at-ambi-scout-4444485343": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2769,13 +2769,14 @@
     "gtm strategy & operations manager|||vanta": "2026-07-23T20:15:20.015Z",
     "gtm operations manager|||zorro": "2026-07-23T20:15:21.605Z",
     "product gtm lead|||scribe": "2026-07-23T21:31:07.096Z",
-    "outreach specialist|||dai5": "2026-07-23T22:36:18.306Z"
+    "outreach specialist|||dai5": "2026-07-23T22:36:18.306Z",
+    "gtm engineer|||bobyard": "2026-07-23T23:36:40.430Z"
   },
   "stats": {
     "date": "2026-07-23",
-    "cyclesToday": 12,
-    "matchedToday": 15,
-    "sentToday": 15,
+    "cyclesToday": 13,
+    "matchedToday": 16,
+    "sentToday": 16,
     "lastSummaryDate": ""
   }
 }
