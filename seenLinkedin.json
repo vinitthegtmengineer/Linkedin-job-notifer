@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/appointment-setter-outbound-sales-representative-at-mappa-4442086196": 1,
-    "https://www.linkedin.com/jobs/view/outbound-inbound-sales-contractor-at-soniqcx-4442085564": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-representative-sdr-at-yuja-4442770045": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-creator-co-4442213381": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-the-royal-conservatory-of-music-4440173608": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4442091583": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4442085787": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-rapidclaims-4442039243": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-workong-4442202675": 1,
-    "https://www.linkedin.com/jobs/view/growth-specialist-at-flexifyme-4440156122": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-kriyaxlabs-4440105433": 1,
-    "https://www.linkedin.com/jobs/view/community-relationship-at-times-internet-4440129683": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-recruitment-representative-at-applyboard-4442727469": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-student-calling-at-legacy-college-4442203080": 1,
-    "https://www.linkedin.com/jobs/view/client-relationship-associate-at-pankh-workforce-solution-4440142128": 1,
-    "https://www.linkedin.com/jobs/view/community-specialist-at-world-exec-summit-4442718091": 1,
     "https://www.linkedin.com/jobs/view/public-relations-account-manager-beauty-at-beach-house-4442206033": 1,
     "https://www.linkedin.com/jobs/view/account-executive-sales-at-fastco-4442596420": 1,
     "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-equipflow-4442208065": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-disrupt-x-4444798584": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-workvivo-at-zoom-4436361906": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-representative-at-hgs-4444329955": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-fps-innovation-labs-4444379456": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-fps-innovation-labs-4444379456": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-midland-odessa-mentone-garden-city-at-oneok-4427685711": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-partner-engineering-science-inc-4445231650": 1,
+    "https://www.linkedin.com/jobs/view/product-manager-especialista-builder-rd-station-remoto-at-rd-station-4441843177": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-dick-s-sporting-goods-4432793726": 1,
+    "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-kanini-4444393150": 1,
+    "https://www.linkedin.com/jobs/view/gtm-and-data-operations-engineer-at-ektello-4445228732": 1,
+    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-3-hr-remote-at-crossing-hurdles-4426934402": 1,
+    "https://www.linkedin.com/jobs/view/aeronautics-transfer-of-work-apqp-engineer-international-projects-at-alten-delivery-centre-spain-4440444942": 1,
+    "https://www.linkedin.com/jobs/view/purple-operations-engineer-at-sporty-group-4436375581": 1,
+    "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-critical-software-4436701795": 1,
+    "https://www.linkedin.com/jobs/view/remote-operations-engineer-at-graymont-4444607300": 1,
+    "https://www.linkedin.com/jobs/view/ai-process-engineer-professional-services-cogs-support-at-civicplus-4445243601": 1,
+    "https://www.linkedin.com/jobs/view/ai-campaign-manager-at-comrocket-gmbh-4445230872": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-hired-by-matrix-inc-4445223633": 1,
+    "https://www.linkedin.com/jobs/view/outbound-appointment-setter-at-warriorbabe-4445228465": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-us-at-mac-venture-capital-4445212039": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2795,13 +2795,14 @@
     "gtm engineer|||crystal equation corporation": "2026-07-24T21:06:37.483Z",
     "gtm engineer (contract)|||airbnb": "2026-07-24T21:06:38.991Z",
     "gtm partnerships lead|||attio": "2026-07-24T21:06:40.500Z",
-    "outreach specialist|||housing works": "2026-07-24T21:06:42.002Z"
+    "outreach specialist|||housing works": "2026-07-24T21:06:42.002Z",
+    "gtm and data operations engineer|||ektello": "2026-07-24T22:16:53.793Z"
   },
   "stats": {
     "date": "2026-07-24",
-    "cyclesToday": 11,
-    "matchedToday": 25,
-    "sentToday": 25,
+    "cyclesToday": 12,
+    "matchedToday": 26,
+    "sentToday": 26,
     "lastSummaryDate": ""
   }
 }
