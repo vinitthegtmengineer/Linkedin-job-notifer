@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/laboratory-technician-i-ii-iii-at-raba-kistner-inc-4443980974": 1,
-    "https://www.linkedin.com/jobs/view/earthworks-technician-at-socotec-uk-ireland-4443188121": 1,
-    "https://www.linkedin.com/jobs/view/consultor-de-receita-at-v4-company-4443185355": 1,
-    "https://www.linkedin.com/jobs/view/paserec-consultant-e-international-e-bujumbura-7-mois-%c3%a0-domicile-%2b-missions-%23594650-at-unicef-chad-4441065820": 1,
-    "https://www.linkedin.com/jobs/view/gtm-operations-manager-at-nametag-4443963909": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-marketing-intern-at-moistur-ai-4443145050": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4443199411": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-mastec-civil-llc-a-mastec-company-4443981991": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-ai-automation-at-clickhouse-4441068781": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-oliv-ai-4444201065": 1,
-    "https://www.linkedin.com/jobs/view/revenue-intelligence-engineer-at-greenhouse-software-4419218785": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-nextdoor-4416924206": 1,
-    "https://www.linkedin.com/jobs/view/site-reliability-production-engineer-at-storyteller-4444202196": 1,
     "https://www.linkedin.com/jobs/view/production-ai-engineer-at-check-point-software-4441063988": 1,
     "https://www.linkedin.com/jobs/view/python-ml-engineer-llm-ops-healthcare-domain-at-digitive-4443945626": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-team-member-at-aithon-4443408070": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/key-accounts-manager-at-johnson-johnson-medtech-4445605865": 1,
     "https://www.linkedin.com/jobs/view/area-account-manager-at-nobrokerhood-4442359750": 1,
     "https://www.linkedin.com/jobs/view/media-partnerships-executive-at-business-herald-4444848157": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-abstrakt-ai-4445635476": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-abstrakt-ai-4445635476": 1,
+    "https://www.linkedin.com/jobs/view/red-team-operator-ai-trainer-at-dataannotation-4387895676": 1,
+    "https://www.linkedin.com/jobs/view/conversion-experience-lead-%e2%80%94-ai-platform-at-inspace-4444864227": 1,
+    "https://www.linkedin.com/jobs/view/vp-of-strategic-partnerships-at-confidential-4445634807": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-coordinator-junior-specialist-at-infuse-4445625544": 1,
+    "https://www.linkedin.com/jobs/view/director-of-digital-marketing-at-hirewell-4444852185": 1,
+    "https://www.linkedin.com/jobs/view/international-customer-support-representative-at-techsol-it-4442377646": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-at-know-all-edge-4445635782": 1,
+    "https://www.linkedin.com/jobs/view/administrative-coordinator-at-landmark-goc-4444864269": 1,
+    "https://www.linkedin.com/jobs/view/client-outreach-specialist-at-l-odour-de-vie-4445633709": 1,
+    "https://www.linkedin.com/jobs/view/social-media-influencer-specialist-at-sundayy-4445313891": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-manager-at-bx-studio-4442378149": 1,
+    "https://www.linkedin.com/jobs/view/manager-smb-account-management-food-and-beverage-at-square-4425328755": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-antrino-labs-4442373737": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2834,13 +2834,14 @@
     "gtm engineer|||rilla": "2026-07-26T18:36:09.007Z",
     "strategic gtm manager - industry operations - na|||tiktok": "2026-07-26T19:51:16.581Z",
     "growth marketing manager|||ur tech jobs": "2026-07-26T21:02:01.686Z",
-    "lead, gtm finance & strategy spain ; united kingdom|||micerate": "2026-07-26T22:09:45.442Z"
+    "lead, gtm finance & strategy spain ; united kingdom|||micerate": "2026-07-26T22:09:45.442Z",
+    "client outreach specialist|||l'odour de vie": "2026-07-26T23:11:59.994Z"
   },
   "stats": {
     "date": "2026-07-26",
-    "cyclesToday": 14,
-    "matchedToday": 18,
-    "sentToday": 18,
+    "cyclesToday": 15,
+    "matchedToday": 19,
+    "sentToday": 19,
     "lastSummaryDate": ""
   }
 }
