@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/psychologische-berater-in-m-w-d-at-betterhelp-4354702427": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-prosthetics-at-oracle-4413669150": 1,
-    "https://www.linkedin.com/jobs/view/home-builder-finisher-at-clayton-4445358563": 1,
-    "https://www.linkedin.com/jobs/view/roof-build-at-clayton-4445372167": 1,
-    "https://www.linkedin.com/jobs/view/walls-at-clayton-4445352925": 1,
-    "https://www.linkedin.com/jobs/view/home-builder-construction-drywall-team-member-at-clayton-4445372164": 1,
-    "https://www.linkedin.com/jobs/view/homebuilder-at-clayton-4445361441": 1,
-    "https://www.linkedin.com/jobs/view/home-building-team-member-at-clayton-4445362328": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%24160k-%24200k-%2b-equity-at-transvoix-at-jack-jill-4444698612": 1,
-    "https://www.linkedin.com/jobs/view/gtm-marketer-engineer-%2475k-%24150k-%2b-equity-at-genhealth-at-jack-jill-4444805620": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%2480k-%24150k-at-cloro-at-jack-jill-4444809578": 1,
-    "https://www.linkedin.com/jobs/view/%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-at-precision-imaging-4444698120": 1,
-    "https://www.linkedin.com/jobs/view/engineer-at-hylandia-llc-4444813167": 1,
-    "https://www.linkedin.com/jobs/view/data-visualization-engineer-5-member-insights-engineering-at-netflix-4441878797": 1,
-    "https://www.linkedin.com/jobs/view/senior-unreal-engineer-at-devhouse-4444809118": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-delinea-4417156579": 1,
     "https://www.linkedin.com/jobs/view/sales-product-expert-at-rizkly-trust-in-your-autonomy-4445364011": 1,
     "https://www.linkedin.com/jobs/view/key-account-director-at-postman-4409050042": 1,
     "https://www.linkedin.com/jobs/view/ki-engineer-m-w-d-at-bpex-gmbh-4445376085": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/key-account-executive-at-backstory-4444107835": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-airlock-digital-4437891948": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-amplify-4445789020": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-est-at-roadrunner-4331944999": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-est-at-roadrunner-4331944999": 1,
+    "https://www.linkedin.com/jobs/view/sr-domain-consultant-at-incedo-inc-4446846727": 1,
+    "https://www.linkedin.com/jobs/view/halopsa-consultant-at-marketease-4444150388": 1,
+    "https://www.linkedin.com/jobs/view/axway-secure-transport-consultant-at-enterprise-solutions-inc-4445709992": 1,
+    "https://www.linkedin.com/jobs/view/strategic-consultant-remote-work-at-indi-staffing-services-4446819419": 1,
+    "https://www.linkedin.com/jobs/view/gtm-acceleration-technical-solutions-at-vercel-4446872437": 1,
+    "https://www.linkedin.com/jobs/view/gtm-acceleration-technical-solutions-at-vercel-4446863749": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-talentpluto-4446872560": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-generalist-at-talentpluto-4446876240": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-clay-at-gtmatiq-4444190188": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-revops-hubspot-automation-ai-at-devsu-4444166543": 1,
+    "https://www.linkedin.com/jobs/view/gtm-acceleration-lead-value-selling-at-vercel-4446869479": 1,
+    "https://www.linkedin.com/jobs/view/gtm-acceleration-lead-value-selling-at-vercel-4446861871": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-smartskin-technologies-4434329093": 1,
+    "https://www.linkedin.com/jobs/view/operations-administrator-at-india-partners-4446404315": 1,
+    "https://www.linkedin.com/jobs/view/outbound-outreach-prospecting-specialist-at-moburst-growth-done-right-4446599088": 1,
+    "https://www.linkedin.com/jobs/view/virtual-scheduling-coordinator-at-reworks-solutions-4446405191": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2908,13 +2908,15 @@
     "gtm engineer|||cymate": "2026-07-29T19:43:12.659Z",
     "gtm operations lead|||gumloop": "2026-07-29T20:39:17.519Z",
     "gtm lead @ soulside ai|||soulside ai": "2026-07-29T20:39:19.056Z",
-    "special projects, gtm lead|||nscale": "2026-07-29T20:39:20.588Z"
+    "special projects, gtm lead|||nscale": "2026-07-29T20:39:20.588Z",
+    "gtm acceleration, technical solutions|||vercel": "2026-07-29T22:38:15.353Z",
+    "gtm acceleration lead, value selling|||vercel": "2026-07-29T22:38:16.826Z"
   },
   "stats": {
     "date": "2026-07-29",
-    "cyclesToday": 12,
-    "matchedToday": 18,
-    "sentToday": 18,
+    "cyclesToday": 13,
+    "matchedToday": 20,
+    "sentToday": 20,
     "lastSummaryDate": ""
   }
 }
