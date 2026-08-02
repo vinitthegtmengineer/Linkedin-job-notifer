@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-executive-assistant-operations-coordinator-at-cherry-assistant-4444195125": 1,
-    "https://www.linkedin.com/jobs/view/outreach-coordinator-digital-pr-link-building-at-jobgether-4444524612": 1,
-    "https://www.linkedin.com/jobs/view/junior-operations-assistant-at-infinity-4446038539": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-executive-assist-co-4444528186": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-au-telco-at-microsourcing-4446573011": 1,
-    "https://www.linkedin.com/jobs/view/dealcloud-consultant-at-thoughtstorm-4446401897": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ii-senior-at-american-bureau-of-shipping-abs-4446438784": 1,
     "https://www.linkedin.com/jobs/view/lived-experience-consultant-at-catch22-4444558377": 1,
     "https://www.linkedin.com/jobs/view/ppds-consultant-at-jobgether-4444534256": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cloudeagle-ai-4446735843": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-jobright-ai-4447667320": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%8e%9b%ef%b8%8f-realiz%c3%a1tor-online-%c5%a1kolen%c3%ad-at-videolektor-4445850625": 1,
     "https://www.linkedin.com/jobs/view/executive-english-facilitator-at-johana-caro-academy-4448104673": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-the-legal-habitat-4445859633": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-the-legal-habitat-4445859633": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-kadence-4448109563": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-india-at-signalmash-4447661525": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4447669247": 1,
+    "https://www.linkedin.com/jobs/view/global-strategic-partner-manager-at-catalis-partners-group-4447661388": 1,
+    "https://www.linkedin.com/jobs/view/founding-head-of-channel-partnerships-%24240k-%24280k-ote-%2b-equity-at-hyperbound-at-jack-jill-4447665293": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-shayk-media-co-4445861074": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-talent-share-corporation-4448116613": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2984,13 +2984,15 @@
     "director, gtm tech and automation|||ivo": "2026-08-02T11:47:56.654Z",
     "ai gtm engineer|||velcor.ai": "2026-08-02T17:42:35.322Z",
     "community outreach specialist|||the blue venture fund": "2026-08-02T18:45:02.014Z",
-    "gtm ai engineer|||kadence": "2026-08-02T20:00:08.617Z"
+    "gtm ai engineer|||kadence": "2026-08-02T20:00:08.617Z",
+    "gtm engineer|||kadence": "2026-08-02T22:08:11.857Z",
+    "gtm engineer, india|||signalmash": "2026-08-02T22:08:13.358Z"
   },
   "stats": {
     "date": "2026-08-02",
-    "cyclesToday": 14,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 15,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
