@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lived-experience-consultant-at-catch22-4444558377": 1,
-    "https://www.linkedin.com/jobs/view/ppds-consultant-at-jobgether-4444534256": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cloudeagle-ai-4446735843": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-blue-j-4438543718": 1,
-    "https://www.linkedin.com/jobs/view/mold-parts-builder-at-wells-4427387733": 1,
-    "https://www.linkedin.com/jobs/view/threshold-inspector-at-ues-4419511190": 1,
-    "https://www.linkedin.com/jobs/view/mold-parts-builder-at-wells-4427378721": 1,
-    "https://www.linkedin.com/jobs/view/salesforce-engineer-at-innovtrove-technologies-4446733279": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-arrows-4446738948": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-humaans-at-jack-jill-4446715977": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-user-acquisition-top-startup-%e2%82%ac60k-%e2%82%ac70k-at-joppy-4446713901": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/global-strategic-partner-manager-at-catalis-partners-group-4447661388": 1,
     "https://www.linkedin.com/jobs/view/founding-head-of-channel-partnerships-%24240k-%24280k-ote-%2b-equity-at-hyperbound-at-jack-jill-4447665293": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-shayk-media-co-4445861074": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-talent-share-corporation-4448116613": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-talent-share-corporation-4448116613": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4447660386": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24100k-%24150k-%2b-equity-at-karumi-at-jack-jill-4447650737": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-chicago-at-aikido-security-4447898600": 1,
+    "https://www.linkedin.com/jobs/view/project-engineering-manager-at-the-green-recruitment-company-4447662288": 1,
+    "https://www.linkedin.com/jobs/view/data-engineer-ml-ops-at-vc-backed-multimodal-ai-startup-at-jack-jill-4447660400": 1,
+    "https://www.linkedin.com/jobs/view/projektingenieur-in-d-w-m-f%c3%bcr-kundenprojekte-at-extantia-4448115546": 1,
+    "https://www.linkedin.com/jobs/view/base-management-lead-at-career-book-4447645746": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-expert-at-mccann-digital-4445846414": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -2990,7 +2990,7 @@
   },
   "stats": {
     "date": "2026-08-02",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
