@@ -1,22 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-development-representative-i-dach-at-camunda-4427863801": 1,
-    "https://www.linkedin.com/jobs/view/sdr-team-lead-at-quantcast-4436620406": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-100%25-remote-at-codevertex-careers-4445829832": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-100%25-remote-at-codevertex-system-4445828892": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-100%25-remote-at-codevertex-operations-4445820900": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-100%25-remote-at-codevertex-talent-4445820907": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-codevertex-careers-4445822918": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-assistant-100%25-remote-at-codevertex-talent-4445827865": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-100%25-remote-at-codevertex-careers-4445818984": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-codevertex-operations-4445828894": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-data-entry-fully-remote-at-codevertex-system-4445827870": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-100%25-remote-at-codevertex-system-4445834784": 1,
-    "https://www.linkedin.com/jobs/view/community-manager-at-curioboat-4447465860": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4417666243": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4417660334": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-the-knot-company-4447142043": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-id-%23-855-at-aviate-4379214669": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-nbn-connect-4447886412": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-scytale-4390330213": 1,
     "https://www.linkedin.com/jobs/view/esop-administration-consultant-at-blue-ridge-associates-4376222336": 1,
@@ -1999,7 +1982,24 @@
     "https://www.linkedin.com/jobs/view/senior-account-executive-at-maestra-io-4448586281": 1,
     "https://www.linkedin.com/jobs/view/executivo-de-contas-especialista-regi%c3%a3o-sul-at-decolar-brasil-4449643399": 1,
     "https://www.linkedin.com/jobs/view/lead-genration-specialist-remote-at-executive-assist-co-4449306984": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-client-at-executive-assist-co-4448072678": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-client-at-executive-assist-co-4448072678": 1,
+    "https://www.linkedin.com/jobs/view/pipeline-operator-associate-at-oneok-4449694663": 1,
+    "https://www.linkedin.com/jobs/view/specialist-soil-testing-technician-at-ghd-4449983316": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-entry-level-at-braun-intertec-corporation-4448043953": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-geotechnical-engineer-at-schnabel-engineering-4448085208": 1,
+    "https://www.linkedin.com/jobs/view/implementation-specialist-at-mendable-4449340015": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-revenue-at-mendable-4449330639": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-infisical-4449334191": 1,
+    "https://www.linkedin.com/jobs/view/gtm-operations-engineer-at-fal-4449971070": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-growth-engineer-%c2%a365k-%c2%a380k-%2b-equity-at-readywhen-at-jack-jill-4449336163": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-product-growth-at-mendable-4449328842": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-ngts-gtm-at-palo-alto-networks-4449974382": 1,
+    "https://www.linkedin.com/jobs/view/senior-executive-ad-operations-gcs-at-jiostar-4441039843": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-lead-at-kernel-z-4448953327": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-manager-google-ads-at-neamob-tech-4449474088": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-uki-at-talkie-4449905137": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-at-chainpatrol-4449323156": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-revnix-4449662505": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3065,13 +3065,15 @@
     "outbound specialist|||sword health": "2026-08-05T22:30:33.555Z",
     "growth marketing manager, us remote|||carewell": "2026-08-05T23:32:04.282Z",
     "outreach specialist|||adomo": "2026-08-05T23:32:05.783Z",
-    "roof set|||clayton": "2026-08-06T01:02:07.245Z"
+    "roof set|||clayton": "2026-08-06T01:02:07.245Z",
+    "gtm operations engineer|||fal": "2026-08-06T04:27:57.502Z",
+    "manager, ngts gtm|||palo alto networks": "2026-08-06T04:27:58.998Z"
   },
   "stats": {
     "date": "2026-08-06",
-    "cyclesToday": 1,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 2,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
