@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-operations-coordinator-at-remotehunter-4447660484": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-audience-development-marketing-at-avixa-4434565923": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-talentgigs-4447640658": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-amodal-ai-4447652385": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-rep-cold-calling-%e2%80%93-e-commerce-agency-at-david-ricardo-4448129065": 1,
-    "https://www.linkedin.com/jobs/view/associate-partnerships-at-ladd-co-4447670298": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-flipdish-4448125053": 1,
-    "https://www.linkedin.com/jobs/view/telesales-agent-4447676753": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario-at-chit-chats-4448112730": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-at-maverick-creative-4446412515": 1,
-    "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-agilegrid-solutions-4447884939": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-specialist-entry-level-at-jobright-ai-4447662462": 1,
     "https://www.linkedin.com/jobs/view/virtual-executive-assistant-remote-at-viva-talent-4447895954": 1,
     "https://www.linkedin.com/jobs/view/data-entry-remote-at-torentify-4448107786": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-va-at-openhill-global-llc-4445824762": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4448712907": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4448734002": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4450330945": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4450335522": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4450335522": 1,
+    "https://www.linkedin.com/jobs/view/u-s-rig-based-positions-at-h-p-4441177259": 1,
+    "https://www.linkedin.com/jobs/view/cmt-associate-principal-at-ecs-group-of-companies-4450725455": 1,
+    "https://www.linkedin.com/jobs/view/staff-engineer-i-at-braun-intertec-corporation-4430283173": 1,
+    "https://www.linkedin.com/jobs/view/production-laborer-at-best-block-company-4441137318": 1,
+    "https://www.linkedin.com/jobs/view/marketing-engineer-at-harvey-4441115990": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-programs-operations-manager-at-doubleverify-4414263562": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-paddle-4449201311": 1,
+    "https://www.linkedin.com/jobs/view/outbound-calling-international-sales-night-shift-at-emaymar-4450270610": 1,
+    "https://www.linkedin.com/jobs/view/cold-caller-lead-generation-specialist-at-join-the-byte-llc-4450718465": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-scalysis-4450722056": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-lead-generation-executive-at-skyline-global-consulting-4450714306": 1,
+    "https://www.linkedin.com/jobs/view/key-accounts-executive-at-unilever-4450339667": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3082,7 +3082,7 @@
   },
   "stats": {
     "date": "2026-08-07",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
