@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/trenchless-geotechnical-team-lead-at-hdr-4411726827": 1,
     "https://www.linkedin.com/jobs/view/%e5%85%b6%e4%bb%96%e7%a7%91%e7%a0%94%e8%81%8c%e4%bd%8d-at-%e4%b8%ad%e4%ba%a4%e4%ba%8c%e8%88%aa%e5%b1%80%e4%ba%94%e5%85%ac%e5%8f%b8-4445875204": 1,
     "https://www.linkedin.com/jobs/view/concrete-laboratory-technician-at-oldcastle-apg-4445839979": 1,
     "https://www.linkedin.com/jobs/view/laboratory-technician-at-intertek-building-construction-4390759390": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-sharegate-4450778346": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-en-d%c3%a9veloppement-des-ventes-%e2%80%94-sharegate-at-sharegate-4450772616": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-trucker-path-4450374700": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-localmovers-com-4450359739": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-localmovers-com-4450359739": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-technician-at-terracon-4448167623": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3087,7 +3087,7 @@
   },
   "stats": {
     "date": "2026-08-07",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
