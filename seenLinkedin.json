@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%f0%9f%8e%9b%ef%b8%8f-realiz%c3%a1tor-online-%c5%a1kolen%c3%ad-at-videolektor-4445850625": 1,
-    "https://www.linkedin.com/jobs/view/executive-english-facilitator-at-johana-caro-academy-4448104673": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-the-legal-habitat-4445859633": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-kadence-4448109563": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-india-at-signalmash-4447661525": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4447669247": 1,
-    "https://www.linkedin.com/jobs/view/global-strategic-partner-manager-at-catalis-partners-group-4447661388": 1,
-    "https://www.linkedin.com/jobs/view/founding-head-of-channel-partnerships-%24240k-%24280k-ote-%2b-equity-at-hyperbound-at-jack-jill-4447665293": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-shayk-media-co-4445861074": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-talent-share-corporation-4448116613": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4447660386": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24100k-%24150k-%2b-equity-at-karumi-at-jack-jill-4447650737": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-chicago-at-aikido-security-4447898600": 1,
     "https://www.linkedin.com/jobs/view/project-engineering-manager-at-the-green-recruitment-company-4447662288": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-ml-ops-at-vc-backed-multimodal-ai-startup-at-jack-jill-4447660400": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/lead-generation-executive-upto-20k-graduated-at-mg-4450096926": 1,
     "https://www.linkedin.com/jobs/view/outreach-marketing-professional-at-ramaiah-university-of-applied-sciences-4448771167": 1,
     "https://www.linkedin.com/jobs/view/partnerships-and-outreach-associate-at-iteach-schools-4450086804": 1,
-    "https://www.linkedin.com/jobs/view/executive-at-iicci-the-indo-italian-chamber-of-commerce-and-industry-4448767039": 1
+    "https://www.linkedin.com/jobs/view/executive-at-iicci-the-indo-italian-chamber-of-commerce-and-industry-4448767039": 1,
+    "https://www.linkedin.com/jobs/view/engineering-technician-ii-at-terracon-4447882554": 1,
+    "https://www.linkedin.com/jobs/view/pohjatutkija-at-afry-4422952650": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-new-york-city-new-york-at-check-point-ai-security-4414167453": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-basis-4392103875": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-greenhonchos-4450067642": 1,
+    "https://www.linkedin.com/jobs/view/d2c-junior-performance-marketing-executive-upto-20k-at-beyond-border-consultants-4450312294": 1,
+    "https://www.linkedin.com/jobs/view/d2c-junior-performance-marketing-executive-upto-20k-at-beyond-border-consultants-4450301994": 1,
+    "https://www.linkedin.com/jobs/view/gtm-ai-operations-manager-at-rippling-4433094625": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-appxite-4448768301": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-at-sigli-4448757908": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-portfolio-at-cisco-4450085896": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-corporates-saas-at-thomson-reuters-4431835616": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3082,7 +3082,7 @@
   },
   "stats": {
     "date": "2026-08-07",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
