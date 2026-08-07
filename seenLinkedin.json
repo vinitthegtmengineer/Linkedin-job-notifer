@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-partner-enablement-engineer-at-arlo-technologies-inc-4441021072": 1,
-    "https://www.linkedin.com/jobs/view/sr-engineer-development-operations-at-lumicera-health-services-4440001258": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4448156767": 1,
-    "https://www.linkedin.com/jobs/view/senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4448163675": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-ops-americas-at-ladders-4445894361": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-work-from-home-at-hired-4448126722": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-application-house-4447697520": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-work-from-home-at-hired-4448136561": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-digital-marketing-executive-at-visa-master-canada-vmc-4447683293": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-fetchjobs-co-4447463937": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-executive-at-abyssian-4445881739": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-salaryguide-4448148280": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-executive-at-stanley-black-decker-inc-4361056964": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-yofc-4447913252": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-scout-global-4445868724": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-pricepoint-4450778918": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-at-jobber-4449232463": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-klipboard-4450748167": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-klipboard-4450744231": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-klipboard-4450744231": 1,
+    "https://www.linkedin.com/jobs/view/measurement-technician-liquids-at-energy-transfer-4450755249": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-vopak-4441697980": 1,
+    "https://www.linkedin.com/jobs/view/technician-at-call-nicholas-4451001053": 1,
+    "https://www.linkedin.com/jobs/view/custom-builder-at-kempsville-building-materials-4451002296": 1,
+    "https://www.linkedin.com/jobs/view/casework-assembler-at-kempsville-building-materials-4450782911": 1,
+    "https://www.linkedin.com/jobs/view/strategic-solutions-engineer-at-glean-4450798385": 1,
+    "https://www.linkedin.com/jobs/view/strategic-solutions-engineer-at-glean-4450793540": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-marketing-sdr-at-fireworks-ai-4450788612": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-based-in-egypt-at-dia-4439241078": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-brandhero-4450396198": 1,
+    "https://www.linkedin.com/jobs/view/sales-outreach-specialist-at-napollo-software-design-4448793152": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-saas-at-avetta-4450746974": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3083,13 +3083,14 @@
     "gtm engineer|||mercor": "2026-08-07T19:33:02.994Z",
     "founding gtm lead|||river ai": "2026-08-07T19:33:04.467Z",
     "outreach specialist|||search homeless services": "2026-08-07T19:33:05.946Z",
-    "gtm strategy & ops|||finch": "2026-08-07T21:05:36.959Z"
+    "gtm strategy & ops|||finch": "2026-08-07T21:05:36.959Z",
+    "gtm engineer, marketing & sdr|||fireworks ai": "2026-08-07T23:52:00.168Z"
   },
   "stats": {
     "date": "2026-08-07",
-    "cyclesToday": 21,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 22,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
