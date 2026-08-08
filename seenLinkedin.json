@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-esketchers-4447980525": 1,
-    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4447994463": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4447992588": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-general-contractors-canada-at-procore-technologies-4448300900": 1,
     "https://www.linkedin.com/jobs/view/urgent-business-development-representative-technology-permanent-hybrid-urgent-repr%c3%a9sentant-du-d%c3%a9veloppement-commercial-technologie-permanent-hybride-at-vtrac-consulting-corporation-wbe-4432122561": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-confidential-jobs-4450788240": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-4450718239": 1,
     "https://www.linkedin.com/jobs/view/manager-sales-india-at-tata-communications-4450369850": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1,
+    "https://www.linkedin.com/jobs/view/sdr-us-market-at-bpo-impact-4448794814": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4448396499": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3093,7 +3093,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
