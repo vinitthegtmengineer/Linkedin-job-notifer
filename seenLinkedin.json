@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-at-axxello-4448195455": 1,
-    "https://www.linkedin.com/jobs/view/join-our-talent-community-%e2%80%93-digital-project-engineers-process-industries-latam-at-abb-4448192864": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-manager-at-docusign-women-in-sales-4447981797": 1,
     "https://www.linkedin.com/jobs/view/growth-strategy-operations-manager-at-docusign-women-in-sales-4447983757": 1,
     "https://www.linkedin.com/jobs/view/founding-go-to-market-business-development-at-fortmind-ai-4447900510": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-operations-at-moloco-4381916968": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/manager-ai-agent-operator-marketing-at-turn-river-capital-4405452536": 1,
     "https://www.linkedin.com/jobs/view/gtm-associate-%c2%a340k-%c2%a350k-%2b-equity-at-passion-labs-at-jack-jill-4450906964": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-marketplace-for-creative-talent-at-jack-jill-4450923370": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-growth-associate-%e2%80%93-business-development-at-jobs-in-islamabad-rawalpindi-jir-4449261581": 1
+    "https://www.linkedin.com/jobs/view/e-commerce-growth-associate-%e2%80%93-business-development-at-jobs-in-islamabad-rawalpindi-jir-4449261581": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4450382670": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-retail-at-lightspeed-commerce-4402818996": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4449258048": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3096,7 +3096,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
