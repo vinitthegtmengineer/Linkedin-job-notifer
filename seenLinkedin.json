@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4447992588": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-general-contractors-canada-at-procore-technologies-4448300900": 1,
-    "https://www.linkedin.com/jobs/view/urgent-business-development-representative-technology-permanent-hybrid-urgent-repr%c3%a9sentant-du-d%c3%a9veloppement-commercial-technologie-permanent-hybride-at-vtrac-consulting-corporation-wbe-4432122561": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-field-sales-at-yadag-4447998197": 1,
-    "https://www.linkedin.com/jobs/view/d%c3%a9veloppement-des-affaires-et-ventes-at-hellodarwin-4438285965": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-assemble-4447188823": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-golden-hawk-technologies-4446215650": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-tallysis-4448306439": 1,
-    "https://www.linkedin.com/jobs/view/program-growth-associate-at-job-in-30-days%e2%84%a2-4446210603": 1,
-    "https://www.linkedin.com/jobs/view/market-development-officer-at-fermi-ai-4448148357": 1,
-    "https://www.linkedin.com/jobs/view/admin-operations-assistant-at-mansfield-black-4446226206": 1,
-    "https://www.linkedin.com/jobs/view/event-specialist-at-chartwell-law-4445556308": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-remote-job-opportunity-in-dubai-at-ejobsboard-4447986590": 1,
-    "https://www.linkedin.com/jobs/view/online-booking-scheduling-coordinator-at-destination-careers-4445896939": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-4446230381": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-sales-account-manager-at-offiga-4447696381": 1,
     "https://www.linkedin.com/jobs/view/account-executive-4446223097": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-shreeji-tastes-pvt-ltd-4446223608": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-allegis-global-solutions-4431903423": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/manager-sales-india-at-tata-communications-4450369850": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1,
     "https://www.linkedin.com/jobs/view/sdr-us-market-at-bpo-impact-4448794814": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4448396499": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4448396499": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-braun-intertec-corporation-4372611921": 1,
+    "https://www.linkedin.com/jobs/view/deep-foundations-superintendent-at-kiewit-4440782381": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-and-post-sales-smb-at-attio-4344033878": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-us-remote-at-dash0-4331740097": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-arcade-4450798399": 1,
+    "https://www.linkedin.com/jobs/view/manager-growth-at-runna-4450578408": 1,
+    "https://www.linkedin.com/jobs/view/manager-applications-and-solutions-gtm-at-tenstorrent-4441363507": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-manager-at-lead-stack-media-4451073051": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-contract-at-palo-alto-networks-4441386835": 1,
+    "https://www.linkedin.com/jobs/view/journey-operations-specialist-at-macy-s-4442136910": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-zurich-at-keepit-4423020206": 1,
+    "https://www.linkedin.com/jobs/view/cold-callers-at-progrid-pk-4449261374": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%94-outbound-at-traincrest-technologies-pvt-ltd-4450907592": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-quantcast-4442187319": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-snowflake-4424949076": 1,
+    "https://www.linkedin.com/jobs/view/outreach-retention-specialist-youth-queens-at-ahrc-new-york-city-4450907610": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3089,13 +3089,14 @@
     "gtm engineer - partnerships|||sapphire partners": "2026-08-08T04:31:34.838Z",
     "gtm engineer - partnerships|||basis set": "2026-08-08T07:12:41.051Z",
     "gtm engineer|||felicis": "2026-08-08T08:03:24.475Z",
-    "growth associate | €50k base | ai-ops startup | berlin|||genz4gtm": "2026-08-08T13:05:52.007Z"
+    "growth associate | €50k base | ai-ops startup | berlin|||genz4gtm": "2026-08-08T13:05:52.007Z",
+    "manager, applications and solutions gtm|||tenstorrent": "2026-08-08T16:56:24.649Z"
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 19,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 20,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
