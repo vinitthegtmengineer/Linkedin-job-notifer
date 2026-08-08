@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-specialist-at-wordsmith-learning-hub-4447925406": 1,
-    "https://www.linkedin.com/jobs/view/telesales-agent-outbound-at-dubizzle-4445897881": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cloudhire-4447906566": 1,
     "https://www.linkedin.com/jobs/view/telesales-representative-at-uncover-wellness-4446765038": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-contactloop-4447912065": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/growth-hacker-at-smart-interviews-4450904130": 1,
     "https://www.linkedin.com/jobs/view/founding-sdr-at-jdmc-decor-4450584621": 1,
     "https://www.linkedin.com/jobs/view/telecaller-4448779506": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4420121669": 1
+    "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4420121669": 1,
+    "https://www.linkedin.com/jobs/view/skilled-laborer-at-granite-construction-4441356533": 1,
+    "https://www.linkedin.com/jobs/view/senior-revops-engineer-h-f-at-nopillo-4450775252": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3092,7 +3092,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
