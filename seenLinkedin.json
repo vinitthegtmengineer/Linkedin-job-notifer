@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gestor-de-tr%c3%a1fego-pago-4448199880": 1,
-    "https://www.linkedin.com/jobs/view/crm-marketing-manager-at-ancestry-4440047341": 1,
-    "https://www.linkedin.com/jobs/view/amazon-advertising-content-execution-manager-italy-at-bayer-4448312779": 1,
-    "https://www.linkedin.com/jobs/view/amazon-ppc-manager-at-aifco-4446237093": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-practifi-4439380310": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-investengine-4435971662": 1,
     "https://www.linkedin.com/jobs/view/senior-director-global-marketing-operations-at-ladders-4446205248": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-us-market-india-at-sid-global-solutions-4404772335": 1,
     "https://www.linkedin.com/jobs/view/district-account-manager-at-johnson-johnson-medtech-4405238237": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-full-time-position-at-city-wide-facility-solutions-4450513569": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representatives-usa-campaign-at-keystone-medics-4449260742": 1
+    "https://www.linkedin.com/jobs/view/business-development-representatives-usa-campaign-at-keystone-medics-4449260742": 1,
+    "https://www.linkedin.com/jobs/view/specialist-growth-conversion-at-athena-4432964659": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-stealth-startup-4449271596": 1,
+    "https://www.linkedin.com/jobs/view/telesales-executive-at-osphere-group-4449272512": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4449264681": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3096,7 +3096,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
