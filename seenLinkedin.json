@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/uas-operator-level-iii-at-owt-global-llc-4435838785": 1,
-    "https://www.linkedin.com/jobs/view/red-team-operator-at-ciena-4439155577": 1,
-    "https://www.linkedin.com/jobs/view/berpengalaman-at-gladiol-nusatama-4447696099": 1,
-    "https://www.linkedin.com/jobs/view/histotechnologist-4447988382": 1,
-    "https://www.linkedin.com/jobs/view/requirement-in-sikkim-university-a-central-university-apr-2020requirement-in-sikkim-university-a-central-university-apr-2020-at-governmentjobsindia-net-4447655466": 1,
-    "https://www.linkedin.com/jobs/view/technical-assistant-all-genders-at-ivoclar-emea-4440736609": 1,
-    "https://www.linkedin.com/jobs/view/senior-civil-engineer-geotechnical-at-klohn-crippen-berger-4448113685": 1,
-    "https://www.linkedin.com/jobs/view/assessor-de-infraestrutura-florian%c3%b3polis-departamento-regional-at-sesc-santa-catarina-4446226657": 1,
-    "https://www.linkedin.com/jobs/view/senior-civil-engineer-geotechnical-at-klohn-crippen-berger-4447664535": 1,
-    "https://www.linkedin.com/jobs/view/lulusan-baru-at-gladiol-nusatama-4447679465": 1,
-    "https://www.linkedin.com/jobs/view/grossing-technician-31364-at-gi-alliance-4422023955": 1,
     "https://www.linkedin.com/jobs/view/pediatric-rheumatologist-rheumatologic-disease-at-baylor-scott-white-health-4421342809": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-at-pellera-technologies-4446231123": 1,
     "https://www.linkedin.com/jobs/view/vice-president-advisor-consultant-at-ladders-4445887488": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-credhive-4451048440": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-digiteam-solutions-4450704939": 1,
     "https://www.linkedin.com/jobs/view/community-liaison-at-oceans-healthcare-4450597716": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-representative-at-alpine-physician-partners-4433853978": 1
+    "https://www.linkedin.com/jobs/view/community-outreach-representative-at-alpine-physician-partners-4433853978": 1,
+    "https://www.linkedin.com/jobs/view/production-team-member-at-oldcastle-infrastructure-4449256823": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-turner-industries-4451301315": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-lorum-4441363626": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-ecosystem-gtm-retail-and-supply-chain-at-nvidia-4441369533": 1,
+    "https://www.linkedin.com/jobs/view/media-buyer-at-ashash-4449256759": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-marketplace-for-creative-talent-at-jack-jill-4450902694": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-recognize-4450553498": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-leap-media-4449274175": 1,
+    "https://www.linkedin.com/jobs/view/hni-client-engagement-at-zigsaw-4450593810": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-urnish-tech-4449269256": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-avepoint-4404446599": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3094,7 +3094,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
