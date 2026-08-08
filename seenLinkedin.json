@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-4446223097": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-shreeji-tastes-pvt-ltd-4446223608": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-allegis-global-solutions-4431903423": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-juniors-group-of-companies-4447920888": 1,
     "https://www.linkedin.com/jobs/view/senior-business-development-executive-at-turbowing-aviation-4447939372": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-the-catalysts-group-4447907518": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%94-outbound-at-traincrest-technologies-pvt-ltd-4450907592": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-quantcast-4442187319": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-snowflake-4424949076": 1,
-    "https://www.linkedin.com/jobs/view/outreach-retention-specialist-youth-queens-at-ahrc-new-york-city-4450907610": 1
+    "https://www.linkedin.com/jobs/view/outreach-retention-specialist-youth-queens-at-ahrc-new-york-city-4450907610": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-london-at-sease-information-retrieval-applied-4450910491": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-mentor-global-4449273077": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-4448794939": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3094,7 +3094,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
