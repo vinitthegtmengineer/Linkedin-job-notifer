@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-strategy-operations-manager-at-docusign-women-in-sales-4447983757": 1,
-    "https://www.linkedin.com/jobs/view/founding-go-to-market-business-development-at-fortmind-ai-4447900510": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-operations-at-moloco-4381916968": 1,
-    "https://www.linkedin.com/jobs/view/crm-campaign-manager-at-ladders-4445899314": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-ugc-creation-ai-workflow-at-clover-labs-4448172306": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-ocushield%c2%ae-4448172126": 1,
     "https://www.linkedin.com/jobs/view/gestor-de-tr%c3%a1fego-pago-4448199880": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/e-commerce-growth-associate-%e2%80%93-business-development-at-jobs-in-islamabad-rawalpindi-jir-4449261581": 1,
     "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4450382670": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-retail-at-lightspeed-commerce-4402818996": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4449258048": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4449258048": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-wolf-construction-inc-4450919111": 1,
+    "https://www.linkedin.com/jobs/view/outbound-calling-executive-usa-at-abs-international-4449267577": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-us-market-india-at-sid-global-solutions-4404772335": 1,
+    "https://www.linkedin.com/jobs/view/district-account-manager-at-johnson-johnson-medtech-4405238237": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3096,7 +3096,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
