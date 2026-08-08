@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-blacksmith-agency-4448117709": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-safvr-4447674820": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-insightful-4445895250": 1,
     "https://www.linkedin.com/jobs/view/fieldman-at-western-midstream-4448177736": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-station-f-4450505962": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-vien-digital-4329321001": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451047165": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451046202": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451046202": 1,
+    "https://www.linkedin.com/jobs/view/senior-media-executive-at-sw-network-sociowash-4448763183": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3090,7 +3090,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
