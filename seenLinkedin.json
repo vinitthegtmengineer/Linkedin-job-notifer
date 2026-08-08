@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-at-pragmatike-4448312036": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-at-pragmatike-4448313009": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-temu-4447937836": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-at-pragmatike-4448190931": 1,
-    "https://www.linkedin.com/jobs/view/airborne-operator-at-geodigital-4448326696": 1,
-    "https://www.linkedin.com/jobs/view/uas-operator-1-at-owt-global-llc-4448381283": 1,
     "https://www.linkedin.com/jobs/view/uas-operator-level-iii-at-owt-global-llc-4435838785": 1,
     "https://www.linkedin.com/jobs/view/red-team-operator-at-ciena-4439155577": 1,
     "https://www.linkedin.com/jobs/view/berpengalaman-at-gladiol-nusatama-4447696099": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-territory-account-executive-egypt-at-cloudflare-4410303170": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-at-leansys-i-t-solutions-4450306058": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-ba-performance-4450753956": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-permanent-work-from-home-at-emma-of-torre-ai-4451009031": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-permanent-work-from-home-at-emma-of-torre-ai-4451009031": 1,
+    "https://www.linkedin.com/jobs/view/water-plant-operator-big-spring-tx-at-delek-us-4439277291": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-careklick-formerly-insureklick-4450927213": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-credhive-4451048440": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-digiteam-solutions-4450704939": 1,
+    "https://www.linkedin.com/jobs/view/community-liaison-at-oceans-healthcare-4450597716": 1,
+    "https://www.linkedin.com/jobs/view/community-outreach-representative-at-alpine-physician-partners-4433853978": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3094,7 +3094,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
