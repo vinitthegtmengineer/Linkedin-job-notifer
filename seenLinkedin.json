@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-executive-at-stanley-black-decker-inc-4361056964": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-yofc-4447913252": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-scout-global-4445868724": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-levelupformenn-4447474244": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-coordinator-d2c-at-carhartt-4448146806": 1,
-    "https://www.linkedin.com/jobs/view/managing-director-marketing-services-at-huge-4411751268": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-coordinator-at-remotehunter-4447907229": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-vai-4446207002": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-kaizo-4448161422": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-representative-at-real-hires-4447066392": 1,
     "https://www.linkedin.com/jobs/view/manager-outbound-demand-generation-b2b-abm-at-duratuf-products-pvt-ltd-4448158774": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-at-dhl-express-4448160220": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-based-in-egypt-at-dia-4439241078": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-brandhero-4450396198": 1,
     "https://www.linkedin.com/jobs/view/sales-outreach-specialist-at-napollo-software-design-4448793152": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-saas-at-avetta-4450746974": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-saas-at-avetta-4450746974": 1,
+    "https://www.linkedin.com/jobs/view/home-building-team-member-at-clayton-4450502602": 1,
+    "https://www.linkedin.com/jobs/view/roof-build-at-clayton-4450506236": 1,
+    "https://www.linkedin.com/jobs/view/mfg-trim-at-clayton-4450392828": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-growth-engineer-%c2%a365k-%c2%a380k-%2b-equity-at-readywhen-at-jack-jill-4450529243": 1,
+    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4450515635": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4450515630": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-email-campaign-production-at-tungsten-automation-4423336789": 1,
+    "https://www.linkedin.com/jobs/view/findymail-email-finder-real-time-b2b-emails-you-can-use-right-now-at-philip-simpson-4451012690": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-at-jobber-4449243120": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3084,13 +3084,14 @@
     "founding gtm lead|||river ai": "2026-08-07T19:33:04.467Z",
     "outreach specialist|||search homeless services": "2026-08-07T19:33:05.946Z",
     "gtm strategy & ops|||finch": "2026-08-07T21:05:36.959Z",
-    "gtm engineer, marketing & sdr|||fireworks ai": "2026-08-07T23:52:00.168Z"
+    "gtm engineer, marketing & sdr|||fireworks ai": "2026-08-07T23:52:00.168Z",
+    "mfg trim|||clayton": "2026-08-08T01:48:26.227Z"
   },
   "stats": {
-    "date": "2026-08-07",
-    "cyclesToday": 22,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "date": "2026-08-08",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
