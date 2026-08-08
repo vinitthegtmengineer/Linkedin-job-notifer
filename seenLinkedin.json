@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-representative-at-real-hires-4447066392": 1,
-    "https://www.linkedin.com/jobs/view/manager-outbound-demand-generation-b2b-abm-at-duratuf-products-pvt-ltd-4448158774": 1,
-    "https://www.linkedin.com/jobs/view/telesales-executive-at-dhl-express-4448160220": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-25k-per-month-at-deck-mount-electronics-4447915023": 1,
-    "https://www.linkedin.com/jobs/view/cold-outreach-specialist-remote-at-elite-it-team-4445885193": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-tech-one-global-ltd-4447916220": 1,
-    "https://www.linkedin.com/jobs/view/virtual-professional-at-nkr-4447902640": 1,
-    "https://www.linkedin.com/jobs/view/national-key-account-manager-pharmacy-at-clinigen-4448157107": 1,
-    "https://www.linkedin.com/jobs/view/national-key-account-manager-pharmacy-at-clinigen-4448140991": 1,
-    "https://www.linkedin.com/jobs/view/national-key-account-manager-pharmacy-at-clinigen-4448152192": 1,
     "https://www.linkedin.com/jobs/view/account-executive-australia-saas-iot-develop-australian-country-market-at-keycafe-4448149985": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-stackadapt-4448156762": 1,
     "https://www.linkedin.com/jobs/view/sr-tiktok-account-manager-at-jobgether-4447699156": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4450515630": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-email-campaign-production-at-tungsten-automation-4423336789": 1,
     "https://www.linkedin.com/jobs/view/findymail-email-finder-real-time-b2b-emails-you-can-use-right-now-at-philip-simpson-4451012690": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-at-jobber-4449243120": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-at-jobber-4449243120": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-days-hunter-stone-at-martin-marietta-4433333620": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4451024427": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-junior-technician-technologist-at-stantec-4450515790": 1,
+    "https://www.linkedin.com/jobs/view/job-title-at-empire-waterproofing-and-painting-llc-4450795612": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-helper-at-baker-construction-4450398224": 1,
+    "https://www.linkedin.com/jobs/view/sales-enablement-lead-at-console-4441158635": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4448785706": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-sdr-at-krid-ai-4450342679": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-rival-technologies-4451011974": 1,
+    "https://www.linkedin.com/jobs/view/community-relations-specialist-at-aveanna-healthcare-4451005112": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3089,7 +3089,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
