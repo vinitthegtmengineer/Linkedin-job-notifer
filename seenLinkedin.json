@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-safvr-4447674820": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-insightful-4445895250": 1,
-    "https://www.linkedin.com/jobs/view/fieldman-at-western-midstream-4448177736": 1,
-    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-dal-tile-llc-4431315953": 1,
-    "https://www.linkedin.com/jobs/view/technician-pipeline-midland-andrews-area-location-incentives-at-enterprise-products-4422027596": 1,
-    "https://www.linkedin.com/jobs/view/o-m-technician-ii-iii-at-veolia-north-america-4445944202": 1,
-    "https://www.linkedin.com/jobs/view/driller-exploration-team-member-iii-at-terracon-4446745748": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-staff-project-manager-at-ecs-group-of-companies-4448191843": 1,
     "https://www.linkedin.com/jobs/view/cmt-principal-at-ecs-group-of-companies-4448189841": 1,
     "https://www.linkedin.com/jobs/view/raw-materials-quarry-environmental-specialist-at-kebe-s-a-4448166998": 1,
     "https://www.linkedin.com/jobs/view/set-up-laborer-at-wells-4446209069": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-vien-digital-4329321001": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451047165": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451046202": 1,
-    "https://www.linkedin.com/jobs/view/senior-media-executive-at-sw-network-sociowash-4448763183": 1
+    "https://www.linkedin.com/jobs/view/senior-media-executive-at-sw-network-sociowash-4448763183": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-at-killam-development-4451039595": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-vopak-4441902728": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4450590004": 1,
+    "https://www.linkedin.com/jobs/view/client-servicing-executive-sr-executive-%e2%80%94-digital-marketing-at-msm-unify-india-4451042670": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-verto-4450706477": 1,
+    "https://www.linkedin.com/jobs/view/sales-calling-executive-4450072185": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-accordible-4448751206": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-rogo-4450777527": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3090,7 +3090,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
