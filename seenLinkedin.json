@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/jefe-de-cqa-arequipa-at-oca-global-4439786873": 1,
-    "https://www.linkedin.com/jobs/view/asistente-de-cqa-arequipa-at-oca-global-4439795607": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-uk-at-postman-4337155233": 1,
-    "https://www.linkedin.com/jobs/view/senior-customer-engineer-majors-san-francisco-at-cloudflare-4354172073": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4448311644": 1,
     "https://www.linkedin.com/jobs/view/solution-engineer-at-monday-com-4447065406": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-fonoa-4305147772": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/linkedin-lead-generation-expert-remote-at-the-kahanikaars-4450909043": 1,
     "https://www.linkedin.com/jobs/view/junior-community-manager-at-student-tribe-4450900431": 1,
     "https://www.linkedin.com/jobs/view/commercial-account-executive-uae-at-salesforce-4442159020": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sg-services-group-4450520837": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sg-services-group-4450520837": 1,
+    "https://www.linkedin.com/jobs/view/operations-technician-at-targa-resources-4441707678": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-at-subyarth-craft-pvt-ltd-4450905172": 1,
+    "https://www.linkedin.com/jobs/view/expression-of-interest-sales-development-representative-toronto-at-darktrace-4414691077": 1,
+    "https://www.linkedin.com/jobs/view/cold-calling-specialist-at-evolve-media-house-4449242606": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3093,7 +3093,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
