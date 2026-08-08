@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-marketing-operations-at-kami-4441111138": 1,
-    "https://www.linkedin.com/jobs/view/junior-conversion-rate-optimization-cro-specialist-remote-at-invesp-4447947915": 1,
-    "https://www.linkedin.com/jobs/view/junior-conversion-rate-optimization-cro-specialist-remote-at-invesp-4447951099": 1,
-    "https://www.linkedin.com/jobs/view/commercial-operations-manager-i-at-tabby-%d8%aa%d8%a7%d8%a8%d9%8a-4402938331": 1,
-    "https://www.linkedin.com/jobs/view/business-operations-lead-at-huspy-4431858579": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-and-digital-experience-remote-at-ladders-4445886473": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-pax-recruiting-4447676471": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revops-at-otto-sport-ai-4447641992": 1,
-    "https://www.linkedin.com/jobs/view/resource-and-workflow-manager-at-west-midlands-combined-authority-4448150331": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-at-trading-212-4446212008": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-lead-us-at-granola-4402717850": 1,
     "https://www.linkedin.com/jobs/view/startup-business-development-lead-snowflake-for-startups-at-snowflake-4411948590": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-manager-at-monday-com-4444425896": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-manufacto-india-pvt-ltd-4450578842": 1,
     "https://www.linkedin.com/jobs/view/growth-associate-freshers-at-eduabroad-4450591023": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-gremadius-4450571952": 1,
-    "https://www.linkedin.com/jobs/view/business-development-digital-marketing-at-qugates-technologies-4450577676": 1
+    "https://www.linkedin.com/jobs/view/business-development-digital-marketing-at-qugates-technologies-4450577676": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-felicis-4450583619": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4450582733": 1,
+    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4450902029": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4451065019": 1,
+    "https://www.linkedin.com/jobs/view/ai-first-performance-marketing-manager-at-gymnation-4450562642": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-upto-20k-graduated-at-mg-4450303763": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-uk-at-leena-ai-4450577653": 1,
+    "https://www.linkedin.com/jobs/view/growth-and-distribution-hacker-4450592251": 1,
+    "https://www.linkedin.com/jobs/view/outreach-case-manager-at-the-university-of-arizona-college-of-nursing-4448775457": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-at-clickup-4451040935": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3087,13 +3087,14 @@
     "gtm engineer, marketing & sdr|||fireworks ai": "2026-08-07T23:52:00.168Z",
     "mfg trim|||clayton": "2026-08-08T01:48:26.227Z",
     "gtm engineer - partnerships|||sapphire partners": "2026-08-08T04:31:34.838Z",
-    "gtm engineer - partnerships|||basis set": "2026-08-08T07:12:41.051Z"
+    "gtm engineer - partnerships|||basis set": "2026-08-08T07:12:41.051Z",
+    "gtm engineer|||felicis": "2026-08-08T08:03:24.475Z"
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 6,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 7,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
