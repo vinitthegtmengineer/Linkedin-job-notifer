@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-lead-us-at-granola-4402717850": 1,
-    "https://www.linkedin.com/jobs/view/startup-business-development-lead-snowflake-for-startups-at-snowflake-4411948590": 1,
-    "https://www.linkedin.com/jobs/view/ai-gtm-manager-at-monday-com-4444425896": 1,
-    "https://www.linkedin.com/jobs/view/gtm-partnerships-specialist-at-stealth-startup-4445881818": 1,
-    "https://www.linkedin.com/jobs/view/manager-revenue-strategy-enablement-sg-sea-at-airwallex-4363235496": 1,
-    "https://www.linkedin.com/jobs/view/gtm-partnerships-specialist-33327-at-stealth-startup-4446202582": 1,
-    "https://www.linkedin.com/jobs/view/marketing-advertising-executive-at-the-branding-studio-4447969641": 1,
-    "https://www.linkedin.com/jobs/view/amazon-ppc-executive-%e2%80%93-noida-at-fk-sports-4447907393": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-flora-fountain-digital-marketing-agency-4445885492": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-akaame-export-private-limited-4445873866": 1,
-    "https://www.linkedin.com/jobs/view/search-engine-marketing-executive-at-media-nv-4446212210": 1,
-    "https://www.linkedin.com/jobs/view/we-re-hiring-3-digital-marketing-executives-d2c-ecommerce-at-adycircle-4446211127": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4448193065": 1,
     "https://www.linkedin.com/jobs/view/paid-media-executive-at-scalesale-4445874947": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaign-operations-at-revolut-4402111313": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaign-operations-at-revolut-4402105996": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-uk-at-leena-ai-4450577653": 1,
     "https://www.linkedin.com/jobs/view/growth-and-distribution-hacker-4450592251": 1,
     "https://www.linkedin.com/jobs/view/outreach-case-manager-at-the-university-of-arizona-college-of-nursing-4448775457": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-at-clickup-4451040935": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-at-clickup-4451040935": 1,
+    "https://www.linkedin.com/jobs/view/laboratorista-at-sacyr-4450582848": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-noa-4450599139": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-scraft-studio-4450599080": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-the-elefant-4450591280": 1,
+    "https://www.linkedin.com/jobs/view/sdr-bdr-at-getwhy-4421358751": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-japan-at-notion-4334247990": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-lead-generation-specialist-b2b-digital-agency-at-xovotech-4449218956": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-executive-at-nexthire-4450088959": 1,
+    "https://www.linkedin.com/jobs/view/success-partnerships-executive-at-beebuddy-4450901185": 1,
+    "https://www.linkedin.com/jobs/view/outreach-marketing-assistant-manager-at-ramaiah-university-of-applied-sciences-4448769281": 1,
+    "https://www.linkedin.com/jobs/view/m4720-account-executive-at-fedex-4440546232": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-e11even-technologies-4450318287": 1,
+    "https://www.linkedin.com/jobs/view/executive-sales-at-larsen-toubro-4441980478": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3092,7 +3092,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
