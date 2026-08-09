@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-convex-4448845027": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-nominal-4448664976": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402327201": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4448257949": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-at-tyred-4448822646": 1,
     "https://www.linkedin.com/jobs/view/growth-engineer-at-bupa-t%c3%bcrkiye-4448812463": 1,
     "https://www.linkedin.com/jobs/view/lead-ai-gtm-operations-%e2%80%93-sales-development-at-avalara-4448620948": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-solvo-global-4449506881": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-hubspot-and-ai-workflows-at-syntasso-4450990616": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-syntasso-4450987629": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-let-sgastro-4449521418": 1
+    "https://www.linkedin.com/jobs/view/growth-marketer-at-let-sgastro-4449521418": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-technical-%2b-partners-at-lovable-4450995663": 1,
+    "https://www.linkedin.com/jobs/view/creative-strategist-performance-ads-at-ravel-4449515560": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-social-selling-expert-at-speak-10x-better-4451370608": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-executive-night-shift-at-techsoldier-bpo-4450936752": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3100,13 +3100,14 @@
     "growth marketing manager|||alefy": "2026-08-09T16:02:25.132Z",
     "gtm engineer (lifecycle & ai)|||cosign": "2026-08-09T18:03:09.461Z",
     "gtm engineer (+ equity) at lightwork ai|||jack & jill": "2026-08-09T20:13:13.413Z",
-    "gtm engineer (hubspot and ai workflows)|||syntasso": "2026-08-09T22:02:35.074Z"
+    "gtm engineer (hubspot and ai workflows)|||syntasso": "2026-08-09T22:02:35.074Z",
+    "gtm enablement - technical + partners|||lovable": "2026-08-09T22:47:15.276Z"
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 27,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 28,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
