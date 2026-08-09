@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/geotechnical-soils-and-construction-materials-laboratory-technician-level-1-at-bunnell-lammons-engineering-4448243380": 1,
-    "https://www.linkedin.com/jobs/view/research-associate-in-geotechnical-centrifuge-testing-at-the-university-of-sheffield-4446252627": 1,
-    "https://www.linkedin.com/jobs/view/technologist-at-infineum-4349437448": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-builder-team-of-one-at-highlevel-4380254435": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-engineer-at-turn-4448608780": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-%e2%80%93-founder-s-office-at-hansetherm-4446236813": 1,
     "https://www.linkedin.com/jobs/view/campaign-associate-affiliate-marketing-at-adzealous-media-pvt-ltd-4447953773": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-spectra-cure-clinic-4446204756": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-tawzef-for-recruitment-hr-consultancy-4448304815": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/outreach-intake-specialist-ii-at-endeavors-4450956008": 1,
     "https://www.linkedin.com/jobs/view/account-executive-portfolio-at-cisco-4451348280": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-4450932998": 1,
-    "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4450943593": 1
+    "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4450943593": 1,
+    "https://www.linkedin.com/jobs/view/special-inspector-at-ues-4424962159": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-automation-lead-at-guardio-4451344441": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-rivhit-%d7%a8%d7%99%d7%95%d7%95%d7%97%d7%99%d7%aa-%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%9c%d7%a0%d7%99%d7%94%d7%95%d7%9c-%d7%a2%d7%a1%d7%a7%d7%99%d7%9d-4451340549": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-strategy-operations-lead-at-staffgreat-com-4451333817": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-event-company-only-at-nexlance-4449507215": 1,
+    "https://www.linkedin.com/jobs/view/advertiser-meta-google-ads-instagram-linkedin-at-growvo-digital-4450935675": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3094,13 +3094,15 @@
     "gtm strategy & operations|||harvey": "2026-08-08T20:41:44.666Z",
     "gtm enablement manager|||sewerai": "2026-08-08T20:41:46.199Z",
     "backpanel|||clayton": "2026-08-09T02:23:02.246Z",
-    "gtm engineer – ai automation|||instaffo": "2026-08-09T03:59:17.938Z"
+    "gtm engineer – ai automation|||instaffo": "2026-08-09T03:59:17.938Z",
+    "growth marketing manager|||rivhit - ריווחית פתרונות לניהול עסקים": "2026-08-09T11:42:13.267Z",
+    "go-to-market strategy & operations lead|||staffgreat.com": "2026-08-09T11:42:14.762Z"
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 11,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 12,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
