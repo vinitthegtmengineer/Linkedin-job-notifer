@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/email-campaign-operations-specialist-at-bmc-software-4440004162": 1,
-    "https://www.linkedin.com/jobs/view/campaign-management-specialist-at-accenture-in-india-4448320561": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-100%25-remote-%241-200-to-%242-000-usd-per-month-ote-at-salas-staffing-4447047394": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-representative-at-real-hires-4448316139": 1,
-    "https://www.linkedin.com/jobs/view/client-outreach-and-customer-relations-officer-at-kd3-global-4446216854": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-wink-studio-1155-4446231139": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-shift-group-4438298775": 1,
     "https://www.linkedin.com/jobs/view/b2b-sales-representative-fluency-in-english-is-must-at-backendz-4429414904": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario-at-chit-chats-4448314789": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-%c2%a330k-%c2%a340k-at-openhuman-at-jack-jill-4450936106": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-canonical-4433364758": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-payhawk-4364343882": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-avepoint-4404441749": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-avepoint-4404441749": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-column-4424258465": 1,
+    "https://www.linkedin.com/jobs/view/business-engineer-business-agents-at-meta-4403706911": 1,
+    "https://www.linkedin.com/jobs/view/ai-personalization-and-growth-marketing-manager-at-tripadvisor-4424432914": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-manager-at-ppg-digital-4441507957": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-hr-egypt-network-hren-4451324833": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-issa-compass-4439880477": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3098,7 +3098,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
