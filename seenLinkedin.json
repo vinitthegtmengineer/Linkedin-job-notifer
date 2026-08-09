@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/inbound-bdr-at-postalytics-4448195292": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-i2c-inc-4447998763": 1,
-    "https://www.linkedin.com/jobs/view/junior-business-development-representative-at-ryza-4447994643": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-pinch-llc-4446232980": 1,
     "https://www.linkedin.com/jobs/view/remote-business-development-representative-at-task-buddie-virtual-assistance-services-4446236880": 1,
     "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-flexfactor-4447995868": 1,
     "https://www.linkedin.com/jobs/view/online-%e2%80%93-online-appointment-setter-booking-hotels-entry-level-at-destination-careers-4446217093": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/executive-sales-at-larsen-toubro-4434256534": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-canto-4405808303": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4449262767": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-market-at-ayming-4411580755": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-market-at-ayming-4411580755": 1,
+    "https://www.linkedin.com/jobs/view/staff-engineer-assistant-project-manager-construction-materials-testing-at-socotec-us-4433520762": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-stealth-ai-startup-4450921968": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-ultimutt%e2%84%a2-4450940820": 1,
+    "https://www.linkedin.com/jobs/view/ersea-outreach-ambassador-at-children-s-institute-4414945342": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3100,7 +3100,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
