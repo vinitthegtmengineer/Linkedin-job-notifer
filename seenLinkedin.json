@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-heatley-health-4448302819": 1,
-    "https://www.linkedin.com/jobs/view/vp-of-marketing-operations-at-royal-york-property-management-4445862394": 1,
-    "https://www.linkedin.com/jobs/view/delivery-lead-manager-at-accenture-in-india-4448352074": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-dach-region-at-beqom-4444155071": 1,
-    "https://www.linkedin.com/jobs/view/cold-outreach-specialist-email-linkedin-at-codeclever-4446232604": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-zaphyre-4448303942": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-chainpatrol-4448217071": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-ontario-at-gosecure-4446224879": 1,
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-b2b-platform-canada-market-at-littlebig-connection-4380026275": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/junior-materials-technician-prince-george-at-wsp-in-canada-4424253398": 1,
     "https://www.linkedin.com/jobs/view/quality-control-technician-at-riverbend-materials-4451039003": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-loxo-4451039136": 1,
-    "https://www.linkedin.com/jobs/view/junior-lead-generation-executive-at-devforest-inc-4448412925": 1
+    "https://www.linkedin.com/jobs/view/junior-lead-generation-executive-at-devforest-inc-4448412925": 1,
+    "https://www.linkedin.com/jobs/view/outcome-customer-engineer-ii-strategic-ai-and-independent-software-vendor-google-cloud-at-google-4433833049": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4450921393": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-anyscale-4430275286": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-fancysauce-inc-at-jack-jill-4450908966": 1,
+    "https://www.linkedin.com/jobs/view/senior-crm-automation-data-manager-all-genders-at-sunday-natural-4442152112": 1,
+    "https://www.linkedin.com/jobs/view/community-liaison-for-hospice-at-bjc-healthcare-4451304550": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3095,10 +3095,10 @@
     "gtm enablement manager|||sewerai": "2026-08-08T20:41:46.199Z"
   },
   "stats": {
-    "date": "2026-08-08",
-    "cyclesToday": 31,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "date": "2026-08-09",
+    "cyclesToday": 1,
+    "matchedToday": 0,
+    "sentToday": 0,
     "lastSummaryDate": ""
   }
 }
