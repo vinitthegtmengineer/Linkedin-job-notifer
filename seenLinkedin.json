@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-field-install-team-precast-at-work-at-county-4446299692": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-intuit-4448814206": 1,
-    "https://www.linkedin.com/jobs/view/cloud-operations-and-engineering-at-iassess-consultants-llp-4448273521": 1,
-    "https://www.linkedin.com/jobs/view/junior-mid-senior-software-developer-philippines-only-at-oboda-4446616149": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-overlay-at-openai-4446288585": 1,
-    "https://www.linkedin.com/jobs/view/growth-performance-marketing-executive-at-spectacom-global-4448829181": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-b2b-at-ultracare-pro-4446291720": 1,
     "https://www.linkedin.com/jobs/view/we-are-hiring-influencer-marketing-executive-noida-onsite-at-greenpista-4448814580": 1,
     "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-searchx-4446280735": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-allmind-4450991025": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-at-global-it-solutions-4449507695": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-yastudy-4449254748": 1,
-    "https://www.linkedin.com/jobs/view/outreach-development-specialist-at-myplace-health-4411506264": 1
+    "https://www.linkedin.com/jobs/view/outreach-development-specialist-at-myplace-health-4411506264": 1,
+    "https://www.linkedin.com/jobs/view/grout-pump-operator-beaumont-tx-at-bo-mac-contractors-ltd-4414742443": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-mudico-energy-pvt-ltd-4449501365": 1,
+    "https://www.linkedin.com/jobs/view/cm-ahmedabad-at-aditya-birla-capital-4434097012": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-representative-remote-south-africa-at-blacksmith-agency-4451351665": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-remote-south-africa-at-blacksmith-agency-4451352629": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-hackajob-4423975726": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3102,7 +3102,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
