@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-shift-group-4438298775": 1,
-    "https://www.linkedin.com/jobs/view/b2b-sales-representative-fluency-in-english-is-must-at-backendz-4429414904": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario-at-chit-chats-4448314789": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-100%25-remote-at-codevertex-talent-4446214054": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-assistant-100%25-remote-at-codevertex-system-4445893975": 1,
-    "https://www.linkedin.com/jobs/view/virtual-data-entry-assistant-100%25-remote-at-codevertex-operations-4446214055": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-assistant-100%25-remote-at-codevertex-operations-4446207824": 1,
     "https://www.linkedin.com/jobs/view/data-entry-typist-part-time-remote-at-codevertex-system-4445898931": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-representative-at-accenture-in-india-4448338338": 1,
     "https://www.linkedin.com/jobs/view/various-roles-4448227567": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/ai-personalization-and-growth-marketing-manager-at-tripadvisor-4424432914": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-manager-at-ppg-digital-4441507957": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-hr-egypt-network-hren-4451324833": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-issa-compass-4439880477": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-issa-compass-4439880477": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-lead-at-sourcix-4451347078": 1,
+    "https://www.linkedin.com/jobs/view/user-acquisition-specialist-at-rawa-games-4451331497": 1,
+    "https://www.linkedin.com/jobs/view/job-alert-apply-now-for-growth-hacker-role-at-onehash-4450926376": 1,
+    "https://www.linkedin.com/jobs/view/growth-community-manager-founding-team-role-4450944053": 1,
+    "https://www.linkedin.com/jobs/view/representative-at-ot-gr-4450584203": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-superoffice-crm-inc-4450913578": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-rimini-street-4424127531": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3098,7 +3098,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
