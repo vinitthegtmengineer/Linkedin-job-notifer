@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/talent-management-coordinator-at-pearpop-4448602502": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-events-at-opensesame-4448613550": 1,
     "https://www.linkedin.com/jobs/view/strategy-and-operations-associate-at-onetrack-ai-4448608511": 1,
     "https://www.linkedin.com/jobs/view/cold-calling-appointment-setting-specialist-mm-07302026-ft-ptccass-at-rippedboxstation-4448243461": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-at-cleardesk-4446247072": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/strategic-account-executive-automotive-industry-at-salesforce-4414686470": 1,
     "https://www.linkedin.com/jobs/view/account-executive-sri-lanka-at-salesforce-4414693280": 1,
     "https://www.linkedin.com/jobs/view/account-manager-at-airtel-4410164244": 1,
-    "https://www.linkedin.com/jobs/view/remote-business-development-representative-bdr-%e2%80%93-sourcing-partnerships-at-aurora-circularity-inc-4448445730": 1
+    "https://www.linkedin.com/jobs/view/remote-business-development-representative-bdr-%e2%80%93-sourcing-partnerships-at-aurora-circularity-inc-4448445730": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-kleinfelder-4395389799": 1,
+    "https://www.linkedin.com/jobs/view/assistant-geotechnical-engineer-kansas-city-at-burns-mcdonnell-4292404155": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3098,7 +3098,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
