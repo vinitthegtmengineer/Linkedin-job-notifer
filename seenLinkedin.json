@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-remote-full-time-hr207-at-smart-working-4446203545": 1,
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-d365-at-inceed-4448242911": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-tensec-4448666467": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-convex-4448845027": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-nominal-4448664976": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402327201": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/business-development-agents-usa-campaign-at-keystone-medics-4449522303": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-outbound-international-%0aindia-delhi-ncr-at-tide-4451362597": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-sweet-robo-4451366310": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-solvo-global-4449506881": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-solvo-global-4449506881": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-hubspot-and-ai-workflows-at-syntasso-4450990616": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-syntasso-4450987629": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketer-at-let-sgastro-4449521418": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3099,13 +3099,14 @@
     "go-to-market strategy & operations lead|||staffgreat.com": "2026-08-09T11:42:14.762Z",
     "growth marketing manager|||alefy": "2026-08-09T16:02:25.132Z",
     "gtm engineer (lifecycle & ai)|||cosign": "2026-08-09T18:03:09.461Z",
-    "gtm engineer (+ equity) at lightwork ai|||jack & jill": "2026-08-09T20:13:13.413Z"
+    "gtm engineer (+ equity) at lightwork ai|||jack & jill": "2026-08-09T20:13:13.413Z",
+    "gtm engineer (hubspot and ai workflows)|||syntasso": "2026-08-09T22:02:35.074Z"
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 26,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 27,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
