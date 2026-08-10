@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-engineer-remote-at-enablecomp-4446834706": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-revenue-enablement-at-prepass-4449032440": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-trenta-at-jack-jill-4448556464": 1,
-    "https://www.linkedin.com/jobs/view/amer-energy-industry-go-to-market-gtm-leader-at-databricks-4446669979": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-film-entertainment-tj-1865676-at-recruit-ai-4447510108": 1,
-    "https://www.linkedin.com/jobs/view/campaing-manager-at-impact-media-ai-marketing-agency-4446683423": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-lead-at-mumzworld-com-4448572157": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-iproyal-4446641573": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-m-w-d-at-passportcard-4446639715": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-growth-marketing-at-whatnot-4430838835": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-process-consultant-campaign-optimization-and-operations-at-ibm-4446638826": 1,
     "https://www.linkedin.com/jobs/view/marketing-experience-senior-associate-at-jpmorganchase-4440389280": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-senior-at-microsourcing-4440303046": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-digmarit-ltd-4451547860": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-vancouver-hybrid-at-boomi-4403747424": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4451182662": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-avici-4451198129": 1
+    "https://www.linkedin.com/jobs/view/growth-lead-at-avici-4451198129": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-field-technician-at-froehling-robertson-inc-4451555838": 1,
+    "https://www.linkedin.com/jobs/view/production-associate-and-builder-at-84-lumber-4451571089": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-river-ai-4451549971": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-at-salted-beauty-4451418205": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-matrix-solutions-4446804967": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-chainpatrol-4451419126": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-at-professional-staffing-4446913344": 1,
+    "https://www.linkedin.com/jobs/view/child-health-family-engagement-officer-at-wombto18-4451405087": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4451405261": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-mspbots-careers-4451410362": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3115,7 +3115,7 @@
   },
   "stats": {
     "date": "2026-08-10",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
