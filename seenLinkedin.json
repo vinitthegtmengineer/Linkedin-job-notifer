@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cadcam-operator-at-microsourcing-4440090832": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-dynamic-earth-at-dynamic-engineering-consultants-pc-4448260848": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-dynamic-earth-at-dynamic-engineering-consultants-pc-4448271628": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-strategy-manager-at-nooks-4439468471": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1,
-    "https://www.linkedin.com/jobs/view/floors-at-clayton-4448641995": 1,
-    "https://www.linkedin.com/jobs/view/manufacturing-team-member-exterior-bottoms-at-clayton-4448649814": 1,
-    "https://www.linkedin.com/jobs/view/laborer-heavy-civil-construction-at-clarkson-construction-company-4353656421": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4410848543": 1,
     "https://www.linkedin.com/jobs/view/brick-and-stone-mason-at-lyons-heritage-masonry-4446212397": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-intuit-4448819099": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-reducto-4338954885": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-tripdmc-4450999278": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-executive-at-openhire-4451113148": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-buskowitz-group-4451100140": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-from-the-philippines-at-trafficguard-4451111132": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-from-the-philippines-at-trafficguard-4451111132": 1,
+    "https://www.linkedin.com/jobs/view/wtx-derrickhand-i-at-nabors-industries-4445066146": 1,
+    "https://www.linkedin.com/jobs/view/brand-growth-lead-at-kendago-4447690854": 1,
+    "https://www.linkedin.com/jobs/view/growth-partnerships-lead-sea-at-canva-4451112275": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-b2b-sa360-apple-search-at-aptita-4448136481": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-%e2%80%93-b2b-saas-at-steps-ai-4449523783": 1,
+    "https://www.linkedin.com/jobs/view/marketing-organic-lead-generation-indore-onsite-at-sigsigma-4449526722": 1,
+    "https://www.linkedin.com/jobs/view/wellness-business-development-associate-part-time-full-time-4449539189": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-callhippo-4449524808": 1,
+    "https://www.linkedin.com/jobs/view/sr-business-development-representative-at-scalableos-4451396287": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3107,7 +3107,7 @@
   },
   "stats": {
     "date": "2026-08-10",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
