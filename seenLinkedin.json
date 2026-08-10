@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-4448553740": 1,
-    "https://www.linkedin.com/jobs/view/inside-account-executive-smb-at-cisco-4404068902": 1,
-    "https://www.linkedin.com/jobs/view/mc-operator-at-sentinel%c2%ae-offender-services-4449038438": 1,
-    "https://www.linkedin.com/jobs/view/sr-regional-advisor-consultant-san-diego-orange-county-las-vegas-at-columbia-threadneedle-investments-4449047122": 1,
-    "https://www.linkedin.com/jobs/view/sr-regional-advisor-consultant-b-d-dc-southern-md-va-at-columbia-threadneedle-investments-4446167891": 1,
-    "https://www.linkedin.com/jobs/view/technical-ceramic-specialist-at-akcoat-spain-4448832142": 1,
-    "https://www.linkedin.com/jobs/view/senior-technician-at-wsp-in-canada-4430594828": 1,
-    "https://www.linkedin.com/jobs/view/form-setter-at-the-walsh-group-walsh-construction-archer-western-4449014728": 1,
-    "https://www.linkedin.com/jobs/view/construction-worker-ii-at-city-of-albuquerque-4449045332": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-gtm-engineer-remote-at-enablecomp-4446837089": 1,
-    "https://www.linkedin.com/jobs/view/fractional-go-to-market-engineer-at-atqleads-4430847239": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%24160k-%24200k-%2b-equity-at-transvoix-at-jack-jill-4448567246": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%2480k-%24150k-at-cloro-at-jack-jill-4448560356": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-acumenz-consulting-4449047070": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-engineer-remote-at-enablecomp-4446834706": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-revenue-enablement-at-prepass-4449032440": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-leader-at-trenta-at-jack-jill-4448556464": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4451187636": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-accel-human-resource-consultants-4451194608": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-4451183710": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-pursuit-4451175775": 1
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-pursuit-4451175775": 1,
+    "https://www.linkedin.com/jobs/view/technical-engineering-technician-at-rwdy-inc-4451407012": 1,
+    "https://www.linkedin.com/jobs/view/techniker-in-im-au%c3%9fendienst-at-deutsche-bahn-4406825418": 1,
+    "https://www.linkedin.com/jobs/view/senior-scientist-at-national-gypsum-company-4451409157": 1,
+    "https://www.linkedin.com/jobs/view/immediate-hiring-for-construction-production-workers-at-champion-home-builders-inc-4451562031": 1,
+    "https://www.linkedin.com/jobs/view/skilled-laborer-at-baker-construction-4442576209": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-infosum-4451558162": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-kota-4451192770": 1,
+    "https://www.linkedin.com/jobs/view/media-buyer-at-velrix-software-solutions-4451539908": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-artane-partners-4451533807": 1,
+    "https://www.linkedin.com/jobs/view/founder-associate-business-development-sales-at-globalmatch-tech-4451522241": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-digmarit-ltd-4451547860": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-vancouver-hybrid-at-boomi-4403747424": 1,
+    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-d%c3%a9veloppement-des-affaires-sales-development-representative-sdr-at-panorama-4451182662": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-at-avici-4451198129": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3110,13 +3110,14 @@
     "go-to-market engineer (revops) - bondr|||bondr agency": "2026-08-10T10:04:02.367Z",
     "founders associate (growth) | €80k ote | german c2 | berlin|||genz4gtm": "2026-08-10T11:19:23.727Z",
     "growth marketing manager|||a1softech": "2026-08-10T11:19:25.263Z",
-    "gtm specialist|||7 labs": "2026-08-10T11:19:26.791Z"
+    "gtm specialist|||7 labs": "2026-08-10T11:19:26.791Z",
+    "gtm lead|||artane partners": "2026-08-10T15:44:06.442Z"
   },
   "stats": {
     "date": "2026-08-10",
-    "cyclesToday": 10,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "cyclesToday": 11,
+    "matchedToday": 9,
+    "sentToday": 9,
     "lastSummaryDate": ""
   }
 }
