@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-process-consultant-campaign-optimization-and-operations-at-ibm-4446638826": 1,
-    "https://www.linkedin.com/jobs/view/marketing-experience-senior-associate-at-jpmorganchase-4440389280": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-senior-at-microsourcing-4440303046": 1,
-    "https://www.linkedin.com/jobs/view/crm-operations-specialist-at-adore-me-4449043233": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-operations-lead-at-legora-4429411908": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-comoro-ltd-4449037235": 1,
     "https://www.linkedin.com/jobs/view/growth-demand-generation-associate-at-uniek-ai-4448874315": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-emea-at-docker-inc-4427103016": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-greenhouse-software-4437676827": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-professional-staffing-4446913344": 1,
     "https://www.linkedin.com/jobs/view/child-health-family-engagement-officer-at-wombto18-4451405087": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4451405261": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-mspbots-careers-4451410362": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-mspbots-careers-4451410362": 1,
+    "https://www.linkedin.com/jobs/view/etx-field-floorhand-i-at-nabors-industries-4443297520": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-at-diversified-energy-company-4451409386": 1,
+    "https://www.linkedin.com/jobs/view/cement-operator-3-dot-nex-at-patterson-uti-4446929302": 1,
+    "https://www.linkedin.com/jobs/view/manager-media-operations-at-sharkninja-4442740066": 1,
+    "https://www.linkedin.com/jobs/view/b2b-lead-generation-specialist-at-yap-media-4446316480": 1,
+    "https://www.linkedin.com/jobs/view/experienced-cold-callers-remote-%e2%80%93-performance-based-at-realty-vas-4449813012": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3111,13 +3111,14 @@
     "founders associate (growth) | €80k ote | german c2 | berlin|||genz4gtm": "2026-08-10T11:19:23.727Z",
     "growth marketing manager|||a1softech": "2026-08-10T11:19:25.263Z",
     "gtm specialist|||7 labs": "2026-08-10T11:19:26.791Z",
-    "gtm lead|||artane partners": "2026-08-10T15:44:06.442Z"
+    "gtm lead|||artane partners": "2026-08-10T15:44:06.442Z",
+    "b2b lead generation specialist|||yap media": "2026-08-10T17:34:55.608Z"
   },
   "stats": {
     "date": "2026-08-10",
-    "cyclesToday": 12,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 13,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
