@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4449069950": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4448589739": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-ops-analytics-at-brightwheel-4443439690": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-022-808-at-hunt-st-4449078924": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-insight-global-4448570378": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-catapult-solutions-group-4448555662": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-yoh-a-day-zimmermann-company-4449062459": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-marketo-engineering-remote-at-cisco-4449078153": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4451610877": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-promact-4451615692": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shephertz-technologies-4451610835": 1,
-    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-elev8-marketing-4449987742": 1
+    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-elev8-marketing-4449987742": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-fleming-4452195838": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-associate-at-diagna-4451631004": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-at-feemonk-4451620632": 1,
+    "https://www.linkedin.com/jobs/view/growth-and-business-development-associate-at-flairx-4451116818": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-at-expodiscover-com-4451646206": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3116,13 +3116,14 @@
     "founding gtm (m/w/d)|||bayshore ai": "2026-08-10T18:30:53.075Z",
     "gtm associate (nyc)|||model ml": "2026-08-10T19:38:46.059Z",
     "manager - gtm strategy & operations - apac|||adjoe": "2026-08-10T21:19:30.977Z",
-    "gtm|||makers fund": "2026-08-11T05:19:36.821Z"
+    "gtm|||makers fund": "2026-08-11T05:19:36.821Z",
+    "linkedin outreach specialist|||feemonk": "2026-08-11T07:41:46.975Z"
   },
   "stats": {
     "date": "2026-08-11",
-    "cyclesToday": 5,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 6,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
