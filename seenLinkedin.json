@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-laborer-at-rl-james-exteriors-4449011030": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-at-mills-concrete-llc-4449061809": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-engineer-remote-at-enablecomp-4446827932": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4449062971": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-gumloop-4449408666": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4449069950": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4448589739": 1,
     "https://www.linkedin.com/jobs/view/director-gtm-ops-analytics-at-brightwheel-4443439690": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/tele-sales-executive-at-zigsaw-4451624513": 1,
     "https://www.linkedin.com/jobs/view/podcast-guest-relations-outreach-at-thrive-loop-4451179474": 1,
     "https://www.linkedin.com/jobs/view/community-moblizier-at-manav-vikas-sansthan-4451611736": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-middle-east-at-aikido-security-4451826377": 1
+    "https://www.linkedin.com/jobs/view/account-executive-middle-east-at-aikido-security-4451826377": 1,
+    "https://www.linkedin.com/jobs/view/paid-ads-executive-at-ultracare-pro-4451615780": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4451610877": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-promact-4451615692": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shephertz-technologies-4451610835": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-elev8-marketing-4449987742": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3120,7 +3120,7 @@
   },
   "stats": {
     "date": "2026-08-11",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
