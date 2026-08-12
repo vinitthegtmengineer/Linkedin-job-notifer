@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-ops-ai-systems-lead-at-in-financial-technologies-inft-4450051529": 1,
-    "https://www.linkedin.com/jobs/view/international-remote-email-marketing-specialist-at-roibyroy-4448721088": 1,
-    "https://www.linkedin.com/jobs/view/telemarketer-at-anvesak-3227645843": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-linkedin-talent-solutions-at-linkedin-4448722324": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4448717595": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4448710968": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-lead-%c2%a380-000-%c2%a3100-000-%2b-equity-at-gigs-at-jack-jill-4450011616": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-charta-health-4450046752": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-payd-4450055645": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-development-representative-at-luminultra-4448472604": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shephertz-technologies-4450066033": 1,
-    "https://www.linkedin.com/jobs/view/founder-s-office-growth-sales-at-indlay-realty-technologies-private-limited-4450064188": 1,
     "https://www.linkedin.com/jobs/view/growth-product-manager-at-hire22-ai-4450058711": 1,
     "https://www.linkedin.com/jobs/view/business-development-manager-at-hike-education-4448728402": 1,
     "https://www.linkedin.com/jobs/view/lead-genration-specialist-work-from-home-at-executive-assist-co-4450008911": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-senior-analyst-at-nasdaq-4453378387": 1,
     "https://www.linkedin.com/jobs/view/outbound-executive-at-axencia-co-4450180640": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-toronto-at-okta-4450186451": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-outreach-expert-remote-full-time-at-navigator-hr-consulting-solutions-4450193358": 1
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-expert-remote-full-time-at-navigator-hr-consulting-solutions-4450193358": 1,
+    "https://www.linkedin.com/jobs/view/field-operator-at-american-cementing-llc-4453607010": 1,
+    "https://www.linkedin.com/jobs/view/cementing-bulk-plant-operator-at-slb-4450178866": 1,
+    "https://www.linkedin.com/jobs/view/multi-skilled-operator-iii-at-rigup-4450193489": 1,
+    "https://www.linkedin.com/jobs/view/environmental-compliance-specialist-at-the-davey-tree-expert-company-4453378564": 1,
+    "https://www.linkedin.com/jobs/view/etp-chemist-at-crest-infosystems-pvt-ltd-4450124985": 1,
+    "https://www.linkedin.com/jobs/view/senior-scientist-at-pulpdent-4453300036": 1,
+    "https://www.linkedin.com/jobs/view/geologist-4-at-cdm-smith-4453334498": 1,
+    "https://www.linkedin.com/jobs/view/seed-orchard-specialist-at-prt-growing-services-ltd-4453052669": 1,
+    "https://www.linkedin.com/jobs/view/stormwater-construction-technician-at-apex-companies-4435175714": 1,
+    "https://www.linkedin.com/jobs/view/%e9%ab%98%e7%ba%a7-%e9%85%8d%e6%96%b9-%e5%8c%96%e5%ad%a6%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%9e%8b%e7%b1%bb-at-%e5%b9%bf%e5%b7%9e%e5%be%97%e5%85%8b%e4%bf%a1%e6%81%af%e5%92%a8%e8%af%a2%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4452344031": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-implementation-delivery-housing-at-eliseai-4450400175": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-wolfbrook-property-group-4453025327": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3156,7 +3156,7 @@
   },
   "stats": {
     "date": "2026-08-12",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 22,
     "sentToday": 22,
     "lastSummaryDate": ""
