@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/cold-calling-specialist-at-evolve-media-house-4449242606": 1,
-    "https://www.linkedin.com/jobs/view/operator-utility-at-cemex-us-4410640027": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-command-at-asana-4430602002": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-specialist-dach-at-eversports-4450724013": 1,
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4450901660": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4450910063": 1,
-    "https://www.linkedin.com/jobs/view/strategy-planning-manager-at-cisco-4421866218": 1,
-    "https://www.linkedin.com/jobs/view/strategy-planning-manager-at-cisco-4421881069": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hire-feed-4451034853": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-manager-at-um-georgia-4449246605": 1,
-    "https://www.linkedin.com/jobs/view/amazon-customer-media-marketing-manager-at-nortal-4413931477": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-firstup-4433292375": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-iii-at-f5-4441930429": 1,
-    "https://www.linkedin.com/jobs/view/landing-page-%2b-email-%2b-automation-%2b-crm-%2b-funnel-at-officina-design-4449268031": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-g-p-4439267389": 1,
     "https://www.linkedin.com/jobs/view/telemarketer-at-event-plus-management-pvt-ltd-4450903300": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-solar-at-solectra-4449242939": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-sohoby-it-solutions-4452989886": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-korea-at-sonar-4454077338": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cube-4450826331": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-precise-selling-4453258499": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-precise-selling-4453258499": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-at-sm-energy-company-4454319483": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-san-angelo-at-permian-resources-4453254499": 1,
+    "https://www.linkedin.com/jobs/view/water-distribution-and-wastewater-collection-operator-apprentice-i-ii-at-city-of-college-station-4367513715": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-multiple-locations-at-kaw-valley-engineering-4454320419": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-i-medley-fl-at-vetjobs-4453235271": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-cymulate-4454326331": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-operations-manager-at-edited-retail-certified-4454315634": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-scoutreach-4453277169": 1,
+    "https://www.linkedin.com/jobs/view/founding-business-development-rep-ai-cloud-us-ca-at-featherless-ai-4454303447": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-ayming-4450493760": 1,
+    "https://www.linkedin.com/jobs/view/linked-in-outreach-expert-at-green-berry-digital-4440169380": 1,
+    "https://www.linkedin.com/jobs/view/business-development-growth-manager-at-skillsncr-4450181820": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-officerapps-com-4454313161": 1,
+    "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-at-l3-global-ventures-inc-4453270101": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3162,13 +3162,14 @@
     "cqa field technician – compacted clay & geosynthetic liners|||cqa solutions, ltd": "2026-08-13T16:39:49.820Z",
     "gtm engineer|||incident.io": "2026-08-13T16:39:51.371Z",
     "gtm engineer ii|||planview": "2026-08-13T21:22:13.197Z",
-    "regional growth marketing manager|||nearmap": "2026-08-13T21:22:14.741Z"
+    "regional growth marketing manager|||nearmap": "2026-08-13T21:22:14.741Z",
+    "gtm operations manager|||edited retail certified": "2026-08-13T23:06:39.320Z"
   },
   "stats": {
     "date": "2026-08-13",
-    "cyclesToday": 18,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 19,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
