@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/success-partnerships-executive-at-beebuddy-4450901185": 1,
-    "https://www.linkedin.com/jobs/view/outreach-marketing-assistant-manager-at-ramaiah-university-of-applied-sciences-4448769281": 1,
-    "https://www.linkedin.com/jobs/view/m4720-account-executive-at-fedex-4440546232": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-e11even-technologies-4450318287": 1,
-    "https://www.linkedin.com/jobs/view/executive-sales-at-larsen-toubro-4441980478": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-geo-technology-associates-inc-gta-4442134913": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-learning-routes-4450592492": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-expert-at-digitoss-media-4450586590": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4450597312": 1,
-    "https://www.linkedin.com/jobs/view/telemarketer-at-event-plus-management-pvt-ltd-4449247550": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-unatrac-ltd-4449236653": 1,
-    "https://www.linkedin.com/jobs/view/online-bidder-lead-generation-executive-at-brand-on-time-4449246546": 1,
     "https://www.linkedin.com/jobs/view/marketing-engineer-at-samba-4433359544": 1,
     "https://www.linkedin.com/jobs/view/startup-sales-strategy-manager-at-salesforce-4432432092": 1,
     "https://www.linkedin.com/jobs/view/inbound-sales-development-representative-at-servicetitan-4393968120": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-belkins-inc-4454086063": 1,
     "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-wellbe-senior-medical-4454068127": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-neotecra-inc-4454025935": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-hybrid-at-broadridge-4435397465": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-hybrid-at-broadridge-4435397465": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-lab-technician-at-braun-intertec-corporation-4450834136": 1,
+    "https://www.linkedin.com/jobs/view/bookbinder-at-gsoba-4454095034": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-eltonalan-4454089219": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-london-at-basis-set-4454072437": 1,
+    "https://www.linkedin.com/jobs/view/api-deployment-manager-at-runway-4454072373": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-marketer-at-talonic-4450483554": 1,
+    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4453236325": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4453252257": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-lead-at-allcare-ai-4453247179": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-ventus-support-4450823239": 1,
+    "https://www.linkedin.com/jobs/view/sdr-uk-at-echo-4452919973": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-i-can-ace-4453247243": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3164,7 +3164,7 @@
   },
   "stats": {
     "date": "2026-08-13",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
