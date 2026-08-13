@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-ops-h-f-at-vroomly-4420746018": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-digital-native-at-openai-4432699834": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4450587935": 1,
-    "https://www.linkedin.com/jobs/view/sodastream-performance-marketing-campaign-lead-at-pepsico-4351963167": 1,
-    "https://www.linkedin.com/jobs/view/meta-conversion-api-at-red-bananas-4449258102": 1,
-    "https://www.linkedin.com/jobs/view/growth-associate-%e2%82%ac50k-base-%c2%a0ai-ops-startup-berlin-at-genz4gtm-4449250682": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-cognite-4405256722": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-cognite-4405255769": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-lead-generation-expert-remote-at-the-kahanikaars-4450909043": 1,
-    "https://www.linkedin.com/jobs/view/junior-community-manager-at-student-tribe-4450900431": 1,
-    "https://www.linkedin.com/jobs/view/commercial-account-executive-uae-at-salesforce-4442159020": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sg-services-group-4450520837": 1,
-    "https://www.linkedin.com/jobs/view/operations-technician-at-targa-resources-4441707678": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-at-subyarth-craft-pvt-ltd-4450905172": 1,
-    "https://www.linkedin.com/jobs/view/expression-of-interest-sales-development-representative-toronto-at-darktrace-4414691077": 1,
     "https://www.linkedin.com/jobs/view/cold-calling-specialist-at-evolve-media-house-4449242606": 1,
     "https://www.linkedin.com/jobs/view/operator-utility-at-cemex-us-4410640027": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-command-at-asana-4430602002": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-sourcingxpress-4454036061": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-snowflake-4443493144": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-threatcop-4450463825": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-at-rise-up-4452983939": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-at-rise-up-4452983939": 1,
+    "https://www.linkedin.com/jobs/view/engineering-technician-i-at-terracon-4451068453": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-project-manager-at-ecs-group-of-companies-4454305493": 1,
+    "https://www.linkedin.com/jobs/view/nvidia-partner-manager-at-nebius-4450836515": 1,
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-lead-at-reducto-4454305353": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-templates-at-zillow-4454320011": 1,
+    "https://www.linkedin.com/jobs/view/marketing-strategy-operations-manager-at-notion-4454304912": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-audience-at-zillow-4454309800": 1,
+    "https://www.linkedin.com/jobs/view/marketing-strategy-operations-manager-at-notion-4454311147": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-email-linkedin-sms-at-master-outbound-4453245377": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4450826621": 1,
+    "https://www.linkedin.com/jobs/view/sdr-bdr-prospec%c3%a7%c3%a3o-intelig%c3%aancia-comercial-at-confidence-associada-%c3%a0-fdc-4450837081": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-sohoby-it-solutions-4452989886": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-korea-at-sonar-4454077338": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cube-4450826331": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-precise-selling-4453258499": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3166,7 +3166,7 @@
   },
   "stats": {
     "date": "2026-08-13",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 10,
     "sentToday": 10,
     "lastSummaryDate": ""
