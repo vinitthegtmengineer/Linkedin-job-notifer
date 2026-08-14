@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-sweet-robo-4451366310": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-solvo-global-4449506881": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-hubspot-and-ai-workflows-at-syntasso-4450990616": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-syntasso-4450987629": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-let-sgastro-4449521418": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-technical-%2b-partners-at-lovable-4450995663": 1,
-    "https://www.linkedin.com/jobs/view/creative-strategist-performance-ads-at-ravel-4449515560": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-social-selling-expert-at-speak-10x-better-4451370608": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-executive-night-shift-at-techsoldier-bpo-4450936752": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-us-4451369591": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-technical-%2b-partners-at-lovable-4450982623": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-string-4451369656": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-canada-at-trestle-construction-vendor-management-4450982621": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-senior-at-tekbyt-llc-4449524340": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-expert-senior-at-tekbyt-llc-4449524339": 1,
     "https://www.linkedin.com/jobs/view/business-development-rep-bdr-at-koyn-4451378071": 1,
     "https://www.linkedin.com/jobs/view/wtx-floorhand-i-at-nabors-industries-4441579012": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/growth-lead-at-packt-4451219634": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-3-vision-4450895031": 1,
     "https://www.linkedin.com/jobs/view/we-are-hiring-sales-erp-executive-at-stonedge-private-limited-4451240280": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-expansion-at-avepoint-4432787105": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-expansion-at-avepoint-4432787105": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-data-platforms-at-stirista-4427230351": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-at-cover-genius-4454568644": 1,
+    "https://www.linkedin.com/jobs/view/data-strategy-operations-specialist-at-better-collective-4454805129": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-lift%c2%ae-4377797223": 1,
+    "https://www.linkedin.com/jobs/view/integrated-campaign-manager-at-tpg-telecom-4444544799": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-awaze-4443131172": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-simpson-associates-4448758220": 1,
+    "https://www.linkedin.com/jobs/view/growth-performance-manager-at-amicable-4447987428": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-zealous-agency-4447264681": 1,
+    "https://www.linkedin.com/jobs/view/paid-social-manager-at-soar-with-us-4427402043": 1,
+    "https://www.linkedin.com/jobs/view/google-ads-manager-at-kilo%e2%84%a2-4428738854": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-audience-development-and-insights-at-the-new-york-times-4440891395": 1,
+    "https://www.linkedin.com/jobs/view/marketing-tech-ops-ai-manager-at-thunes-4443858950": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-systems-and-automation-manager-at-cloudflare-4451250587": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3178,13 +3178,14 @@
     "gtm engineer|||quash.ai": "2026-08-14T16:24:25.935Z",
     "outreach specialist|||walker-miller energy services": "2026-08-14T16:24:27.533Z",
     "outreach specialist|||choice healthcare services": "2026-08-14T16:24:29.270Z",
-    "sidewall build|||clayton": "2026-08-14T20:44:49.671Z"
+    "sidewall build|||clayton": "2026-08-14T20:44:49.671Z",
+    "growth operations manager|||cover genius": "2026-08-14T21:43:50.686Z"
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 18,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 19,
+    "matchedToday": 14,
+    "sentToday": 14,
     "lastSummaryDate": ""
   }
 }
