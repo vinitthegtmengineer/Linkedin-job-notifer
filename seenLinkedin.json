@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/paid-search-b2b-sa360-apple-search-at-aptita-4448136481": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-%e2%80%93-b2b-saas-at-steps-ai-4449523783": 1,
-    "https://www.linkedin.com/jobs/view/marketing-organic-lead-generation-indore-onsite-at-sigsigma-4449526722": 1,
-    "https://www.linkedin.com/jobs/view/wellness-business-development-associate-part-time-full-time-4449539189": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-callhippo-4449524808": 1,
-    "https://www.linkedin.com/jobs/view/sr-business-development-representative-at-scalableos-4451396287": 1,
-    "https://www.linkedin.com/jobs/view/field-service-supervisor-midland-tx-at-superior-performance-inc-4451380821": 1,
     "https://www.linkedin.com/jobs/view/trainee-soil-and-concrete-testing-technicians-at-construction-sciences-4451398154": 1,
     "https://www.linkedin.com/jobs/view/apac-asphalt-plant-laborer-tulsa-ok-%241-000-sign-on-bonus-at-apac-central-4449533489": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4451100580": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sale-development-representative-at-gallea-ai-4454811555": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-services-based-company-at-volmatica-4451250804": 1,
     "https://www.linkedin.com/jobs/view/major-account-executive-at-akamai-technologies-4426087039": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-linkedin-talent-solutions-at-linkedin-4444929314": 1
+    "https://www.linkedin.com/jobs/view/account-executive-linkedin-talent-solutions-at-linkedin-4444929314": 1,
+    "https://www.linkedin.com/jobs/view/operator-3-ploegendienst-effect-personeelsdiensten-b-v-at-jobster-4453735327": 1,
+    "https://www.linkedin.com/jobs/view/operator-effect-personeelsdiensten-b-v-at-jobster-4453738165": 1,
+    "https://www.linkedin.com/jobs/view/staff-solutions-engineer-at-kong-4435809422": 1,
+    "https://www.linkedin.com/jobs/view/staff-sr-staff-principal-engineer-product-marketing-power-at-renesas-electronics-4444903735": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-world-models-av-physical-ai-at-nvidia-4395472355": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-smb-at-1password-4454805432": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-and-back-office-executive-at-shah-industrial-hygiene-solutions-4450462080": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3186,7 +3186,7 @@
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
