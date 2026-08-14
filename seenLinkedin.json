@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-arcade-4450798399": 1,
-    "https://www.linkedin.com/jobs/view/manager-growth-at-runna-4450578408": 1,
-    "https://www.linkedin.com/jobs/view/manager-applications-and-solutions-gtm-at-tenstorrent-4441363507": 1,
-    "https://www.linkedin.com/jobs/view/paid-search-manager-at-lead-stack-media-4451073051": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-contract-at-palo-alto-networks-4441386835": 1,
-    "https://www.linkedin.com/jobs/view/journey-operations-specialist-at-macy-s-4442136910": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-zurich-at-keepit-4423020206": 1,
-    "https://www.linkedin.com/jobs/view/cold-callers-at-progrid-pk-4449261374": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%94-outbound-at-traincrest-technologies-pvt-ltd-4450907592": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-quantcast-4442187319": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-snowflake-4424949076": 1,
-    "https://www.linkedin.com/jobs/view/outreach-retention-specialist-youth-queens-at-ahrc-new-york-city-4450907610": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-london-at-sease-information-retrieval-applied-4450910491": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-mentor-global-4449273077": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-4448794939": 1,
-    "https://www.linkedin.com/jobs/view/construction-inspector-at-geo-technology-associates-inc-gta-4434046043": 1,
     "https://www.linkedin.com/jobs/view/demand-generation-manager-at-archer-integrated-risk-management-4450510708": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-adventus-4373300527": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-istanasoft-4449261469": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/front-seller-cold-caller-at-impleko-4450850322": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-i-at-the-linux-foundation-4439270646": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-trucker-path-4450374700": 1,
-    "https://www.linkedin.com/jobs/view/lead-genration-specialist-permanent-remote-at-executive-assist-co-4453260882": 1
+    "https://www.linkedin.com/jobs/view/lead-genration-specialist-permanent-remote-at-executive-assist-co-4453260882": 1,
+    "https://www.linkedin.com/jobs/view/production-operator-layup-1st-shift-at-clayton-4454316965": 1,
+    "https://www.linkedin.com/jobs/view/head-of-deal-strategy-apac-at-openai-4450885268": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453278608": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453281640": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-truthscan-4453279001": 1,
+    "https://www.linkedin.com/jobs/view/strategic-business-development-at-edra-4450858228": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-hack-the-box-4453206185": 1,
+    "https://www.linkedin.com/jobs/view/community-liaison-at-chivalry-behavioral-and-autism-therapy-4454039465": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-neoassist-com-s-a-4454323715": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-executivo-de-vendas-at-sensum-sistemas-4450492575": 1,
+    "https://www.linkedin.com/jobs/view/commercial-account-executive-smb-at-dandy-4416239354": 1,
+    "https://www.linkedin.com/jobs/view/junior-account-executive-enterprise-ai-voice-automation-at-zudu-ai-4453246449": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-commercial-sales-geos-at-docusign-4443172878": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-zeiss-visiogen-4452932786": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4451451623": 1,
+    "https://www.linkedin.com/jobs/view/smb-sales-account-executive-m-f-d-at-wellhub-4453244686": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3165,13 +3165,14 @@
     "regional growth marketing manager|||nearmap": "2026-08-13T21:22:14.741Z",
     "gtm operations manager|||edited retail certified": "2026-08-13T23:06:39.320Z",
     "ai operations & gtm engineer|||logicmonitor": "2026-08-13T23:55:58.018Z",
-    "cold outreach specialist|||zonexsystem": "2026-08-13T23:55:59.565Z"
+    "cold outreach specialist|||zonexsystem": "2026-08-13T23:55:59.565Z",
+    "production operator-layup 1st shift|||clayton": "2026-08-14T05:56:54.534Z"
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 2,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 3,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
