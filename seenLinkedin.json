@@ -1,24 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outcome-customer-engineer-ii-strategic-ai-and-independent-software-vendor-google-cloud-at-google-4433833049": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4450921393": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-anyscale-4430275286": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-fancysauce-inc-at-jack-jill-4450908966": 1,
-    "https://www.linkedin.com/jobs/view/senior-crm-automation-data-manager-all-genders-at-sunday-natural-4442152112": 1,
-    "https://www.linkedin.com/jobs/view/community-liaison-for-hospice-at-bjc-healthcare-4451304550": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-laboratory-supervisor-at-s-me-4442176009": 1,
-    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4451317169": 1,
-    "https://www.linkedin.com/jobs/view/backpanel-at-clayton-4451307399": 1,
-    "https://www.linkedin.com/jobs/view/community-engineer-at-vercel-4405878482": 1,
-    "https://www.linkedin.com/jobs/view/strategic-deals-commercial-architecture-lead-at-openai-4419337511": 1,
-    "https://www.linkedin.com/jobs/view/overseas-monetization-specialist-singapore-at-tencent-cloud-4449250140": 1,
-    "https://www.linkedin.com/jobs/view/business-development-lead-snowflake-for-startups-at-snowflake-4442403055": 1,
-    "https://www.linkedin.com/jobs/view/search-marketing-manager-at-red-events-distribution-ltd-4451077473": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-lead-at-virtustant-4449237989": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%242-000-%243-000-month-uncapped-at-influx-4451031681": 1,
-    "https://www.linkedin.com/jobs/view/cold-caller-%e2%80%93-medical-billing-us-healthcare-at-medicose-rcm-4445873627": 1,
-    "https://www.linkedin.com/jobs/view/founder-s-office-ai-talent-outreach-at-mereden-4449267764": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-4450926735": 1,
     "https://www.linkedin.com/jobs/view/floors-at-clayton-4451306476": 1,
     "https://www.linkedin.com/jobs/view/roof-truss-builder-at-clayton-4451307398": 1,
     "https://www.linkedin.com/jobs/view/sidewalls-at-clayton-4451317162": 1,
@@ -1999,7 +1980,26 @@
     "https://www.linkedin.com/jobs/view/cloud-account-executive-at-salesforce-4436492297": 1,
     "https://www.linkedin.com/jobs/view/payor-business-manager-at-pfizer-4451206607": 1,
     "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4453527915": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-verz-design-4453530800": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-verz-design-4453530800": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-supervisor-at-terracon-4454507783": 1,
+    "https://www.linkedin.com/jobs/view/ndt-i-at-terracon-4454502782": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4444773662": 1,
+    "https://www.linkedin.com/jobs/view/engineering-technician-ii-at-terracon-4454507785": 1,
+    "https://www.linkedin.com/jobs/view/laborers-for-concrete-construction-tampa-fl-at-ceco-concrete-construction-l-l-c-4376012165": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4453511782": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-london-at-touring-capital-4453229011": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-trustpilot-4454051493": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-exa-4454087650": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-product-marketing-manager-at-attio-4443190059": 1,
+    "https://www.linkedin.com/jobs/view/ppc-executive-at-brandhype-in-4453550029": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-marketing-manager-at-paypal-4401771628": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-m-w-d-at-css-ag-4454391275": 1,
+    "https://www.linkedin.com/jobs/view/crm-specialist-at-ipf-digital-4454001485": 1,
+    "https://www.linkedin.com/jobs/view/telecaller-and-lead-genration-executive-at-krar-manpower-pvt-ltd-4451206403": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-riskonnect-inc-4454395496": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-outreach-specialist-at-nypunya-studios-llp-4451204547": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-4452926774": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-upto-6-5-lpa-at-square-yard-4453578086": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3166,13 +3166,14 @@
     "gtm operations manager|||edited retail certified": "2026-08-13T23:06:39.320Z",
     "ai operations & gtm engineer|||logicmonitor": "2026-08-13T23:55:58.018Z",
     "cold outreach specialist|||zonexsystem": "2026-08-13T23:55:59.565Z",
-    "production operator-layup 1st shift|||clayton": "2026-08-14T05:56:54.534Z"
+    "production operator-layup 1st shift|||clayton": "2026-08-14T05:56:54.534Z",
+    "growth marketing & outreach specialist|||nypunya studios llp": "2026-08-14T11:06:58.381Z"
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 6,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 7,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
