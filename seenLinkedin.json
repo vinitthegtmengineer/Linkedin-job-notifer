@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-executive-at-technopole-industries-4451620464": 1,
-    "https://www.linkedin.com/jobs/view/tele-sales-executive-at-zigsaw-4451624513": 1,
-    "https://www.linkedin.com/jobs/view/podcast-guest-relations-outreach-at-thrive-loop-4451179474": 1,
     "https://www.linkedin.com/jobs/view/community-moblizier-at-manav-vikas-sansthan-4451611736": 1,
     "https://www.linkedin.com/jobs/view/account-executive-middle-east-at-aikido-security-4451826377": 1,
     "https://www.linkedin.com/jobs/view/paid-ads-executive-at-ultracare-pro-4451615780": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-cloud-data-protection-at-rubrik-4444992894": 1,
     "https://www.linkedin.com/jobs/view/emea-field-marketing-manager-at-maven-4455116488": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-money-movement-at-rain-4454851594": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-cards-at-rain-4454853071": 1
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-cards-at-rain-4454853071": 1,
+    "https://www.linkedin.com/jobs/view/manager-quality-control-at-laticrete-international-4454565725": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-higgsfield-ai-4455126725": 1,
+    "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4453901578": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3191,7 +3191,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
