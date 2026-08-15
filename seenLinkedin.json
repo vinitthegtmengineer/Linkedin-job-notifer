@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/strategic-gtm-specialist-apjc-strategic-gtm-at-amazon-web-services-aws-4443018641": 1,
-    "https://www.linkedin.com/jobs/view/worldwide-gtm-specialist-physical-ai-worldwide-gtm-physical-ai-at-amazon-web-services-aws-4443041898": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-operations-lead-media-effectiveness-product-gtm-at-google-4452447010": 1,
     "https://www.linkedin.com/jobs/view/ppc-executive-at-learning-routes-4451674948": 1,
     "https://www.linkedin.com/jobs/view/google-ads-executive-at-learning-routes-4451674912": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-lead-generation-at-placement-hub-4451691081": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-at-cofidential-4453757212": 1,
     "https://www.linkedin.com/jobs/view/strategy-operations-lead-enterprise-marketing-at-anthropic-4453771295": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-sdr-at-pheedloop-4453956279": 1,
-    "https://www.linkedin.com/jobs/view/cold-caller-appointment-setter-at-real-impact-marketing-4451712833": 1
+    "https://www.linkedin.com/jobs/view/cold-caller-appointment-setter-at-real-impact-marketing-4451712833": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-technician-testing-soils-concrete-and-asphalt-4453725598": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-wsp-in-the-u-s-4445251285": 1,
+    "https://www.linkedin.com/jobs/view/growth-workflow-manager-performance-paid-at-kraken-4444352923": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3195,7 +3195,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 39,
+    "cyclesToday": 40,
     "matchedToday": 9,
     "sentToday": 9,
     "lastSummaryDate": ""
