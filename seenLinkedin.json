@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-channel-strategy-operations-at-joveo-4451546066": 1,
-    "https://www.linkedin.com/jobs/view/hubspot-specialist-at-shortlister-4451533732": 1,
-    "https://www.linkedin.com/jobs/view/call-center-analyst-at-ntt-data-north-america-4451535732": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-maple-life-4451388487": 1,
-    "https://www.linkedin.com/jobs/view/urgent-business-development-representative-technology-permanent-hybrid-urgent-repr%c3%a9sentant-du-d%c3%a9veloppement-commercial-technologie-permanent-hybride-at-vtrac-consulting-corporation-wbe-4432122561": 1,
-    "https://www.linkedin.com/jobs/view/guest-outreach-partnerships-at-thrive-loop-4451179474": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-brite-4449552967": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-alphabait-4451539164": 1,
-    "https://www.linkedin.com/jobs/view/operator-ii-at-lummus-technology-4449040059": 1,
     "https://www.linkedin.com/jobs/view/qc-lab-technician-at-sika-4441535561": 1,
     "https://www.linkedin.com/jobs/view/bricklayer-p-i-at-wood-4367338093": 1,
     "https://www.linkedin.com/jobs/view/implementation-engineer-at-coframe-4451180635": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-btob-deutschsprachig-at-leyton-4436708528": 1,
     "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-jobbol-4454841664": 1,
     "https://www.linkedin.com/jobs/view/growth-lead-generation-specialist-at-coach-suchetaa-4451239537": 1,
-    "https://www.linkedin.com/jobs/view/business-development-manager-at-hike-education-4451226499": 1
+    "https://www.linkedin.com/jobs/view/business-development-manager-at-hike-education-4451226499": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-engineering-technician-i-at-terracon-4451334719": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-associate-principal-at-ecs-group-of-companies-4443558535": 1,
+    "https://www.linkedin.com/jobs/view/apac-project-materials-engineer-fort-smith-ar-at-apac-central-4451707500": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-san-jose-california-at-check-point-ai-security-4426695539": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-together-ai-4435248801": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-ecs-at-salesforce-4436724654": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-uki-commercial-at-boomi-4450896973": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-core-growth-brazil-at-salesforce-4436777765": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-datadog-4436300913": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3190,7 +3190,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
