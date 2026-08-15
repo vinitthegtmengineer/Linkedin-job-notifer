@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outbound-growth-associate-%e2%80%93-b2b-b2g-at-zangoh-4449552042": 1,
-    "https://www.linkedin.com/jobs/view/manager-%e2%80%93-strategic-outreach-and-digital-intelligence-at-diatomic-healthcare-4451147672": 1,
-    "https://www.linkedin.com/jobs/view/public-relation-and-outreach-executive-at-truhap-4449560555": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-talent-solutions-1-year-contract-at-linkedin-4451535024": 1,
-    "https://www.linkedin.com/jobs/view/key-account-executive-at-appilary-technologies-4451140340": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-entry-level-at-braun-intertec-corporation-4449561894": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-experienced-at-braun-intertec-corporation-4449563844": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-assistant-staff-project-manager-at-ecs-group-of-companies-4451548281": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4424602718": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4344333709": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/verfahrensmechaniker-einrichter-spritzguss-kunststoff-at-kl%c3%a4ger-spritzguss-gmbh-co-kg-4451714688": 1,
     "https://www.linkedin.com/jobs/view/konsult-inom-milj%c3%b6farlig-verksamhet-till-link%c3%b6ping-at-sweco-4412286443": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-autodesk-4407607118": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-roomadda-4451215753": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-roomadda-4451215753": 1,
+    "https://www.linkedin.com/jobs/view/telesales-executive-at-hubotx-labs-private-limited-4453795943": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-cnode-pro-4451292979": 1,
+    "https://www.linkedin.com/jobs/view/ai-sales-specialist-small-and-medium-businesses-at-google-4444333489": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-almond-4453562432": 1,
+    "https://www.linkedin.com/jobs/view/territory-manager-ii-ic-at-boston-scientific-4454000861": 1,
+    "https://www.linkedin.com/jobs/view/territory-sales-executive-at-copeland-4441814686": 1,
+    "https://www.linkedin.com/jobs/view/field-sales-representative-at-google-4435841089": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3190,7 +3190,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
