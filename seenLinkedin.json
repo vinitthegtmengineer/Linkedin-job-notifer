@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/associate-field-execution-at-the-nudge-4451635715": 1,
-    "https://www.linkedin.com/jobs/view/outreach-associate-at-dribbl-io-4451630906": 1,
-    "https://www.linkedin.com/jobs/view/lead-genration-specialist-home-base-at-executive-assist-co-4450019652": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-3m-4452414143": 1,
-    "https://www.linkedin.com/jobs/view/partner-engineer-us-at-gigs-4452420850": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-prism-digital-4452431194": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-we-viral-4451639738": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-let-s-build-brands-4451641614": 1,
-    "https://www.linkedin.com/jobs/view/google-ads-executive-at-learning-routes-4451631606": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-learning-routes-4451643894": 1,
     "https://www.linkedin.com/jobs/view/paid-media-executive-at-realatte-4451652605": 1,
     "https://www.linkedin.com/jobs/view/senior-online-marketing-manager-at-xxxxxxxxxxxxxxxxx-4452426346": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-candylio-4451630900": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-zigsaw-4453789617": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-payreto-4427909395": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-livekit-4453736393": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hire-id-4455115710": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hire-id-4455115710": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-4426906656": 1,
+    "https://www.linkedin.com/jobs/view/engineer-technician-at-ls-solutions-4454871252": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-staff-project-manager-at-ecs-group-of-companies-4454588799": 1,
+    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-workforceconnect-group-llc-4451737626": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4454849591": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4454845683": 1,
+    "https://www.linkedin.com/jobs/view/stonemasons-4455121784": 1,
+    "https://www.linkedin.com/jobs/view/pracownica-budowlana-pracownik-budowlany-at-praca-pl-4454588359": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-fundraise-up-4444394972": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-karespot-4453795593": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3192,7 +3192,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
