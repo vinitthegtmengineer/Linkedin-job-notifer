@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/qc-lab-technician-at-sika-4441535561": 1,
-    "https://www.linkedin.com/jobs/view/bricklayer-p-i-at-wood-4367338093": 1,
-    "https://www.linkedin.com/jobs/view/implementation-engineer-at-coframe-4451180635": 1,
-    "https://www.linkedin.com/jobs/view/solution-engineer-at-shufti-4451541965": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4451173776": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4451554137": 1,
-    "https://www.linkedin.com/jobs/view/marketing-engineer-at-figma-4424639713": 1,
-    "https://www.linkedin.com/jobs/view/growth-strategy-operations-lead-at-scale-ai-4422167320": 1,
-    "https://www.linkedin.com/jobs/view/data-analytics-engineer-growth-marketing-at-resq-club-4451176858": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4451193522": 1,
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4451173767": 1,
-    "https://www.linkedin.com/jobs/view/gtm-architect-at-scale-ai-4372908520": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-crossing-hurdles-4368510412": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-d2c-brand-at-nabhya-ayurveda-4449567743": 1,
     "https://www.linkedin.com/jobs/view/marketing-analyst-at-webtronic-io-4449560998": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/account-executive-ecs-at-salesforce-4436724654": 1,
     "https://www.linkedin.com/jobs/view/account-executive-uki-commercial-at-boomi-4450896973": 1,
     "https://www.linkedin.com/jobs/view/account-executive-core-growth-brazil-at-salesforce-4436777765": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-datadog-4436300913": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-datadog-4436300913": 1,
+    "https://www.linkedin.com/jobs/view/field-engineer-at-mt-carmel-stabilization-group-inc-4427020111": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-corti-4443576066": 1,
+    "https://www.linkedin.com/jobs/view/bizops-strategy-pricing-at-decagon-4375855825": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-relevance-ai-4436479101": 1,
+    "https://www.linkedin.com/jobs/view/performance-specialist-at-option-designs-4453925073": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-at-e2m-4454878937": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-meeboss-4454816624": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-btse-4398392093": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representatives-cold-calling-agents-at-keystone-medics-4451731025": 1,
+    "https://www.linkedin.com/jobs/view/community-builder-pr-manager-at-women-first-jobs-4451745012": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-navmarg-overseas-pvt-ltd-4451721048": 1,
+    "https://www.linkedin.com/jobs/view/business-development-client-success-executive-at-jamdoli-fort-resorts-pvt-ltd-4453920028": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3190,7 +3190,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
