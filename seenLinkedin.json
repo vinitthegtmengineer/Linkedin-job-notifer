@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-manufacturing-industry-at-salesforce-4452467277": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-hexagon-4452419281": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-lauren-jose-4451680172": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-principal-at-ecs-group-of-companies-4442736225": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-amazon-web-services-aws-4443023380": 1,
     "https://www.linkedin.com/jobs/view/entry-level-environmental-remediation-professional-kansas-city-at-jacobs-4443013371": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4452465629": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-traceroot-ai-yc-s25-4451690133": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4453952035": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-for-veteran-mental-health-services-at-mental-health-america-of-los-angeles-4455108430": 1,
     "https://www.linkedin.com/jobs/view/solar-field-canvasser-at-align-2147625307": 1,
-    "https://www.linkedin.com/jobs/view/outreach-enrollment-coordinator-bilingual-at-piedmont-health-services-inc-4445261022": 1
+    "https://www.linkedin.com/jobs/view/outreach-enrollment-coordinator-bilingual-at-piedmont-health-services-inc-4445261022": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-technician-at-alliance-technical-group-4445310721": 1,
+    "https://www.linkedin.com/jobs/view/field-technical-advisor-at-profrac-services-4453921318": 1,
+    "https://www.linkedin.com/jobs/view/crm%e8%bf%90%e8%90%a5-at-lg-ltd-4451276961": 1,
+    "https://www.linkedin.com/jobs/view/founding-business-development-representative-at-loora-4453956319": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contextqa-4451735129": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3197,7 +3197,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
