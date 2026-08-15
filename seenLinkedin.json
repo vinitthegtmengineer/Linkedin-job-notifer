@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-fort-worth-tx-at-certerra-4452024962": 1,
-    "https://www.linkedin.com/jobs/view/backpanel-at-clayton-4451825076": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-clark-construction-group-4451813971": 1,
-    "https://www.linkedin.com/jobs/view/cement-mason-at-keystone-contractors-association-4451421947": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4445522044": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-nexhealth-4451879556": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-associate-at-inspira-education-4451881352": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/sr-account-executive-digital-natives-at-microsoft-4445330536": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-%e2%80%93-silkrunner-at-spidersilk-4444350148": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-emea-outbound-at-ironclad-4417322929": 1,
-    "https://www.linkedin.com/jobs/view/sdr-at-coreweave-4445254698": 1
+    "https://www.linkedin.com/jobs/view/sdr-at-coreweave-4445254698": 1,
+    "https://www.linkedin.com/jobs/view/multi-skill-operator-lease-operator-pumper-southeast-new-mexico-at-conocophillips-4453742248": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-principal-at-ecs-group-of-companies-4409395198": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-representative-at-similarweb-4427572495": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-workato-4445265278": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3191,7 +3191,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
