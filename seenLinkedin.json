@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-upgrad-study-abroad-4451108636": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-intellinex-4449535402": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4451389911": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-zap-group-4449538589": 1,
-    "https://www.linkedin.com/jobs/view/ppc-manager-digital-marketing-specialist-on-site-at-natural-vitamins-europe-4449526911": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-at-daftra-%d8%af%d9%81%d8%aa%d8%b1%d8%a9-4449539551": 1,
-    "https://www.linkedin.com/jobs/view/marketing-sales-automation-specialist-at-yuki-4430559421": 1,
-    "https://www.linkedin.com/jobs/view/martech-specialist-martech-analyst-martech-manager-at-highered-ai-analytics-inc-4449535465": 1,
-    "https://www.linkedin.com/jobs/view/ai-marketing-operations-manager-at-private-sector-4449526927": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-amiy-4451397623": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-amiy-4451390982": 1,
     "https://www.linkedin.com/jobs/view/b2b-sales-representative-%e2%80%93-cold-calling-at-softhouse-ai-4449527931": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-uk-market-at-happy-chimps-4451103886": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-all-genders-100%25-remote-at-heydata-4453771040": 1,
     "https://www.linkedin.com/jobs/view/sales-business-development-representative-at-noor-food-manufacturing-4454078281": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-synchro-4438743626": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-element-ops-4453746380": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-element-ops-4453746380": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-nyc-at-conveo-4451234555": 1,
+    "https://www.linkedin.com/jobs/view/rural-business-devlopment-associate-at-phonepe-4453707772": 1,
+    "https://www.linkedin.com/jobs/view/outreach-executive-i-at-oak-street-health-part-of-cvs-health-4435813767": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-truthscan-4444889554": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-gravitee-4449216956": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sitetracker-4441801373": 1,
+    "https://www.linkedin.com/jobs/view/deutsch-german-remote-program-business-development-representative-b2b-at-anteriad-4450338252": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-peregrine-4435046224": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-givecampus-4454549763": 1,
+    "https://www.linkedin.com/jobs/view/outbound-setter-at-decentralized-masters-4292865385": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3186,7 +3186,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
