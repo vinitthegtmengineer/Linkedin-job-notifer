@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/paid-media-executive-at-realatte-4451652605": 1,
-    "https://www.linkedin.com/jobs/view/senior-online-marketing-manager-at-xxxxxxxxxxxxxxxxx-4452426346": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-candylio-4451630900": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-manager-at-ecs-4451629776": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-quick-automate-4449834291": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4451650595": 1,
-    "https://www.linkedin.com/jobs/view/commercial-account-executive-at-culturemonkey-4451636241": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-aisensy-4452411453": 1,
-    "https://www.linkedin.com/jobs/view/account-specialist-at-erotissch-4451638240": 1,
-    "https://www.linkedin.com/jobs/view/named-account-executive-enterprise-healthcare-real-estate-education-at-salesforce-4442714443": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-fena-4452425291": 1,
-    "https://www.linkedin.com/jobs/view/field-staff-engineer-at-jobot-4451642896": 1,
     "https://www.linkedin.com/jobs/view/laboratory-technician-at-trc-companies-inc-4440186001": 1,
     "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4443091062": 1,
     "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4443002083": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/stonemasons-4455121784": 1,
     "https://www.linkedin.com/jobs/view/pracownica-budowlana-pracownik-budowlany-at-praca-pl-4454588359": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-fundraise-up-4444394972": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-karespot-4453795593": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-karespot-4453795593": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-at-oldcastle-apg-4451735700": 1,
+    "https://www.linkedin.com/jobs/view/peeler-operator-large-line-at-ecore-athletic-4453928432": 1,
+    "https://www.linkedin.com/jobs/view/operator-operatorka-proces%c3%b3w-chemicznych-at-collins-aerospace-4444938303": 1,
+    "https://www.linkedin.com/jobs/view/aide-op%c3%a9rateur-de-concasseur-at-comit%c3%a9-sectoriel-de-main-d-oeuvre-de-l-industrie-des-mines-csmo-mines-4454808853": 1,
+    "https://www.linkedin.com/jobs/view/quality-manager-at-ash-grove-cement-company-4451726644": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-evers-sons-inc-4455145009": 1,
+    "https://www.linkedin.com/jobs/view/concrete-technician-at-vortex-doors-4454835640": 1,
+    "https://www.linkedin.com/jobs/view/associate-account-executive-at-kordova-tek-4454824027": 1,
+    "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4453796610": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-4451742682": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-corporatemart-4451298894": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-south-africa-at-blacksmith-agency-4454572368": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3192,7 +3192,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
