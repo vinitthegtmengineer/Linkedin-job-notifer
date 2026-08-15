@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-partnership-engineer-at-lovable-4451139316": 1,
-    "https://www.linkedin.com/jobs/view/martech-operations-engineer-at-classpass-4403238907": 1,
-    "https://www.linkedin.com/jobs/view/founders-associate-growth-%e2%82%ac80k-ote-german-c2-berlin-at-genz4gtm-4451503766": 1,
-    "https://www.linkedin.com/jobs/view/strategic-growth-manager-agentic-commerce-at-adyen-4382854210": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-a1softech-4451523111": 1,
-    "https://www.linkedin.com/jobs/view/user-acquisition-manager-at-ryze-beyond-4449553378": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-hybrid-at-smartsheet-4451129415": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-manager-systems-and-ai-at-omnissa-4442033225": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-artech-l-l-c-4451132370": 1,
-    "https://www.linkedin.com/jobs/view/growth-demand-generation-associate-at-uniek-ai-4451506801": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-swat-io-4451124404": 1,
-    "https://www.linkedin.com/jobs/view/gtm-specialist-at-7-labs-4449557178": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-b2b-clean-space-4449546802": 1,
     "https://www.linkedin.com/jobs/view/call-center-analyst-at-ntt-data-north-america-4451395752": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-yibi-precision-mim-manufacturing-solutions-for-precision-metal-components-4449547744": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/telesales-representative-at-sports-social-4451707544": 1,
     "https://www.linkedin.com/jobs/view/telecalling-executive-at-sofiology-4453598892": 1,
     "https://www.linkedin.com/jobs/view/outbound-calling-agent-at-duhanashrah-ai-4451289367": 1,
-    "https://www.linkedin.com/jobs/view/bd-growth-specialist-at-reput-ai-4451714307": 1
+    "https://www.linkedin.com/jobs/view/bd-growth-specialist-at-reput-ai-4451714307": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-founder-s-office-remote-at-localops-inc-4451914564": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-deepki-4449739883": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-orbital-4398272620": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-at-docebo-4444740678": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-%e2%80%93-gtm-strategy-execution-at-salesforce-4454844259": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-bitgo-4406206833": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-%e2%80%93-gtm-strategy-execution-at-salesforce-4454831382": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-market-research-business-development-at-meetri-infotech-4453784979": 1,
+    "https://www.linkedin.com/jobs/view/b2b-outreach-specialist-business-development-marketing-at-jobgether-4453572245": 1,
+    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451228208": 1,
+    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451233164": 1,
+    "https://www.linkedin.com/jobs/view/member-engagement-specialist-fes-at-the-blue-venture-fund-4453739354": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3183,13 +3183,15 @@
     "vinyl|||clayton": "2026-08-14T22:58:20.632Z",
     "cabinet set|||clayton": "2026-08-14T22:58:22.244Z",
     "go to market engineer|||momentus technologies": "2026-08-14T22:58:23.776Z",
-    "worldwide gtm specialist - ai inference, data & ai gtm, data & ai gtm|||amazon web services (aws)": "2026-08-15T05:45:22.206Z"
+    "worldwide gtm specialist - ai inference, data & ai gtm, data & ai gtm|||amazon web services (aws)": "2026-08-15T05:45:22.206Z",
+    "gtm engineer / founder's office|||localops inc": "2026-08-15T08:42:37.803Z",
+    "product marketing manager – gtm strategy & execution|||salesforce": "2026-08-15T08:42:39.288Z"
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 11,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 12,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
