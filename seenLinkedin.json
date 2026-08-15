@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-evangelist-at-core-hiring-hub-4449870049": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-toronto-at-veem-4449867249": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-ottawa-at-veem-4449860323": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-marqon-technologies-4449866297": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-gushwork-4451911021": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%93-uk-market-at-kostal-group-4452483062": 1,
-    "https://www.linkedin.com/jobs/view/frac-equipment-operator-i-at-flying-a-pumping-services-llc-4334089393": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-at-braun-intertec-corporation-4356492474": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-amazon-web-services-aws-4443031027": 1,
-    "https://www.linkedin.com/jobs/view/scientist-product-development-at-fortera-4412094023": 1,
     "https://www.linkedin.com/jobs/view/laborer-dayton-oh-at-messer-construction-co-4448068447": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-chift-api-4449853503": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-flairup-4451905429": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/business-development-associate-at-flatirondragados-4435408417": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-acquisition-specialist-at-zapyan-4455141344": 1,
     "https://www.linkedin.com/jobs/view/global-business-development-representative-at-easygenerator-4372758134": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-usa-at-optiv-4454816515": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-usa-at-optiv-4454816515": 1,
+    "https://www.linkedin.com/jobs/view/horticulturist-at-harvard-central-administration-cadm-talent-acquisition-4444994502": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-civil-environmental-geological-engineer-at-haley-aldrich-4386767308": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-civil-environmental-geological-engineer-at-haley-aldrich-4386755794": 1,
+    "https://www.linkedin.com/jobs/view/civil-engineer-p-e-at-kleinfelder-4436369195": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-open-rank-level-at-florida-state-university-4454858863": 1,
+    "https://www.linkedin.com/jobs/view/gtm-partnerships-lead-at-attio-4445236258": 1,
+    "https://www.linkedin.com/jobs/view/commercial-associate-%c2%a340k-%c2%a355k-%2b-equity-at-uptimelabs-at-jack-jill-4453940246": 1,
+    "https://www.linkedin.com/jobs/view/b2b-sdr-prospect-onboard-drive-campaign-roi-at-agicap-4455127255": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-contact-software-4427970251": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-chicago-at-horizon3-ai-4325452203": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3199,7 +3199,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
