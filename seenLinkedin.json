@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-lead-at-artane-partners-4451533807": 1,
     "https://www.linkedin.com/jobs/view/founder-associate-business-development-sales-at-globalmatch-tech-4451522241": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-digmarit-ltd-4451547860": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-future-opportunities-vancouver-hybrid-at-boomi-4403747424": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-maternity-cover-m-f-d-at-yepoda-4454543186": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-operations-senior-associate-at-farther-4436370302": 1,
     "https://www.linkedin.com/jobs/view/global-sales-executive-at-organic-yug-4451724261": 1,
-    "https://www.linkedin.com/jobs/view/d-sales-director-at-cognizant-4453701086": 1
+    "https://www.linkedin.com/jobs/view/d-sales-director-at-cognizant-4453701086": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-platform-startups-google-cloud-at-google-4444378346": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3190,7 +3190,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
