@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4345011745": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-gen-4440196971": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-east-region-at-braintrust-4385514774": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-ii-mid-market-at-apollo-io-4413588764": 1,
-    "https://www.linkedin.com/jobs/view/conversion-rate-optimization-manager-betty-ca-at-betty-4451633358": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-at-jack-4452128024": 1,
     "https://www.linkedin.com/jobs/view/head-of-growth-at-jack-4451666905": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-lead-us-market-at-brite-4452431710": 1,
     "https://www.linkedin.com/jobs/view/crm-specialist-at-air-apps-4452432592": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/growth-executive-%e2%80%93-sales-community-at-blackperl-4451737722": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-4453713464": 1,
     "https://www.linkedin.com/jobs/view/sales-associate-at-lendi-group-4408214566": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-%e2%80%93-local-demand-generation-commercial-fire-southeastern-europe-m-f-d-at-honeywell-technologies-4418112429": 1
+    "https://www.linkedin.com/jobs/view/sales-representative-%e2%80%93-local-demand-generation-commercial-fire-southeastern-europe-m-f-d-at-honeywell-technologies-4418112429": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-hazel-4455151106": 1,
+    "https://www.linkedin.com/jobs/view/advertising-specialist-at-the-branding-studio-4453933191": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-at-go-digi-solutions-4451732700": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-data-ai-m-w-d-at-ailio-gmbh-4451733415": 1,
+    "https://www.linkedin.com/jobs/view/e-mailing-specialista-at-medi%c3%a1ln%c3%ad-skupina-mafra-4454886769": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-tessera-data-4455100546": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3193,7 +3193,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
