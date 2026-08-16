@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4452913334": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-standyou-4452919201": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-gushwork-4452374767": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-epicor-4453657311": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/senior-technical-evangelist-flasharray-fa-at-everpure-4427245594": 1,
     "https://www.linkedin.com/jobs/view/senior-demo-consultant-at-workiva-4416325546": 1,
     "https://www.linkedin.com/jobs/view/technical-product-marketing-specialist-at-fileai-4451653018": 1,
-    "https://www.linkedin.com/jobs/view/area-representative-at-fellowship-of-christian-athletes-northwest-chicago-suburbs-4455137681": 1
+    "https://www.linkedin.com/jobs/view/area-representative-at-fellowship-of-christian-athletes-northwest-chicago-suburbs-4455137681": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-outbound-at-maintainx-4435484668": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3206,7 +3206,7 @@
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 44,
+    "cyclesToday": 45,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
