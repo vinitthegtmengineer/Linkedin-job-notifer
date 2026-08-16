@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/engineer-tailings-water-at-rio-tinto-4452760055": 1,
-    "https://www.linkedin.com/jobs/view/trainee-soil-and-concrete-testing-technicians-at-construction-sciences-4453649172": 1,
-    "https://www.linkedin.com/jobs/view/strategy-planning-manager-agentic-ai-at-cisco-4440629456": 1,
-    "https://www.linkedin.com/jobs/view/channel-lead-at-reducto-4453625364": 1,
     "https://www.linkedin.com/jobs/view/bilingual-community-engagement-specialist-remote-full-time-weekends-at-pair-team-4452724489": 1,
     "https://www.linkedin.com/jobs/view/bilingual-community-engagement-specialist-remote-full-time-weekends-at-pair-team-4452712589": 1,
     "https://www.linkedin.com/jobs/view/bilingual-community-outreach-representative-at-personal-touch-home-care-4452730357": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/sales-associate-at-staples-canada-4455145136": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-smm-specialist-at-novatech360-inc-4454201393": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-netscribes-4452201264": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-expert-at-growthloom-4453708342": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-expert-at-growthloom-4453708342": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4453988448": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-stuut-4437188994": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-bytescare-4452206176": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-dach-at-horizon3-ai-4427247702": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3205,7 +3205,7 @@
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
