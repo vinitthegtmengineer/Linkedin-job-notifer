@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-coram-ai-4452602298": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-bannerflow-4451903866": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-cmhk-marketing-at-amazon-web-services-aws-4443034298": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-%e2%80%94-self-serve-decisioning-platform-retail-business-services-rbs-at-amazon-4443052070": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-jaggaer-4451660232": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-ramp-4434782044": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-manta-teknoloji-3828013772": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-humanforce-4449843738": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/growth-sales-executive-closer-at-nadiv-4453979769": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-innove-intellects-llp-4453799813": 1,
     "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-adyen-4376774758": 1,
-    "https://www.linkedin.com/jobs/view/sales-associate-at-lendi-group-4369009613": 1
+    "https://www.linkedin.com/jobs/view/sales-associate-at-lendi-group-4369009613": 1,
+    "https://www.linkedin.com/jobs/view/staff-construction-professional-2-at-haley-aldrich-4361574799": 1,
+    "https://www.linkedin.com/jobs/view/mid-level-geotechnical-engineer-at-schnabel-engineering-4398441212": 1,
+    "https://www.linkedin.com/jobs/view/construction-inspector-trainee-at-kansas-department-of-transportation-kdot-4455115652": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-product-expert-housing-at-eliseai-4339084218": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-nsol-bpo-4451776182": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3201,7 +3201,7 @@
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
