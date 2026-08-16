@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-wounded-warrior-project-4453014069": 1,
-    "https://www.linkedin.com/jobs/view/artist-outreach-influencer-marketing-at-stars-n-celebs-india-s-first-artist-platform-%e2%80%94-digital-identity-%c2%b7-zero-commission-4452319044": 1,
-    "https://www.linkedin.com/jobs/view/netsuite-sales-development-representative-at-oracle-4452323240": 1,
-    "https://www.linkedin.com/jobs/view/recruitment-and-business-development-lead-generation-specialist-at-c-smart-international-4452329338": 1,
-    "https://www.linkedin.com/jobs/view/business-builder-ecosystem-at-kimi-moonshot-ai-4452347629": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-b2b-martech-campaigns-at-epam-systems-4098517917": 1,
-    "https://www.linkedin.com/jobs/view/gtm-data-automation-manager-at-zendesk-4451954746": 1,
-    "https://www.linkedin.com/jobs/view/market-development-representative-at-docusign-4451660871": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-outreach-executive-remote-at-navigator-hr-consulting-solutions-4450124017": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shephertz-technologies-4452339847": 1,
-    "https://www.linkedin.com/jobs/view/growth-business-development-associate-legal-edtech-at-eastern-book-company-4451663077": 1,
-    "https://www.linkedin.com/jobs/view/campus-outreach-specialist-edtech-field-at-skilldzire-4452334825": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-iii-at-airswift-4447573584": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-iii-production-at-airswift-4447557770": 1,
-    "https://www.linkedin.com/jobs/view/staff-technician-civil-geotechnical-engineer-or-geologist-2-at-haley-aldrich-4442782636": 1,
     "https://www.linkedin.com/jobs/view/chassis-at-clayton-4452372161": 1,
     "https://www.linkedin.com/jobs/view/roof-set-at-clayton-4452358215": 1,
     "https://www.linkedin.com/jobs/view/construction-operations-at-dolomite-products-co-4453052704": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/sales-and-marketing-partner-at-tingu-tales-4453982549": 1,
     "https://www.linkedin.com/jobs/view/email-marketing-specialist-%e2%80%93-rpo-manual-email-outreach-at-akrostech-consulting-4453964734": 1,
     "https://www.linkedin.com/jobs/view/advanced-specialist-marketing-at-pearson-4426973086": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-philippines-market-at-salesforce-4427536113": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-philippines-market-at-salesforce-4427536113": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-experienced-at-braun-intertec-corporation-4433135630": 1,
+    "https://www.linkedin.com/jobs/view/laboratorista-at-holcim-m%c3%a9xico-4445280048": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-terracon-4451335714": 1,
+    "https://www.linkedin.com/jobs/view/materials-engineering-technician-i-at-terracon-4451524118": 1,
+    "https://www.linkedin.com/jobs/view/cement-lab-technician-iii-at-calportland-4424804406": 1,
+    "https://www.linkedin.com/jobs/view/skilled-laborer-at-baker-construction-4455118692": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-acceleration-at-equinix-4421188282": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-acceleration-at-equinix-4421196261": 1,
+    "https://www.linkedin.com/jobs/view/sales-systems-engineer-at-veeam-software-4435480514": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-systems-engineer-vdc-m365-at-veeam-software-4435462117": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-anrok-4409559889": 1,
+    "https://www.linkedin.com/jobs/view/gtm-specialist-north-america-at-appsflyer-4407642378": 1,
+    "https://www.linkedin.com/jobs/view/growth-operator-at-distyl-4398875228": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-simpleway-bookkeeping-4451794048": 1,
+    "https://www.linkedin.com/jobs/view/outreach-intake-specialist-ii-at-endeavors-4450956008": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3196,13 +3196,14 @@
     "outreach specialist for veteran mental health services|||mental health america of los angeles": "2026-08-15T21:54:49.674Z",
     "gtm operations process architect|||stripe": "2026-08-15T23:07:37.962Z",
     "growth marketing manager|||high bridge & co.": "2026-08-15T23:07:39.454Z",
-    "gtm engineer: customer experience & lifecycle|||equinix": "2026-08-16T09:58:22.794Z"
+    "gtm engineer: customer experience & lifecycle|||equinix": "2026-08-16T09:58:22.794Z",
+    "gtm specialist, north america|||appsflyer": "2026-08-16T10:56:47.637Z"
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 15,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 16,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
