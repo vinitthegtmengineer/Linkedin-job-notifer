@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4453574823": 1,
-    "https://www.linkedin.com/jobs/view/manager-revenue-strategy-enablement-americas-at-airwallex-4441563333": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-executive-digital-agency-at-agency-digitas-4453518966": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-executive-at-jellyfish-4454071809": 1,
-    "https://www.linkedin.com/jobs/view/allround-senior-campagne-manager-at-goldrepublic-4454522868": 1,
-    "https://www.linkedin.com/jobs/view/customer-growth-representative-london-at-furza-4453569902": 1,
-    "https://www.linkedin.com/jobs/view/founding-business-development-representative-fintech-%f0%9f%a6%84-at-katapult-4453561067": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-new-york-ny-at-box-4454335235": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-austin-texas-at-box-4454318655": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-southeast-asia-at-stripe-4454550310": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-flatpay-4454525195": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-fintech-at-simcorp-4454048236": 1,
-    "https://www.linkedin.com/jobs/view/business-developer-paris-at-brightanalytics-4403900996": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-aunz-at-stripe-4454555317": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-datmos-4454551203": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-partnerships-at-go-lime-inc-4453568948": 1,
     "https://www.linkedin.com/jobs/view/assistente-de-prospec%c3%a7%c3%a3o-sdr-ribeir%c3%a3o-preto-sp-at-sankhya-4439231210": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-league-4455375515": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-pivot-4454423614": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-mri-software-4455373113": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadadvisors-4454291609": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadadvisors-4454291609": 1,
+    "https://www.linkedin.com/jobs/view/materials-testing-technologist-at-stantec-4455361460": 1,
+    "https://www.linkedin.com/jobs/view/chassis-at-clayton-4455341584": 1,
+    "https://www.linkedin.com/jobs/view/pallet-builder-at-clayton-4455331640": 1,
+    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4450617580": 1,
+    "https://www.linkedin.com/jobs/view/lead-demo-engineer-at-onestream-software-4452260730": 1,
+    "https://www.linkedin.com/jobs/view/principal-technical-marketing-engineer-data-security-at-palo-alto-networks-4358859847": 1,
+    "https://www.linkedin.com/jobs/view/cloud-solution-engineer-%e2%80%93-cloud-native-devops-preventa-t%c3%a9cnica-oracle-cloud-at-oracle-4442859606": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-humaans-at-jack-jill-4454424312": 1,
+    "https://www.linkedin.com/jobs/view/business-operations-and-marketing-analyst-at-copyleaks-4452281799": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-skill-veda-4454296913": 1,
+    "https://www.linkedin.com/jobs/view/saas-sales-development-representative-quote-to-contract-us-hours-at-remote-growth-partners-4455358127": 1,
+    "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4455363610": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sdr-proptech-120%e2%80%93140-dials-day-us-hours%09-at-remote-growth-partners-4455369436": 1,
+    "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4454420360": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3216,13 +3216,14 @@
     "linkedin outreach specialist|||adrevup": "2026-08-17T17:12:17.201Z",
     "gtm engineer|||thirdfort": "2026-08-17T19:58:29.711Z",
     "founding gtme|||firefly": "2026-08-17T20:35:45.744Z",
-    "gtm engineer|||watershed": "2026-08-17T20:35:47.406Z"
+    "gtm engineer|||watershed": "2026-08-17T20:35:47.406Z",
+    "pallet builder|||clayton": "2026-08-17T21:00:09.675Z"
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 30,
-    "matchedToday": 14,
-    "sentToday": 14,
+    "cyclesToday": 31,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
