@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-zolo-4451227205": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-d2c-product-brand-at-nabhya-ayurveda-4450860840": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-at-ashash-4451244173": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-cntxt-ai-4453594348": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-jobbol-4455292738": 1,
     "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-neg%c3%b3cios-at-dconnection-group-4452268777": 1,
     "https://www.linkedin.com/jobs/view/housing-outreach-specialist-at-housing-homeless-coalition-of-central-new-york-4451406210": 1,
-    "https://www.linkedin.com/jobs/view/family-recruitment-specialist-53936-at-children-s-home-society-of-north-carolina-4454429954": 1
+    "https://www.linkedin.com/jobs/view/family-recruitment-specialist-53936-at-children-s-home-society-of-north-carolina-4454429954": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-league-4455398625": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3225,7 +3225,7 @@
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 19,
     "sentToday": 19,
     "lastSummaryDate": ""
