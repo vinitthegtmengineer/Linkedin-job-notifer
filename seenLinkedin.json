@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-datmos-4454551203": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-partnerships-at-go-lime-inc-4453568948": 1,
-    "https://www.linkedin.com/jobs/view/assistente-de-prospec%c3%a7%c3%a3o-sdr-ribeir%c3%a3o-preto-sp-at-sankhya-4439231210": 1,
-    "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-station-f-4453562462": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-plaid-4416987465": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-spektr-4427194981": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-packt-4451241424": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-create-synergies-inc-4453580998": 1,
-    "https://www.linkedin.com/jobs/view/b2b-lead-generator-at-microsourcing-4454537050": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-create-synergies-inc-4453590070": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-up-to-53k-salary-package-at-sutherland-4451223644": 1,
-    "https://www.linkedin.com/jobs/view/frac-specialist-at-championx-4450807645": 1,
-    "https://www.linkedin.com/jobs/view/process-operator-represented-tariff-at-dow-4450856156": 1,
     "https://www.linkedin.com/jobs/view/hydraulic-fracturing-equipment-operator-at-propetro-services-inc-4450822362": 1,
     "https://www.linkedin.com/jobs/view/engineering-technician-i-construction-materials-testing-at-terracon-4451055802": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-privy-at-stripe-4454535409": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/saas-sales-development-representative-quote-to-contract-us-hours-at-remote-growth-partners-4455358127": 1,
     "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4455363610": 1,
     "https://www.linkedin.com/jobs/view/outbound-sdr-proptech-120%e2%80%93140-dials-day-us-hours%09-at-remote-growth-partners-4455369436": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4454420360": 1
+    "https://www.linkedin.com/jobs/view/healthcare-account-executive-at-mg-4454420360": 1,
+    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455345489": 1,
+    "https://www.linkedin.com/jobs/view/facility-technician-ozona-gas-plant-at-phillips-66-4454411861": 1,
+    "https://www.linkedin.com/jobs/view/technolog-technolo%c5%bcka-ds-impregnacji-i-%c5%bcywic-at-praca-pl-4455363582": 1,
+    "https://www.linkedin.com/jobs/view/finish-specialist-at-duncan-aviation-4454412845": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-lead-net-zero-sustainability-at-ifs-4452227557": 1,
+    "https://www.linkedin.com/jobs/view/principle-regional-product-marketing-manager-at-renesas-electronics-4445931818": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-abb-4445901904": 1,
+    "https://www.linkedin.com/jobs/view/gtm-manager-at-linentech-4452269542": 1,
+    "https://www.linkedin.com/jobs/view/ai-optimisation-gtm-lead-at-ifs-4452224682": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-autodesk-4407607117": 1,
+    "https://www.linkedin.com/jobs/view/field-partner-marketing-manager-at-sambanova-4454581341": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-nops-4442787991": 1,
+    "https://www.linkedin.com/jobs/view/prospect-development-representative-emerging-careers-canada-at-sas-4423041751": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3217,13 +3217,15 @@
     "gtm engineer|||thirdfort": "2026-08-17T19:58:29.711Z",
     "founding gtme|||firefly": "2026-08-17T20:35:45.744Z",
     "gtm engineer|||watershed": "2026-08-17T20:35:47.406Z",
-    "pallet builder|||clayton": "2026-08-17T21:00:09.675Z"
+    "pallet builder|||clayton": "2026-08-17T21:00:09.675Z",
+    "go to market lead - net zero & sustainability|||ifs": "2026-08-17T21:34:50.038Z",
+    "ai optimisation gtm lead|||ifs": "2026-08-17T21:34:51.518Z"
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 31,
-    "matchedToday": 15,
-    "sentToday": 15,
+    "cyclesToday": 32,
+    "matchedToday": 17,
+    "sentToday": 17,
     "lastSummaryDate": ""
   }
 }
