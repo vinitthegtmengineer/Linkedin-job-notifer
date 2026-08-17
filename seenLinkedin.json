@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-gtm-engineer-at-jobgether-4452780787": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-logicmonitor-4384010573": 1,
-    "https://www.linkedin.com/jobs/view/senior-staff-sales-engineer-singapore-at-cockroach-labs-4451699020": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-partnerships-at-clay-4415731111": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-cx-at-clay-4415724240": 1,
-    "https://www.linkedin.com/jobs/view/digital-business-growth-manager-f-m-d-at-trusted-shops-4453104139": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-seven-4450471471": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-skincare-startup-at-peoplegene-4452910281": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-executive-ppc-ads-skincare-startup-at-peoplegene-4452911262": 1,
-    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-nuevo-media-group-il-4450471850": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-pantheon-4431971823": 1,
-    "https://www.linkedin.com/jobs/view/process-engineer-deployments-at-alumni-founders-4450451284": 1,
-    "https://www.linkedin.com/jobs/view/manager-campaign-management-at-roshn-l-%d8%b1%d9%88%d8%b4%d9%86-4454006556": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-at-stanford-nursery-4453699493": 1,
     "https://www.linkedin.com/jobs/view/telecaller-lead-generation-executive-at-diksha-technologies-4450481395": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-cispl-comtech-it-solutions-private-limited-4452945184": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-beyond-craft-4450491290": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-specialist-at-pm-networking-4451769904": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-nprep-4454219536": 1,
     "https://www.linkedin.com/jobs/view/b2b-retail-sales-relationship-executive-at-wellversed-4454227643": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associate-at-openhire-4454211709": 1
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-openhire-4454211709": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24100k-%24150k-%2b-equity-at-karumi-at-jack-jill-4454213369": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4455231145": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4455230994": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4454215534": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4454232368": 1,
+    "https://www.linkedin.com/jobs/view/business-development-manager-tech-alliances-at-devrev-4454223244": 1,
+    "https://www.linkedin.com/jobs/view/digital-paid-media-specialist-google-meta-at-digitallytop-4454232724": 1,
+    "https://www.linkedin.com/jobs/view/international-campaign-operations-strategist-at-bilibili-group-4445702386": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-represenative-at-jobgether-4454223611": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-core-main-4328694404": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-at-jobgether-4454210690": 1,
+    "https://www.linkedin.com/jobs/view/client-executive-it-solutions-at-xerox-4417508030": 1,
+    "https://www.linkedin.com/jobs/view/corporate-partnerships-associate-at-altera-institute-4455235354": 1,
+    "https://www.linkedin.com/jobs/view/admissions-counselor-at-eduflourish-4454210727": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3206,7 +3206,7 @@
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
