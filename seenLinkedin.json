@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-operations-lead-ai-marketing-automation-at-smzh-ag-4454523325": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-operations-lead-at-agentmail-yc-s25-4453560548": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-revenue-strategy-enablement-americas-at-airwallex-4441554831": 1,
-    "https://www.linkedin.com/jobs/view/ai-digital-marketing-executive-at-flashspace-4454394962": 1,
-    "https://www.linkedin.com/jobs/view/pm-executive-meta-ads-specialist-at-trunativ-4451201138": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-execuitve-at-brandshark-4450899988": 1,
     "https://www.linkedin.com/jobs/view/ppc-manager-at-kzh-digital-4451229169": 1,
     "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-vita-media-group-4451238066": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-fastmarkets-4454518304": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-coaches-creating-impact-inc-4454288813": 1,
     "https://www.linkedin.com/jobs/view/patient-outreach-representative-at-avorcms-services-llc-rcm-4452280550": 1,
     "https://www.linkedin.com/jobs/view/m4720-account-executive-20-at-fedex-4455330678": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-architecture-at-cisco-4445916640": 1
+    "https://www.linkedin.com/jobs/view/account-executive-architecture-at-cisco-4445916640": 1,
+    "https://www.linkedin.com/jobs/view/pipeline-technician-at-energy-transfer-4452283606": 1,
+    "https://www.linkedin.com/jobs/view/traveling-construction-materials-laboratory-cmt-technician-at-braun-intertec-corporation-4452280873": 1,
+    "https://www.linkedin.com/jobs/view/materials-technician-at-skanska-costain-strabag-joint-venture-4455334141": 1,
+    "https://www.linkedin.com/jobs/view/fluvial-geomorphologist-hydromorphologist-at-wsp-in-the-uk-ireland-4445912647": 1,
+    "https://www.linkedin.com/jobs/view/senior-environment-artist-at-epic-games-4454414470": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%94-industrial-b2b-at-glowtify-4454432190": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3217,7 +3217,7 @@
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
