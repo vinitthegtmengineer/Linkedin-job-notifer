@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/forward-deployed-creative-strategist-at-hightouch-4450855938": 1,
-    "https://www.linkedin.com/jobs/view/front-seller-cold-caller-at-impleko-4450850322": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-i-at-the-linux-foundation-4439270646": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-trucker-path-4450374700": 1,
-    "https://www.linkedin.com/jobs/view/lead-genration-specialist-permanent-remote-at-executive-assist-co-4453260882": 1,
-    "https://www.linkedin.com/jobs/view/production-operator-layup-1st-shift-at-clayton-4454316965": 1,
-    "https://www.linkedin.com/jobs/view/head-of-deal-strategy-apac-at-openai-4450885268": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453278608": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453281640": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-truthscan-4453279001": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-fancysauce-inc-at-jack-jill-4454266366": 1,
     "https://www.linkedin.com/jobs/view/otc-sales-development-representative-at-btse-4369452337": 1,
     "https://www.linkedin.com/jobs/view/gtm-associate-%c2%a340k-%c2%a350k-%2b-equity-at-passion-labs-at-jack-jill-4454269369": 1,
-    "https://www.linkedin.com/jobs/view/ppc-digital-growth-specialist-at-vishram-international-services-4455279660": 1
+    "https://www.linkedin.com/jobs/view/ppc-digital-growth-specialist-at-vishram-international-services-4455279660": 1,
+    "https://www.linkedin.com/jobs/view/staff-engineer-i-at-braun-intertec-corporation-4188608422": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-technician-entry-level-at-braun-intertec-corporation-4407493407": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-patientsfinder-4452251956": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-habitat-health-4455304636": 1,
+    "https://www.linkedin.com/jobs/view/community-liaison-hospice-at-apreva-hospice-4454405001": 1,
+    "https://www.linkedin.com/jobs/view/business-executive-jaipur-at-gsk-4452255849": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-ahmedabad-at-hepn-4452263429": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3208,13 +3208,14 @@
     "outbound gtm engineer|||didomi": "2026-08-17T08:57:59.605Z",
     "growth marketing manager|||odio hq": "2026-08-17T08:58:01.094Z",
     "gtm engineer (m/w/d)|||growthside gmbh": "2026-08-17T12:59:29.143Z",
-    "gtm & bizops - founding team|||sairr": "2026-08-17T13:47:27.476Z"
+    "gtm & bizops - founding team|||sairr": "2026-08-17T13:47:27.476Z",
+    "outreach specialist|||habitat health": "2026-08-17T15:44:11.820Z"
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 20,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 21,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
