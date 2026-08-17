@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/media-buyer-at-academy-of-sigma-4451223925": 1,
-    "https://www.linkedin.com/jobs/view/media-buyer-igaming-at-rise-the-bet-4451233133": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-meeboss-4454316177": 1,
     "https://www.linkedin.com/jobs/view/global-marketing-operations-manager-at-ultradent-products-inc-4454056969": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-flexiple-4454377240": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-localplus-4451239789": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/lead-generation-at-fazinflo-4452256999": 1,
     "https://www.linkedin.com/jobs/view/community-partnership-representative-at-alpine-physician-partners-4455370624": 1,
     "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4454289257": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4455298014": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4455298014": 1,
+    "https://www.linkedin.com/jobs/view/casting-operator-at-aspen-aerogels-4454429626": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-web-at-imagineart-4455371508": 1,
+    "https://www.linkedin.com/jobs/view/outreach-growth-representative-at-greater-goals-aba-4455383567": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3224,7 +3224,7 @@
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 18,
     "sentToday": 18,
     "lastSummaryDate": ""
