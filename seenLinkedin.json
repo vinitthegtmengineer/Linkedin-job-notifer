@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-commercial-at-airwallex-4441072645": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sourcingxpress-4454036061": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-snowflake-4443493144": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-threatcop-4450463825": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-at-rise-up-4452983939": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-i-at-terracon-4451068453": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-project-manager-at-ecs-group-of-companies-4454305493": 1,
-    "https://www.linkedin.com/jobs/view/nvidia-partner-manager-at-nebius-4450836515": 1,
-    "https://www.linkedin.com/jobs/view/strategic-partnerships-lead-at-reducto-4454305353": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-templates-at-zillow-4454320011": 1,
-    "https://www.linkedin.com/jobs/view/marketing-strategy-operations-manager-at-notion-4454304912": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-audience-at-zillow-4454309800": 1,
-    "https://www.linkedin.com/jobs/view/marketing-strategy-operations-manager-at-notion-4454311147": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-email-linkedin-sms-at-master-outbound-4453245377": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4450826621": 1,
     "https://www.linkedin.com/jobs/view/sdr-bdr-prospec%c3%a7%c3%a3o-intelig%c3%aancia-comercial-at-confidence-associada-%c3%a0-fdc-4450837081": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/senior-business-development-representative-dach-at-workflex-4422366240": 1,
     "https://www.linkedin.com/jobs/view/dm-appointment-setter-remote-at-9d-breathwork-4454212688": 1,
     "https://www.linkedin.com/jobs/view/school-awareness-session-coordinator-at-team-triguna-4454272115": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-u-s-public-sector-sled-at-dash-technologies-inc-4454278097": 1
+    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-u-s-public-sector-sled-at-dash-technologies-inc-4454278097": 1,
+    "https://www.linkedin.com/jobs/view/soils-lab-technician-at-ecs-group-of-companies-4455291565": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4325382089": 1,
+    "https://www.linkedin.com/jobs/view/backpanel-at-clayton-4455228538": 1,
+    "https://www.linkedin.com/jobs/view/field-finisher-i-1st-shift-at-tindall-corporation-4454262375": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-autodesk-4417531930": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-meeboss-4454284262": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-flexiple-4455239644": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-southwest-women-s-oncology-inc-4452261007": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-rsd-human-resource-management-consultancy-4454251210": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-ladders-4452232790": 1,
+    "https://www.linkedin.com/jobs/view/gtm-bizops-founding-team-at-sairr-4454252572": 1,
+    "https://www.linkedin.com/jobs/view/edtech-bda-upto-5lpa-at-mg-4454250931": 1,
+    "https://www.linkedin.com/jobs/view/edtech-bda-upto-5lpa-at-mg-4454245960": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3207,13 +3207,14 @@
     "strategy analyst - gtm|||kpay group": "2026-08-17T08:03:27.540Z",
     "outbound gtm engineer|||didomi": "2026-08-17T08:57:59.605Z",
     "growth marketing manager|||odio hq": "2026-08-17T08:58:01.094Z",
-    "gtm engineer (m/w/d)|||growthside gmbh": "2026-08-17T12:59:29.143Z"
+    "gtm engineer (m/w/d)|||growthside gmbh": "2026-08-17T12:59:29.143Z",
+    "gtm & bizops - founding team|||sairr": "2026-08-17T13:47:27.476Z"
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 16,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 17,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
