@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hydraulic-fracturing-equipment-operator-at-propetro-services-inc-4450822362": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-i-construction-materials-testing-at-terracon-4451055802": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-privy-at-stripe-4454535409": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-auvik-4454555364": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-proservice-hawaii-4436157960": 1,
-    "https://www.linkedin.com/jobs/view/sr-gtm-ai-analyst-at-alation-4407335055": 1,
-    "https://www.linkedin.com/jobs/view/technical-operations-engineer-payments-at-stripe-4454552300": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-lokal-4450456463": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-at-academy-of-sigma-4451223925": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-igaming-at-rise-the-bet-4451233133": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-meeboss-4454316177": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-autodesk-4407607117": 1,
     "https://www.linkedin.com/jobs/view/field-partner-marketing-manager-at-sambanova-4454581341": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-nops-4442787991": 1,
-    "https://www.linkedin.com/jobs/view/prospect-development-representative-emerging-careers-canada-at-sas-4423041751": 1
+    "https://www.linkedin.com/jobs/view/prospect-development-representative-emerging-careers-canada-at-sas-4423041751": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-gtm-lead-%e2%80%94-us-market-at-lynkk-ai-4452240044": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4454418323": 1,
+    "https://www.linkedin.com/jobs/view/strategic-customers-%e2%80%93-apac-360-deal-lead-elevate-at-servicenow-4455360083": 1,
+    "https://www.linkedin.com/jobs/view/b2b-call-agent-at-red-star-technologies-4452278975": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-at-fazinflo-4452256999": 1,
+    "https://www.linkedin.com/jobs/view/community-partnership-representative-at-alpine-physician-partners-4455370624": 1,
+    "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4454289257": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4455298014": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3219,13 +3219,14 @@
     "gtm engineer|||watershed": "2026-08-17T20:35:47.406Z",
     "pallet builder|||clayton": "2026-08-17T21:00:09.675Z",
     "go to market lead - net zero & sustainability|||ifs": "2026-08-17T21:34:50.038Z",
-    "ai optimisation gtm lead|||ifs": "2026-08-17T21:34:51.518Z"
+    "ai optimisation gtm lead|||ifs": "2026-08-17T21:34:51.518Z",
+    "founding growth & gtm lead — us market|||lynkk ai": "2026-08-17T21:57:33.507Z"
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 32,
-    "matchedToday": 17,
-    "sentToday": 17,
+    "cyclesToday": 33,
+    "matchedToday": 18,
+    "sentToday": 18,
     "lastSummaryDate": ""
   }
 }
