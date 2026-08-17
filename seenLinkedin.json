@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-executive-paid-search-at-wpp-media-4450471265": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-executive-ads-at-ras-luxury-skincare-4452381091": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-meras-global-4453684751": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-clearwater-analytics-4434365138": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-at-attract-group-4453681915": 1,
-    "https://www.linkedin.com/jobs/view/founding-sdr-at-alignd-4426426060": 1,
-    "https://www.linkedin.com/jobs/view/telecommunications-specialist-at-rasta-pay-4452921224": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-cloudhire-4452794107": 1,
-    "https://www.linkedin.com/jobs/view/business-development-specialist-at-learningshala-4450598362": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-outreach-expert-at-zuptek-4452921630": 1,
-    "https://www.linkedin.com/jobs/view/b2b-growth-performance-marketer-at-recruitable-4452910926": 1,
-    "https://www.linkedin.com/jobs/view/link-building-outreach-specialist-at-eqvista-4452920514": 1,
-    "https://www.linkedin.com/jobs/view/strategic-account-executive-new-delhi-at-a10-networks-inc-4407194846": 1,
     "https://www.linkedin.com/jobs/view/account-manager-linkedin-talent-solutions-at-linkedin-4422287519": 1,
     "https://www.linkedin.com/jobs/view/saas-sales-executive-at-xten-av-4452911665": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4451868026": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/sales-account-executive-dach-m%c3%bcnchen-at-factorial-4427547973": 1,
     "https://www.linkedin.com/jobs/view/junior-account-executive-digital-velocity-team-at-supermetrics-4433713057": 1,
     "https://www.linkedin.com/jobs/view/account-executive-tax-software-sales-at-ryan-4427636240": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-techium-consulting-group-4454207056": 1
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-techium-consulting-group-4454207056": 1,
+    "https://www.linkedin.com/jobs/view/looking-for-someone-to-lay-block-at-lsn-4452206390": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-bilt-4455216936": 1,
+    "https://www.linkedin.com/jobs/view/customer-solutions-engineer-%24110k-%24180k-%2b-0-01%25-0-10%25-at-yc-startup-building-financial-ops-for-construction-at-coffeespace-4453913426": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4455232030": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-lead-%c2%a380k-%2b-bonus-at-science-led-dtc-wellness-brand-at-jack-jill-4454216444": 1,
+    "https://www.linkedin.com/jobs/view/marketing-engineer-brokerage-growth-%24145k-%24190k-%2b-equity-at-withshepherd-at-jack-jill-4454213316": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-financial-services-at-clio-4435472756": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-campaign-senior-leader-at-fpt-telecom-4454217604": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hire-feed-4455217999": 1,
+    "https://www.linkedin.com/jobs/view/%d0%bc%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%b5%d1%80-%d0%bf%d0%be-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b0%d0%bc-%d0%b8-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b5-%d1%81-%d0%ba%d0%bb%d0%b8%d0%b5%d0%bd%d1%82%d0%b0%d0%bc%d0%b8-%d1%83%d0%b4%d0%b0%d0%bb%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-at-easyvending-4455222505": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-n-able-4452216438": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-copywriter-researcher-philippines-remote-at-growthassistant-4455213281": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-south-africa-at-blacksmith-agency-4455186770": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3206,7 +3206,7 @@
   },
   "stats": {
     "date": "2026-08-17",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
