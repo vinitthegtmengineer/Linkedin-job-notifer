@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/solutions-engineer-fremont-california-at-check-point-ai-security-4426694546": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-acceleration-at-equinix-4421179344": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-justworks-4417429143": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-albi-4444369424": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-gigi-4451241175": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-kendago-4432347413": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-btob-deutschsprachig-at-leyton-4436708528": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-jobbol-4454841664": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-generation-specialist-at-coach-suchetaa-4451239537": 1,
-    "https://www.linkedin.com/jobs/view/business-development-manager-at-hike-education-4451226499": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-engineering-technician-i-at-terracon-4451334719": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-associate-principal-at-ecs-group-of-companies-4443558535": 1,
-    "https://www.linkedin.com/jobs/view/apac-project-materials-engineer-fort-smith-ar-at-apac-central-4451707500": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-san-jose-california-at-check-point-ai-security-4426695539": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-together-ai-4435248801": 1,
     "https://www.linkedin.com/jobs/view/account-executive-ecs-at-salesforce-4436724654": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4452834516": 1,
     "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4452838266": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-scalepad-4392461131": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-simera-4452861085": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-simera-4452861085": 1,
+    "https://www.linkedin.com/jobs/view/organic-extractions-technician-at-als-4452820472": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455556442": 1,
+    "https://www.linkedin.com/jobs/view/construction-production-line-roller-at-champion-home-builders-inc-4455745810": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455565471": 1,
+    "https://www.linkedin.com/jobs/view/bouwhulp-at-booston-io-4454718254": 1,
+    "https://www.linkedin.com/jobs/view/vaga-de-pedreiro-at-coplan-construtora-planalto-4452532992": 1,
+    "https://www.linkedin.com/jobs/view/snekker-at-byggproffen-bod%c3%b8-as-4455715591": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-levl-4455902721": 1,
+    "https://www.linkedin.com/jobs/view/strategic-gtm-specialist-apjc-strategic-gtm-at-amazon-web-services-aws-4455796622": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-nemo-4454765106": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-monta-4454911251": 1,
+    "https://www.linkedin.com/jobs/view/hubspot-specialist-at-shortlister-4452453724": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-remote-reps-4451269177": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3237,13 +3237,14 @@
     "gtm engineer|||formic": "2026-08-18T16:46:15.553Z",
     "ai-native growth & gtm lead|||castler": "2026-08-18T16:46:17.040Z",
     "cold email specialist|||premium inboxes": "2026-08-18T18:15:42.952Z",
-    "gtm engineer|||premium inboxes": "2026-08-18T18:15:44.493Z"
+    "gtm engineer|||premium inboxes": "2026-08-18T18:15:44.493Z",
+    "gtm engineer|||levl": "2026-08-18T19:37:12.878Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 27,
-    "matchedToday": 16,
-    "sentToday": 16,
+    "cyclesToday": 28,
+    "matchedToday": 17,
+    "sentToday": 17,
     "lastSummaryDate": ""
   }
 }
