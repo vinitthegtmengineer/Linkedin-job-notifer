@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-sales-representative-at-google-4435841089": 1,
-    "https://www.linkedin.com/jobs/view/hc-survey-crew-instrument-at-fluor-corporation-4445224966": 1,
-    "https://www.linkedin.com/jobs/view/lease-operator-at-crescent-energy-4444619003": 1,
-    "https://www.linkedin.com/jobs/view/materials-testing-technician-i-at-terracon-4454894665": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-terracon-4451346378": 1,
-    "https://www.linkedin.com/jobs/view/field-engineer-at-ues-4423194175": 1,
-    "https://www.linkedin.com/jobs/view/hardware-assembler-at-wells-4423145842": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-pipe-at--4451294096": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-anrok-4408712945": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-fremont-california-at-check-point-ai-security-4426694546": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-acceleration-at-equinix-4421179344": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-justworks-4417429143": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/geotechnical-engineer-%e2%80%93-entry-level-%e2%80%93-2%2b-years-hybrid-at-barr-engineering-co-4442862259": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4454797125": 1,
     "https://www.linkedin.com/jobs/view/cold-email-specialist-at-premium-inboxes-4455792191": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-premium-inboxes-4455792134": 1
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-premium-inboxes-4455792134": 1,
+    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455920140": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-technician-at-vulcan-materials-company-4454794169": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-amazon-web-services-aws-4455901280": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-amazon-web-services-aws-4455908221": 1,
+    "https://www.linkedin.com/jobs/view/ceramic-processing-science-research-technologist-1-2-at-los-alamos-national-laboratory-4446155613": 1,
+    "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4452834516": 1,
+    "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4452838266": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-scalepad-4392461131": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-simera-4452861085": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3241,7 +3241,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 16,
     "sentToday": 16,
     "lastSummaryDate": ""
