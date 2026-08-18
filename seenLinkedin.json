@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/collision-program-lab-specialist-at-a-hiring-company-4453702523": 1,
-    "https://www.linkedin.com/jobs/view/ai-digital-marketing-executive-at-bigstep-technologies-4444547466": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-amazon-music-at-amazon-music-4444749739": 1,
-    "https://www.linkedin.com/jobs/view/performance-media-manager-at-numberly-4425560864": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-in-m-w-d-berlin-at-online-birds-4426051949": 1,
-    "https://www.linkedin.com/jobs/view/sem-manager-at-klick-4444002712": 1,
-    "https://www.linkedin.com/jobs/view/telesales-representative-at-sports-social-4451707544": 1,
-    "https://www.linkedin.com/jobs/view/telecalling-executive-at-sofiology-4453598892": 1,
-    "https://www.linkedin.com/jobs/view/outbound-calling-agent-at-duhanashrah-ai-4451289367": 1,
     "https://www.linkedin.com/jobs/view/bd-growth-specialist-at-reput-ai-4451714307": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-founder-s-office-remote-at-localops-inc-4451914564": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-deepki-4449739883": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/account-executive-at-le-mouton-%c3%a0-5-pattes-recruteurs-de-talents-4452829066": 1,
     "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-pilot-com-4445165727": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-lifesigns-4454771280": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-at-vujis-4455722374": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-at-vujis-4455722374": 1,
+    "https://www.linkedin.com/jobs/view/offshore-operator-at-nov-4442857552": 1,
+    "https://www.linkedin.com/jobs/view/operator-equipment-i-at-baker-hughes-4450774489": 1,
+    "https://www.linkedin.com/jobs/view/crm-growth-specialist-global-expansion-at-factorial-4455702427": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-astute-4455749957": 1,
+    "https://www.linkedin.com/jobs/view/campagne-manager-at-baas-baas-full-service-digital-agency-4455766466": 1,
+    "https://www.linkedin.com/jobs/view/b2b-marketing-manager-at-makaseb-4455756390": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-khashsoft-4454780371": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-ptc-innovations-private-limited-4454766140": 1,
+    "https://www.linkedin.com/jobs/view/business-executive-at-vibrant-remedies-4454762840": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3232,13 +3232,14 @@
     "gtm founding team member|||stepfun": "2026-08-18T11:27:04.054Z",
     "gtm lead|||windborne systems": "2026-08-18T11:52:43.848Z",
     "gtm engineer|||securityscorecard": "2026-08-18T14:17:39.153Z",
-    "founder's office (growth & gtm)|||weekday (yc w21)": "2026-08-18T14:56:40.946Z"
+    "founder's office (growth & gtm)|||weekday (yc w21)": "2026-08-18T14:56:40.946Z",
+    "founding gtm|||astute": "2026-08-18T16:01:58.348Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 21,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 22,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
