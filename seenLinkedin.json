@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-thinknew-4451733050": 1,
-    "https://www.linkedin.com/jobs/view/assistant-project-manager-at-geo-technology-associates-inc-gta-4454587509": 1,
-    "https://www.linkedin.com/jobs/view/glass-technology-leader-at-corning-incorporated-4451279347": 1,
-    "https://www.linkedin.com/jobs/view/foundation-laborer-at-d-r-horton-4444922928": 1,
-    "https://www.linkedin.com/jobs/view/early-access-deployment-engineer-at-openai-4444657630": 1,
-    "https://www.linkedin.com/jobs/view/senior-lead-platform-activation-architect-at-lumen-technologies-4443598888": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-specialist-at-epassi-4417191585": 1,
-    "https://www.linkedin.com/jobs/view/growth-workflow-manager-performance-paid-at-kraken-4444355863": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-lead-at-crossing-hurdles-4368510412": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-social-pill-4453922163": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-4451278690": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-4451277671": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-maternity-cover-m-f-d-at-yepoda-4454543186": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-operations-senior-associate-at-farther-4436370302": 1,
     "https://www.linkedin.com/jobs/view/global-sales-executive-at-organic-yug-4451724261": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/edtech-bda-upto-5lpa-at-mg-4454900657": 1,
     "https://www.linkedin.com/jobs/view/responsable-commercial-e-account-executive-at-fulltime-ai-4337200621": 1,
     "https://www.linkedin.com/jobs/view/mid-market-account-executive-new-logo-at-board-intelligence-4455753568": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-%e2%80%93-u-s-b2b-remote-philippines-at-national-search-group-inc-4454910447": 1
+    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-%e2%80%93-u-s-b2b-remote-philippines-at-national-search-group-inc-4454910447": 1,
+    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455910167": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455949321": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455947421": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455959339": 1,
+    "https://www.linkedin.com/jobs/view/man%c5%93uvre-ccq-d%c3%a9cret-at-demathieu-bard-canada-4455944430": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-%e2%80%93-mea-at-farmina-4452807407": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-billy-grace-4455946356": 1,
+    "https://www.linkedin.com/jobs/view/setter-high-ticket-sales-at-license-scale-4455941913": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-trademo-4452846335": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hyperio-ag-4455749530": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-podium-4443236160": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-saas-it-sales-at-12th-wonder-4452582874": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3242,7 +3242,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
