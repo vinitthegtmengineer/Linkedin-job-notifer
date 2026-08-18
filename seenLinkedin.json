@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/bd-growth-specialist-at-reput-ai-4451714307": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-founder-s-office-remote-at-localops-inc-4451914564": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-deepki-4449739883": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-orbital-4398272620": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-at-docebo-4444740678": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-%e2%80%93-gtm-strategy-execution-at-salesforce-4454844259": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-bitgo-4406206833": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-%e2%80%93-gtm-strategy-execution-at-salesforce-4454831382": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-market-research-business-development-at-meetri-infotech-4453784979": 1,
-    "https://www.linkedin.com/jobs/view/b2b-outreach-specialist-business-development-marketing-at-jobgether-4453572245": 1,
-    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451228208": 1,
-    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451233164": 1,
-    "https://www.linkedin.com/jobs/view/member-engagement-specialist-fes-at-the-blue-venture-fund-4453739354": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-kleinfelder-4436360582": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-mad-for-ad-4453902582": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-my-tutor-source-mts-4451295804": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/b2b-marketing-manager-at-makaseb-4455756390": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-at-khashsoft-4454780371": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-ptc-innovations-private-limited-4454766140": 1,
-    "https://www.linkedin.com/jobs/view/business-executive-at-vibrant-remedies-4454762840": 1
+    "https://www.linkedin.com/jobs/view/business-executive-at-vibrant-remedies-4454762840": 1,
+    "https://www.linkedin.com/jobs/view/etx-field-derrickhand-i-at-nabors-industries-4452823346": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-project-manager-at-timmons-group-4455788047": 1,
+    "https://www.linkedin.com/jobs/view/materials-testing-manager-at-sundt-construction-4454782576": 1,
+    "https://www.linkedin.com/jobs/view/construction-technician-at-florida-state-university-4454575530": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-kizen-4446301234": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-formic-4445495313": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-formic-4445485496": 1,
+    "https://www.linkedin.com/jobs/view/b2b-demand-generation-marketing-manager-at-wolt-4436044373": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-audience-at-zillow-4446319413": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-omunix-international-4455773020": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-coast-4454781356": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-canada-at-riverside-4442888821": 1,
+    "https://www.linkedin.com/jobs/view/ai-native-growth-gtm-lead-at-castler-4454755300": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3233,13 +3233,15 @@
     "gtm lead|||windborne systems": "2026-08-18T11:52:43.848Z",
     "gtm engineer|||securityscorecard": "2026-08-18T14:17:39.153Z",
     "founder's office (growth & gtm)|||weekday (yc w21)": "2026-08-18T14:56:40.946Z",
-    "founding gtm|||astute": "2026-08-18T16:01:58.348Z"
+    "founding gtm|||astute": "2026-08-18T16:01:58.348Z",
+    "gtm engineer|||formic": "2026-08-18T16:46:15.553Z",
+    "ai-native growth & gtm lead|||castler": "2026-08-18T16:46:17.040Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 22,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 23,
+    "matchedToday": 14,
+    "sentToday": 14,
     "lastSummaryDate": ""
   }
 }
