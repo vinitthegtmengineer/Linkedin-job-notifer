@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-global-selling-at-stripe-4454556318": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-global-selling-at-stripe-4454537396": 1,
-    "https://www.linkedin.com/jobs/view/head-of-go-to-market-ai-platform-at-hays-4454385475": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-rev-io-4454547083": 1,
     "https://www.linkedin.com/jobs/view/regional-growth-marketing-manager-at-nearmap-4454094653": 1,
     "https://www.linkedin.com/jobs/view/senior-vertical-marketing-manager-healthcare-at-bms-performance-4453577080": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-latam-remote-at-zeo-consulting-4451229681": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/field-marketing-manager-%e8%ae%a1%e7%ae%97%e5%85%89%e5%88%bb-at-%e9%98%bf%e6%96%af%e9%ba%a6%ef%bc%88%e4%b8%8a%e6%b5%b7%ef%bc%89%e5%85%89%e5%88%bb%e8%ae%be%e5%a4%87%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4452527976": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-d2c-product-brand-at-nabhya-ayurveda-4446265582": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-%e2%80%94-us-canada-market-expansion-at-stellargrade-4455550928": 1,
-    "https://www.linkedin.com/jobs/view/executive-%e2%80%93-lead-generation-crm-partnership-outreach-at-veterans-india-4454480330": 1
+    "https://www.linkedin.com/jobs/view/executive-%e2%80%93-lead-generation-crm-partnership-outreach-at-veterans-india-4454480330": 1,
+    "https://www.linkedin.com/jobs/view/operator-betoncentrale-jouwtechniekbaan-nl-at-jobster-4454441221": 1,
+    "https://www.linkedin.com/jobs/view/foundry-operations-at-saratoga-county-chamber-of-commerce-4454452388": 1,
+    "https://www.linkedin.com/jobs/view/ai-operations-analyst-at-valnet-4455373780": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-oak-identity-security-os-4455570431": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3224,13 +3224,14 @@
     "housing outreach specialist|||housing & homeless coalition of central new york": "2026-08-17T22:57:57.231Z",
     "community outreach specialist|||appleone employment services": "2026-08-18T01:27:04.214Z",
     "amazon gtm partnerships, enterprise|||anthropic": "2026-08-18T02:39:41.058Z",
-    "gtm|||actor": "2026-08-18T04:10:01.459Z"
+    "gtm|||actor": "2026-08-18T04:10:01.459Z",
+    "gtm engineer|||oak - identity security os": "2026-08-18T04:52:40.956Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 4,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 5,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
