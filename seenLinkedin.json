@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/head-of-pipeline-strategy-at-sigma-4444976210": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hire-feed-4454859672": 1,
-    "https://www.linkedin.com/jobs/view/retention-marketing-manager-at-helfy-4386742844": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-growth-marketing-at-whatnot-4426145631": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-us-market-at-bpo-impact-4451239459": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-hiring-appointment-setter-%e2%80%93-website-development-usa-campaign-night-shift-at-versatile-dispatch-bpo-4451223869": 1,
     "https://www.linkedin.com/jobs/view/telemarketing-at-zuellig-pharma-4416735881": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/growth-engineer-at-velcor-ai-4454418658": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-%e2%80%93-meta-ads-d2c-brands-at-marktini-media-4454746694": 1,
     "https://www.linkedin.com/jobs/view/outbound-calling-executive-at-abs-international-4452847356": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-noibu-4455951332": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-noibu-4455951332": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-research-technician-at-agr-llc-4450301392": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-recuitment-and-staffing-u-s-experience-at-lumensoft-networks-4452853263": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-evolvedash-inc-4454788890": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-growth-specialist-at-bright-with-us-4445005432": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3242,7 +3242,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
