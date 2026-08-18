@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-s-p-global-4453726691": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-black-box-4441843948": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-taurus-search-4439258825": 1,
-    "https://www.linkedin.com/jobs/view/rev-ops-tooling-manager-top-of-funnel-f-m-d-at-moss-4436900377": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-technology-at-vts-4444607690": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sme-growth-at-airwallex-4423638079": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-australia-f-m-x-at-liveeo-4453595361": 1,
     "https://www.linkedin.com/jobs/view/fcm-sales-development-representative-london-or-ireland-dublin-at-fcm-travel-europe-4436716093": 1,
     "https://www.linkedin.com/jobs/view/growth-marketer-for-ai-saas-products-at-puresoft-labs-o%c3%bc-4454574440": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/outreach-and-engagement-specialist-at-partnership-for-after-school-education-pase-4452860660": 1,
     "https://www.linkedin.com/jobs/view/partner-development-representative-german-undutchables-at-jobster-4454772855": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-enrollment-specialist-houston-area-at-equus-workforce-solutions-4450174857": 1,
-    "https://www.linkedin.com/jobs/view/outreach-coordinator-at-the-place-for-children-with-autism-4455953810": 1
+    "https://www.linkedin.com/jobs/view/outreach-coordinator-at-the-place-for-children-with-autism-4455953810": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4454907008": 1,
+    "https://www.linkedin.com/jobs/view/amazon-key-%e2%80%93-b2b-growth-marketer-amazon-key-at-ring-4455904107": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-at-kota-4451192770": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-b2b-events-at-marketing-talent-publishing-events-tech-recruitment-4455790055": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-danone-4455541340": 1,
+    "https://www.linkedin.com/jobs/view/telecaller-telecalling-executive-at-eteam-4455556818": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3242,7 +3242,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 17,
     "sentToday": 17,
     "lastSummaryDate": ""
