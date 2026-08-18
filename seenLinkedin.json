@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/solutions-engineer-data-platforms-at-stirista-4427230351": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-manager-at-cover-genius-4454568644": 1,
-    "https://www.linkedin.com/jobs/view/data-strategy-operations-specialist-at-better-collective-4454805129": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-at-lift%c2%ae-4377797223": 1,
-    "https://www.linkedin.com/jobs/view/integrated-campaign-manager-at-tpg-telecom-4444544799": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-awaze-4443131172": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-simpson-associates-4448758220": 1,
-    "https://www.linkedin.com/jobs/view/growth-performance-manager-at-amicable-4447987428": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-at-zealous-agency-4447264681": 1,
-    "https://www.linkedin.com/jobs/view/paid-social-manager-at-soar-with-us-4427402043": 1,
-    "https://www.linkedin.com/jobs/view/google-ads-manager-at-kilo%e2%84%a2-4428738854": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-audience-development-and-insights-at-the-new-york-times-4440891395": 1,
-    "https://www.linkedin.com/jobs/view/marketing-tech-ops-ai-manager-at-thunes-4443858950": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-systems-and-automation-manager-at-cloudflare-4451250587": 1,
     "https://www.linkedin.com/jobs/view/operador-a-coleta-processam-sucata-at-gerdau-4453592767": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-truefoundry-4446062722": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-freelancer-com-4455708614": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-flywheel-4445172008": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-tad-global-branding-4452586492": 1,
-    "https://www.linkedin.com/jobs/view/whatsapp-marketing-at-scale100x-ai-4452586683": 1
+    "https://www.linkedin.com/jobs/view/whatsapp-marketing-at-scale100x-ai-4452586683": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-i-at-ues-4436465419": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-anrok-4409551911": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-adyen-4436265778": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-transition-ventures-4454496844": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4454499218": 1,
+    "https://www.linkedin.com/jobs/view/gtm-founding-team-member-at-stepfun-4454492579": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-at-visa-4445924910": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-b-e-telecom-4452569745": 1,
+    "https://www.linkedin.com/jobs/view/senior-e-commerce-marketing-specialist-at-meras-x-4452575760": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-cognyte-4455708565": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-analyst-india-at-kong-4428800843": 1,
+    "https://www.linkedin.com/jobs/view/outbound-call-operator-at-umixmart-llc-4452594007": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-cpg-large-customer-sales-at-google-4445127692": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3227,13 +3227,15 @@
     "gtm|||actor": "2026-08-18T04:10:01.459Z",
     "gtm engineer|||oak - identity security os": "2026-08-18T04:52:40.956Z",
     "growth marketing manager|||groovy aesthetic clinics": "2026-08-18T06:58:49.420Z",
-    "b2b lead generation specialist|||tbp codot": "2026-08-18T08:58:29.329Z"
+    "b2b lead generation specialist|||tbp codot": "2026-08-18T08:58:29.329Z",
+    "gtm engineer|||transition ventures": "2026-08-18T11:27:02.528Z",
+    "gtm founding team member|||stepfun": "2026-08-18T11:27:04.054Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 14,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 15,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
