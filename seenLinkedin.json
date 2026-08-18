@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sidewall-build-at-clayton-4454559621": 1,
-    "https://www.linkedin.com/jobs/view/stratenmaker-deeko-bv-at-jobster-4453587743": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4454553063": 1,
-    "https://www.linkedin.com/jobs/view/maurer-m-w-d-at-berding-beton-gmbh-4450853314": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-paires-4454803222": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4453730235": 1,
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4453716244": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-execution-senior-manager-at-equinix-4451261905": 1,
-    "https://www.linkedin.com/jobs/view/advertising-manager-retail-media-paid-search-at-harvest-group-4454588445": 1,
-    "https://www.linkedin.com/jobs/view/community-liaison-at-caring-hearts-hospice-inc-4453709955": 1,
-    "https://www.linkedin.com/jobs/view/terminal-operator-at-sunoco-lp-4451252947": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-ii-compressor-operator-at-rigup-4451262823": 1,
-    "https://www.linkedin.com/jobs/view/water-and-wastewater-operator-i-at-city-of-anna-texas-4451258976": 1,
-    "https://www.linkedin.com/jobs/view/operator-at-gulfport-energy-corporation-4453712633": 1,
     "https://www.linkedin.com/jobs/view/operator-at-city-of-shreveport-4451202507": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-site-closure-at-alcoa-4444499656": 1,
     "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4454588375": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/b2b-lead-generation-specialist-at-tbp-codot-4452578137": 1,
     "https://www.linkedin.com/jobs/view/career-development-specialist-at-indian-institute-of-commerce-lakshya-4454489253": 1,
     "https://www.linkedin.com/jobs/view/sales-account-executive-at-threatblock-4452572343": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-frootcy-4452559733": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-frootcy-4452559733": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-mills-concrete-llc-4455707313": 1,
+    "https://www.linkedin.com/jobs/view/outbound-product-manager-demo-architect-ifs-loops-at-ifs-4455718068": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-synaps-4454701568": 1,
+    "https://www.linkedin.com/jobs/view/crm-growth-specialist-global-explansion-at-factorial-4455702427": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-executive-at-biggbell-com-4454493639": 1,
+    "https://www.linkedin.com/jobs/view/affiliate-marketing-executive-at-adzflick-4452588241": 1,
+    "https://www.linkedin.com/jobs/view/healthcare-google-ads-at-branding-pioneers-4452587595": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-content-manager-at-emirates-nbd-egypt-4454276167": 1,
+    "https://www.linkedin.com/jobs/view/senior-media-buyer-at-broman-4455272311": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-dope-media-4452585495": 1,
+    "https://www.linkedin.com/jobs/view/customer-sales-representative-at-pinnacle-bpo-4452586405": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-nextnation-4452552951": 1,
+    "https://www.linkedin.com/jobs/view/clinical-outreach-representative-eating-disorders-chicago-at-discovery-behavioral-health-4452551856": 1,
+    "https://www.linkedin.com/jobs/view/membership-recruitment-specialist-at-girl-scouts-san-diego-4455587398": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3231,7 +3231,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
