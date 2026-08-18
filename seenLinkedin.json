@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-podium-4441582106": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-trademo-4453097193": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-in-united-states-at-testlio-4432414548": 1,
-    "https://www.linkedin.com/jobs/view/real-estate-cold-caller-at-my-remote-hire-4454330920": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-intalex-4454576323": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-katig-solutions-4453700768": 1,
-    "https://www.linkedin.com/jobs/view/pipeline-technician-at-energy-transfer-4451259467": 1,
-    "https://www.linkedin.com/jobs/view/field-engineering-technician-cmt-at-nova-engineering-and-environmental-llc-4454571561": 1,
     "https://www.linkedin.com/jobs/view/senior-solutions-engineer-pre-sales-emea-at-omni-4442917520": 1,
     "https://www.linkedin.com/jobs/view/presales-engineer-at-hytera-4454357434": 1,
     "https://www.linkedin.com/jobs/view/ai-field-engineer-strategic-partnerships-at-fireworks-ai-4454324556": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/concrete-laborer-at-morgan-corp-4452545433": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455579205": 1,
     "https://www.linkedin.com/jobs/view/corporate-linkage-expert-at-tns-india-foundation-4452562548": 1,
-    "https://www.linkedin.com/jobs/view/growth-development-representative-at-gushwork-4454467835": 1
+    "https://www.linkedin.com/jobs/view/growth-development-representative-at-gushwork-4454467835": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-learning-routes-4454475734": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-groovy-aesthetic-clinics-4454467896": 1,
+    "https://www.linkedin.com/jobs/view/marketing-planning-systems-operations-lead-at-vanguard-4454095844": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-britannica-education-4454471733": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-at-verdicto-4454473918": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-executive-at-beta-4452552449": 1,
+    "https://www.linkedin.com/jobs/view/account-management-executive-kam-at-dropdash-4454471868": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-alibaba-cloud-solutions-vietnam-at-sailglobal-4455559208": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3225,13 +3225,14 @@
     "community outreach specialist|||appleone employment services": "2026-08-18T01:27:04.214Z",
     "amazon gtm partnerships, enterprise|||anthropic": "2026-08-18T02:39:41.058Z",
     "gtm|||actor": "2026-08-18T04:10:01.459Z",
-    "gtm engineer|||oak - identity security os": "2026-08-18T04:52:40.956Z"
+    "gtm engineer|||oak - identity security os": "2026-08-18T04:52:40.956Z",
+    "growth marketing manager|||groovy aesthetic clinics": "2026-08-18T06:58:49.420Z"
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 7,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 8,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
