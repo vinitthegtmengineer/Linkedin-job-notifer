@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operator-at-city-of-shreveport-4451202507": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-site-closure-at-alcoa-4444499656": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4454588375": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-systems-manager-at-jackson-4434689224": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-portfolium-acquired-by-instructure-4454580325": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-instructure-4451260372": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-4454568850": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-outbound-cold-calling-sdr-accounting-bookkeeping-services-at-ace-cpas-4454580540": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-softech-worldwide-4454569950": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-melbourne-at-brandwatch-4444931980": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-german-speaking-all-genders-at-kertos-4454801265": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-basingstoke-at-furza-4453569725": 1,
-    "https://www.linkedin.com/jobs/view/agent-commercial-b2b-%e2%80%93-prospection-t%c3%a9l%c3%a9phonique-h-f-at-qui-cherche-quoi-4454388820": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-splunk-at-cisco-4427509219": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-dutch-speaker-at-docusign-4395449941": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-f-m-at-otoqi-4432667309": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-german-speaking-all-genders-at-kertos-4454581575": 1,
     "https://www.linkedin.com/jobs/view/business-development%c2%a0representative%c2%a0-bdr-%c2%a0-%c2%a0saas-at-redrock-resourcing-4453599194": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/customer-sales-representative-at-pinnacle-bpo-4452586405": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-executive-at-nextnation-4452552951": 1,
     "https://www.linkedin.com/jobs/view/clinical-outreach-representative-eating-disorders-chicago-at-discovery-behavioral-health-4452551856": 1,
-    "https://www.linkedin.com/jobs/view/membership-recruitment-specialist-at-girl-scouts-san-diego-4455587398": 1
+    "https://www.linkedin.com/jobs/view/membership-recruitment-specialist-at-girl-scouts-san-diego-4455587398": 1,
+    "https://www.linkedin.com/jobs/view/terminal-operator-at-sunoco-lp-4451252947": 1,
+    "https://www.linkedin.com/jobs/view/especialista-pulidor-de-suelos-at-limpiezas-y-pulidos-palmero-s-l-4452554711": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-api-security-at-akamai-technologies-4446107440": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-engineer-at-snowflake-4446162333": 1,
+    "https://www.linkedin.com/jobs/view/crm-operations-specialist-at-sense-company-4455282704": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-sales-development-representative-appointment-generation-at-revnew-inc-4452249913": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-hubspot-at-khired-networks-4452577487": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-nousu-4454479387": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-boston-at-planful-4454286460": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-ergo-4454273170": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-salesforce-4437149352": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-kidschaupal-4454248864": 1,
+    "https://www.linkedin.com/jobs/view/sales-account-executive-at-vehere-4452577634": 1,
+    "https://www.linkedin.com/jobs/view/international-account-executive-at-vehere-4452568709": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-inside-sales-at-tenext-ai-4454710548": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3231,7 +3231,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
