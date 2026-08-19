@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-engineer-at-cursor-4409561693": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-intern-4451263627": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-verve-logic-llp-4453948233": 1,
-    "https://www.linkedin.com/jobs/view/marketing-specialist-at-essence-innovation-4453786496": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-central-activation-at-publicis-media-4444396737": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-manager-at-waymo-4444377159": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-manager-at-waymo-4444375165": 1,
-    "https://www.linkedin.com/jobs/view/online-marketing-manager-%e2%80%93-ai-performance-f-m-d-at-autoscout24-4444359254": 1,
-    "https://www.linkedin.com/jobs/view/political-insights-manager-at-iheartmedia-4400560392": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-emea-at-gibbon-slacklines-4451741914": 1,
-    "https://www.linkedin.com/jobs/view/sdr-appt-setter-at-dorsia-labs-4455170964": 1,
-    "https://www.linkedin.com/jobs/view/business-development-specialist-at-corugs-4451746532": 1,
     "https://www.linkedin.com/jobs/view/growth-sales-executive-closer-at-nadiv-4453979769": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-innove-intellects-llp-4453799813": 1,
     "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-adyen-4376774758": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-university-of-london-4456170892": 1,
     "https://www.linkedin.com/jobs/view/junior-sales-development-representative-sdr-remote-oder-vor-ort-at-instaffo-4446372889": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-bahria-town-at-inventive-research-group-4453418705": 1,
-    "https://www.linkedin.com/jobs/view/enrollment-specialist-at-scaling-com-4455418660": 1
+    "https://www.linkedin.com/jobs/view/enrollment-specialist-at-scaling-com-4455418660": 1,
+    "https://www.linkedin.com/jobs/view/operator-duurzame-producten-5-ploegen-synsel-techniek-at-jobster-4455465921": 1,
+    "https://www.linkedin.com/jobs/view/bricklayer-at-efl-ltd-4455429063": 1,
+    "https://www.linkedin.com/jobs/view/monter-monterka-suchej-zabudowy-%c5%9bciany-kg-at-praca-pl-4456372845": 1,
+    "https://www.linkedin.com/jobs/view/betonbauer-m-w-d-at-jobwolf-gmbh-4456323666": 1,
+    "https://www.linkedin.com/jobs/view/maler-i-trockenbauer-in-d-m-w-in-b%c3%bcdelsdorf-at-br%c3%bccke-rendsburg-eckernf%c3%b6rde-e-v-4454994023": 1,
+    "https://www.linkedin.com/jobs/view/alba%e2%88%9a%c2%b1il-de-bloques-at-the-contractor-consultants-4456383847": 1,
+    "https://www.linkedin.com/jobs/view/business-development-rep-at-aircall-4456348001": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-worldpay-4446379437": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-commercial-at-birdeye-4433984668": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-outsystems-4456310186": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-global-payments-inc-4446352796": 1,
+    "https://www.linkedin.com/jobs/view/market-development-representative-uk-ie-at-docusign-4445795480": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3262,7 +3262,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 19,
     "sentToday": 19,
     "lastSummaryDate": ""
