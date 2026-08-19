@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-flexiple-4455163607": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-audience-management-activation-amazon-leo-at-amazon-4445204646": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-marketing-operations-technology-at-kinaxis-4436458156": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operation-amp-omnichannel-manager-at-barrington-james-4448140443": 1,
-    "https://www.linkedin.com/jobs/view/gtm-associate-%c2%a340k-%c2%a350k-%2b-equity-at-passion-labs-at-jack-jill-4453962654": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-executives-us-campaign-at-digiforge-4451755082": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-at-jobtrade-4453976647": 1,
-    "https://www.linkedin.com/jobs/view/telesales-executive-at-ulp-digital-ltd-4451275190": 1,
-    "https://www.linkedin.com/jobs/view/new-business-lead-generator-at-berwick-care-4453918326": 1,
-    "https://www.linkedin.com/jobs/view/head-of-growth-performance-marketing-at-mantriai-4455124638": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-corporate-sales-at-south-air-4451771844": 1,
-    "https://www.linkedin.com/jobs/view/concrete-crew-at-baker-design-build-4455159991": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-rockwell-automation-4433350732": 1,
     "https://www.linkedin.com/jobs/view/hubspot-crm-at-revaya-4451727028": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-box-4445206437": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/senior-campaign-manager-programmatic-digital-advertising-at-verve-4428857713": 1,
     "https://www.linkedin.com/jobs/view/programmatic-manager-at-mccann-4439868165": 1,
     "https://www.linkedin.com/jobs/view/programmatic-manager-display-paid-social-m-w-d-at-emetriq-4453480505": 1,
-    "https://www.linkedin.com/jobs/view/cold-calling-executive-at-rolustech-4453450363": 1
+    "https://www.linkedin.com/jobs/view/cold-calling-executive-at-rolustech-4453450363": 1,
+    "https://www.linkedin.com/jobs/view/lab-technician-at-saint-gobain-ceramics-sgp-4456382314": 1,
+    "https://www.linkedin.com/jobs/view/revops-manager-gtm-engineer-at-haas-alert-4455420512": 1,
+    "https://www.linkedin.com/jobs/view/production-optimization-engineer-ii-at-expand-energy-4453467743": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-%e2%80%93-middle-east-africa-mea-at-lenovo-4417707661": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-conga-4445759472": 1,
+    "https://www.linkedin.com/jobs/view/manager-of-gtm-strategy-and-solutions-at-pax8-4456151980": 1,
+    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-ai-data-security-at-avepoint-4433975048": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-ppro-4452848485": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-monta-4456362583": 1,
+    "https://www.linkedin.com/jobs/view/sdr-%2b-gtm-generalist-at-impersonally-4453433659": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-meansquare-ai-4453418779": 1,
+    "https://www.linkedin.com/jobs/view/executive-sales-professional-at-ceasefire-industries-pvt-ltd-4455427937": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3255,13 +3255,15 @@
     "gtm ai revenue enablement, senior manager|||brex": "2026-08-19T17:37:00.806Z",
     "partitions|||clayton": "2026-08-19T18:46:08.209Z",
     "gtm engineer|||alloy": "2026-08-19T19:43:57.015Z",
-    "product gtm lead, optimize|||scribe": "2026-08-19T19:43:58.520Z"
+    "product gtm lead, optimize|||scribe": "2026-08-19T19:43:58.520Z",
+    "revops manager / gtm engineer|||haas alert": "2026-08-19T20:09:10.886Z",
+    "manager of gtm strategy and solutions|||pax8": "2026-08-19T20:09:12.412Z"
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 29,
-    "matchedToday": 16,
-    "sentToday": 16,
+    "cyclesToday": 30,
+    "matchedToday": 18,
+    "sentToday": 18,
     "lastSummaryDate": ""
   }
 }
