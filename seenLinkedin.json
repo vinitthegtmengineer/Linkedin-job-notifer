@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4455176502": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-confidential-4451752867": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-zone-4451766791": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-trend-farma-roots-4455159687": 1,
-    "https://www.linkedin.com/jobs/view/senior-lifecycle-strategist-at-openai-4444610761": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-operations-ai-at-flywheel-4444384360": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-gitlab-4427050771": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-datum-labs-4451730251": 1,
-    "https://www.linkedin.com/jobs/view/admissions-specialist-at-linkway-learning-4453731699": 1,
-    "https://www.linkedin.com/jobs/view/grade-checker-at-rogers-group-inc-4441818675": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-at-lightbits-labs-4451765831": 1,
-    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-%e2%80%93-automotive-electrification-at-onsemi-4424809967": 1,
-    "https://www.linkedin.com/jobs/view/engineering-product-marketing-manager-at-graitec-italy-4453978535": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-%e2%80%93-automotive-electrification-at-onsemi-4433121668": 1,
     "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4453979628": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4453979643": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-italian-speaking-at-databricks-4441836281": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-hunter-bond-4453460126": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-indovance-inc-4454984815": 1,
     "https://www.linkedin.com/jobs/view/assistente-de-prospec%c3%a7%c3%a3o-sdr-ribeir%c3%a3o-preto-sp-at-sankhya-4439231210": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-mclean-company-4455423728": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-mclean-company-4455423728": 1,
+    "https://www.linkedin.com/jobs/view/senior-sediment-remediation-engineer-at-arcadis-4415201712": 1,
+    "https://www.linkedin.com/jobs/view/senior-sediment-remediation-engineer-at-arcadis-4415215559": 1,
+    "https://www.linkedin.com/jobs/view/objects-conservator-4455441946": 1,
+    "https://www.linkedin.com/jobs/view/shoreline-64a-field-specialist-at-confederated-salish-and-kootenai-tribes-4455427316": 1,
+    "https://www.linkedin.com/jobs/view/environmental-engineer-%e2%80%93-mid-level-%e2%80%93-remediation-focus-hybrid-at-barr-engineering-co-4426853189": 1,
+    "https://www.linkedin.com/jobs/view/art-restoration-specialist-at-prism-specialties-art-of-central-texas-4454419512": 1,
+    "https://www.linkedin.com/jobs/view/ai-digital-marketing-executive-at-bigstep-technologies-4444547466": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-confidential-startup-saas-company-4454796730": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-billy-grace-4452872097": 1,
+    "https://www.linkedin.com/jobs/view/telecaller-at-jobtrade-4454976225": 1,
+    "https://www.linkedin.com/jobs/view/telesales-representative-auto-contract-1-year-at-mudah-my-4407735435": 1,
+    "https://www.linkedin.com/jobs/view/lead-generator-at-clerk-tech-4453461543": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4455435599": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-asiacruit-4453462593": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3257,7 +3257,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
