@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/elementensteller-beton-artiflex-b-v-at-jobster-4453950433": 1,
-    "https://www.linkedin.com/jobs/view/elementensteller-beton-artiflex-b-v-at-jobster-4453942473": 1,
-    "https://www.linkedin.com/jobs/view/elementensteller-beton-artiflex-b-v-at-jobster-4453946421": 1,
-    "https://www.linkedin.com/jobs/view/growth-operator-at-distyl-4398870270": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-manager-gtm-automation-at-reddit-inc-4445311863": 1,
-    "https://www.linkedin.com/jobs/view/lead-product-marketing-manager-novus%0aremote-san-francisco-ca-new-york-ny-raleigh-nc-at-pendo-io-japan-4453903497": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-associate-at-sg-services-group-4453953569": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-wsp-in-the-u-s-4445238765": 1,
-    "https://www.linkedin.com/jobs/view/driver-general-i-at-cemex-us-4441848563": 1,
-    "https://www.linkedin.com/jobs/view/senior-enterprise-marketing-manager-base-at-coinbase-4445226800": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-clio-4426192097": 1,
-    "https://www.linkedin.com/jobs/view/google-ads-performance-marketing-specialist-%e2%80%93-inbound-travel-at-caper-travel-india-the-globe-4453979436": 1,
-    "https://www.linkedin.com/jobs/view/smb-sales-executives-at-purolator-inc-4444648241": 1,
-    "https://www.linkedin.com/jobs/view/telemarketing-specialist-at-vpm-v-tac-payroll-management-4453910629": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-btse-4398378722": 1,
     "https://www.linkedin.com/jobs/view/delegate-acquisition-executive-at-looplynks-4453951125": 1,
     "https://www.linkedin.com/jobs/view/account-executive-le-ge-gts-at-gartner-4453948316": 1,
     "https://www.linkedin.com/jobs/view/corporate-sales-specialist-at-spectacom-global-4453922182": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/performance-lead-at-silavisions-digital-solutions-4456352018": 1,
     "https://www.linkedin.com/jobs/view/community-mobilizer-at-hirekarma-4453464097": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-strategic-at-ibm-4443689654": 1,
-    "https://www.linkedin.com/jobs/view/direct-sales-account-executive-3-govt-at-dell-technologies-4455422380": 1
+    "https://www.linkedin.com/jobs/view/direct-sales-account-executive-3-govt-at-dell-technologies-4455422380": 1,
+    "https://www.linkedin.com/jobs/view/quarry-operator-at-sibelco-group-4408995971": 1,
+    "https://www.linkedin.com/jobs/view/foundry-worker-at-paber-aluminium-4456182393": 1,
+    "https://www.linkedin.com/jobs/view/process-operator-at-kinross-gold-corporation-4455975959": 1,
+    "https://www.linkedin.com/jobs/view/chem-mill-operator-c-shift-at-ducommun-incorporated-4428882982": 1,
+    "https://www.linkedin.com/jobs/view/operadora-operador-de-produ%c3%a7%c3%a3o-i-fundi%c3%a7%c3%a3o%0aalum%c3%adnio-sp%0afull-time-employee-at-cba-companhia-brasileira-de-alum%c3%adnio-4455965672": 1,
+    "https://www.linkedin.com/jobs/view/operador-dosador-at-cerrad%c3%a3o-4453480058": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-staff-professional-at-ecs-group-of-companies-4456338463": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-tech-data-apac%e2%80%8b-4453469148": 1,
+    "https://www.linkedin.com/jobs/view/customer-marketing-executive-at-experian-4446590719": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaigns-marketing-executive-at-global-finance-magazine-4456332777": 1,
+    "https://www.linkedin.com/jobs/view/outbound-operations-associate-at-forward-iq-4454590058": 1,
+    "https://www.linkedin.com/jobs/view/sdr-t%c3%a9l%c3%a9prospecteur-offre-immobilier-f-h-casablanca-cdi-at-spartes-4456359265": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-spark-technologies-4456331041": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-sales-account-executive-uk-2026-at-suade-4456349006": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-scada-ems-americas-at-power-factors-4456335659": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3254,7 +3254,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
