@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-acquisition-specialist-at-zapyan-4455141344": 1,
     "https://www.linkedin.com/jobs/view/global-business-development-representative-at-easygenerator-4372758134": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-remote-usa-at-optiv-4454816515": 1,
     "https://www.linkedin.com/jobs/view/horticulturist-at-harvard-central-administration-cadm-talent-acquisition-4444994502": 1,
@@ -1999,7 +1998,8 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sme-growth-at-airwallex-4395052768": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-indonesia-market-at-salesforce-4456306709": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-at-demandcurvemarketing-4455402641": 1,
-    "https://www.linkedin.com/jobs/view/campus-ambassador-at-cornixe-4454497774": 1
+    "https://www.linkedin.com/jobs/view/campus-ambassador-at-cornixe-4454497774": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-truvideo-4455408105": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3251,7 +3251,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
