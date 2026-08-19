@@ -1,23 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4454813297": 1,
-    "https://www.linkedin.com/jobs/view/mason-at-curatola-masonry-4453950281": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-butterflymx-4427677058": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-trimble-inc-4444930936": 1,
-    "https://www.linkedin.com/jobs/view/ai-growth-architect-at-jobera-com-4453922460": 1,
-    "https://www.linkedin.com/jobs/view/growth-gtm-marketer-at-rivero-4453916331": 1,
-    "https://www.linkedin.com/jobs/view/growth-workflow-manager-performance-paid-at-kraken-4444371030": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4453938231": 1,
-    "https://www.linkedin.com/jobs/view/generalist-founding-ops-gtm-%24100k%e2%80%93%24150k-%2b-equity-at-aristotle-at-jack-jill-4453944276": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketer-at-la-viva-health-4455151137": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketer-at-110-analytics-4455131947": 1,
-    "https://www.linkedin.com/jobs/view/business-development-manager-managed-services-at-aramark-canada-4455116576": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-representative-key-account-manager-at-ecolab-4454853333": 1,
-    "https://www.linkedin.com/jobs/view/growth-executive-%e2%80%93-sales-community-at-blackperl-4451737722": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-4453713464": 1,
-    "https://www.linkedin.com/jobs/view/sales-associate-at-lendi-group-4408214566": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-%e2%80%93-local-demand-generation-commercial-fire-southeastern-europe-m-f-d-at-honeywell-technologies-4418112429": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-hazel-4455151106": 1,
     "https://www.linkedin.com/jobs/view/advertising-specialist-at-the-branding-studio-4453933191": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-at-go-digi-solutions-4451732700": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-data-ai-m-w-d-at-ailio-gmbh-4451733415": 1,
@@ -1999,7 +1981,25 @@
     "https://www.linkedin.com/jobs/view/outbound-business-development-representative-at-nsol-bpo-4452844746": 1,
     "https://www.linkedin.com/jobs/view/b2b-senior-executive-at-zouk-4453424421": 1,
     "https://www.linkedin.com/jobs/view/account-management-executive-dept-kam-at-dropdash-4454974194": 1,
-    "https://www.linkedin.com/jobs/view/b2b-sales-executive-fmcg-d2c-at-%c3%a9prise-4454964227": 1
+    "https://www.linkedin.com/jobs/view/b2b-sales-executive-fmcg-d2c-at-%c3%a9prise-4454964227": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4446522808": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-i-at-terracon-4456175895": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-growth-engineer-at-maven-agi-4455573104": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-director-of-revenue-operations-at-neura-health-4452899109": 1,
+    "https://www.linkedin.com/jobs/view/specialist-marketing-operations-at-checkout-com-4426407711": 1,
+    "https://www.linkedin.com/jobs/view/revops-specialist-ai-automation-w-m-d-at-lanes-planes-4454982639": 1,
+    "https://www.linkedin.com/jobs/view/executive-media-at-tonic-worldwide-4454980588": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-nexvoice-4453425669": 1,
+    "https://www.linkedin.com/jobs/view/performance-specialist-at-moshi-moshi-the-communication-company-4456170981": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-operations-at-confidential-4456169037": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-m-f-d-at-robco-4456171701": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-cyber-security-at-talenza-4453430742": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-alphawizz-technologies-pvt-ltd-4454973580": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-semicolon-ltd-4456164915": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-inextrix-technologies-pvt-ltd-4453426696": 1,
+    "https://www.linkedin.com/jobs/view/social-media-email-outreach-executive-at-the-authority-bureau-4453414675": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-inside-sales-at-beyond-people-solutions-4454989530": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-squadzip-4454217869": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3242,13 +3242,14 @@
     "community outreach specialist (office of the public defender)|||cook county government": "2026-08-18T23:48:16.161Z",
     "material handler-2nd shift|||clayton": "2026-08-19T03:08:44.161Z",
     "gtm engineer|||starbridge": "2026-08-19T05:15:53.677Z",
-    "outreach specialist|||digital leap": "2026-08-19T08:04:37.045Z"
+    "outreach specialist|||digital leap": "2026-08-19T08:04:37.045Z",
+    "gtm lead operations|||confidential": "2026-08-19T10:43:40.743Z"
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 13,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 14,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
