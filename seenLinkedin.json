@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/solution-engineer-fedramp-at-techaviv-4451710769": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-paires-4454595291": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-analytics-manager-at-uber-4454802061": 1,
-    "https://www.linkedin.com/jobs/view/growth-specialist-performance-marketing-at-credible-4415722502": 1,
-    "https://www.linkedin.com/jobs/view/gtm-partnerships-lead-at-attio-4445224923": 1,
-    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-glean-4444628039": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-glean-4415705036": 1,
     "https://www.linkedin.com/jobs/view/e-commerce-advertising-executive-at-zoom-into-web-4453919429": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-tarbah-4453932367": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/operator-at-crh-4455770465": 1,
     "https://www.linkedin.com/jobs/view/ai-operations-analyst-at-lifesavvy-media-4452873122": 1,
     "https://www.linkedin.com/jobs/view/ai-native-growth-builder-at-cloudwalk-inc-4455971609": 1,
-    "https://www.linkedin.com/jobs/view/operations-analytics-engineer-at-otter-4454941602": 1
+    "https://www.linkedin.com/jobs/view/operations-analytics-engineer-at-otter-4454941602": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-based-out-of-singapore-supporting-india-market-at-sapphire-partners-4456147220": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-im-bereich-b2b-m-w-d-at-pexon-consulting-gmbh-4452899543": 1,
+    "https://www.linkedin.com/jobs/view/tele-caller-at-amity-global-school-gurgaon-4452892636": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtual-champs-global-inc-4456118737": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4452867332": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-thailand-based-at-nimbly-technologies-4456143001": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3244,7 +3244,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
