@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/geotechnical-and-materials-construction-project-manager-at-schnabel-engineering-4398400324": 1,
-    "https://www.linkedin.com/jobs/view/principal-ai-go-to-market-operations-engineer-at-qad-4436395476": 1,
-    "https://www.linkedin.com/jobs/view/manager-demand-engineer-remote-at-beyondtrust-4444488074": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-enablement-lead-%e2%80%93-marketing-center-of-excellence-coe-at-brunswick-corporation-4454587648": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4453925217": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-stinv-infotech-4451749121": 1,
-    "https://www.linkedin.com/jobs/view/media-buyer-at-digital-nexon-4454032514": 1,
-    "https://www.linkedin.com/jobs/view/social-media-marketing-manager-at-city-the-sea-4455124041": 1,
-    "https://www.linkedin.com/jobs/view/omnichannel-marketing-manager-at-wherewework-jobs-4453910193": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-marketer-%40tripdash-at-kilo%e2%84%a2-4453728122": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-navan-4436376432": 1,
     "https://www.linkedin.com/jobs/view/appointment-setters-at-labmedia-4455122345": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-inbound-at-maintainx-4444605829": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-gitlab-4427061625": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/leach-pad-operator-at-kinross-gold-corporation-4455995064": 1,
     "https://www.linkedin.com/jobs/view/foundry-worker-at-paber-aluminium-4455958901": 1,
     "https://www.linkedin.com/jobs/view/operator-mengen-artiflex-b-v-at-jobster-4454933420": 1,
-    "https://www.linkedin.com/jobs/view/operator-betonproductie-2-ploegendienst-fulltime-olympia-at-jobster-4454937192": 1
+    "https://www.linkedin.com/jobs/view/operator-betonproductie-2-ploegendienst-fulltime-olympia-at-jobster-4454937192": 1,
+    "https://www.linkedin.com/jobs/view/08200-eng-tech-sr-materials-at-virginia-department-of-transportation-4451859464": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-i-phoenix-az-at-vetjobs-4454957111": 1,
+    "https://www.linkedin.com/jobs/view/bouwhulp-artiflex-b-v-at-jobster-4454937314": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455956229": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455950437": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-concrejato-engenharia-4452570881": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-growth-engineer-%c2%a365k-%c2%a380k-%2b-equity-at-readywhen-at-jack-jill-4454953258": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-crm-lifecycle-at-dex-4455926947": 1,
+    "https://www.linkedin.com/jobs/view/senior-go-to-market-lead-namer-go-to-market-at-amazon-web-services-aws-4455909354": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4452863371": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-loopio-4452882450": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3243,7 +3243,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
