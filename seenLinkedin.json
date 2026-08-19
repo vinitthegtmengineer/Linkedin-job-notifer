@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-cloud-data-protection-at-rubrik-4444992894": 1,
-    "https://www.linkedin.com/jobs/view/emea-field-marketing-manager-at-maven-4455116488": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-money-movement-at-rain-4454851594": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-cards-at-rain-4454853071": 1,
-    "https://www.linkedin.com/jobs/view/manager-quality-control-at-laticrete-international-4454565725": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-higgsfield-ai-4455126725": 1,
-    "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4453901578": 1,
     "https://www.linkedin.com/jobs/view/terminal-operations-technician-at-targa-resources-4444660347": 1,
     "https://www.linkedin.com/jobs/view/field-technician-at-socotec-4426692681": 1,
     "https://www.linkedin.com/jobs/view/asphalt-plant-laborer-mt-meigs-al-at-crh-4454810295": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/environmental-scientist-at-barton-loguidice-4455965678": 1,
     "https://www.linkedin.com/jobs/view/adviseur-bodem-milieu-kracht-recruitment-at-jobster-4454927525": 1,
     "https://www.linkedin.com/jobs/view/junior-adviseur-bodem-at-multiselect-bouw-infra-4454773265": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-pepsico-4452888788": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-pepsico-4452888788": 1,
+    "https://www.linkedin.com/jobs/view/urgent-hiring-%e2%80%93-digital-marketing-executive-immediate-joiner-preferred-at-compounding-results-4453410792": 1,
+    "https://www.linkedin.com/jobs/view/digital-manager-at-bioswiss-group-4456157718": 1,
+    "https://www.linkedin.com/jobs/view/sales-specialist-at-voy-4452565944": 1,
+    "https://www.linkedin.com/jobs/view/lead-generator-at-2ndplace-4453403856": 1,
+    "https://www.linkedin.com/jobs/view/client-delivery-executive-at-vegan-first-4452226400": 1,
+    "https://www.linkedin.com/jobs/view/social-impact-executive-mumbai-only-at-paranubhuti-foundation-4452892986": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-4454492120": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3245,7 +3245,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
