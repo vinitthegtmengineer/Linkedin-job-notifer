@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-outreach-liaison-at-pasadena-villa-outpatient-4455125701": 1,
-    "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-automattic-4433703688": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-creator-at-kheewa-incorporation-4451765655": 1,
-    "https://www.linkedin.com/jobs/view/musketeer-at-red-bull-4444973310": 1,
-    "https://www.linkedin.com/jobs/view/corporate-sales-executive-at-euro-india-fresh-foods-ltd-4451770682": 1,
     "https://www.linkedin.com/jobs/view/swd-operator-at-waste-connections-4455172671": 1,
     "https://www.linkedin.com/jobs/view/pipeline-operator-i-crude-oil-flow-field-ops-at-plains-all-american-at-direct-calls-com-4455177360": 1,
     "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-technician-at-braun-intertec-corporation-4413645268": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-dell-technologies-4455431514": 1,
     "https://www.linkedin.com/jobs/view/account-executive-aviation-at-dell-technologies-4455432512": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-wing-assistant-4449868504": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-saas-us-at-entropik-4456339284": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-saas-us-at-entropik-4456339284": 1,
+    "https://www.linkedin.com/jobs/view/marketing-data-operations-at-strategic-employment-partners-sep-4455932262": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hkr-team-4456185095": 1,
+    "https://www.linkedin.com/jobs/view/junior-lead-generation-at-yusanet-4453419635": 1,
+    "https://www.linkedin.com/jobs/view/telemarketer-%e2%80%93-morning-shift-at-dsd-recruitment-4455419979": 1,
+    "https://www.linkedin.com/jobs/view/b2b-lead-generation-specialist-at-photawn-4453476087": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3256,7 +3256,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
