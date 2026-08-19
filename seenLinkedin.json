@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/terminal-operations-technician-at-targa-resources-4444660347": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-4426692681": 1,
-    "https://www.linkedin.com/jobs/view/asphalt-plant-laborer-mt-meigs-al-at-crh-4454810295": 1,
-    "https://www.linkedin.com/jobs/view/driller-assistant-at-ues-4454581594": 1,
-    "https://www.linkedin.com/jobs/view/lead-new-social-platforms-growth-channels-x-f-m-at-hellofresh-4416983498": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-operations-thv-at-edwards-lifesciences-4433123772": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-fat-brands-inc-4454588212": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-hubspot-expert-at-altruist-4444209428": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-hubspot-expert-at-altruist-4444201705": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-flexiple-4454871745": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-sdr-bdr-inside-sales-at-outboundview-4453934022": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-hubspot-at-khired-networks-4450455457": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-en-d%c3%a9veloppement-des-ventes-prospection-entrantes-at-maintainx-4444396989": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-liaison-at-aster-springs-4455114719": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/lead-generator-at-2ndplace-4453403856": 1,
     "https://www.linkedin.com/jobs/view/client-delivery-executive-at-vegan-first-4452226400": 1,
     "https://www.linkedin.com/jobs/view/social-impact-executive-mumbai-only-at-paranubhuti-foundation-4452892986": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-4454492120": 1
+    "https://www.linkedin.com/jobs/view/sales-representative-4454492120": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-qxo-4456150718": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-associate-at-wwf-india-4456153905": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-tasty-dose-4456163899": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-nynii-4454737946": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-bma-conventions-4454766227": 1,
+    "https://www.linkedin.com/jobs/view/international-cold-calling-sales-executive-at-netex-security-4449815994": 1,
+    "https://www.linkedin.com/jobs/view/sales-lead-at-cube-4454780046": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-marketing-transformers-4454257123": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-jio-worldwide-4456148588": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-go-genie-4454964304": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4454979134": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3245,7 +3245,7 @@
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
