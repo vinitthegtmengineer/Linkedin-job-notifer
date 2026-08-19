@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-hubspot-at-khired-networks-4450455457": 1,
-    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-en-d%c3%a9veloppement-des-ventes-prospection-entrantes-at-maintainx-4444396989": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-liaison-at-aster-springs-4455114719": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-infobip-4417149492": 1,
-    "https://www.linkedin.com/jobs/view/advanced-cosmetic-enhancement-specialist-south-san-francisco-ca-at-rivian-4453757028": 1,
-    "https://www.linkedin.com/jobs/view/pretreatment-supervisor-at-city-of-sherman-laboratory-4454862990": 1,
-    "https://www.linkedin.com/jobs/view/wdvs-spezialist-m-w-d-at-heinrich-schmid-4453905450": 1,
-    "https://www.linkedin.com/jobs/view/copy-of-wastewater-laboratory-technician-at-jobera-com-4453927452": 1,
-    "https://www.linkedin.com/jobs/view/materials-engineer-ii-at-raytheon-4417488386": 1,
-    "https://www.linkedin.com/jobs/view/general-construction-field-at-zekelman-industries-4445299008": 1,
     "https://www.linkedin.com/jobs/view/concrete-laborer-at-mills-concrete-llc-4454896506": 1,
     "https://www.linkedin.com/jobs/view/associate-machine-operator-at-clayton-4454819905": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4375310529": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-at-marketing-transformers-4454257123": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-jio-worldwide-4456148588": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-go-genie-4454964304": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4454979134": 1
+    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4454979134": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-at-ocoda-4454984293": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-media-buyer-at-dimois-institute-4453433172": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-cardilogix-4453414051": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-cygnvs-4456171145": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-loopio-4454968228": 1,
+    "https://www.linkedin.com/jobs/view/placement-industry-collaboration-upto-50k-at-anudip-foundation-4454975070": 1,
+    "https://www.linkedin.com/jobs/view/junior-specialist-europe-at-invest-india-4456144951": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-digital-leap-4454969130": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-echt-marine-4453432092": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%93-usa-tech-startup-remote-south-africa-at-lamqora-4340529627": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3241,13 +3241,14 @@
     "gtm engineer|||levl": "2026-08-18T19:37:12.878Z",
     "community outreach specialist (office of the public defender)|||cook county government": "2026-08-18T23:48:16.161Z",
     "material handler-2nd shift|||clayton": "2026-08-19T03:08:44.161Z",
-    "gtm engineer|||starbridge": "2026-08-19T05:15:53.677Z"
+    "gtm engineer|||starbridge": "2026-08-19T05:15:53.677Z",
+    "outreach specialist|||digital leap": "2026-08-19T08:04:37.045Z"
   },
   "stats": {
     "date": "2026-08-19",
-    "cyclesToday": 9,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 10,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
