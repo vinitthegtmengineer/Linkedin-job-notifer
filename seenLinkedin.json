@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/bdm-at-my-nonu-4453996519": 1,
-    "https://www.linkedin.com/jobs/view/executiva-o-contas-corporativas-at-claro-brasil-4455137276": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-canon-usa-2147625352": 1,
-    "https://www.linkedin.com/jobs/view/personal-lines-account-executive-calgary-at-jobsmedia-io-4455150214": 1,
-    "https://www.linkedin.com/jobs/view/commercial-lines-account-executive-at-jobsmedia-io-4455152211": 1,
-    "https://www.linkedin.com/jobs/view/sales-consultant-broward-county-at-sysco-4455145258": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-at-sysco-4455140280": 1,
     "https://www.linkedin.com/jobs/view/banquero-pyme-distrito-los-mochis-at-banamex-4453941328": 1,
     "https://www.linkedin.com/jobs/view/account-manager-at-alphagraphics-us-219-4455152205": 1,
     "https://www.linkedin.com/jobs/view/financial-sales-specialist-at-cisco-4455143288": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-fall-winter-cohort-at-owner-com-4456764845": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-samsearch-4456041120": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-fall-winter-cohort-at-owner-com-4456758711": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4456035235": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4456035235": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-certerra-4454123335": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-at-efada-ai-4456789883": 1,
+    "https://www.linkedin.com/jobs/view/telesales-executive-4448716301": 1,
+    "https://www.linkedin.com/jobs/view/sales-business-development-executive-at-elexoft-4454121225": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-smartbuild-construction-solutions-4456039693": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-us-canada-at-datagroomr-4455469183": 1,
+    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-wellbe-senior-medical-4456394982": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3277,7 +3277,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
