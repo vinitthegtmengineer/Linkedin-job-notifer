@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/associate-director-development-alumni-relations-school-of-law-at-seattle-university-4453953362": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-shellkode-4453988467": 1,
-    "https://www.linkedin.com/jobs/view/business-to-business-prospecting-at-cloud-rexpo-4452220210": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-dodge-construction-network-4455226028": 1,
-    "https://www.linkedin.com/jobs/view/project-development-manager-at-red-zone-volleyball-league-4451738853": 1,
-    "https://www.linkedin.com/jobs/view/housekeeping-runner-at-minor-hotels-4428641970": 1,
-    "https://www.linkedin.com/jobs/view/consulting-utility-forester-at-the-davey-tree-expert-company-4455155219": 1,
-    "https://www.linkedin.com/jobs/view/senior-konsult-inom-klimat-milj%c3%b6-och-h%c3%a5llbarhet-till-sweco-at-sweco-4433164902": 1,
-    "https://www.linkedin.com/jobs/view/geo-environmental-consultant-at-arcadis-4433749465": 1,
     "https://www.linkedin.com/jobs/view/paid-media-automation-specialist-at-circles-4414714899": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-koch-4384765954": 1,
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-kadence-4449010466": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/account-executive-mid-market-h-f-at-ringover-france-4456038406": 1,
     "https://www.linkedin.com/jobs/view/midmarket-account-executive-cyber-security-at-fulcrum-technology-solutions-4456048338": 1,
     "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-jet-hr-4456775952": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-new-business-mid-market-m-f-d-at-atoss-software-se-4446429623": 1
+    "https://www.linkedin.com/jobs/view/account-executive-new-business-mid-market-m-f-d-at-atoss-software-se-4446429623": 1,
+    "https://www.linkedin.com/jobs/view/plant-operations-technician-at-targa-resources-4456045685": 1,
+    "https://www.linkedin.com/jobs/view/product-deployment-engineer-measurement-services-at-google-4450349579": 1,
+    "https://www.linkedin.com/jobs/view/product-deployment-engineer-measurement-services-at-google-4450343702": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4456023945": 1,
+    "https://www.linkedin.com/jobs/view/media-manager-programmatic-at-vml-4456797304": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-dexian-4454145308": 1,
+    "https://www.linkedin.com/jobs/view/media-manager-programmatic-at-vml-4456792328": 1,
+    "https://www.linkedin.com/jobs/view/marketing-services-program-manager-at-stripe-4454534486": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-email-campaign-production-at-tungsten-automation-4423336789": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3277,7 +3277,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
