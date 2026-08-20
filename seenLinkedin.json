@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-ply-unlimited-4451737277": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-cargill-4440410130": 1,
-    "https://www.linkedin.com/jobs/view/junior-geotechnical-staff-engineer-at-labella-associates-4283329818": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-wsp-in-the-u-s-4444396473": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-growth-at-lovable-4398114107": 1,
-    "https://www.linkedin.com/jobs/view/%e4%b8%ad%e5%b0%8f%e5%ae%a2%e6%88%b7%e5%a2%9e%e9%95%bf%e8%bf%90%e8%90%a5-at-%e7%99%be%e5%ba%a6%e5%9c%a8%e7%ba%bf%e7%bd%91%e7%bb%9c%e6%8a%80%e6%9c%af-%e5%8c%97%e4%ba%ac-%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8%e4%b8%8a%e6%b5%b7%e8%bd%af%e4%bb%b6%e6%8a%80%e6%9c%af%e5%88%86%e5%85%ac%e5%8f%b8-4451772298": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-app-at-amanotes-4451736542": 1,
     "https://www.linkedin.com/jobs/view/brand-manager-at-ferrero-4445209404": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-falcon-x-4451726737": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/public-sector-business-development-representative-at-quorum-4456371844": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-heartshare-4456335632": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-commercial-at-airwallex-4453817034": 1,
-    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-f-m-x-at-nelly-solutions-4455434528": 1
+    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-f-m-x-at-nelly-solutions-4455434528": 1,
+    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4456353805": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-and-finisher-at-maschmeyer-concrete-company-of-florida-4456383284": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-marketing-sdr-at-fireworks-ai-4456403938": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4453808083": 1,
+    "https://www.linkedin.com/jobs/view/customer-growth-representative-london-at-furza-4454993287": 1,
+    "https://www.linkedin.com/jobs/view/junior-outbound-sales-representative-at-anteater-search-4453409841": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3266,7 +3266,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
