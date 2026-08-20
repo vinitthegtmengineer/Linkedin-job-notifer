@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/banquero-pyme-distrito-los-mochis-at-banamex-4453941328": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-alphagraphics-us-219-4455152205": 1,
-    "https://www.linkedin.com/jobs/view/financial-sales-specialist-at-cisco-4455143288": 1,
-    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-phibion-4454822144": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-yara-ai-4455147241": 1,
-    "https://www.linkedin.com/jobs/view/technical-solutions-engineer-at-clark-pacific-4455137325": 1,
-    "https://www.linkedin.com/jobs/view/software-engineer-at-yara-ai-4455141289": 1,
-    "https://www.linkedin.com/jobs/view/partner-account-executive-nordics-benelux-at-cisco-4455142299": 1,
-    "https://www.linkedin.com/jobs/view/copywriter-at-ramsey-solutions-4455139293": 1,
-    "https://www.linkedin.com/jobs/view/associate-director-of-development-annual-giving-at-seattle-university-4453943588": 1,
-    "https://www.linkedin.com/jobs/view/kontakter-in-voll-oder-teilzeit-at-torner-brand-media-4455148233": 1,
     "https://www.linkedin.com/jobs/view/associate-director-development-alumni-relations-school-of-law-at-seattle-university-4453953362": 1,
     "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-shellkode-4453988467": 1,
     "https://www.linkedin.com/jobs/view/business-to-business-prospecting-at-cloud-rexpo-4452220210": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-business-development-executive-at-elexoft-4454121225": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-smartbuild-construction-solutions-4456039693": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-remote-us-canada-at-datagroomr-4455469183": 1,
-    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-wellbe-senior-medical-4456394982": 1
+    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-wellbe-senior-medical-4456394982": 1,
+    "https://www.linkedin.com/jobs/view/senior-sediment-remediation-specialist-at-j-t-4455690286": 1,
+    "https://www.linkedin.com/jobs/view/experienced-decorative-paint-plaster-artist-at-fresco-decorative-arts-4456030744": 1,
+    "https://www.linkedin.com/jobs/view/laborer-i-at-mortenson-4446878105": 1,
+    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4456781483": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-clark-construction-group-4456724364": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-%e2%80%94-canada-south-africa-or-latin-america-at-zipboard-4456025143": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-rpo-at-thecorporate-4456037219": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-mid-market-h-f-at-ringover-france-4456038406": 1,
+    "https://www.linkedin.com/jobs/view/midmarket-account-executive-cyber-security-at-fulcrum-technology-solutions-4456048338": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-jet-hr-4456775952": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-new-business-mid-market-m-f-d-at-atoss-software-se-4446429623": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3277,7 +3277,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
