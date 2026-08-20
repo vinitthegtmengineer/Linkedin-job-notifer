@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-ent-italy-at-dandy-4416695141": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-corrugated-box-sales-at-hood-container-corporation-4444212515": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-small-to-medium-business-newco-at-docusign-4444635057": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-diligent-4399458084": 1,
     "https://www.linkedin.com/jobs/view/natuursteenbewerker-all-round-at-moens-natuursteenbedrijf-bvba-4455182057": 1,
     "https://www.linkedin.com/jobs/view/beton-und-stahlbetonbauer-maurer-m-w-d-at-eggersmann-gruppe-gmbh-co-kg-4451772970": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-prospa-4456458197": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-amperos-4455459740": 1,
     "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4455619114": 1,
-    "https://www.linkedin.com/jobs/view/corporate-relations-specialist-4453421868": 1
+    "https://www.linkedin.com/jobs/view/corporate-relations-specialist-4453421868": 1,
+    "https://www.linkedin.com/jobs/view/operateurs-de-production-et-extrusion-at-morssinkhof-rymoplast-4456181325": 1,
+    "https://www.linkedin.com/jobs/view/molding-operator-at-kohler-co-4429174109": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-cohere-4436853874": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3266,7 +3266,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
