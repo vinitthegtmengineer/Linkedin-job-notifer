@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-campaign-analyst-at-qantas-4455230730": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-enterprise-new-business-government-at-sitecore-4435473753": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-uk-i-market-at-sensorfact-4369053825": 1,
-    "https://www.linkedin.com/jobs/view/powerstrux-software-account-executive-at-securestrux%c2%ae-4452202149": 1,
-    "https://www.linkedin.com/jobs/view/sales-account-executive-dach-m%c3%bcnchen-at-factorial-4427547973": 1,
-    "https://www.linkedin.com/jobs/view/junior-account-executive-digital-velocity-team-at-supermetrics-4433713057": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-tax-software-sales-at-ryan-4427636240": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-techium-consulting-group-4454207056": 1,
     "https://www.linkedin.com/jobs/view/looking-for-someone-to-lay-block-at-lsn-4452206390": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-bilt-4455216936": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/quality-control-specialist-at-crh-4457023660": 1,
     "https://www.linkedin.com/jobs/view/kelp-conservation-and-aquaculture-specialist-at-kelp-ark-4456052200": 1,
     "https://www.linkedin.com/jobs/view/general-laborer-4456490336": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-walker-miller-energy-services-4453703156": 1
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-walker-miller-energy-services-4453703156": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-produ%c3%a7%c3%a3o-iii-at-cimento-apodi-4454151615": 1,
+    "https://www.linkedin.com/jobs/view/operator-3-ploegendienst-effect-personeelsdiensten-b-v-at-jobster-4456051314": 1,
+    "https://www.linkedin.com/jobs/view/produktionsmitarbeiter-steinfertigungsanlage-m-w-d-at-ehl-ag-a-crh-company-4457037074": 1,
+    "https://www.linkedin.com/jobs/view/cuber-operator-at-crh-4457009736": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-at-crh-4457019690": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4456450333": 1,
+    "https://www.linkedin.com/jobs/view/pre-sales-engineer-at-aveva-4428419012": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3278,7 +3278,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
