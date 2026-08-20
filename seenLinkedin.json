@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-fancysauce-inc-at-jack-jill-4453996439": 1,
-    "https://www.linkedin.com/jobs/view/field-ambassador-at-fellowship-of-christian-athletes-northwest-chicago-suburbs-4455137681": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-gtm-engineer-at-fancysauce-inc-at-jack-jill-4454218383": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-fetchjobs-co-4455230607": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-analyst-at-qantas-4455230730": 1,
     "https://www.linkedin.com/jobs/view/account-executive-enterprise-new-business-government-at-sitecore-4435473753": 1,
     "https://www.linkedin.com/jobs/view/account-executive-uk-i-market-at-sensorfact-4369053825": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456037378": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-operations-professional-services-at-openai-4444514838": 1,
     "https://www.linkedin.com/jobs/view/business-development-lead-aws-at-drata-4419548002": 1,
-    "https://www.linkedin.com/jobs/view/data-extraction-executive-at-nopex-services-4454116946": 1
+    "https://www.linkedin.com/jobs/view/data-extraction-executive-at-nopex-services-4454116946": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-specialist-at-crh-4457023660": 1,
+    "https://www.linkedin.com/jobs/view/kelp-conservation-and-aquaculture-specialist-at-kelp-ark-4456052200": 1,
+    "https://www.linkedin.com/jobs/view/general-laborer-4456490336": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-walker-miller-energy-services-4453703156": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3278,7 +3278,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 14,
     "sentToday": 14,
     "lastSummaryDate": ""
