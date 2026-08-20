@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/environmental-associate-at-michael-baker-international-4387718057": 1,
-    "https://www.linkedin.com/jobs/view/color-specialist-at-clancy-s-commercial-wood-coatings-4453759290": 1,
-    "https://www.linkedin.com/jobs/view/histology-technician-31298-at-gi-alliance-4417171726": 1,
-    "https://www.linkedin.com/jobs/view/lead-alterations-specialist-at-david-s-bridal-4445397694": 1,
-    "https://www.linkedin.com/jobs/view/senior-water-pollution-control-technician-jefferson-county-environmental-services-at-personnel-board-of-jefferson-county-4453965634": 1,
-    "https://www.linkedin.com/jobs/view/histology-technician-at-fairview-park-hospital-4334882684": 1,
-    "https://www.linkedin.com/jobs/view/plasterer-elite-operative-at-gilmartins-4451762518": 1,
-    "https://www.linkedin.com/jobs/view/research-assistant-ii-laboratory-of-dr-julie-law-at-salk-institute-for-biological-studies-4425330971": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-4451797303": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-at-mens-avenue-4451740204": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-eteg-4453930394": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/wholesale-executive-at-dr-scent-4455632060": 1,
     "https://www.linkedin.com/jobs/view/account-executive-meta-at-cohere-4455428361": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-ping-identity-4456457854": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-saas-product-at-12th-wonder-4453861417": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-saas-product-at-12th-wonder-4453861417": 1,
+    "https://www.linkedin.com/jobs/view/betonmaschinist-in-at-gasser-felstechnik-ag-4453874268": 1,
+    "https://www.linkedin.com/jobs/view/20%ef%bd%9e40%e4%bb%a3%e6%b4%bb%e8%ba%8d%e4%b8%ad%ef%bc%8f%e5%ae%9f%e8%b3%aa%e3%80%81%e5%af%ae%e8%b2%bb%e8%b2%bb%e6%96%99%e3%81%a7%e6%89%8b%e5%8f%96%e3%82%8a%e3%82%a2%e3%83%83%e3%83%97%ef%bc%81%ef%bc%8f%e6%9c%88%e5%8f%8e%e4%be%8b35-2%e4%b8%87%e5%86%86%ef%bc%8f%e5%85%a5%e7%a4%be%e7%89%b9%e5%85%b8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e2%97%8e%e3%80%90%e3%82%bb%e3%83%a9%e3%83%9f%e3%83%83%e3%82%af%e5%8a%a0%e5%b7%a5%e8%a3%bd%e5%93%81%e3%81%ae%e6%a9%9f%e6%a2%b0%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%91%ef%bc%88no-sd-18419-02-jp%ef%bc%89-at-%e3%83%95%e3%82%b8%e3%82%a2%e3%83%ab%e3%83%86%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4456702226": 1,
+    "https://www.linkedin.com/jobs/view/advanced-cosmetic-enhancement-specialist-iii-at-rivian-4455460826": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-enterprise-bot-4453866581": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-unitxt-pro-4453872350": 1,
+    "https://www.linkedin.com/jobs/view/ad-operations-executive-at-collegedunia-4453845400": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-campaigns-4453433997": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cactus-search-4455622514": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3267,7 +3267,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
