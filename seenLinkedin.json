@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-getsolar-4455253445": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-business-development-representative-at-vellstone-4452225226": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-25k-per-month-at-deck-mount-electronics-4454230957": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-representative-building-material-at-eoxs-4454218924": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-at-mine-safety-solutions-4454217596": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-experience-5%e2%80%938-years-work-mode-onsite-location-gurugram-at-unicorn-workforce-4455254443": 1,
-    "https://www.linkedin.com/jobs/view/sdr-at-targetbay-4454220968": 1,
-    "https://www.linkedin.com/jobs/view/sdr-at-massil-technologies-4452211964": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-growth-partnerships-at-zorspeaker-4454254013": 1,
-    "https://www.linkedin.com/jobs/view/company-growth-partner-4452222999": 1,
     "https://www.linkedin.com/jobs/view/growth-lead-at-uonex-4454249020": 1,
     "https://www.linkedin.com/jobs/view/research-outreach-associate-at-pahl%c3%a9-india-foundation-pif-4455250297": 1,
     "https://www.linkedin.com/jobs/view/pre-sales-advisor-at-yocket-4454504908": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-at-katalyst-media-communications-4454172745": 1,
     "https://www.linkedin.com/jobs/view/affiliate-marketing-executive-at-adzflick-4452545502": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-moi-handcrafted-luxury-4454106767": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-representative-outbound-australia-at-shiftcare-4457088257": 1
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-outbound-australia-at-shiftcare-4457088257": 1,
+    "https://www.linkedin.com/jobs/view/r-d-scientist-at-mafix-4457084722": 1,
+    "https://www.linkedin.com/jobs/view/implementation-engineer-observe-at-snowflake-4457015986": 1,
+    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4456206051": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-ai-automation-at-juicylemons-4457089394": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-series-b-backed-fintech-saas-at-jack-jill-4456203089": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-life-designer-4454186414": 1,
+    "https://www.linkedin.com/jobs/view/sem-campaign-manager-remote-at-forbes-advisor-4457018671": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-freshworks-4457094368": 1,
+    "https://www.linkedin.com/jobs/view/sdr-b2b-saas-at-blu-selection-recruitment-agency-4457097331": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-threatcop-4454186283": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3280,7 +3280,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
