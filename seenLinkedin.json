@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/%e8%af%81%e5%88%b8%e4%b8%a4%e8%9e%8d%e6%95%b0%e5%ad%97%e5%8c%96%e7%bb%8f%e8%90%a5%e8%bf%90%e8%90%a5%e5%b2%97-at-%e5%b9%b3%e5%ae%89%e5%81%a5%e5%ba%b7%e4%bf%9d%e9%99%a9%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4455329655": 1,
-    "https://www.linkedin.com/jobs/view/revops-specialist-ai-automation-w-m-d-at-lanes-planes-4454293179": 1,
-    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455336583": 1,
-    "https://www.linkedin.com/jobs/view/operations-specialist-beaumont-tx-at-kinder-morgan-inc-4454036867": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-aide-at-arkansas-department-of-transportation-4455349900": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-engineer-%e2%80%93-entry-level-hybrid-at-barr-engineering-co-4442858246": 1,
-    "https://www.linkedin.com/jobs/view/founding-deployments-engineer-at-firefly-4455366551": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtme-at-firefly-4455372500": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-watershed-4455353713": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-watershed-4455354686": 1,
     "https://www.linkedin.com/jobs/view/kampagnenmanager-m-w-d-medien-direktmarketing-at-borkener-zeitung-4454402926": 1,
     "https://www.linkedin.com/jobs/view/digital-manager-at-audience-collective-4454430198": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/precast-at-olson-precast-company-4456099501": 1,
     "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4457384675": 1,
     "https://www.linkedin.com/jobs/view/senior-cold-calling-agent-at-kivo-4454668234": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-logline-log%c3%adstica-4454650796": 1
+    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-logline-log%c3%adstica-4454650796": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-i-at-tg-natural-resources-llc-4454682167": 1,
+    "https://www.linkedin.com/jobs/view/operator-assistant-ii-service-operator-ii-cementing-at-halliburton-4456286928": 1,
+    "https://www.linkedin.com/jobs/view/water-recycle-operator-at-exxonmobil-4457525970": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-manager-at-jellyfish-brasil-4454676043": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-toon-boom-animation-4457519788": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-go-lime-inc-4453568948": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-marqon-technologies-4454683224": 1,
+    "https://www.linkedin.com/jobs/view/recruitment-officer-at-juniper-training-ltd-4454684220": 1,
+    "https://www.linkedin.com/jobs/view/partner-development-representative-german-undutchables-at-jobster-4456291757": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
