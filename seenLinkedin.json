@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-organic-lead-generation-fresher-at-sigsigma-4452219815": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-aravali-honey-industries-4454231956": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-aravali-honey-industries-4452204911": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-hirekul-4455244309": 1,
-    "https://www.linkedin.com/jobs/view/process-operator-at-chevron-phillips-chemical-company-4452208968": 1,
     "https://www.linkedin.com/jobs/view/geotechniker-m-w-d-at-siera-4455245536": 1,
     "https://www.linkedin.com/jobs/view/career-opportunities-in-geotechnical-uk-water-sector-expression-of-interest-at-stantec-4369126472": 1,
     "https://www.linkedin.com/jobs/view/field-application-engineer-technical-pre-sales-teradyne-san-jose-ca-at-teradyne-4452239050": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/mobilization-specialist-activism-engagement-at-uja-federation-of-greater-toronto-4457063198": 1,
     "https://www.linkedin.com/jobs/view/account-executive-emirates-qatar-at-offsec-4410036278": 1,
     "https://www.linkedin.com/jobs/view/account-executive-adgm-focus-at-laine-4454118166": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-payd-4457072929": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-payd-4457072929": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac-at-openai-4456098257": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-spectrum-equity-4456083225": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-goto-4457084296": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-d-a-ch-m-w-d-saas-65-000%e2%82%ac-ote-jahresgehalt-startup-vollzeit-m%c3%bcnchen-at-ayunis-locaboo-4454177304": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-investorflow-4457054962": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3275,13 +3275,14 @@
     "frame|||clayton": "2026-08-20T19:43:29.718Z",
     "go-to-market lead (b2b)|||simplestudy": "2026-08-20T20:11:41.630Z",
     "strategic accounts gtm engineer|||nirvana": "2026-08-20T22:48:53.077Z",
-    "sales development representative - fall/winter cohort|||gtmfund": "2026-08-21T04:05:41.287Z"
+    "sales development representative - fall/winter cohort|||gtmfund": "2026-08-21T04:05:41.287Z",
+    "gtm strategy & operations lead, reseller & ecosystem programs (apac)|||openai": "2026-08-21T05:34:50.619Z"
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 5,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 6,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
