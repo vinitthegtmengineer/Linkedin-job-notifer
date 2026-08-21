@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/staff-product-manager-growth-at-brex-4379744480": 1,
-    "https://www.linkedin.com/jobs/view/fcm-campaigns-manager-london-uk-at-flight-centre-travel-group-4455257440": 1,
-    "https://www.linkedin.com/jobs/view/manager-paid-media-at-airwallex-4452249973": 1,
-    "https://www.linkedin.com/jobs/view/manager-media-activation-at-mars-united-commerce-4454289001": 1,
-    "https://www.linkedin.com/jobs/view/biddable-manager-at-major-players-b-corp%e2%84%a2-4453998441": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-meta-email-lp-s-at-bremer-tresor-4452206036": 1,
-    "https://www.linkedin.com/jobs/view/peformance-media-manager-at-lane-crawford-4454242028": 1,
-    "https://www.linkedin.com/jobs/view/gerente-de-tr%c3%a1fego-at-inpactum-digital-4452250949": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-digital-campaign-manager-m-w-d-at-cbs-corporate-business-solutions-4389590227": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-manger-fokus-sea-m-w-d-at-instaffo-4455311158": 1,
-    "https://www.linkedin.com/jobs/view/campaign-operations-manager-h-f-at-approach-people-recruitment-4455313200": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-europe-at-crocs-inc-4452270760": 1,
     "https://www.linkedin.com/jobs/view/customer-growth-representative-london-at-furza-4454402217": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-%e2%80%93-staffing-sales-lead-generation-at-trident-consulting-4451822249": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-esketchers-4454275630": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-purple-4456056770": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-marketing-technology-workflow-optimization-at-labcorp-4389982311": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-representative-at-alpine-physician-partners-4429950732": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-nebius-4445042077": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-nebius-4445042077": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-at-oneok-4457075192": 1,
+    "https://www.linkedin.com/jobs/view/technician-ii-at-research-compliance-office-at-the-texas-a-m-university-system-4454655093": 1,
+    "https://www.linkedin.com/jobs/view/junior-adviseur-land-en-waterbodem-at-multiselect-bouw-infra-4456234467": 1,
+    "https://www.linkedin.com/jobs/view/senior-environmental-water-quality-consultant-modelling-at-stantec-4437977860": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-yellow-tech-the-ai-%e2%80%8b%e2%80%8btransformation-company-4445495911": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-aircall-4457366799": 1,
+    "https://www.linkedin.com/jobs/view/manager-media-at-publicis-groupe-middle-east-4446985713": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-it-planet-4457373651": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-us-based-at-nopex-services-4454672032": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-%e2%80%93-outbound-sales-at-celestrix-4454110716": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-benelux-at-ninjaone-4389754359": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-building-radar-4454608390": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3283,13 +3283,14 @@
     "gtm systems engineer|||faire": "2026-08-21T14:01:55.616Z",
     "(founding) gtm swiss army knife|||vayuh.ai": "2026-08-21T14:01:57.178Z",
     "gtm analytics manager|||gong": "2026-08-21T14:01:58.730Z",
-    "gtm knowledge engineer|||everlaw": "2026-08-21T15:35:40.166Z"
+    "gtm knowledge engineer|||everlaw": "2026-08-21T15:35:40.166Z",
+    "gtm engineer|||yellow tech - the ai transformation company": "2026-08-21T17:50:12.456Z"
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 23,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 24,
+    "matchedToday": 10,
+    "sentToday": 10,
     "lastSummaryDate": ""
   }
 }
