@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-installer-at-cantey-foundation-specialists-4454274769": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-at-crh-4455319869": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-naukripay-group-4452245266": 1,
-    "https://www.linkedin.com/jobs/view/b2c-marketing-executive-at-flight-centre-travel-group-4445670710": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ecentric-4454249022": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketer-immigration-industry-at-yash-global-immigration-4454246566": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-shopee-lazada-tiktokshop-at-intrepid-asia-4455252891": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-lead-generation-at-franchise-brigade-4444880077": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-executive-at-mountain-warehouse-4454274702": 1,
-    "https://www.linkedin.com/jobs/view/retail-marketing-executive-london-uk-at-flight-centre-travel-group-4455267364": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-4455308809": 1,
-    "https://www.linkedin.com/jobs/view/patient-engagement-specialist-i-at-family-health-centers-of-san-diego-4454400675": 1,
-    "https://www.linkedin.com/jobs/view/ai-startup-business-development-representative-at-be-additive-corporation-4454292077": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-chalk-4446245983": 1,
     "https://www.linkedin.com/jobs/view/operator-3rd-shift-deco-glaze-at-ahf-4454287660": 1,
     "https://www.linkedin.com/jobs/view/production-casting-utility-at-novelis-4399408032": 1,
     "https://www.linkedin.com/jobs/view/procesoperator-schiedam-at-boskalis-4440283062": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/campus-representative-at-youth-nexus-4456275632": 1,
     "https://www.linkedin.com/jobs/view/community-manager-at-smart-interviews-4456220841": 1,
     "https://www.linkedin.com/jobs/view/environmental-process-specialist-at-danfoss-4439035476": 1,
-    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-nynii-4456275845": 1
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-nynii-4456275845": 1,
+    "https://www.linkedin.com/jobs/view/cuber-operator-at-oldcastle-apg-4454653653": 1,
+    "https://www.linkedin.com/jobs/view/product-deployment-engineer-gtech-ads-at-google-4446794700": 1,
+    "https://www.linkedin.com/jobs/view/customer-and-product-solutions-engineer-genai-at-google-4456226119": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-series-b-backed-fintech-saas-at-jack-jill-4456294015": 1,
+    "https://www.linkedin.com/jobs/view/lead-product-marketing-manager-at-carta-4454664385": 1,
+    "https://www.linkedin.com/jobs/view/lead-product-marketing-manager-at-carta-4454661466": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-love-recruitment-ltd-4456295068": 1,
+    "https://www.linkedin.com/jobs/view/executive-performance-media-at-svkm-s-narsee-monjee-institute-of-management-studies-nmims-4454658782": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-archer-integrated-risk-management-4454672539": 1,
+    "https://www.linkedin.com/jobs/view/performance-manager-at-renovia-care-4454665266": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-analyst-at-orasure-technologies-inc-4455317539": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-alation-4452924013": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456034418": 1,
+    "https://www.linkedin.com/jobs/view/federal-enterprise-account-executive-at-bluecat-4456267834": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3286,13 +3286,14 @@
     "gtm knowledge engineer|||everlaw": "2026-08-21T15:35:40.166Z",
     "gtm engineer|||yellow tech - the ai transformation company": "2026-08-21T17:50:12.456Z",
     "gtm inbound|||skello": "2026-08-21T18:20:23.730Z",
-    "program manager, gtm acceleration|||vercel": "2026-08-21T19:35:34.842Z"
+    "program manager, gtm acceleration|||vercel": "2026-08-21T19:35:34.842Z",
+    "growth marketing manager|||archer integrated risk management": "2026-08-21T20:28:01.135Z"
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 28,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 29,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
