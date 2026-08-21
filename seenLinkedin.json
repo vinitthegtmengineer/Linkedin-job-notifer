@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/formwork-carpenter-grouter-at-clough-4451799773": 1,
-    "https://www.linkedin.com/jobs/view/beton-und-stahlbetonbauer-m-w-d-at-gbj-geithner-betonmanufaktur-joachimsthal-gmbh-4454225084": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-4452217148": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-clanme-4454207037": 1,
-    "https://www.linkedin.com/jobs/view/telesales-specialist-at-dalmaf-private-limited-4454210944": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-fitelo-4454231954": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-tracker-suite-4454229801": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-organic-lead-generation-fresher-at-sigsigma-4452219815": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-aravali-honey-industries-4454231956": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-aravali-honey-industries-4452204911": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/field-mobilizer-at-human-matrix-4453889208": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-disrupt-x-4454170504": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4454121492": 1,
-    "https://www.linkedin.com/jobs/view/sdr-at-docusign-4456052515": 1
+    "https://www.linkedin.com/jobs/view/sdr-at-docusign-4456052515": 1,
+    "https://www.linkedin.com/jobs/view/lab-field-testing-technician-west-palm-beach-at-tetra-tech-4457064421": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-helper-at-baker-construction-4446877654": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-clickview-4454173094": 1,
+    "https://www.linkedin.com/jobs/view/mobilization-specialist-activism-engagement-at-uja-federation-of-greater-toronto-4457063198": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-emirates-qatar-at-offsec-4410036278": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-adgm-focus-at-laine-4454118166": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-payd-4457072929": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3279,7 +3279,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
