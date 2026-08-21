@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-architecture-at-cisco-4445916640": 1,
-    "https://www.linkedin.com/jobs/view/pipeline-technician-at-energy-transfer-4452283606": 1,
-    "https://www.linkedin.com/jobs/view/traveling-construction-materials-laboratory-cmt-technician-at-braun-intertec-corporation-4452280873": 1,
-    "https://www.linkedin.com/jobs/view/materials-technician-at-skanska-costain-strabag-joint-venture-4455334141": 1,
-    "https://www.linkedin.com/jobs/view/fluvial-geomorphologist-hydromorphologist-at-wsp-in-the-uk-ireland-4445912647": 1,
-    "https://www.linkedin.com/jobs/view/senior-environment-artist-at-epic-games-4454414470": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%94-industrial-b2b-at-glowtify-4454432190": 1,
     "https://www.linkedin.com/jobs/view/concentrator-operator-at-basf-4452289804": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-thirdfort-4455371277": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/account-executive-sales-at-calyptus-4457319175": 1,
     "https://www.linkedin.com/jobs/view/qualified-enterprise-account-executive-at-salesforce-partner-canada-4457310207": 1,
     "https://www.linkedin.com/jobs/view/account-executive-commercial-install-at-docusign-4446929905": 1,
-    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-b2b-au-telco-at-microsourcing-4447244104": 1
+    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-b2b-au-telco-at-microsourcing-4447244104": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-and-finisher-at-project-build-minnesota-4456290324": 1,
+    "https://www.linkedin.com/jobs/view/finisher-concrete-dallas-tx-austin-bridge-road-at-austin-industries-4457394605": 1,
+    "https://www.linkedin.com/jobs/view/pe%c3%b3n-de-obra-madrid-at-confiarte-4454195908": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-paybyphone-4454654378": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-coreaugment-4454667680": 1,
+    "https://www.linkedin.com/jobs/view/%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b8%f0%9d%97%b2%f0%9d%98%81%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%96%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%b9%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%94%f0%9d%97%b4%f0%9d%97%b2%f0%9d%97%bb%f0%9d%98%81-at-the-chimera-marketing-4454663440": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
