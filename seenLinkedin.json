@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operator-3rd-shift-deco-glaze-at-ahf-4454287660": 1,
-    "https://www.linkedin.com/jobs/view/production-casting-utility-at-novelis-4399408032": 1,
-    "https://www.linkedin.com/jobs/view/procesoperator-schiedam-at-boskalis-4440283062": 1,
-    "https://www.linkedin.com/jobs/view/operator-lab-2nd-shift-at-ahf-4454294558": 1,
-    "https://www.linkedin.com/jobs/view/procesoperator-3-ploegen-at-umicore-4433950102": 1,
-    "https://www.linkedin.com/jobs/view/20%ef%bd%9e40%e4%bb%a3%e6%b4%bb%e8%ba%8d%e4%b8%ad%ef%bc%8f%e6%9c%aa%e7%b5%8c%e9%a8%93ok%ef%bc%81%e6%ae%8b%e6%a5%ad%e5%b0%91%e3%81%aa%e3%82%81%e3%81%a7%e3%82%ac%e3%83%83%e3%83%84%e3%83%aa%e7%a8%bc%e3%81%92%e3%82%8b%e3%81%8a%e4%bb%95%e4%ba%8b%e2%97%8e%ef%bc%8f%e6%9c%88%e5%8f%8e%e4%be%8b31%e4%b8%87%e5%86%86%ef%bc%8f%e5%af%ae%e8%b2%bb%e7%84%a1%e6%96%99%e3%81%ae%e7%89%b9%e5%85%b8%e3%81%82%e3%82%8a%e2%99%aa%e3%80%90%e6%a8%b9%e8%84%82%e8%a3%bd%e5%93%81%e3%81%ae%e8%a3%bd%e9%80%a0%e3%81%ab%e9%96%a2%e3%82%8f%e3%82%8b%e6%a9%9f%e6%a2%b0%e6%93%8d%e4%bd%9c%e3%81%aa%e3%81%a9%e3%80%91%ef%bc%88no-tb-18712-01-jp%ef%bc%89-at-%e3%83%95%e3%82%b8%e3%82%a2%e3%83%ab%e3%83%86%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be-4455230536": 1,
-    "https://www.linkedin.com/jobs/view/hydraulic-press-operator-1st-shift-at-mohawk-industries-4454261370": 1,
-    "https://www.linkedin.com/jobs/view/%ce%b5%cf%81%ce%b3%ce%b1%ce%b6%cf%8c%ce%bc%ce%b5%ce%bd%ce%bf%cf%82-%ce%bc%ce%b5%ce%bd%ce%b7-%cf%80%ce%b1%cf%81%ce%b1%ce%b3%cf%89%ce%b3%ce%ae%cf%82-%ce%b4%ce%bf%ce%bc%ce%b9%ce%ba%cf%8e%ce%bd-%cf%85%ce%bb%ce%b9%ce%ba%cf%8e%ce%bd-%cf%83%cf%84%ce%bf-%ce%b5%cf%81%ce%b3%ce%bf%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf-%ce%b8%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%af%ce%ba%ce%b7%cf%82-at-knauf-greece-4316927719": 1,
     "https://www.linkedin.com/jobs/view/operadora-or-processos-florestais-iii-tel%c3%aamaco-borba-pr-at-klabin-4455349697": 1,
     "https://www.linkedin.com/jobs/view/laboratory-support-specialist-at-tailored-management-4455315643": 1,
     "https://www.linkedin.com/jobs/view/assistant-laboratory-analyst-at-slr-consulting-4445130465": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/sales-development-analyst-at-orasure-technologies-inc-4455317539": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-alation-4452924013": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456034418": 1,
-    "https://www.linkedin.com/jobs/view/federal-enterprise-account-executive-at-bluecat-4456267834": 1
+    "https://www.linkedin.com/jobs/view/federal-enterprise-account-executive-at-bluecat-4456267834": 1,
+    "https://www.linkedin.com/jobs/view/plant-maintenance-operator-i-ii-at-city-of-college-station-4456262974": 1,
+    "https://www.linkedin.com/jobs/view/hydraulic-fracturing-equipment-operator-at-propetro-services-inc-4454662656": 1,
+    "https://www.linkedin.com/jobs/view/collections-conservator-at-george-washington-s-mount-vernon-4457510287": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-mastec-civil-llc-a-mastec-company-4457524110": 1,
+    "https://www.linkedin.com/jobs/view/scaled-sales-lead-beneficial-deployments-at-anthropic-4456279128": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456297001": 1,
+    "https://www.linkedin.com/jobs/view/senior-campaign-operations-manager-at-lucanet-4457394298": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-new-york-ny-at-box-4457516074": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
