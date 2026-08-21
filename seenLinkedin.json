@@ -1,21 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/corporate-sales-executive-at-motoscents-4454245312": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-am-at-db-corp-ltd-4454044475": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-the-shri-ram-wonder-years-4428792751": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%94-virtual-events-webinars-at-owow-4452233111": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-jiva-bond-4452223401": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-at-ibi-group-4452226235": 1,
-    "https://www.linkedin.com/jobs/view/b2b-sales-specialist-at-gushwork-4454237408": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-engagetech-4455237996": 1,
-    "https://www.linkedin.com/jobs/view/waste-management-specialist-i-ii-iii-at-kern-county-4452247160": 1,
-    "https://www.linkedin.com/jobs/view/beredare-inom-ytbehandling-och-plasmask%c3%a4rning-at-stedings-consulting-ab-4454245379": 1,
-    "https://www.linkedin.com/jobs/view/ausbildung-baustoffpr%c3%bcfer-m-w-d-2027-at-dyckerhoff-4452205678": 1,
-    "https://www.linkedin.com/jobs/view/charg%c3%a9e-charg%c3%a9-d-etudes-naturaliste-botaniste-at-artelia-4455270349": 1,
-    "https://www.linkedin.com/jobs/view/mitarbeiter-labor-m-w-d-in-vollzeit-at-dyckerhoff-4406718368": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4418197942": 1,
-    "https://www.linkedin.com/jobs/view/account-engineer-at-ladders-4452229823": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-growth-east-at-ladders-4452242734": 1,
     "https://www.linkedin.com/jobs/view/technical-sales-h-f-at-hornetsecurity-4455271376": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-pivotal-partners-4436304164": 1,
     "https://www.linkedin.com/jobs/view/global-product-solutions-senior-associate-lead-generation-at-google-4454249595": 1,
@@ -1999,7 +1983,23 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-bluevision-productions-4453876861": 1,
     "https://www.linkedin.com/jobs/view/sdr-at-rogo-4447092345": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456041336": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-executive-safesend-sureprep-at-thomson-reuters-4456026704": 1
+    "https://www.linkedin.com/jobs/view/senior-sales-executive-safesend-sureprep-at-thomson-reuters-4456026704": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-ii-at-ues-4337142952": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4438882115": 1,
+    "https://www.linkedin.com/jobs/view/technical-officer-laboratory-tamworth-at-transport-for-nsw-4457311404": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-confido-4438291977": 1,
+    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-gtm-solutions-at-legora-4417256070": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-executive-at-luxasia-4438583897": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-medway-hospitals-4456222303": 1,
+    "https://www.linkedin.com/jobs/view/media-activation-manager-at-insignia-financial-4438872710": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-nextnation-4456209479": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-4454122648": 1,
+    "https://www.linkedin.com/jobs/view/program-coordinator-at-amarra-philanthropic-foundation-4456212502": 1,
+    "https://www.linkedin.com/jobs/view/student-engagement-executive-at-filo-4456208488": 1,
+    "https://www.linkedin.com/jobs/view/international-online-sales-school-outreach-manager-at-learn-with-leaders-4456202365": 1,
+    "https://www.linkedin.com/jobs/view/community-engagement-associate-nurture-at-khushi-baby-4456206391": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-saas-at-12th-wonder-4454602185": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-coram-ai-4447045843": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3278,13 +3278,14 @@
     "sales development representative - fall/winter cohort|||gtmfund": "2026-08-21T04:05:41.287Z",
     "gtm strategy & operations lead, reseller & ecosystem programs (apac)|||openai": "2026-08-21T05:34:50.619Z",
     "gtm & product marketing lead|||flagright": "2026-08-21T09:21:17.504Z",
-    "gtm engineer|||analystx.ai": "2026-08-21T10:01:01.683Z"
+    "gtm engineer|||analystx.ai": "2026-08-21T10:01:01.683Z",
+    "product marketing manager, gtm solutions|||legora": "2026-08-21T11:12:01.416Z"
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 13,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 14,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
