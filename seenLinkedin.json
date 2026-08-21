@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-thirdfort-4455371277": 1,
-    "https://www.linkedin.com/jobs/view/revops-data-engineer-ai-x-greentech-m-f-d-at-reonic-4455296770": 1,
-    "https://www.linkedin.com/jobs/view/revops-data-engineer-ai-x-greentech-m-f-d-at-reonic-4455284880": 1,
-    "https://www.linkedin.com/jobs/view/technical-operations-specialist-at-stackadapt-4455330000": 1,
     "https://www.linkedin.com/jobs/view/%e8%af%81%e5%88%b8%e4%b8%a4%e8%9e%8d%e6%95%b0%e5%ad%97%e5%8c%96%e7%bb%8f%e8%90%a5%e8%bf%90%e8%90%a5%e5%b2%97-at-%e5%b9%b3%e5%ae%89%e5%81%a5%e5%ba%b7%e4%bf%9d%e9%99%a9%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4455329655": 1,
     "https://www.linkedin.com/jobs/view/revops-specialist-ai-automation-w-m-d-at-lanes-planes-4454293179": 1,
     "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455336583": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-coreaugment-4454667680": 1,
     "https://www.linkedin.com/jobs/view/%f0%9d%97%a0%f0%9d%97%ae%f0%9d%97%bf%f0%9d%97%b8%f0%9d%97%b2%f0%9d%98%81%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%96%f0%9d%97%ae%f0%9d%97%b9%f0%9d%97%b9%f0%9d%97%b6%f0%9d%97%bb%f0%9d%97%b4-%f0%9d%97%94%f0%9d%97%b4%f0%9d%97%b2%f0%9d%97%bb%f0%9d%98%81-at-the-chimera-marketing-4454663440": 1,
     "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4457511035": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-remote-reps-4454664957": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-remote-reps-4454664957": 1,
+    "https://www.linkedin.com/jobs/view/precast-at-olson-precast-company-4456099501": 1,
+    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4457384675": 1,
+    "https://www.linkedin.com/jobs/view/senior-cold-calling-agent-at-kivo-4454668234": 1,
+    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-logline-log%c3%adstica-4454650796": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
