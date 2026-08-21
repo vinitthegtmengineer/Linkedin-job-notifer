@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/aircraft-interior-specialist-at-airline-support-baltic-4454282282": 1,
-    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4455348492": 1,
-    "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4455350310": 1,
-    "https://www.linkedin.com/jobs/view/sr-worldwide-gtm-specialist-genai-amazon-bedrock-data-ai-gtm-at-amazon-web-services-aws-4455336575": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-artfluence-4454295623": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jojo-app-4451218114": 1,
-    "https://www.linkedin.com/jobs/view/ppc-executive-adwords-at-learning-routes-4454405565": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4454401918": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4454406852": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-optimize-financial-group-4454294645": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-coaches-creating-impact-inc-4454288813": 1,
-    "https://www.linkedin.com/jobs/view/patient-outreach-representative-at-avorcms-services-llc-rcm-4452280550": 1,
-    "https://www.linkedin.com/jobs/view/m4720-account-executive-20-at-fedex-4455330678": 1,
     "https://www.linkedin.com/jobs/view/account-executive-architecture-at-cisco-4445916640": 1,
     "https://www.linkedin.com/jobs/view/pipeline-technician-at-energy-transfer-4452283606": 1,
     "https://www.linkedin.com/jobs/view/traveling-construction-materials-laboratory-cmt-technician-at-braun-intertec-corporation-4452280873": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/technician-iv-at-ultra-clean-technology-4454668700": 1,
     "https://www.linkedin.com/jobs/view/laboratory-technician-i-ii-iii-at-raba-kistner-inc-4457524072": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-simpli-fi-4456269880": 1,
-    "https://www.linkedin.com/jobs/view/outreach-executive-1-at-oak-street-health-part-of-cvs-health-4457519359": 1
+    "https://www.linkedin.com/jobs/view/outreach-executive-1-at-oak-street-health-part-of-cvs-health-4457519359": 1,
+    "https://www.linkedin.com/jobs/view/pipeline-technician-at-whitewater-4401396470": 1,
+    "https://www.linkedin.com/jobs/view/bulk-operator-at-hf-sinclair-4456264095": 1,
+    "https://www.linkedin.com/jobs/view/technician-2-at-aet-4456283411": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-hatch-4456600506": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-hatch-4456293489": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-ai-growth-performance-at-beyond-x-4454652807": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-giampaolo-group-inc-4457009798": 1,
+    "https://www.linkedin.com/jobs/view/corporate-account-executive-mumbai-at-crowdstrike-4454663116": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-microsoft-dynamics-bc-f-o-ce-at-velosio-4250826901": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-sales-at-calyptus-4457319175": 1,
+    "https://www.linkedin.com/jobs/view/qualified-enterprise-account-executive-at-salesforce-partner-canada-4457310207": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-commercial-install-at-docusign-4446929905": 1,
+    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-b2b-au-telco-at-microsourcing-4447244104": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
