@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operadora-or-processos-florestais-iii-tel%c3%aamaco-borba-pr-at-klabin-4455349697": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-support-specialist-at-tailored-management-4455315643": 1,
-    "https://www.linkedin.com/jobs/view/assistant-laboratory-analyst-at-slr-consulting-4445130465": 1,
-    "https://www.linkedin.com/jobs/view/soils-lab-technician-geologist-entry-level-or-experienced-at-ctl-engineering-inc-4454411013": 1,
     "https://www.linkedin.com/jobs/view/aircraft-interior-specialist-at-airline-support-baltic-4454282282": 1,
     "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4455348492": 1,
     "https://www.linkedin.com/jobs/view/exterior-bottoms-at-clayton-4455350310": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/scaled-sales-lead-beneficial-deployments-at-anthropic-4456279128": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456297001": 1,
     "https://www.linkedin.com/jobs/view/senior-campaign-operations-manager-at-lucanet-4457394298": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-new-york-ny-at-box-4457516074": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-new-york-ny-at-box-4457516074": 1,
+    "https://www.linkedin.com/jobs/view/technician-iv-at-ultra-clean-technology-4454668700": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-i-ii-iii-at-raba-kistner-inc-4457524072": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-at-simpli-fi-4456269880": 1,
+    "https://www.linkedin.com/jobs/view/outreach-executive-1-at-oak-street-health-part-of-cvs-health-4457519359": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3291,7 +3291,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
