@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4455345496": 1,
-    "https://www.linkedin.com/jobs/view/process-operator-at-chevron-phillips-chemical-company-4452274625": 1,
     "https://www.linkedin.com/jobs/view/construction-installer-at-cantey-foundation-specialists-4454274769": 1,
     "https://www.linkedin.com/jobs/view/concrete-laborer-at-crh-4455319869": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-naukripay-group-4452245266": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-katikn-technologies-4454668250": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-indonesia-market-at-datadog-4438609650": 1,
     "https://www.linkedin.com/jobs/view/campus-representative-at-youth-nexus-4456275632": 1,
-    "https://www.linkedin.com/jobs/view/community-manager-at-smart-interviews-4456220841": 1
+    "https://www.linkedin.com/jobs/view/community-manager-at-smart-interviews-4456220841": 1,
+    "https://www.linkedin.com/jobs/view/environmental-process-specialist-at-danfoss-4439035476": 1,
+    "https://www.linkedin.com/jobs/view/sales-marketing-executive-at-nynii-4456275845": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3290,7 +3290,7 @@
   },
   "stats": {
     "date": "2026-08-21",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
