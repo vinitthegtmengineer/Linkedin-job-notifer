@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-forensics-consultant-at-crowe-4455514344": 1,
-    "https://www.linkedin.com/jobs/view/early-career-environmental-geologist-or-scientist-at-geosyntec-consultants-4407055095": 1,
     "https://www.linkedin.com/jobs/view/mfg-shingle-at-clayton-4455545433": 1,
     "https://www.linkedin.com/jobs/view/growth-lead-at-corridor-4452503290": 1,
     "https://www.linkedin.com/jobs/view/growth-lead-at-gather-4454443567": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/account-executive-4456228044": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-c-cure-consultants-4455001767": 1,
     "https://www.linkedin.com/jobs/view/crm-sales-executive-at-save-the-quest-4456637283": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-1-at-linkedin-4419580557": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-1-at-linkedin-4419580557": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-my-gtm-hire-4456635303": 1,
+    "https://www.linkedin.com/jobs/view/setter-b2c-h-f-at-gopetsit-4457339825": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3289,13 +3289,14 @@
     "program manager, gtm acceleration|||vercel": "2026-08-21T19:35:34.842Z",
     "growth marketing manager|||archer integrated risk management": "2026-08-21T20:28:01.135Z",
     "founding gtm, t:0|||airwallex": "2026-08-22T03:05:03.987Z",
-    "gtm engineer|||finix": "2026-08-22T03:53:15.045Z"
+    "gtm engineer|||finix": "2026-08-22T03:53:15.045Z",
+    "gtm engineer|||my gtm hire": "2026-08-22T07:37:31.993Z"
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 9,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 10,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
