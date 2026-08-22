@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-jobgether-4455587077": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-digital-automatisations-et-ia-at-easycorp-france-4455755415": 1,
-    "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-ascent-people-ltd-4455746736": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-strategy-operations-at-roller-4437168003": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-advanced-surgical-at-conmed-corporation-4436088999": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-benecard-services-llc-4455705806": 1,
-    "https://www.linkedin.com/jobs/view/bdr-at-hawk-4445474909": 1,
-    "https://www.linkedin.com/jobs/view/sales-appointment-setter-at-radiology-seminars-4452801669": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-beato-4368210252": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-speer-4444606502": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-the-portfolio-group-4454756869": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-liferaft-4455747670": 1,
     "https://www.linkedin.com/jobs/view/business-development-rep-at-talentfoot-executive-search-4445183855": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-varonis-4438805742": 1,
     "https://www.linkedin.com/jobs/view/corporate-school-partnerships-associate-at-soulsurfer-group-4456674389": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-hike-education-4455036687": 1,
-    "https://www.linkedin.com/jobs/view/corporate-school-partnership-associate-at-soulsurfer-group-4456668460": 1
+    "https://www.linkedin.com/jobs/view/corporate-school-partnership-associate-at-soulsurfer-group-4456668460": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-specialist-at-ash-grove-cement-company-4455059258": 1,
+    "https://www.linkedin.com/jobs/view/production-team-member-at-oldcastle-infrastructure-4455068241": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4388971376": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-rexhio-4457800563": 1,
+    "https://www.linkedin.com/jobs/view/sdr-b2b-ourbound-sales-at-contactpoint-360-4457548308": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-denodo-4456285249": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-it-solutions-at-xerox-4447190393": 1,
+    "https://www.linkedin.com/jobs/view/sdr-team-lead-at-quantcast-4436620406": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-vcluster-4445558008": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-executive-at-brikitt-4455016783": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3303,7 +3303,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
