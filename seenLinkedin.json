@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-analyst-at-egain-corporation-4429401613": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-dach-region-at-beqom-4444136922": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4452533050": 1,
-    "https://www.linkedin.com/jobs/view/us-lead-generation-4452509246": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455546261": 1,
-    "https://www.linkedin.com/jobs/view/outside-business-development-specialist-rep-at-paramount-residential-mortgage-group-inc-prmg-inc-4454449226": 1,
-    "https://www.linkedin.com/jobs/view/engineering-testing-technician-at-county-of-los-angeles-4455545869": 1,
-    "https://www.linkedin.com/jobs/view/junior-adviseur-land-en-waterbodem-at-multiselect-bouw-infra-4454270933": 1,
-    "https://www.linkedin.com/jobs/view/environmental-permit-planning-professional-at-kleinfelder-4455399023": 1,
     "https://www.linkedin.com/jobs/view/digital-forensics-consultant-at-crowe-4455514344": 1,
     "https://www.linkedin.com/jobs/view/early-career-environmental-geologist-or-scientist-at-geosyntec-consultants-4407055095": 1,
     "https://www.linkedin.com/jobs/view/mfg-shingle-at-clayton-4455545433": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-parabola-4454686339": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4456266509": 1,
     "https://www.linkedin.com/jobs/view/cold-outreach-specialist-at-5orbit-4454644148": 1,
-    "https://www.linkedin.com/jobs/view/student-outreach-associate-at-filo-4456627269": 1
+    "https://www.linkedin.com/jobs/view/student-outreach-associate-at-filo-4456627269": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-binny-s-4455011823": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4457592711": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-mid%e2%80%93senior-at-elve-tech-4454645613": 1,
+    "https://www.linkedin.com/jobs/view/customer-acquisition-lead-at-helira-energy-4455008852": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-varuna-aerotech-4455005650": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-4456228044": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-c-cure-consultants-4455001767": 1,
+    "https://www.linkedin.com/jobs/view/crm-sales-executive-at-save-the-quest-4456637283": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-1-at-linkedin-4419580557": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3293,7 +3293,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
