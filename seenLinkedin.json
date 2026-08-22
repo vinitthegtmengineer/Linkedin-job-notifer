@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/customer-engagement-digital-executive-at-mydin-malaysia-4454444861": 1,
-    "https://www.linkedin.com/jobs/view/ejecutivo-de-publicidad-digital-at-aram-publicidad-mx-4454446137": 1,
-    "https://www.linkedin.com/jobs/view/ppc-manager-digital-marketing-specialist-on-site-at-natural-vitamins-europe-4452552941": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-fleming-4452195838": 1,
-    "https://www.linkedin.com/jobs/view/sales-service-representative-4454467996": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-am2pm-support-4454239119": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-algorithm-digital-inc-4454489213": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-systembender-4452548822": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-dautom-4454710068": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-business-development-at-flipspaces-4452578128": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-bhawani-fitness-4452582125": 1,
-    "https://www.linkedin.com/jobs/view/campus-partnership-executive-at-asiatic-international-corp-4454242075": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-martian-logic-4452544863": 1,
     "https://www.linkedin.com/jobs/view/senior-technician-at-sir-grout-greater-chester-county-4454454493": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-jobgether-4452548762": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/media-buyer-4457808296": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-asfour-crystal-4457817314": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-%e2%80%94-systems-and-automation-at-diligent-4430788594": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455579205": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455579205": 1,
+    "https://www.linkedin.com/jobs/view/field-supervisor-at-terracon-4457803330": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-technician-at-global-earthwork-underground-4454686022": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-gcc-fsi-at-snowflake-4439050525": 1,
+    "https://www.linkedin.com/jobs/view/senior-customer-engineer-cloudflare-developer-platform-start-ups-miami-at-cloudflare-4436609971": 1,
+    "https://www.linkedin.com/jobs/view/staff-systems-marketing-engineer-comms-segment-at-analog-devices-4445524469": 1,
+    "https://www.linkedin.com/jobs/view/pre-sales-engineer-at-ninth-wave-4416319476": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-jetbrains-ai-at-jetbrains-4427340867": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-jetbrains-ai-at-jetbrains-4427853436": 1,
+    "https://www.linkedin.com/jobs/view/sr-gtm-operations-manager-marketing-at-pendo-io-4439373559": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-united-kingdom-at-traild-4437942909": 1,
+    "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-invent-software-4455031343": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-open-hired-4456268773": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3294,7 +3294,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 17,
+    "cyclesToday": 18,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
