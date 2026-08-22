@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/membership-recruitment-specialist-at-girl-scouts-san-diego-4455587398": 1,
-    "https://www.linkedin.com/jobs/view/terminal-operator-at-sunoco-lp-4451252947": 1,
-    "https://www.linkedin.com/jobs/view/especialista-pulidor-de-suelos-at-limpiezas-y-pulidos-palmero-s-l-4452554711": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-api-security-at-akamai-technologies-4446107440": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-engineer-at-snowflake-4446162333": 1,
-    "https://www.linkedin.com/jobs/view/crm-operations-specialist-at-sense-company-4455282704": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-sales-development-representative-appointment-generation-at-revnew-inc-4452249913": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-hubspot-at-khired-networks-4452577487": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-nousu-4454479387": 1,
-    "https://www.linkedin.com/jobs/view/account-development-representative-boston-at-planful-4454286460": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-ergo-4454273170": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-salesforce-4437149352": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-kidschaupal-4454248864": 1,
-    "https://www.linkedin.com/jobs/view/sales-account-executive-at-vehere-4452577634": 1,
-    "https://www.linkedin.com/jobs/view/international-account-executive-at-vehere-4452568709": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-inside-sales-at-tenext-ai-4454710548": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-engineeor-junior-elko-at-knight-piesold-usa-4454420835": 1,
     "https://www.linkedin.com/jobs/view/partner-technology-solutions-engineer-at-datadog-4446145514": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4457356889": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-dach-m-w-d-public-sector-at-sosafe-4447081321": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-base-careers-4456647214": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4455358531": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4455358531": 1,
+    "https://www.linkedin.com/jobs/view/operator-in-de-scheidingsafdeling-5-ploegen-synsel-techniek-at-jobster-4456642666": 1,
+    "https://www.linkedin.com/jobs/view/operator-betoncentrale-synsel-techniek-at-jobster-4456633718": 1,
+    "https://www.linkedin.com/jobs/view/art-arth-studio-technician-%23003918-at-university-of-north-carolina-asheville-4457806599": 1,
+    "https://www.linkedin.com/jobs/view/%e2%80%8b%e2%80%8bfloor-specialist-museums-preservation-at-colonial-williamsburg-foundation-4389795990": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4437551519": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-platform-startups-google-cloud-at-google-4456268875": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-opportunity-%e2%80%93-remote-full-time-at-pearl-home-solutions-4454660792": 1,
+    "https://www.linkedin.com/jobs/view/client-acquisition-growth-executive-at-careerkitai-4454678083": 1,
+    "https://www.linkedin.com/jobs/view/sales-professional-4455029496": 1,
+    "https://www.linkedin.com/jobs/view/sales-developer-representative-f-h-n-at-hublo-4447569489": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-carbolink-4456647914": 1,
+    "https://www.linkedin.com/jobs/view/job-description-%e2%80%93-student-relationship-executive-at-jims-kalkaji-4455029235": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-industrial-sector-at-fieldai-4447708842": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cision-4401782055": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-mercury-4445031801": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3295,7 +3295,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
