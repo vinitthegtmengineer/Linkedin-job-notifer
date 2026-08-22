@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-mobiliser-at-medhavi-wise-4455748684": 1,
-    "https://www.linkedin.com/jobs/view/tele-fundraiser-at-bal-raksha-bharat-4454497737": 1,
-    "https://www.linkedin.com/jobs/view/tank-farm-operator-i-at-veolia-4455788158": 1,
-    "https://www.linkedin.com/jobs/view/lab-technician-ii-at-crh-4455784282": 1,
-    "https://www.linkedin.com/jobs/view/cmt-project-professional-at-ecs-group-of-companies-4455792021": 1,
-    "https://www.linkedin.com/jobs/view/qa-qc-technician-at-crh-4455788266": 1,
-    "https://www.linkedin.com/jobs/view/worker-yard-at-cemex-us-4452818587": 1,
     "https://www.linkedin.com/jobs/view/asphalt-plant-laborer-groundman-at-crh-4455769570": 1,
     "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-templates-at-zillow-4446314822": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-xepelin-4389029047": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/outbound-calling-professional-at-abs-international-4455048347": 1,
     "https://www.linkedin.com/jobs/view/admissions-social-media-executive-at-shreem-college-of-nursing-4456679491": 1,
     "https://www.linkedin.com/jobs/view/account-executive-financial-services-at-sas-4447701288": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-at-pel%c3%adculas-%c3%batiles-s-a-de-c-v-4455030549": 1
+    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-at-pel%c3%adculas-%c3%batiles-s-a-de-c-v-4455030549": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-engineering-technician-at-s-me-4447597046": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-at-quantifind-4447430333": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-datafoundation-at-mulesoft-4430750161": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-israel-at-postman-4389716652": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24100k-%24150k-%2b-equity-at-karumi-at-jack-jill-4456667537": 1,
+    "https://www.linkedin.com/jobs/view/marcom-executive-at-hilton-4447296598": 1,
+    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-viyahe-4455042473": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3303,7 +3303,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 40,
+    "cyclesToday": 41,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
