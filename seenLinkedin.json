@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/mfg-shingle-at-clayton-4455545433": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-corridor-4452503290": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-gather-4454443567": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4452541041": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-lead-at-virtustant-4452510258": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-east-bridge-global-4452512200": 1,
-    "https://www.linkedin.com/jobs/view/full-time-job-opportunity-sales-representative-cold-calling-at-starteq-4452514174": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4452533129": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-brainstation-4455530555": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4452533317": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/crm-sales-executive-at-save-the-quest-4456637283": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-1-at-linkedin-4419580557": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-my-gtm-hire-4456635303": 1,
-    "https://www.linkedin.com/jobs/view/setter-b2c-h-f-at-gopetsit-4457339825": 1
+    "https://www.linkedin.com/jobs/view/setter-b2c-h-f-at-gopetsit-4457339825": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gi%c3%a1-kho-group-4455002865": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-startinbharat-4456225531": 1,
+    "https://www.linkedin.com/jobs/view/telemarketing-executive-at-cartrack-4456207898": 1,
+    "https://www.linkedin.com/jobs/view/telesales-representative-at-silaris-informations-india-pvt-ltd-4454952632": 1,
+    "https://www.linkedin.com/jobs/view/graduate-sales-development-representative-at-this-is-prime-4456218940": 1,
+    "https://www.linkedin.com/jobs/view/artisan-outreach-executive-at-marketgenics-global-research-4456630443": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4454648864": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3294,7 +3294,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
