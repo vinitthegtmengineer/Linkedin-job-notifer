@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4454289257": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4455298014": 1,
-    "https://www.linkedin.com/jobs/view/casting-operator-at-aspen-aerogels-4454429626": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-web-at-imagineart-4455371508": 1,
-    "https://www.linkedin.com/jobs/view/outreach-growth-representative-at-greater-goals-aba-4455383567": 1,
-    "https://www.linkedin.com/jobs/view/paint-specialist-at-duncan-aviation-4454410833": 1,
-    "https://www.linkedin.com/jobs/view/dental-laboratory-technical-specialist-%e2%80%93-removables-at-i4-search-group-healthcare-recruiting-4455391545": 1,
-    "https://www.linkedin.com/jobs/view/research-specialist-i-at-university-of-missouri-columbia-4452508134": 1,
-    "https://www.linkedin.com/jobs/view/culinary-lab-specialist-at-central-new-mexico-community-college-4455396344": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-ecs-group-of-companies-4455299739": 1,
-    "https://www.linkedin.com/jobs/view/field-engineer-at-terracon-4455256636": 1,
     "https://www.linkedin.com/jobs/view/junior-geotechnical-engineer-at-bba-consultants-4455375177": 1,
     "https://www.linkedin.com/jobs/view/construction-installer-at-cantey-foundation-specialists-4454274780": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-vercel-4455388518": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hired-4457565365": 1,
     "https://www.linkedin.com/jobs/view/outbound-marketing-associate-at-f-learning-studio-4456615665": 1,
     "https://www.linkedin.com/jobs/view/commercial-development-representative-at-s-p-global-4456611737": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-workvivo-at-maven-4457572508": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-workvivo-at-maven-4457572508": 1,
+    "https://www.linkedin.com/jobs/view/water-quality-specialist-dairy-manufacturing-at-tharp-consulting-4456605634": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4457571320": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-bartley-corporation-4457564247": 1,
+    "https://www.linkedin.com/jobs/view/cement-mason-urban-forestry-buf-public-works-7311-at-city-and-county-of-san-francisco-4457518875": 1,
+    "https://www.linkedin.com/jobs/view/cement-finisher-at-mountains-edge-construction-ltd-4457533192": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-finix-4456604943": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-w-m-d-at-tumodo-4457312254": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4456623942": 1,
+    "https://www.linkedin.com/jobs/view/outreach-worker-ii-at-city-of-grande-prairie-4454696334": 1,
+    "https://www.linkedin.com/jobs/view/us-outbound-outreach-specialist-at-bizbackerz-4454683332": 1,
+    "https://www.linkedin.com/jobs/view/business-specialist-dr-channel-at-twin-health-4446230130": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3288,13 +3288,14 @@
     "gtm inbound|||skello": "2026-08-21T18:20:23.730Z",
     "program manager, gtm acceleration|||vercel": "2026-08-21T19:35:34.842Z",
     "growth marketing manager|||archer integrated risk management": "2026-08-21T20:28:01.135Z",
-    "founding gtm, t:0|||airwallex": "2026-08-22T03:05:03.987Z"
+    "founding gtm, t:0|||airwallex": "2026-08-22T03:05:03.987Z",
+    "gtm engineer|||finix": "2026-08-22T03:53:15.045Z"
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 3,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 4,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
