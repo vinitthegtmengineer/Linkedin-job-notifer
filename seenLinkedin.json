@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/linkedin-networking-specialist-at-tekbyt-llc-4452519303": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-specialist-at-appleone-employment-services-4455528533": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-talent-software-services-4452507207": 1,
-    "https://www.linkedin.com/jobs/view/outreach-and-engagement-specialist-at-partnership-for-after-school-education-pase-4452500394": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455534481": 1,
-    "https://www.linkedin.com/jobs/view/brand-sales-manager-at-clipbuzz-4452526393": 1,
-    "https://www.linkedin.com/jobs/view/operator-i-at-oneok-4455554713": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-level-1-5-sacroc-at-kinder-morgan-inc-4454096681": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4455552622": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4455570488": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-mid-level-at-shannon-wilson-4455560472": 1,
-    "https://www.linkedin.com/jobs/view/amazon-gtm-partnerships-enterprise-at-anthropic-4454455746": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ops-ai-systems-lead-at-in-financial-technologies-inft-4454480042": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-manager-at-amitus-world-immigration-4454477262": 1,
     "https://www.linkedin.com/jobs/view/business-executive-ahmedabad-at-gsk-4452271311": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-emea-at-airops-4452533501": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/plant-operator-sizing-at-saint-gobain-ceramics-sgp-4457579838": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456630438": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456632370": 1,
-    "https://www.linkedin.com/jobs/view/account-development-representative-german-speaking-at-tracelink-4435602285": 1
+    "https://www.linkedin.com/jobs/view/account-development-representative-german-speaking-at-tracelink-4435602285": 1,
+    "https://www.linkedin.com/jobs/view/stormwater-inspector-at-apex-companies-4438661778": 1,
+    "https://www.linkedin.com/jobs/view/sediment-remediation-and-waterfront-development-practice-lead-at-geosyntec-consultants-4401104689": 1,
+    "https://www.linkedin.com/jobs/view/production-operator-layup-1st-shift-at-clayton-4457543469": 1,
+    "https://www.linkedin.com/jobs/view/product-sales-engineer-openroads-designer-at-bentley-systems-4456285202": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-infoblox-4435990649": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jobtrade-4456633493": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-turkayamjal-at-jobtrade-4456643411": 1,
+    "https://www.linkedin.com/jobs/view/senior-programmatic-advertising-manager-all-gender-at-ipg-mediabrands-4455035062": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-solvejet-4455027117": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-leo-marcom-pvt-ltd-4455023124": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4456623907": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4457805180": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-israel-at-datadog-4457517823": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3294,7 +3294,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
