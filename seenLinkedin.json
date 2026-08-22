@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/foundry-operations-at-saratoga-county-chamber-of-commerce-4454452388": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-analyst-at-valnet-4455373780": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-oak-identity-security-os-4455570431": 1,
-    "https://www.linkedin.com/jobs/view/plant-technician-at-bp-4454464647": 1,
-    "https://www.linkedin.com/jobs/view/skilled-laborer-at-baker-construction-4454469727": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-at-morgan-corp-4452545433": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-brainstation-4455579205": 1,
-    "https://www.linkedin.com/jobs/view/corporate-linkage-expert-at-tns-india-foundation-4452562548": 1,
-    "https://www.linkedin.com/jobs/view/growth-development-representative-at-gushwork-4454467835": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-learning-routes-4454475734": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-groovy-aesthetic-clinics-4454467896": 1,
     "https://www.linkedin.com/jobs/view/marketing-planning-systems-operations-lead-at-vanguard-4454095844": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-britannica-education-4454471733": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-verdicto-4454473918": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/pre-post-sales-customer-engineer-enterprise-at-pendo-io-4447216287": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-nok-human-capital-4457802253": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-messaging-at-mcafee-4456255821": 1,
-    "https://www.linkedin.com/jobs/view/hybrid-account-executive-talent-solutions-at-linkedin-4439041014": 1
+    "https://www.linkedin.com/jobs/view/hybrid-account-executive-talent-solutions-at-linkedin-4439041014": 1,
+    "https://www.linkedin.com/jobs/view/casting-finishing-relief-operator-west-end-sk2-sh2-at-kohler-co-4400580169": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4337191081": 1,
+    "https://www.linkedin.com/jobs/view/specialist-growth-conversion-at-magnetic-inc-4457815108": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-world-courier-4445536919": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-%2b-linkedin-outreach-specialist-at-deepai-edits-4455029224": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-ld-virtual-outsource-4455027193": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-remote-at-aifco-4455032247": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-industrial-sector-at-fieldai-4447719659": 1,
+    "https://www.linkedin.com/jobs/view/corporate-account-executive-bangalore-at-crowdstrike-4409240462": 1,
+    "https://www.linkedin.com/jobs/view/qualified-commercial-account-executive-at-salesforce-4438815034": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-emburse-4456278394": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3294,7 +3294,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
