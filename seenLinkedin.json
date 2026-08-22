@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant%c2%b7e-au-d%c3%a9veloppement-des-affaires-sdr-at-isarta-4448780236": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-finnish-speaking-at-smartpulse-oy-4452266320": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-japan-market-at-cohesity-4445675496": 1,
-    "https://www.linkedin.com/jobs/view/b2b-business-development-representative-german-speaker-at-concentrix-4348301281": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-jobbol-4455292738": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-neg%c3%b3cios-at-dconnection-group-4452268777": 1,
-    "https://www.linkedin.com/jobs/view/housing-outreach-specialist-at-housing-homeless-coalition-of-central-new-york-4451406210": 1,
-    "https://www.linkedin.com/jobs/view/family-recruitment-specialist-53936-at-children-s-home-society-of-north-carolina-4454429954": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-league-4455398625": 1,
     "https://www.linkedin.com/jobs/view/operator-c-at-nov-4452521278": 1,
     "https://www.linkedin.com/jobs/view/engineering-testing-technician-at-county-of-los-angeles-4452509180": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-bps-group-4456204675": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-shiseido-4457568180": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cato-networks-4445096378": 1,
-    "https://www.linkedin.com/jobs/view/dynamics-365-business-development-representative-bdr-%e2%80%93-lead-generation-market-research-at-xpert-dynamics-solutions-4456294854": 1
+    "https://www.linkedin.com/jobs/view/dynamics-365-business-development-representative-bdr-%e2%80%93-lead-generation-market-research-at-xpert-dynamics-solutions-4456294854": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborers-at-storee-construction-4456624864": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4457551446": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-lightwork-ai-at-jack-jill-4456622475": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-dow-jones-4457553946": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-josys-4443218910": 1,
+    "https://www.linkedin.com/jobs/view/outreach-executive-i-bilingual-at-oak-street-health-part-of-cvs-health-4457552730": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-finmo-4456230302": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadoo-marketing-technologies-4457346216": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3293,7 +3293,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
