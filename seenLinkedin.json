@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-f-m-x-at-paretos-4452586957": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-upsales-4454745680": 1,
-    "https://www.linkedin.com/jobs/view/partner-sales-development-representative-sydney-at-8x8-4436500770": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-uncapped-4455724592": 1,
-    "https://www.linkedin.com/jobs/view/international-sales-executive-at-grow10x-io-4454747545": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-executive-at-pfizer-4452804595": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sellsius-4452812513": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4452528101": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-american-express-4445130079": 1,
     "https://www.linkedin.com/jobs/view/technician-iv-chemline-at-ultra-clean-technology-4452814429": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-architect-at-saviynt-4420614173": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-at-beyond-x-4454652807": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-manager-clothes-at-clothes-4455050032": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-wayflyer-3881179122": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-wayflyer-3881179122": 1,
+    "https://www.linkedin.com/jobs/view/landscape-architect-at-getty-4430128708": 1,
+    "https://www.linkedin.com/jobs/view/gtm-ai-architect-at-gong-4447539848": 1,
+    "https://www.linkedin.com/jobs/view/competitive-intelligence-lead-at-openai-4437969041": 1,
+    "https://www.linkedin.com/jobs/view/founders-associate-%24120k-%2b-equity-at-tryrama-at-jack-jill-4456653153": 1,
+    "https://www.linkedin.com/jobs/view/ppc-executive-at-sib-infotech-digital-marketing-services-agency-4455037517": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-grant-at-kikoff-4379924769": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-senior-specialist-at-connect-for-health-colorado-4421280918": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3293,13 +3293,15 @@
     "gtm engineer|||my gtm hire": "2026-08-22T07:37:31.993Z",
     "gtm engineer (m/w/d)|||arvana": "2026-08-22T12:42:53.528Z",
     "gtm operations manager|||vibe.co": "2026-08-22T14:48:57.403Z",
-    "gtm engineer factorial it|||factorial": "2026-08-22T15:34:06.517Z"
+    "gtm engineer factorial it|||factorial": "2026-08-22T15:34:06.517Z",
+    "gtm ai architect|||gong": "2026-08-22T16:52:43.469Z",
+    "growth marketing manager - grant|||kikoff": "2026-08-22T16:52:45.007Z"
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 28,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 29,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
