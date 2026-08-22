@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-the-portfolio-group-4454756869": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-liferaft-4455747670": 1,
-    "https://www.linkedin.com/jobs/view/business-development-rep-at-talentfoot-executive-search-4445183855": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-specialist-at-sprinto-4445738127": 1,
-    "https://www.linkedin.com/jobs/view/campus-outreach-and-leads-generation-manager-at-pregrad-4454764261": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-le-mouton-%c3%a0-5-pattes-recruteurs-de-talents-4452829066": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-pilot-com-4445165727": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-lifesigns-4454771280": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-at-vujis-4455722374": 1,
     "https://www.linkedin.com/jobs/view/offshore-operator-at-nov-4442857552": 1,
     "https://www.linkedin.com/jobs/view/operator-equipment-i-at-baker-hughes-4450774489": 1,
     "https://www.linkedin.com/jobs/view/crm-growth-specialist-global-expansion-at-factorial-4455702427": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/inside-sales-representative-it-solutions-at-xerox-4447190393": 1,
     "https://www.linkedin.com/jobs/view/sdr-team-lead-at-quantcast-4436620406": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-vcluster-4445558008": 1,
-    "https://www.linkedin.com/jobs/view/senior-business-development-executive-at-brikitt-4455016783": 1
+    "https://www.linkedin.com/jobs/view/senior-business-development-executive-at-brikitt-4455016783": 1,
+    "https://www.linkedin.com/jobs/view/operator-washer-at-ball-corporation-4439034720": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-houston-tx-at-certerra-4457523628": 1,
+    "https://www.linkedin.com/jobs/view/fertilizer-technician-at-the-contractor-consultants-4457551616": 1,
+    "https://www.linkedin.com/jobs/view/e-mailing-specialista-at-medi%c3%a1ln%c3%ad-skupina-mafra-4457806313": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-be-at-sendcloud-4447141188": 1,
+    "https://www.linkedin.com/jobs/view/lead-generator-telecaller-sales-at-shubham-group-4455064253": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-sa-branding-experts-4455060299": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketer-at-startupstory-4456675444": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-at-timly-software-ag-4457868140": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3303,7 +3303,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
