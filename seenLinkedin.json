@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-league-4455398625": 1,
-    "https://www.linkedin.com/jobs/view/operator-c-at-nov-4452521278": 1,
-    "https://www.linkedin.com/jobs/view/engineering-testing-technician-at-county-of-los-angeles-4452509180": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455374314": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455284812": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455355627": 1,
-    "https://www.linkedin.com/jobs/view/auxiliar-de-pedreiro-at-jobbol-4455373365": 1,
     "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4455233959": 1,
     "https://www.linkedin.com/jobs/view/carpenter-helper-various-locations-at-yates-construction-4378761740": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-analyst-at-egain-corporation-4429401613": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-josys-4443218910": 1,
     "https://www.linkedin.com/jobs/view/outreach-executive-i-bilingual-at-oak-street-health-part-of-cvs-health-4457552730": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-finmo-4456230302": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadoo-marketing-technologies-4457346216": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadoo-marketing-technologies-4457346216": 1,
+    "https://www.linkedin.com/jobs/view/latex-operator-i-monday-friday-at-shaw-industries-4454682218": 1,
+    "https://www.linkedin.com/jobs/view/fertigungsarbeiter-m-w-d-at-vogt-plastic-gmbh-4457540270": 1,
+    "https://www.linkedin.com/jobs/view/international-revenue-strategy-and-operations-manager-at-elastic-4438614639": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-kidbea%c2%ae-4456096900": 1,
+    "https://www.linkedin.com/jobs/view/retention-marketing-executive-2-3-yrs-at-ganeshaspeaks-com-4454645273": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-parabola-4454686339": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4456266509": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3293,7 +3293,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
