@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-six-degrees-executive-4455551202": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-campaign-manager-%e2%80%93-emea-%e2%80%93-in-at-m%2bc-saatchi-group-4341579366": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-amazon-brand-marketing-amazon%e2%80%99s-xcm-at-amazon-4443278459": 1,
-    "https://www.linkedin.com/jobs/view/traffic-manager-h-f-at-audika-4398523972": 1,
     "https://www.linkedin.com/jobs/view/media-manager-amazon-brand-marketing-amazon%e2%80%99s-xcm-at-amazon-4443293178": 1,
     "https://www.linkedin.com/jobs/view/paid-media-manager-at-croud-4452822110": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-at-zyeta-4454478191": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/analytics-engineer-marketing-dsa-at-vinted-4447540492": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-%e2%80%93-meta-google-ads-at-evo-fitness-germany-4454676321": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-paybyphone-4454655315": 1,
-    "https://www.linkedin.com/jobs/view/community-growth-specialist-at-cosmos-sports-4456629996": 1
+    "https://www.linkedin.com/jobs/view/community-growth-specialist-at-cosmos-sports-4456629996": 1,
+    "https://www.linkedin.com/jobs/view/crm-specialist-ai-at-the-customization-group-4438324669": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-%c2%a330k-%c2%a340k-at-openhuman-at-jack-jill-4456670024": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-parabola-4454688335": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-outbound-full-cycle-at-jet-hr-4457812579": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3303,7 +3303,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
