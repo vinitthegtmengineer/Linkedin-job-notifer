@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4452533129": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-brainstation-4455530555": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4452533317": 1,
-    "https://www.linkedin.com/jobs/view/bdr-lead-at-reqopen-4455566098": 1,
     "https://www.linkedin.com/jobs/view/linkedin-networking-specialist-at-tekbyt-llc-4452519303": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-specialist-at-appleone-employment-services-4455528533": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-talent-software-services-4452507207": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/telesales-representative-at-silaris-informations-india-pvt-ltd-4454952632": 1,
     "https://www.linkedin.com/jobs/view/graduate-sales-development-representative-at-this-is-prime-4456218940": 1,
     "https://www.linkedin.com/jobs/view/artisan-outreach-executive-at-marketgenics-global-research-4456630443": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4454648864": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4454648864": 1,
+    "https://www.linkedin.com/jobs/view/plant-operator-sizing-at-saint-gobain-ceramics-sgp-4457579838": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456630438": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456632370": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-german-speaking-at-tracelink-4435602285": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3294,7 +3294,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
