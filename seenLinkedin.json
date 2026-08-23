@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/private-equity-associate-at-brex-4455964773": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-aba-centers-of-america-4455783646": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4455944068": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-hensel-phelps-4455730370": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-amazon-music-at-amazon-music-4455914943": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-global-electronics-association-4455964566": 1,
-    "https://www.linkedin.com/jobs/view/performance-campaign-manager-b2b-at-moburst-growth-done-right-4455955163": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-amazon-brand-marketing-amazon%e2%80%99s-xcm-at-amazon-4455922066": 1,
-    "https://www.linkedin.com/jobs/view/media-manager-amazon-brand-marketing-amazon%e2%80%99s-xcm-at-amazon-4455915802": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-amazon-music-at-amazon-music-4455919214": 1,
-    "https://www.linkedin.com/jobs/view/gestor-de-performance-tr%c3%a1fego-pago-e-crm-at-ana-gaming-4455945860": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-addepar-4455937544": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-uber-advertising-at-uber-advertising-4455955067": 1,
     "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-uk-markets-at-trustpilot-4445490445": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4455046720": 1,
     "https://www.linkedin.com/jobs/view/sales-setter-closer-at-dorabeen-4455077233": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-4455018886": 1,
-    "https://www.linkedin.com/jobs/view/bde-fresher-at-careerbloc-%7e-4456650133": 1
+    "https://www.linkedin.com/jobs/view/bde-fresher-at-careerbloc-%7e-4456650133": 1,
+    "https://www.linkedin.com/jobs/view/tiler-4457841193": 1,
+    "https://www.linkedin.com/jobs/view/boat-builder-at-tartan-yachts-4456686613": 1,
+    "https://www.linkedin.com/jobs/view/sr-solutions-engineer-at-vcluster-4417254059": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-accredian-4457812512": 1,
+    "https://www.linkedin.com/jobs/view/growth-acquisition-manager-h-f-nb-cdi-at-wecasa-4456675411": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-craaftech-globl-4455026132": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-konverz-ai-4456228010": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-crystal-clear-services-pvt-ltd-4455070371": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-adtech-martech-saas-at-sapphire-partners-4457872349": 1,
+    "https://www.linkedin.com/jobs/view/founding-sales-lead-at-virtustant-4455079042": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-multisafepay-4408850836": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3305,7 +3305,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
