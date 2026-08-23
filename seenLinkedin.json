@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/tele-caller-at-amity-global-school-gurgaon-4452892636": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtual-champs-global-inc-4456118737": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4452867332": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-thailand-based-at-nimbly-technologies-4456143001": 1,
-    "https://www.linkedin.com/jobs/view/colour-mixer-operator-darra-qld-at-csr-4452894738": 1,
-    "https://www.linkedin.com/jobs/view/general-laborer-at-bristol-bay-construction-holdings-llc-4452819562": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-starbridge-4452869515": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-at-fivetran-4452895441": 1,
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4452875359": 1,
     "https://www.linkedin.com/jobs/view/sr-technical-marketing-engineer-at-netapp-4449859224": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-kms-lighthouse-4456805112": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-it-services-saas-technology-consulting-at-beyond-border-consultants-4456693976": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-rich-property-solutions-4455091292": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-dnv-4389601254": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-at-dnv-4389601254": 1,
+    "https://www.linkedin.com/jobs/view/technical-solutions-consultant-google-home-at-google-4447155336": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-netskope-4438831747": 1,
+    "https://www.linkedin.com/jobs/view/gtm-operations-process-architect-at-stripe-4454543364": 1,
+    "https://www.linkedin.com/jobs/view/d2c-performance-marketing-executive-at-krwizard-4456812125": 1,
+    "https://www.linkedin.com/jobs/view/d2c-performance-marketing-executive-at-krwizard-4456803162": 1,
+    "https://www.linkedin.com/jobs/view/jr-performance-marketing-executive-freshers-at-openhire-4456802630": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-4456648926": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3307,7 +3307,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 4,
     "sentToday": 4,
     "lastSummaryDate": ""
