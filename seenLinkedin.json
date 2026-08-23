@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-sales-lead-at-virtustant-4452880265": 1,
-    "https://www.linkedin.com/jobs/view/sales-agent-cold-caller-at-syvotech-4454470813": 1,
-    "https://www.linkedin.com/jobs/view/telesales-agent-outbound-at-dubizzle-4452841137": 1,
-    "https://www.linkedin.com/jobs/view/business-development-rep-at-knak-4456116338": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-khashsoft-4456126169": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-koah-4452875491": 1,
-    "https://www.linkedin.com/jobs/view/outreach-growth-associate-at-eylyr-4456123706": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-military-engagement-at-talkspace-4452881166": 1,
-    "https://www.linkedin.com/jobs/view/operator-at-crh-4455770465": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-analyst-at-lifesavvy-media-4452873122": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-growth-builder-at-cloudwalk-inc-4455971609": 1,
-    "https://www.linkedin.com/jobs/view/operations-analytics-engineer-at-otter-4454941602": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-based-out-of-singapore-supporting-india-market-at-sapphire-partners-4456147220": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-im-bereich-b2b-m-w-d-at-pexon-consulting-gmbh-4452899543": 1,
     "https://www.linkedin.com/jobs/view/tele-caller-at-amity-global-school-gurgaon-4452892636": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtual-champs-global-inc-4456118737": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4452867332": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/lead-generation-manager-at-pink-shadow-media-entertainment-pvt-ltd-4456677928": 1,
     "https://www.linkedin.com/jobs/view/university-relationship-executive-at-cie-india-4456690782": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-4454680722": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-grantlift-4455093537": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-grantlift-4455093537": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-usina-de-concreto-at-jobbol-4457860936": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-lightwork-ai-at-jack-jill-4456691988": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-lifecycle-crm-at-growth-marketing-jobs-4457848659": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-subscription-conversion-m-w-d-at-berliner-verlag-4455089367": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-priority-software-4450468189": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-travel-congress-4455091409": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-at-viyahe-4455077531": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-account-executive-at-bodewell-group-4447416144": 1,
+    "https://www.linkedin.com/jobs/view/marketing-specialist-ii-marketing-at-christus-health-4445562472": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-sg-regional-sg-based-sgd%246k-m-at-thunderwear-asia-4456682980": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-kms-lighthouse-4456805112": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-it-services-saas-technology-consulting-at-beyond-border-consultants-4456693976": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-rich-property-solutions-4455091292": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-dnv-4389601254": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3302,13 +3302,14 @@
     "growth marketing manager, emea|||harvey": "2026-08-22T18:01:41.955Z",
     "gtm engineer|||customdomain™": "2026-08-23T01:34:22.069Z",
     "growth marketing manager|||quickemailverification": "2026-08-23T04:22:12.192Z",
-    "gtm specialist|||axe ai": "2026-08-23T06:16:17.498Z"
+    "gtm specialist|||axe ai": "2026-08-23T06:16:17.498Z",
+    "growth marketing manager - sg -&gt; regional - sg based - sgd$6k/m|||thunderwear asia": "2026-08-23T08:52:39.055Z"
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 9,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 10,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
