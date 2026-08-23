@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/paid-campaign-manager-at-dexian-4455406632": 1,
-    "https://www.linkedin.com/jobs/view/gestor-de-tr%c3%a1fego-at-eucard-4456342446": 1,
-    "https://www.linkedin.com/jobs/view/swd-operator-at-ngl-energy-partners-lp-4456405134": 1,
-    "https://www.linkedin.com/jobs/view/operator-i-at-veolia-north-america-4455457610": 1,
-    "https://www.linkedin.com/jobs/view/laborer-knoxville-tn-at-messer-construction-co-4453491346": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-gravitee-4453490281": 1,
     "https://www.linkedin.com/jobs/view/growth-strategy-lead-office-of-the-ceo-at-auxia-4456385433": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-onedigital-a-leading-agency-for-architects-interior-designers-luxury-brands-4455467587": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/production-team-member-at-oldcastle-infrastructure-4455808564": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-joolkart-4455812078": 1,
     "https://www.linkedin.com/jobs/view/junior-geotechnisch-adviseur-at-haskoning-4319352095": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-trove-4432895067": 1
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-trove-4432895067": 1,
+    "https://www.linkedin.com/jobs/view/washer-painter-fork-truck-operator-2nd-shift-at-eaton-4445807619": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4457895910": 1,
+    "https://www.linkedin.com/jobs/view/new-technology-specialist-technical-consultant-m-w-d-neurovascular-dach-at-stryker-4454427136": 1,
+    "https://www.linkedin.com/jobs/view/e-mailing-specialista-at-medi%c3%a1ln%c3%ad-skupina-mafra-4458138053": 1,
+    "https://www.linkedin.com/jobs/view/graduate-sales-development-representative-at-sekolah-karir-4456819147": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3316,7 +3316,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 41,
+    "cyclesToday": 42,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
