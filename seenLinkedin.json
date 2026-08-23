@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operations-technologist-revops-js-at-factorial-4190444456": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4455467055": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-at-kollective-group-4456382453": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-abs-international-4453498019": 1,
-    "https://www.linkedin.com/jobs/view/b2b-lead-genration-4453486136": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-caprae-capital-partners-4455455352": 1,
-    "https://www.linkedin.com/jobs/view/growth-development-representative-enterprise-at-goodstack-at-jack-jill-4455466077": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-fort-myers-at-tetra-tech-4456384301": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-butterflymx-4456361208": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-pittsburgh-or-cleveland-at-arctic-wolf-4455433100": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-automation-manager-at-mcgraw-hill-4453473176": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/bde-fresher-at-careerbloc-%7e-4456818785": 1,
     "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4456807236": 1,
     "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4456821156": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4457899933": 1
+    "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4457899933": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-at-waste-connections-4457893646": 1,
+    "https://www.linkedin.com/jobs/view/instructional-support-tech-iii-at-california-state-university-bakersfield-4456822758": 1,
+    "https://www.linkedin.com/jobs/view/research-lab-specialist-associate-duhaime-lab-at-university-of-michigan-4457001856": 1,
+    "https://www.linkedin.com/jobs/view/junior-collections-specialist-with-estonian-at-deloitte-4436660173": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-data-products-at-stripe-4454544374": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaigns-at-samba-4411817581": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-onebullex-4457899954": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-lior-caspi-law-firm-4455839009": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3316,7 +3316,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 37,
+    "cyclesToday": 38,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
