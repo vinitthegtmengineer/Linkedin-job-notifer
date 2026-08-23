@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/german-speaking-b2b-outbound-agent-at-tgtc-4456329194": 1,
-    "https://www.linkedin.com/jobs/view/growth-development-representative-enterprise-at-goodstack-at-jack-jill-4455402487": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-doola-4456145566": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sme-growth-dach-at-airwallex-4349731247": 1,
-    "https://www.linkedin.com/jobs/view/growth-development-representative-enterprise-at-goodstack-4456319244": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-legallength-4453447843": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-odoo-erp-software-solutions-at-delta-solusi-nusantara-pt-4456122739": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-sensor-tower-4454916817": 1,
-    "https://www.linkedin.com/jobs/view/smb-sales-account-executive-ii-at-wellhub-4418222143": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-kaliba-4454926779": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-johannesburg-south-africa-at-ifs-4453436117": 1,
     "https://www.linkedin.com/jobs/view/account-executive-global-technology-at-michael-page-4456314457": 1,
     "https://www.linkedin.com/jobs/view/account-executive-full-cycle-h-f-at-team-is-4454976707": 1,
     "https://www.linkedin.com/jobs/view/account-executive-commercial-fins-install-at-docusign-4445469395": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-trezix-making-global-trade-autonomous-4455093816": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-development-representative-at-toptal-4439397747": 1,
     "https://www.linkedin.com/jobs/view/sales-client-relationship-executive-catering-4455810145": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-london-at-replit-4411237373": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-london-at-replit-4411237373": 1,
+    "https://www.linkedin.com/jobs/view/werken-leren-procesoperator-5-ploegen-at-belgie-vacature-4457860442": 1,
+    "https://www.linkedin.com/jobs/view/supervising-geotechnical-core-logging-technician-at-fugro-4417120436": 1,
+    "https://www.linkedin.com/jobs/view/commercial-concrete-laborer-at-nwarkansas-4455808249": 1,
+    "https://www.linkedin.com/jobs/view/senior-staff-product-marketing-manager-enterprise-password-manager-at-1password-4439368423": 1,
+    "https://www.linkedin.com/jobs/view/field-marketing-manager-japan-at-verkada-4346499681": 1,
+    "https://www.linkedin.com/jobs/view/marketing-development-officer-at-easytransfer-4456826364": 1,
+    "https://www.linkedin.com/jobs/view/advertising-promotions-a-p-executive-at-knight-frank-4420287924": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-generation-next-it-solution-ltd-4456820465": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-at-stingrai-4456811462": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-hiredbuddy-4456815418": 1,
+    "https://www.linkedin.com/jobs/view/promoter-at-airtel-payments-bank-4456814251": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3314,7 +3314,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
