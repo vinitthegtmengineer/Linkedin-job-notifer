@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-alloy-4456379487": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4456360766": 1,
-    "https://www.linkedin.com/jobs/view/product-gtm-lead-optimize-at-scribe-4456370232": 1,
-    "https://www.linkedin.com/jobs/view/ppc-executive-google-ads-at-learning-routes-4455437610": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-programmatic-digital-advertising-at-verve-4428862276": 1,
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-programmatic-digital-advertising-at-verve-4428857713": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-manager-at-mccann-4439868165": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-manager-display-paid-social-m-w-d-at-emetriq-4453480505": 1,
-    "https://www.linkedin.com/jobs/view/cold-calling-executive-at-rolustech-4453450363": 1,
-    "https://www.linkedin.com/jobs/view/lab-technician-at-saint-gobain-ceramics-sgp-4456382314": 1,
     "https://www.linkedin.com/jobs/view/revops-manager-gtm-engineer-at-haas-alert-4455420512": 1,
     "https://www.linkedin.com/jobs/view/production-optimization-engineer-ii-at-expand-energy-4453467743": 1,
     "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-%e2%80%93-middle-east-africa-mea-at-lenovo-4417707661": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/builder-sales-development-representative-sdr-at-reevo-4373076752": 1,
     "https://www.linkedin.com/jobs/view/growth-lead-generation-specialist-at-coach-suchetaa-4451239537": 1,
     "https://www.linkedin.com/jobs/view/outreach-associate-at-pi-creations-4455098419": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-gogizmo-4456680020": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-at-gogizmo-4456680020": 1,
+    "https://www.linkedin.com/jobs/view/commercial-brick-block-laborer-at-lang-masonry-restoration-contractors-4458115440": 1,
+    "https://www.linkedin.com/jobs/view/production-team-member-manhole-inverter-at-oldcastle-infrastructure-4455807534": 1,
+    "https://www.linkedin.com/jobs/view/alba%c3%b1il-at-impermeabiliza-4455810166": 1,
+    "https://www.linkedin.com/jobs/view/technical-product-marketing-manager-at-aiven-4436608772": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456803746": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456811703": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-pheedloop-4456805760": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%2490k-%24120k-%2b-equity-at-tryrama-at-jack-jill-4456815701": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-fitelo-4455095719": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-italian-english-speaking-at-channext-4458103969": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3316,7 +3316,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
