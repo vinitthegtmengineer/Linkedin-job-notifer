@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/executive-sales-professional-at-ceasefire-industries-pvt-ltd-4455427937": 1,
-    "https://www.linkedin.com/jobs/view/night-lease-operator-at-permian-resources-4455451441": 1,
-    "https://www.linkedin.com/jobs/view/construction-material-testing-technician-at-ues-4456363902": 1,
-    "https://www.linkedin.com/jobs/view/construction-worker-1-at-cdm-smith-4456364003": 1,
-    "https://www.linkedin.com/jobs/view/demo-engineer-at-avepoint-4434587268": 1,
-    "https://www.linkedin.com/jobs/view/demo-engineer-at-avepoint-4436866416": 1,
-    "https://www.linkedin.com/jobs/view/lead-ii-marketing-at-ust-4434827477": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-engineer-at-texas-instruments-4448452897": 1,
-    "https://www.linkedin.com/jobs/view/outbound-product-manager-demo-architect-ifs-loops-at-ifs-4456300118": 1,
     "https://www.linkedin.com/jobs/view/operations-technologist-revops-js-at-factorial-4190444456": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4455467055": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-at-kollective-group-4456382453": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-glowradius-4455801473": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-biz-experts-junction-pvt-ltd-4455805625": 1,
     "https://www.linkedin.com/jobs/view/operator-beton-2-ploegen-hoog-loon%21-at-jobbsquare-belgie-4455074949": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-influencers-4457898958": 1
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-influencers-4457898958": 1,
+    "https://www.linkedin.com/jobs/view/d2c-performance-marketing-executive-at-krwizard-4456813751": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-meta-google-ads-in-gurgaon-at-mastry-formerly-design-sundays-4456809720": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-cdi-at-webyn-4456811797": 1,
+    "https://www.linkedin.com/jobs/view/edtech-bda-upto-6-5lpa-at-careerbloc-%7e-4456817741": 1,
+    "https://www.linkedin.com/jobs/view/bde-fresher-at-careerbloc-%7e-4456807856": 1,
+    "https://www.linkedin.com/jobs/view/bde-fresher-at-careerbloc-%7e-4456818785": 1,
+    "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4456807236": 1,
+    "https://www.linkedin.com/jobs/view/academic-counselor-fresher-at-mg-4456821156": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4457899933": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3316,7 +3316,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 36,
+    "cyclesToday": 37,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
