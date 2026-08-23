@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/direct-sales-account-executive-3-govt-at-dell-technologies-4455422380": 1,
-    "https://www.linkedin.com/jobs/view/quarry-operator-at-sibelco-group-4408995971": 1,
-    "https://www.linkedin.com/jobs/view/foundry-worker-at-paber-aluminium-4456182393": 1,
-    "https://www.linkedin.com/jobs/view/process-operator-at-kinross-gold-corporation-4455975959": 1,
-    "https://www.linkedin.com/jobs/view/chem-mill-operator-c-shift-at-ducommun-incorporated-4428882982": 1,
-    "https://www.linkedin.com/jobs/view/operadora-operador-de-produ%c3%a7%c3%a3o-i-fundi%c3%a7%c3%a3o%0aalum%c3%adnio-sp%0afull-time-employee-at-cba-companhia-brasileira-de-alum%c3%adnio-4455965672": 1,
-    "https://www.linkedin.com/jobs/view/operador-dosador-at-cerrad%c3%a3o-4453480058": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-staff-professional-at-ecs-group-of-companies-4456338463": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-tech-data-apac%e2%80%8b-4453469148": 1,
-    "https://www.linkedin.com/jobs/view/customer-marketing-executive-at-experian-4446590719": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaigns-marketing-executive-at-global-finance-magazine-4456332777": 1,
-    "https://www.linkedin.com/jobs/view/outbound-operations-associate-at-forward-iq-4454590058": 1,
-    "https://www.linkedin.com/jobs/view/sdr-t%c3%a9l%c3%a9prospecteur-offre-immobilier-f-h-casablanca-cdi-at-spartes-4456359265": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-spark-technologies-4456331041": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-account-executive-uk-2026-at-suade-4456349006": 1,
     "https://www.linkedin.com/jobs/view/account-executive-scada-ems-americas-at-power-factors-4456335659": 1,
     "https://www.linkedin.com/jobs/view/technical-operator-at-sika-4446216930": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/google-ads-expert-4456825456": 1,
     "https://www.linkedin.com/jobs/view/future-opportunity-sales-development-representative-meta-arabic-speaker-at-sentinelone-4390809386": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-khashsoft-4455097443": 1,
-    "https://www.linkedin.com/jobs/view/growth-specialist-at-banalo-business-4455815271": 1
+    "https://www.linkedin.com/jobs/view/growth-specialist-at-banalo-business-4455815271": 1,
+    "https://www.linkedin.com/jobs/view/procesoperator-3-ploegen-synsel-techniek-at-jobster-4456678157": 1,
+    "https://www.linkedin.com/jobs/view/procesoperator-3-ploegen-jouwtechniekbaan-nl-at-jobster-4456813604": 1,
+    "https://www.linkedin.com/jobs/view/blaster-at-eagle-railcar-services-4458113580": 1,
+    "https://www.linkedin.com/jobs/view/grade-checker-at-global-earthwork-underground-4352567677": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-field-technician-construction-materials-testing-at-intertek-building-construction-4456811489": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-attio-4421294248": 1,
+    "https://www.linkedin.com/jobs/view/software-engineer-growth-infrastructure-at-replit-4411243159": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-b2b-performance-marketing-at-salwan-surgicare-4455400824": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-4456683785": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-enterprise-dach-at-atlassian-4447799336": 1,
+    "https://www.linkedin.com/jobs/view/dialoger-at-brave-fundraising-gmbh-4458108621": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-us-at-wayflyer-4274821003": 1,
+    "https://www.linkedin.com/jobs/view/ecs-federal-account-executive-at-docusign-4428411939": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-greenfield-london-uk-at-coreweave-4447849343": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3314,7 +3314,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
