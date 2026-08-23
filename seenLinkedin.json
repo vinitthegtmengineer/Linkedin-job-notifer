@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-6514cd5-at-referment-4456360079": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-gocomet-4451124056": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-us-corporate-travel-at-atica-global-4453510870": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hunter-bond-4453460126": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-indovance-inc-4454984815": 1,
-    "https://www.linkedin.com/jobs/view/assistente-de-prospec%c3%a7%c3%a3o-sdr-ribeir%c3%a3o-preto-sp-at-sankhya-4439231210": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-mclean-company-4455423728": 1,
     "https://www.linkedin.com/jobs/view/senior-sediment-remediation-engineer-at-arcadis-4415201712": 1,
     "https://www.linkedin.com/jobs/view/senior-sediment-remediation-engineer-at-arcadis-4415215559": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/performance-marketer-at-cosma-fertility-4456823530": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-robotixmind-4456823546": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-toolad-4455800543": 1,
-    "https://www.linkedin.com/jobs/view/inbound-sales-representative-at-wyzof-labs-4456803692": 1
+    "https://www.linkedin.com/jobs/view/inbound-sales-representative-at-wyzof-labs-4456803692": 1,
+    "https://www.linkedin.com/jobs/view/facebook-campaign-manager-maternity-leave-replacement-at-zoom-real-estate-investments-4455097682": 1,
+    "https://www.linkedin.com/jobs/view/community-development-partnership-associate-at-pursuit-4455801647": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4456810629": 1,
+    "https://www.linkedin.com/jobs/view/enrollment-development-specialist-i-in-la-county-at-altamed-health-services-4370849130": 1,
+    "https://www.linkedin.com/jobs/view/enrollment-development-specialist-i-in-la-county-at-altamed-health-services-4370833675": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-private-equity-real-estate-at-juniper-square-4326342620": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3315,7 +3315,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 12,
     "sentToday": 12,
     "lastSummaryDate": ""
