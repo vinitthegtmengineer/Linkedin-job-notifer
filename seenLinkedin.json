@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-executive-at-matrix-solutions-4456346115": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-fs455-at-fresche-solutions-4453464178": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-mid-market-at-docebo-4456350254": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-provision-4456343553": 1,
-    "https://www.linkedin.com/jobs/view/growth-associate-performance-based-remote-role-at-daily-equity-content-platform-4453446251": 1,
-    "https://www.linkedin.com/jobs/view/business-development-manager-at-embrace-4455442200": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-strategic-at-ibm-4443689656": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-dell-technologies-4455431514": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-aviation-at-dell-technologies-4455432512": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-wing-assistant-4449868504": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-saas-us-at-entropik-4456339284": 1,
-    "https://www.linkedin.com/jobs/view/marketing-data-operations-at-strategic-employment-partners-sep-4455932262": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-hkr-team-4456185095": 1,
-    "https://www.linkedin.com/jobs/view/junior-lead-generation-at-yusanet-4453419635": 1,
-    "https://www.linkedin.com/jobs/view/telemarketer-%e2%80%93-morning-shift-at-dsd-recruitment-4455419979": 1,
     "https://www.linkedin.com/jobs/view/b2b-lead-generation-specialist-at-photawn-4453476087": 1,
     "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4456353812": 1,
     "https://www.linkedin.com/jobs/view/partitions-at-clayton-4456341905": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-opswat-4414509929": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-automation-specialist-hybrid-at-american-medical-association-4438359811": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-hustle-notice-biz-4455097105": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associate-at-radiant-global-ip-services-4456819594": 1
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-radiant-global-ip-services-4456819594": 1,
+    "https://www.linkedin.com/jobs/view/office-manager-senior-water-resources-engineer-at-dewberry-4410443703": 1,
+    "https://www.linkedin.com/jobs/view/wastewater-treatment-process-engineer-at-gft-4411406427": 1,
+    "https://www.linkedin.com/jobs/view/construction-worker-at-sweet-success-contractors-4458101731": 1,
+    "https://www.linkedin.com/jobs/view/carpentry-helper-construction-at-habitat-for-humanity-of-bucks-county-4457858226": 1,
+    "https://www.linkedin.com/jobs/view/concrete-carpenter-positions-at-mgc-contractors-inc-4457849226": 1,
+    "https://www.linkedin.com/jobs/view/field-engineer-at-replit-4411249091": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-manager-campaigns-at-samba-4411823301": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-specialist-at-sarj-%d8%b3%d8%b1%d8%ac-4458103438": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%93-german-market-at-futuremeets-4455079715": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-oj-digital-4442340897": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4456820563": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-doplift-4455815309": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associate-at-openhire-4456825021": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-business-success-elites-4456820429": 1,
+    "https://www.linkedin.com/jobs/view/key-account-executive-home-care-at-unilever-4456817447": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3310,13 +3310,14 @@
     "marketing & growth operations manager|||growth marketing jobs": "2026-08-23T11:46:56.316Z",
     "gtm engineer – meesho ai services (mas)|||meesho": "2026-08-23T12:59:29.303Z",
     "product marketing manager - ai gtm strategy, emea|||smartsheet": "2026-08-23T14:32:40.086Z",
-    "projektleiter / gutachter (m/w/d) im fachbereich altlasten / umweltschäden|||clayton umwelt-consult gmbh": "2026-08-23T15:30:39.625Z"
+    "projektleiter / gutachter (m/w/d) im fachbereich altlasten / umweltschäden|||clayton umwelt-consult gmbh": "2026-08-23T15:30:39.625Z",
+    "growth marketing manager-campaigns|||samba": "2026-08-23T18:46:21.483Z"
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 29,
-    "matchedToday": 11,
-    "sentToday": 11,
+    "cyclesToday": 30,
+    "matchedToday": 12,
+    "sentToday": 12,
     "lastSummaryDate": ""
   }
 }
