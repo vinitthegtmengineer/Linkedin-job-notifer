@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revops-manager-gtm-engineer-at-haas-alert-4455420512": 1,
-    "https://www.linkedin.com/jobs/view/production-optimization-engineer-ii-at-expand-energy-4453467743": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-%e2%80%93-middle-east-africa-mea-at-lenovo-4417707661": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-conga-4445759472": 1,
-    "https://www.linkedin.com/jobs/view/manager-of-gtm-strategy-and-solutions-at-pax8-4456151980": 1,
-    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-ai-data-security-at-avepoint-4433975048": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-ppro-4452848485": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-monta-4456362583": 1,
     "https://www.linkedin.com/jobs/view/sdr-%2b-gtm-generalist-at-impersonally-4453433659": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-meansquare-ai-4453418779": 1,
     "https://www.linkedin.com/jobs/view/executive-sales-professional-at-ceasefire-industries-pvt-ltd-4455427937": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-pheedloop-4456805760": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-%2490k-%24120k-%2b-equity-at-tryrama-at-jack-jill-4456815701": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-executive-at-fitelo-4455095719": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-italian-english-speaking-at-channext-4458103969": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-italian-english-speaking-at-channext-4458103969": 1,
+    "https://www.linkedin.com/jobs/view/glaze-prep-operator-days-at-dal-tile-llc-4380589068": 1,
+    "https://www.linkedin.com/jobs/view/pelletizing-line-operator-at-advanced-drainage-systems-inc-4430017710": 1,
+    "https://www.linkedin.com/jobs/view/pilleerder-at-croda-4427848464": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-signalsapi-at-jack-jill-4456824630": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-novamed-systems-4455075986": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-mid-market-at-legora-4400142927": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-glowradius-4455801473": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-biz-experts-junction-pvt-ltd-4455805625": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3316,7 +3316,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 13,
     "sentToday": 13,
     "lastSummaryDate": ""
