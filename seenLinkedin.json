@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-specialist-4454986165": 1,
-    "https://www.linkedin.com/jobs/view/consultant-geotechnik-m-w-d-at-fugro-4454778033": 1,
-    "https://www.linkedin.com/jobs/view/growth-hacker-at-tixio-io-4456177393": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-india-%2b-mena-at-darwinbox-4455703669": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-tailscale-4442869631": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-taas-partners-4454965245": 1,
-    "https://www.linkedin.com/jobs/view/software-product-marketing-manager-at-ibm-4453423373": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-infoblox-4426440199": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-ahura-workforce-solutions-4453408666": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-cmhk-marketing-at-amazon-web-services-aws-4455902546": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-%e2%80%94-self-serve-decisioning-platform-retail-business-services-rbs-at-amazon-4455796079": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-keeper-security-inc-4442886199": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/marketing-growth-operations-manager-at-growth-marketing-jobs-4457849662": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-pheedloop-4456819221": 1,
     "https://www.linkedin.com/jobs/view/community-affairs-liaison-westchester-hudson-valley-at-liveonny-4439369559": 1,
-    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-gift-of-life-marrow-registry-4438353040": 1
+    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-gift-of-life-marrow-registry-4438353040": 1,
+    "https://www.linkedin.com/jobs/view/process-operator-i-at-amrize-4428288359": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-datafoundation-at-mulesoft-4430739448": 1,
+    "https://www.linkedin.com/jobs/view/ppc-executive-4455072449": 1,
+    "https://www.linkedin.com/jobs/view/digital-campaign-manager-with-hands-on-ppc-at-xtra-mile-lifecycle-marketing-agency-4458105083": 1,
+    "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-marketing-technology-workflow-optimization-at-labcorp-4389982312": 1,
+    "https://www.linkedin.com/jobs/view/commercial-sdr-emea-at-dash0-4400194371": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-remote-at-aifco-4455088889": 1,
+    "https://www.linkedin.com/jobs/view/business-development-partnerships-executive-at-ninjoo-4457885963": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-wtf-gyms-4457897124": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3311,7 +3311,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 8,
     "sentToday": 8,
     "lastSummaryDate": ""
