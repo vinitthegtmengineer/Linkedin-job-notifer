@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/amazon-key-%e2%80%93-b2b-growth-marketer-amazon-key-at-ring-4455904107": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-kota-4451192770": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-b2b-events-at-marketing-talent-publishing-events-tech-recruitment-4455790055": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-danone-4455541340": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-telecalling-executive-at-eteam-4455556818": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4452538397": 1,
     "https://www.linkedin.com/jobs/view/community-engagement-specialist-ne-at-trillium-health-resources-4455984590": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-specialist-office-of-the-public-defender-at-cook-county-government-4455983353": 1,
     "https://www.linkedin.com/jobs/view/leach-pad-operator-at-kinross-gold-corporation-4455995064": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/gtm-specialist-at-axe-ai-4456800020": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4456683582": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-denmonk-4456639478": 1,
-    "https://www.linkedin.com/jobs/view/hospice-community-liaison-at-three-oaks-hospice-4456689907": 1
+    "https://www.linkedin.com/jobs/view/hospice-community-liaison-at-three-oaks-hospice-4456689907": 1,
+    "https://www.linkedin.com/jobs/view/histology-technician-at-akron-children-s-4456760116": 1,
+    "https://www.linkedin.com/jobs/view/environmental-monitoring-specialist-at-kelly-science-engineering-technology-telecom-4457034831": 1,
+    "https://www.linkedin.com/jobs/view/environmental-project-engineer-at-k-singh-associates-inc-4455022477": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-befoundations-4456689918": 1,
+    "https://www.linkedin.com/jobs/view/sales-specialist-at-global-neuro-spine-care-pvt-ltd-4455024939": 1,
+    "https://www.linkedin.com/jobs/view/sales-specialist-at-stellar-communication-4455065087": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3306,7 +3306,7 @@
   },
   "stats": {
     "date": "2026-08-23",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 3,
     "sentToday": 3,
     "lastSummaryDate": ""
