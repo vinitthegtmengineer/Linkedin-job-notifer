@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/quality-control-specialist-at-crh-4457023660": 1,
-    "https://www.linkedin.com/jobs/view/kelp-conservation-and-aquaculture-specialist-at-kelp-ark-4456052200": 1,
-    "https://www.linkedin.com/jobs/view/general-laborer-4456490336": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-walker-miller-energy-services-4453703156": 1,
-    "https://www.linkedin.com/jobs/view/operador-a-de-produ%c3%a7%c3%a3o-iii-at-cimento-apodi-4454151615": 1,
-    "https://www.linkedin.com/jobs/view/operator-3-ploegendienst-effect-personeelsdiensten-b-v-at-jobster-4456051314": 1,
-    "https://www.linkedin.com/jobs/view/produktionsmitarbeiter-steinfertigungsanlage-m-w-d-at-ehl-ag-a-crh-company-4457037074": 1,
-    "https://www.linkedin.com/jobs/view/cuber-operator-at-crh-4457009736": 1,
-    "https://www.linkedin.com/jobs/view/machine-operator-at-crh-4457019690": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4456450333": 1,
-    "https://www.linkedin.com/jobs/view/pre-sales-engineer-at-aveva-4428419012": 1,
     "https://www.linkedin.com/jobs/view/dry-plant-operator-i-at-u-s-silica-company-4454130603": 1,
     "https://www.linkedin.com/jobs/view/frame-at-clayton-4457050190": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-enterprise-ai-software-at-nvidia-4436866751": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sdr-at-w2o-softwares-e-aplicativos-4455897535": 1,
     "https://www.linkedin.com/jobs/view/pr%c3%a9-vendas-at-falaboss-4456515042": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-enrollment-specialist-930946-at-equus-workforce-solutions-4456505864": 1,
-    "https://www.linkedin.com/jobs/view/product-sales-account-executive-at-booz-allen-hamilton-4458295365": 1
+    "https://www.linkedin.com/jobs/view/product-sales-account-executive-at-booz-allen-hamilton-4458295365": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-m%c3%a1quina-j%c3%banior-at-jobbol-4458290360": 1,
+    "https://www.linkedin.com/jobs/view/production-operator-c-at-ash-grove-cement-company-4455896966": 1,
+    "https://www.linkedin.com/jobs/view/r-d-technician-at-greene-tweed-4457174109": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4458298303": 1,
+    "https://www.linkedin.com/jobs/view/implementation-engineer-at-method-recruiting-a-3x-inc-5000-company-4458283344": 1,
+    "https://www.linkedin.com/jobs/view/deployed-engineer-at-cognition-at-jack-jill-4457169052": 1,
+    "https://www.linkedin.com/jobs/view/crm-manager-at-kaizen-gaming-4456880256": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-marketing-operations-and-gtm-readiness-at-on-4458293626": 1,
+    "https://www.linkedin.com/jobs/view/carrier-acquisition-specialist-at-tradexpress-llc-4456527249": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-pheedloop-4457168468": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-vena-solutions-4458298686": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3324,13 +3324,14 @@
     "gtm engineer|||trg.": "2026-08-24T17:16:15.504Z",
     "founding gtm and growth lead|||zinance": "2026-08-24T18:43:10.385Z",
     "patients outreach specialist|||stryde research": "2026-08-24T18:43:11.945Z",
-    "gtm engineer|||eubrics ai": "2026-08-24T20:14:37.486Z"
+    "gtm engineer|||eubrics ai": "2026-08-24T20:14:37.486Z",
+    "lead - marketing operations and gtm readiness|||on": "2026-08-24T20:52:16.028Z"
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 25,
-    "matchedToday": 12,
-    "sentToday": 12,
+    "cyclesToday": 26,
+    "matchedToday": 13,
+    "sentToday": 13,
     "lastSummaryDate": ""
   }
 }
