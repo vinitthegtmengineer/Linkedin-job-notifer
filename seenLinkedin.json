@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/tsu-outrreach-specialist-at-nyc-department-of-social-services-4454108082": 1,
-    "https://www.linkedin.com/jobs/view/advanced-water-technician-at-belfor-property-restoration-4454148880": 1,
-    "https://www.linkedin.com/jobs/view/intermediate-geochemist-at-stantec-4457073024": 1,
-    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4457074089": 1,
-    "https://www.linkedin.com/jobs/view/montador-de-forma-at-jobbol-4457063120": 1,
-    "https://www.linkedin.com/jobs/view/implementation-engineer-observe-at-snowflake-4457034114": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-optimove-4457001969": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-series-b-backed-fintech-saas-at-jack-jill-4456060811": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-virtustant-4454143584": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-apollo-linkedin-sales-navigator-at-nextgicsolutions-4454167229": 1,
     "https://www.linkedin.com/jobs/view/telecaller-at-jobtrade-4455632020": 1,
     "https://www.linkedin.com/jobs/view/early-career-environmental-engineer-at-geosyntec-consultants-4456052998": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-growth-marketing-at-ocrolus-4458292726": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-specialist-driver-growth-at-bolt-4457177271": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-m-f-d-swiss-market-at-atoss-software-se-4457178396": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458292074": 1
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458292074": 1,
+    "https://www.linkedin.com/jobs/view/field-operator-at-kinetik-4457187339": 1,
+    "https://www.linkedin.com/jobs/view/work-site-stabilization-technician-at-equipmentshare-4458500272": 1,
+    "https://www.linkedin.com/jobs/view/research-and-development-qc-technician-at-barnhardt-4457177540": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-scalr-4456538087": 1,
+    "https://www.linkedin.com/jobs/view/field-engineer-solutions-engineer-at-hw3-4458500716": 1,
+    "https://www.linkedin.com/jobs/view/autocad-and-infrastructure-product-marketing-specialist-at-autodesk-4457167755": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-austin-texas-at-box-4458297727": 1,
+    "https://www.linkedin.com/jobs/view/midmarket-account-executive-cyber-security-at-fulcrum-technology-solutions-4456048338": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-braze-4458297916": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3331,7 +3331,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 15,
     "sentToday": 15,
     "lastSummaryDate": ""
