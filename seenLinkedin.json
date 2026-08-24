@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-apollo-linkedin-sales-navigator-at-nextgicsolutions-4454167229": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-at-jobtrade-4455632020": 1,
-    "https://www.linkedin.com/jobs/view/early-career-environmental-engineer-at-geosyntec-consultants-4456052998": 1,
     "https://www.linkedin.com/jobs/view/early-career-environmental-engineer-at-geosyntec-consultants-4456075012": 1,
     "https://www.linkedin.com/jobs/view/milieukundig-adviseur-dura-vermeer-at-jobster-4456071176": 1,
     "https://www.linkedin.com/jobs/view/leerling-betonboorder-artiflex-b-v-at-jobster-4456060297": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/autocad-and-infrastructure-product-marketing-specialist-at-autodesk-4457167755": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-austin-texas-at-box-4458297727": 1,
     "https://www.linkedin.com/jobs/view/midmarket-account-executive-cyber-security-at-fulcrum-technology-solutions-4456048338": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-braze-4458297916": 1
+    "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-braze-4458297916": 1,
+    "https://www.linkedin.com/jobs/view/field-operator-artificial-lift-at-weatherford-4421255079": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-sale-at-lime-software-logics-4454137372": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-accel-bio-4458503085": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3331,7 +3331,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 15,
     "sentToday": 15,
     "lastSummaryDate": ""
