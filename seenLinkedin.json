@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/qi-makerspace-specialist-140982-at-uc-san-diego-4454113763": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4456793760": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-sarasota-fl-at-vetjobs-4456043298": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-lead-b2b-at-simplestudy-4456781820": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-fall-winter-cohort-at-owner-com-4456764845": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-samsearch-4456041120": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-fall-winter-cohort-at-owner-com-4456758711": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4456035235": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-technician-at-certerra-4454123335": 1,
-    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-at-efada-ai-4456789883": 1,
-    "https://www.linkedin.com/jobs/view/telesales-executive-4448716301": 1,
-    "https://www.linkedin.com/jobs/view/sales-business-development-executive-at-elexoft-4454121225": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-smartbuild-construction-solutions-4456039693": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-remote-us-canada-at-datagroomr-4455469183": 1,
     "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-wellbe-senior-medical-4456394982": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-deel-it-at-deel-4456501419": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-french-speaking-only-dubai-at-chab%c3%a9-4458243307": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-100%25-remoto-at-hamsa-4455899405": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-manager-at-reap-4448165997": 1
+    "https://www.linkedin.com/jobs/view/sales-development-manager-at-reap-4448165997": 1,
+    "https://www.linkedin.com/jobs/view/materials-lab-manager-concrete-soils-at-nova-engineering-and-environmental-llc-4447051747": 1,
+    "https://www.linkedin.com/jobs/view/reuse-engineer-at-carollo-engineers-4402175731": 1,
+    "https://www.linkedin.com/jobs/view/construction-laborer-at-rl-james-exteriors-4449008105": 1,
+    "https://www.linkedin.com/jobs/view/construction-laborer-at-rl-james-exteriors-4449011030": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-mongodb-4458261602": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-st-onge-company-4445026125": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-specialist-at-mywellops-4456513338": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-%e2%80%93-staffing-sales-lead-generation-at-trident-consulting-4458264117": 1,
+    "https://www.linkedin.com/jobs/view/b2b-cold-caller-at-pro-digital-solutions-4456505438": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-and-growth-lead-at-zinance-4457164442": 1,
+    "https://www.linkedin.com/jobs/view/patients-outreach-specialist-at-stryde-research-4458256605": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4456504580": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3321,13 +3321,15 @@
     "go-to-market engineer|||sunday": "2026-08-24T13:26:17.665Z",
     "client outreach specialist|||two chairs": "2026-08-24T13:26:19.176Z",
     "gtm engineer (clear1 - b2b)|||clear": "2026-08-24T15:04:35.034Z",
-    "gtm engineer|||trg.": "2026-08-24T17:16:15.504Z"
+    "gtm engineer|||trg.": "2026-08-24T17:16:15.504Z",
+    "founding gtm and growth lead|||zinance": "2026-08-24T18:43:10.385Z",
+    "patients outreach specialist|||stryde research": "2026-08-24T18:43:11.945Z"
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 21,
-    "matchedToday": 9,
-    "sentToday": 9,
+    "cyclesToday": 22,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
