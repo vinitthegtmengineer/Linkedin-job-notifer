@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-attention-4457013675": 1,
-    "https://www.linkedin.com/jobs/view/outreach-executive-i-at-oak-street-health-part-of-cvs-health-4457054629": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-mobile-assessor-at-acadia-healthcare-4456071689": 1,
     "https://www.linkedin.com/jobs/view/operator-at-hensel-phelps-4457033660": 1,
     "https://www.linkedin.com/jobs/view/product-marketing-manager-at-jomablue-4456093102": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-eigenai-4456081248": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-edmentum-4432037053": 1,
     "https://www.linkedin.com/jobs/view/senior-specialist-marketing-at-monks-4458273960": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-namer-at-primer-4453331353": 1,
-    "https://www.linkedin.com/jobs/view/global-partnership-associate-at-recruitable-4457190449": 1
+    "https://www.linkedin.com/jobs/view/global-partnership-associate-at-recruitable-4457190449": 1,
+    "https://www.linkedin.com/jobs/view/umweltberater-m-w-d-at-logicheck-4458545097": 1,
+    "https://www.linkedin.com/jobs/view/milieukundig-adviseur-dura-vermeer-at-jobster-4457173954": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-geologist-at-kleinfelder-4458516019": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3331,7 +3331,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 15,
     "sentToday": 15,
     "lastSummaryDate": ""
