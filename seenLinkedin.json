@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/dry-plant-operator-i-at-u-s-silica-company-4454130603": 1,
-    "https://www.linkedin.com/jobs/view/frame-at-clayton-4457050190": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-enterprise-ai-software-at-nvidia-4436866751": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-at-pavago-4456053431": 1,
-    "https://www.linkedin.com/jobs/view/international-sales-specialist-at-abs-international-4454143137": 1,
-    "https://www.linkedin.com/jobs/view/lead-demand-generation-specialists-at-commonmartin-consulting-4452430819": 1,
     "https://www.linkedin.com/jobs/view/tsu-outrreach-specialist-at-nyc-department-of-social-services-4454108082": 1,
     "https://www.linkedin.com/jobs/view/advanced-water-technician-at-belfor-property-restoration-4454148880": 1,
     "https://www.linkedin.com/jobs/view/intermediate-geochemist-at-stantec-4457073024": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/senior-lead-marketing-operations-and-gtm-readiness-at-on-4458293626": 1,
     "https://www.linkedin.com/jobs/view/carrier-acquisition-specialist-at-tradexpress-llc-4456527249": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-pheedloop-4457168468": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-vena-solutions-4458298686": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-vena-solutions-4458298686": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-field-technician-at-ecs-group-of-companies-4458285659": 1,
+    "https://www.linkedin.com/jobs/view/receiving-at-clayton-4458257518": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-growth-marketing-at-ocrolus-4458292726": 1,
+    "https://www.linkedin.com/jobs/view/senior-operations-specialist-driver-growth-at-bolt-4457177271": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-m-f-d-swiss-market-at-atoss-software-se-4457178396": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458292074": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3325,13 +3325,15 @@
     "founding gtm and growth lead|||zinance": "2026-08-24T18:43:10.385Z",
     "patients outreach specialist|||stryde research": "2026-08-24T18:43:11.945Z",
     "gtm engineer|||eubrics ai": "2026-08-24T20:14:37.486Z",
-    "lead - marketing operations and gtm readiness|||on": "2026-08-24T20:52:16.028Z"
+    "lead - marketing operations and gtm readiness|||on": "2026-08-24T20:52:16.028Z",
+    "gtm engineer, growth marketing|||ocrolus": "2026-08-24T21:31:56.227Z",
+    "outreach specialist|||career team": "2026-08-24T21:31:57.748Z"
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 26,
-    "matchedToday": 13,
-    "sentToday": 13,
+    "cyclesToday": 27,
+    "matchedToday": 15,
+    "sentToday": 15,
     "lastSummaryDate": ""
   }
 }
