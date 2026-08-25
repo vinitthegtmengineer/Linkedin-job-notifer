@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hired-4457565365": 1,
-    "https://www.linkedin.com/jobs/view/outbound-marketing-associate-at-f-learning-studio-4456615665": 1,
-    "https://www.linkedin.com/jobs/view/commercial-development-representative-at-s-p-global-4456611737": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-workvivo-at-maven-4457572508": 1,
-    "https://www.linkedin.com/jobs/view/water-quality-specialist-dairy-manufacturing-at-tharp-consulting-4456605634": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4457571320": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-at-bartley-corporation-4457564247": 1,
     "https://www.linkedin.com/jobs/view/cement-mason-urban-forestry-buf-public-works-7311-at-city-and-county-of-san-francisco-4457518875": 1,
     "https://www.linkedin.com/jobs/view/cement-finisher-at-mountains-edge-construction-ltd-4457533192": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-finix-4456604943": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/seaweed-culture-specialist-140482-at-san-diego-supercomputer-center-4456975050": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-lego-education-at-lego-education-4456557456": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-caprae-capital-partners-4457604830": 1,
-    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-talent-and-purpose-4457634955": 1
+    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-talent-and-purpose-4457634955": 1,
+    "https://www.linkedin.com/jobs/view/operator-dagdienst-of-ploegen-artiflex-b-v-at-jobster-4457654382": 1,
+    "https://www.linkedin.com/jobs/view/construction-material-testing-tech-lenexa-ks-at-certerra-4459043978": 1,
+    "https://www.linkedin.com/jobs/view/outreach-coordinator-heart-and-vascular-heart-acquisition-at-penn-state-health-4442668027": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456029531": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-upmarket-growth-accounts-at-jamf-4459014123": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456041336": 1,
+    "https://www.linkedin.com/jobs/view/modernization-sales-account-executive-sr-account-executive-account-manager-at-schindler-group-4456902759": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3355,7 +3355,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 31,
+    "cyclesToday": 32,
     "matchedToday": 24,
     "sentToday": 24,
     "lastSummaryDate": ""
