@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-ai-automation-at-juicylemons-4457089394": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-series-b-backed-fintech-saas-at-jack-jill-4456203089": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-life-designer-4454186414": 1,
-    "https://www.linkedin.com/jobs/view/sem-campaign-manager-remote-at-forbes-advisor-4457018671": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-freshworks-4457094368": 1,
-    "https://www.linkedin.com/jobs/view/sdr-b2b-saas-at-blu-selection-recruitment-agency-4457097331": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-threatcop-4454186283": 1,
-    "https://www.linkedin.com/jobs/view/wet-line-lab-specialist-1st-shift-6am-230pm-at-turbineaero-4457090121": 1,
-    "https://www.linkedin.com/jobs/view/environmental-specialist-at-smurfit-westrock-4447087022": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456207040": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-atag-team-building-4456209174": 1,
     "https://www.linkedin.com/jobs/view/online-marketing-manager-performance-marketing-m-w-d-at-madame-moneypenny-gmbh-4453899008": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-at-advanced-global-research-4457403562": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-uber-for-business-at-uber-4458559223": 1,
     "https://www.linkedin.com/jobs/view/growth-marketplace-manager-at-whynottrips-4456503729": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-german-speaking-at-hyper-recruitment-solutions-4418807528": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-german-speaking-at-hyper-recruitment-solutions-4418807528": 1,
+    "https://www.linkedin.com/jobs/view/concrete-batch-plant-operator-independence-excavating-at-independence-excavating-inc-4457197577": 1,
+    "https://www.linkedin.com/jobs/view/concrete-batch-plant-operator-independence-excavating-at-independence-excavating-inc-4457409503": 1,
+    "https://www.linkedin.com/jobs/view/commercial-solutions-engineer-at-infisical-4456567318": 1,
+    "https://www.linkedin.com/jobs/view/implementation-engineer-at-findation-ai-4458545146": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-thirdai-automation-inc-4457185609": 1,
+    "https://www.linkedin.com/jobs/view/user-growth-operations-at-coins-ph-4458574610": 1,
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-growth-partnerships-at-zorspeaker-4457422148": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-station-f-4457406353": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sgs-4456535626": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3332,7 +3332,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
