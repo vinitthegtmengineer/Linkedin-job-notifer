@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-london-at-anaplan-4456749118": 1,
-    "https://www.linkedin.com/jobs/view/mitarbeiter-m-w-d-umweltlabore-auftragssteuerung-probenvorbereitung-at-als-4446748160": 1,
-    "https://www.linkedin.com/jobs/view/concrete-forming-and-finishing-at-coastal-precast-systems-llc-4457311217": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-singapore-at-harness-4434868679": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-analystx-ai-4457304034": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-foodmark-4454194682": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-noida-location-1-to-2-years-of-experience-immediate-joiners-at-shft-in-4456220137": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-jixaar-ai-4454180876": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/marketing-manager-at-dafater-4458217842": 1,
     "https://www.linkedin.com/jobs/view/senior-lead-marketing-operations-and-gtm-readiness-at-on-4457441506": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-multiinsight-dtc-cro-growth-agency-4455892995": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-denodo-4457107143": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-denodo-4457107143": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-lightwork-ai-at-jack-jill-4457465329": 1,
+    "https://www.linkedin.com/jobs/view/sales-operations-gtm-engineer-at-station-f-4457409366": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-smallcase-4457419301": 1,
+    "https://www.linkedin.com/jobs/view/mobile-delivery-manager-international-at-adsynergix-4457415441": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-passionfruit-4456580754": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3329,13 +3329,14 @@
     "gtm engineer, growth marketing|||ocrolus": "2026-08-24T21:31:56.227Z",
     "outreach specialist|||career team": "2026-08-24T21:31:57.748Z",
     "drywall finisher|||clayton": "2026-08-25T03:34:45.044Z",
-    "gtm engineer - revenue operations|||baseten": "2026-08-25T08:02:48.459Z"
+    "gtm engineer - revenue operations|||baseten": "2026-08-25T08:02:48.459Z",
+    "sales operations & gtm engineer|||station f": "2026-08-25T08:56:46.783Z"
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 9,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 10,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
