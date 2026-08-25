@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/production-operator-layup-1st-shift-at-clayton-4457547429": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-%2b-equity-at-series-b-backed-fintech-saas-at-jack-jill-4456614494": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4456614487": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-t-0-at-airwallex-4454684707": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketer-influencer-marketing-on-site-at-natural-vitamins-europe-4437651158": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hired-4457565365": 1,
     "https://www.linkedin.com/jobs/view/outbound-marketing-associate-at-f-learning-studio-4456615665": 1,
     "https://www.linkedin.com/jobs/view/commercial-development-representative-at-s-p-global-4456611737": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-sageox-4457646153": 1,
     "https://www.linkedin.com/jobs/view/gtm-strategy-operations-lead-americas-at-felicis-4459011751": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-cdss-gtm-at-palo-alto-networks-4456946878": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-everflow-partner-marketing-platform-4459055306": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-everflow-partner-marketing-platform-4459055306": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-crh-4458794697": 1,
+    "https://www.linkedin.com/jobs/view/seaweed-culture-specialist-140482-at-san-diego-supercomputer-center-4456975050": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-lego-education-at-lego-education-4456557456": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-caprae-capital-partners-4457604830": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-talent-and-purpose-4457634955": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3355,7 +3355,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 30,
+    "cyclesToday": 31,
     "matchedToday": 24,
     "sentToday": 24,
     "lastSummaryDate": ""
