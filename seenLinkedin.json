@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-%24100k-%24170k-%2b-equity-at-sirius-at-jack-jill-4456207040": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-atag-team-building-4456209174": 1,
-    "https://www.linkedin.com/jobs/view/online-marketing-manager-performance-marketing-m-w-d-at-madame-moneypenny-gmbh-4453899008": 1,
-    "https://www.linkedin.com/jobs/view/integrated-campaign-manager-at-tpg-telecom-4444544799": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-at-major-players-b-corp%e2%84%a2-4455627247": 1,
-    "https://www.linkedin.com/jobs/view/digital-campaign-manager-in-m-w-d-at-mediaplanet-4418299821": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-alertmedia-4451241373": 1,
     "https://www.linkedin.com/jobs/view/leads-generation-ai-driven-sme-growth-at-airwallex-4454193601": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-impact-networking-llc-4455674851": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/user-growth-operations-at-coins-ph-4458574610": 1,
     "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-growth-partnerships-at-zorspeaker-4457422148": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-station-f-4457406353": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sgs-4456535626": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-sgs-4456535626": 1,
+    "https://www.linkedin.com/jobs/view/senior-technician-aec-cad-at-falmouth-university-4450474291": 1,
+    "https://www.linkedin.com/jobs/view/kenniswerker-geotechniek-at-crow-4458596607": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-table-space-4457429079": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-taas-partners-4457414884": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458279252": 1,
+    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-the-benevolent-society-4457193800": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3332,7 +3332,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
