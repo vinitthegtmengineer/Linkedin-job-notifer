@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-kmwa-4454197624": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-associate-at-greenhonchos-4454984481": 1,
-    "https://www.linkedin.com/jobs/view/smb-small-mid-market-campaign-manager-at-trimble-inc-4447031408": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-maternity-leave-cover-at-cyncly-4454196669": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-us-smb-outbound-at-metantz-4456019314": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-at-the-therapeutics-4454195462": 1,
-    "https://www.linkedin.com/jobs/view/outbound-business-development-malaysia-at-staffany-4454181079": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-business-development-executive-4456021602": 1,
-    "https://www.linkedin.com/jobs/view/senior-coordinator-telesales-at-foodpanda-4456093923": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-voy-4454196117": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-london-at-anaplan-4456749118": 1,
     "https://www.linkedin.com/jobs/view/mitarbeiter-m-w-d-umweltlabore-auftragssteuerung-probenvorbereitung-at-als-4446748160": 1,
     "https://www.linkedin.com/jobs/view/concrete-forming-and-finishing-at-coastal-precast-systems-llc-4457311217": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sr-performance-marketing-executive-at-let-s-build-brands-4457463267": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-d2c-product-brand-at-nabhya-ayurveda-4456568617": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-at-devline-solutions-4456592421": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-velozity-4456574570": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-velozity-4456574570": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-operations-at-baseten-4458708097": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-revenue-operations-at-baseten-4458717077": 1,
+    "https://www.linkedin.com/jobs/view/growth-creative-operations-at-lovable-4457177721": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-%40-domain-at-hatch-4456581361": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-dafater-4458216966": 1,
+    "https://www.linkedin.com/jobs/view/paid-social-creative-manager-at-qogita-4458717142": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-dafater-4458217842": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-marketing-operations-and-gtm-readiness-at-on-4457441506": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-multiinsight-dtc-cro-growth-agency-4455892995": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-denodo-4457107143": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3328,13 +3328,14 @@
     "lead - marketing operations and gtm readiness|||on": "2026-08-24T20:52:16.028Z",
     "gtm engineer, growth marketing|||ocrolus": "2026-08-24T21:31:56.227Z",
     "outreach specialist|||career team": "2026-08-24T21:31:57.748Z",
-    "drywall finisher|||clayton": "2026-08-25T03:34:45.044Z"
+    "drywall finisher|||clayton": "2026-08-25T03:34:45.044Z",
+    "gtm engineer - revenue operations|||baseten": "2026-08-25T08:02:48.459Z"
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 8,
-    "matchedToday": 1,
-    "sentToday": 1,
+    "cyclesToday": 9,
+    "matchedToday": 2,
+    "sentToday": 2,
     "lastSummaryDate": ""
   }
 }
