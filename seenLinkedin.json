@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4457384675": 1,
-    "https://www.linkedin.com/jobs/view/senior-cold-calling-agent-at-kivo-4454668234": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desenvolvimento-de-vendas-at-logline-log%c3%adstica-4454650796": 1,
-    "https://www.linkedin.com/jobs/view/lease-operator-i-at-tg-natural-resources-llc-4454682167": 1,
-    "https://www.linkedin.com/jobs/view/operator-assistant-ii-service-operator-ii-cementing-at-halliburton-4456286928": 1,
-    "https://www.linkedin.com/jobs/view/water-recycle-operator-at-exxonmobil-4457525970": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-manager-at-jellyfish-brasil-4454676043": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-toon-boom-animation-4457519788": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-go-lime-inc-4453568948": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-marqon-technologies-4454683224": 1,
-    "https://www.linkedin.com/jobs/view/recruitment-officer-at-juniper-training-ltd-4454684220": 1,
     "https://www.linkedin.com/jobs/view/partner-development-representative-german-undutchables-at-jobster-4456291757": 1,
     "https://www.linkedin.com/jobs/view/operator-kunststofsorteerinstallatie-procesoperator-delfzijl-jouwtechniekbaan-nl-at-jobster-4456287884": 1,
     "https://www.linkedin.com/jobs/view/operator-at-crh-4457368663": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-venture-hire-group-llc-4459001988": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-outbound-at-roadpost-4456945439": 1,
     "https://www.linkedin.com/jobs/view/college-outreach-associate-at-student-tribe-4456906398": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-wfh-night-shift-competitive-salary%21-at-thrivemodal-4457611797": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-wfh-night-shift-competitive-salary%21-at-thrivemodal-4457611797": 1,
+    "https://www.linkedin.com/jobs/view/senior-lab-technician-at-ecs-group-of-companies-4459033389": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4459023581": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-ecs-group-of-companies-4459007923": 1,
+    "https://www.linkedin.com/jobs/view/regional-manager-geotechnical-and-cmt-at-ecs-group-of-companies-4430497805": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-gumloop-4458798887": 1,
+    "https://www.linkedin.com/jobs/view/executive-experience-activation-at-stagwell-4402355157": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-bold-aspire-4457613705": 1,
+    "https://www.linkedin.com/jobs/view/online-media-manager-at-didi-4459020431": 1,
+    "https://www.linkedin.com/jobs/view/customer-engagement-specialist-at-soracom-4459013918": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-italian-market-at-connection-h2h-human-2-human-4457491048": 1,
+    "https://www.linkedin.com/jobs/view/mid-market-account-executive-qatar-at-salesforce-4459007844": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3351,7 +3351,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 20,
     "sentToday": 20,
     "lastSummaryDate": ""
