@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4457572325": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-greptile-4457556417": 1,
-    "https://www.linkedin.com/jobs/view/qualified-solution-engineer-at-salesforce-4419483266": 1,
-    "https://www.linkedin.com/jobs/view/channel-solutions-engineer-south-at-netskope-4429725245": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-at-t-0-4456277979": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4456096860": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-talkspace-4454684572": 1,
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-4454693608": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-operations-at-bicara-therapeutics-4457570006": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associate-at-brandhero-4457529052": 1,
     "https://www.linkedin.com/jobs/view/opportunity-creation-associate-at-klick-4456273012": 1,
     "https://www.linkedin.com/jobs/view/growth-specialist-at-medicoo-4456087973": 1,
     "https://www.linkedin.com/jobs/view/international-business-development-executive-at-chasepro-4456277548": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-exacare-ai-4457622807": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-au-d%c3%a9veloppement-des-affaires-bdr-at-finnect-4457606234": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-hospitality-at-lightspeed-commerce-4445054548": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-benchkart-marketplace-for-talent-4457613386": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-benchkart-marketplace-for-talent-4457613386": 1,
+    "https://www.linkedin.com/jobs/view/26-134-b3-field-operator-at-hilcorp-4457629926": 1,
+    "https://www.linkedin.com/jobs/view/26-578-b-plant-operator-at-hilcorp-4457634803": 1,
+    "https://www.linkedin.com/jobs/view/histology-technician-at-docs-dermatology-group-4459045270": 1,
+    "https://www.linkedin.com/jobs/view/geoconsulting-consultant-iv-consultor-t%c3%a9cnico-iv-at-fugro-4457621908": 1,
+    "https://www.linkedin.com/jobs/view/associate-consultant-engineer-at-ramboll-4456367934": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4459042207": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-sent-4459043366": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-digitalindiaadd-4457600829": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-exotel-4457485200": 1,
+    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-aftermath-services%c2%ae-4457624964": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3352,7 +3352,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 21,
     "sentToday": 21,
     "lastSummaryDate": ""
