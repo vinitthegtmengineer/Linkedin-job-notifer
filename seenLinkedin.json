@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-aircall-4457363836": 1,
-    "https://www.linkedin.com/jobs/view/email-whatsapp-marketing-executive-at-gravolite-4456644505": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jobtrade-4456637459": 1,
-    "https://www.linkedin.com/jobs/view/we-are-hiring-influencer-marketing-executive-noida-at-greenpista-4456629574": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-sector-1-at-jobtrade-4456635437": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketer-at-quikkred-4456635230": 1,
-    "https://www.linkedin.com/jobs/view/executive-influencer-marketing-at-solebs-4456641168": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-4457808296": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-asfour-crystal-4457817314": 1,
     "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-%e2%80%94-systems-and-automation-at-diligent-4430788594": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-4457223045": 1,
     "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4457215016": 1,
     "https://www.linkedin.com/jobs/view/join-our-team-at-the-k-project-fashion-collective-4457698142": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-collabera-4457223177": 1
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-collabera-4457223177": 1,
+    "https://www.linkedin.com/jobs/view/founding-go-to-market-engineer-at-autopilot-4459123347": 1,
+    "https://www.linkedin.com/jobs/view/ai-growth-marketing-engineer-content-lead-at-gung-4454125894": 1,
+    "https://www.linkedin.com/jobs/view/crm-marketing-netcore-campaign-experts-at-hansa-cequity-4457231025": 1,
+    "https://www.linkedin.com/jobs/view/junior-digital-marketing-executive-at-hairence-4457472191": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-cdi-at-webyn-4457696319": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-element-ops-4456980281": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-ireland-at-airwallex-4446234946": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3358,13 +3358,14 @@
     "mfg sidewall 2|||clayton": "2026-08-26T04:07:14.216Z",
     "gtm engineer, growth marketing|||jobgether": "2026-08-26T04:53:56.833Z",
     "outreach specialist|||konovo": "2026-08-26T04:53:58.325Z",
-    "gtm engineer, growth marketing|||stage 2 capital": "2026-08-26T06:04:17.109Z"
+    "gtm engineer, growth marketing|||stage 2 capital": "2026-08-26T06:04:17.109Z",
+    "founding go-to-market engineer|||autopilot": "2026-08-26T07:56:47.628Z"
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 8,
-    "matchedToday": 7,
-    "sentToday": 7,
+    "cyclesToday": 9,
+    "matchedToday": 8,
+    "sentToday": 8,
     "lastSummaryDate": ""
   }
 }
