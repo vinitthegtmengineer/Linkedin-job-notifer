@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/pre-post-sales-customer-engineer-enterprise-at-pendo-io-4447216287": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-nok-human-capital-4457802253": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-messaging-at-mcafee-4456255821": 1,
-    "https://www.linkedin.com/jobs/view/hybrid-account-executive-talent-solutions-at-linkedin-4439041014": 1,
-    "https://www.linkedin.com/jobs/view/casting-finishing-relief-operator-west-end-sk2-sh2-at-kohler-co-4400580169": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4337191081": 1,
-    "https://www.linkedin.com/jobs/view/specialist-growth-conversion-at-magnetic-inc-4457815108": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-world-courier-4445536919": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-%2b-linkedin-outreach-specialist-at-deepai-edits-4455029224": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-ld-virtual-outsource-4455027193": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-remote-at-aifco-4455032247": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-industrial-sector-at-fieldai-4447719659": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/outreach-specialist-at-konovo-4459106827": 1,
     "https://www.linkedin.com/jobs/view/produktionsmitarbeiter-m-w-d-betonfertigteile-at-ehl-ag-a-crh-company-4459080063": 1,
     "https://www.linkedin.com/jobs/view/%e5%9b%bd%e9%99%85%e8%90%a5%e9%94%80%e7%bb%8f%e7%90%86%ef%bc%88%e6%b7%b7%e5%87%9d%e5%9c%9f%e5%b7%a5%e7%a8%8b%e6%9c%ba%e6%a2%b0%ef%bc%89-at-%e4%b8%89%e4%b8%80%e9%87%8d%e5%b7%a5%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4457688915": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-amazon-music-fest-4457206123": 1
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-amazon-music-fest-4457206123": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-growth-marketing-at-stage-2-capital-4459077770": 1,
+    "https://www.linkedin.com/jobs/view/sr-worldwide-specialist-ai-data-ai-gtm-at-amazon-web-services-aws-4459088160": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-executive-at-rank-my-business-india-4457200186": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-cybez-ecommerce-marketing-d2c-growth-hack-agency-4456591367": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-development-representative-latam-at-verkada-4301574316": 1,
+    "https://www.linkedin.com/jobs/view/cisa-business-development-associate-personal-lines-at-chubb-4452219011": 1,
+    "https://www.linkedin.com/jobs/view/outreach-executive-at-jaypee-institute-of-information-technology-4457679780": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-mangalam-energy-solutions-pvt-ltd-4457232046": 1,
+    "https://www.linkedin.com/jobs/view/general-accounts-manager-mea-at-nvidia-ai-4456962240": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3357,13 +3357,14 @@
     "worldwide specialist - ai, data & ai gtm|||amazon web services (aws)": "2026-08-26T03:18:07.188Z",
     "mfg sidewall 2|||clayton": "2026-08-26T04:07:14.216Z",
     "gtm engineer, growth marketing|||jobgether": "2026-08-26T04:53:56.833Z",
-    "outreach specialist|||konovo": "2026-08-26T04:53:58.325Z"
+    "outreach specialist|||konovo": "2026-08-26T04:53:58.325Z",
+    "gtm engineer, growth marketing|||stage 2 capital": "2026-08-26T06:04:17.109Z"
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 6,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "cyclesToday": 7,
+    "matchedToday": 7,
+    "sentToday": 7,
     "lastSummaryDate": ""
   }
 }
