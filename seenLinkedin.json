@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-atlas-explorer-at-globalfoundries-4456223985": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-front-4447757009": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-%e2%80%94-systems-and-automation-at-diligent-4430794435": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-anz-sydney-melbourne-at-jfrog-4419081262": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-australia-at-primer-4420471418": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sdr-german-speaking-dach-at-opentext-4434879677": 1,
-    "https://www.linkedin.com/jobs/view/sdr-con-experiencia-en-it-y-hubspot-at-empresa-confidencial-4454693283": 1,
-    "https://www.linkedin.com/jobs/view/founder-s-office-gtm-at-suprsend-4454647546": 1,
-    "https://www.linkedin.com/jobs/view/we-re-hiring-sales-marketing-partners-all-over-india-at-dosnik-4454192739": 1,
-    "https://www.linkedin.com/jobs/view/named-account-executive-at-salesforce-4430715634": 1,
-    "https://www.linkedin.com/jobs/view/technician-2-at-aet-4456278396": 1,
-    "https://www.linkedin.com/jobs/view/civil-craft-laborer-hubbard-at-mortenson-4438832505": 1,
-    "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-flowitec-group-ghana-limited-4455043499": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-at-fivetran-4419957810": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-otter-ai-4439339452": 1,
     "https://www.linkedin.com/jobs/view/demo-experience-engineer-technical-success-at-openai-4437963269": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/telesales-representative-at-sarvayurdaan-4457242373": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-employment-hero-4459186330": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-at-marcus-evans-group-4387265592": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-expert-at-growthloom-4457915242": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-expert-at-growthloom-4457915242": 1,
+    "https://www.linkedin.com/jobs/view/operator-odlewnia-misek-nalewanie-m-k-at-geberit-polska-4457909976": 1,
+    "https://www.linkedin.com/jobs/view/operator-szkliwiernia-m-k-at-geberit-polska-4457928063": 1,
+    "https://www.linkedin.com/jobs/view/shop-employee-at-terrazzo-marble-supply-companies-4457687038": 1,
+    "https://www.linkedin.com/jobs/view/member-of-technical-staff-growth-engineering-at-gc-ai-4421854888": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-capital-equipment-1-1-at-atlas-copco-4457914644": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-sunk-at-coreweave-4364161199": 1,
+    "https://www.linkedin.com/jobs/view/marketing-content-executive-at-oliveboard-4457232910": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-at-gmart-developments-4459177561": 1,
+    "https://www.linkedin.com/jobs/view/crm-campaign-manager-m-w-d-at-rabot-energy-4459017920": 1,
+    "https://www.linkedin.com/jobs/view/%d7%9e%d7%a0%d7%94%d7%9c-%d7%aa-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c-%d7%95%d7%9e%d7%93%d7%99%d7%94-nono-group-at-nono-group-4457257199": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-netherlands-at-plancraft-4431721635": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-with-german-at-planet-4457913787": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-dach-at-hack-the-box-4436315814": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3366,7 +3366,7 @@
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
