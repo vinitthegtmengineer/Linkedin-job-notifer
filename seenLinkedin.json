@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-manager-jetbrains-ai-at-jetbrains-4427853436": 1,
-    "https://www.linkedin.com/jobs/view/sr-gtm-operations-manager-marketing-at-pendo-io-4439373559": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-united-kingdom-at-traild-4437942909": 1,
-    "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-invent-software-4455031343": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-open-hired-4456268773": 1,
-    "https://www.linkedin.com/jobs/view/interior-exterior-floor-cleaning-specialist-at-servicemaster-dsi-4455038336": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-group-manager-at-ecs-group-of-companies-4385129483": 1,
-    "https://www.linkedin.com/jobs/view/chemical-specialist-launch-team-at-ball-corporation-4427067205": 1,
-    "https://www.linkedin.com/jobs/view/processpecialist-avlopp-va-process-at-wsp-i-sverige-4418263335": 1,
-    "https://www.linkedin.com/jobs/view/mold-parts-builder-at-wells-4427375747": 1,
-    "https://www.linkedin.com/jobs/view/laborer-starting-pay-%2423-49-benefits-on-first-day-at-martin-marietta-4378028323": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4405429402": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-al-imtedad-4456639423": 1,
     "https://www.linkedin.com/jobs/view/paid-ads-manager-at-instaffo-4438836067": 1,
     "https://www.linkedin.com/jobs/view/paid-media-manager-at-acadia-4456249103": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-personal-worker-4454184356": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sea-at-euromonitor-international-4459152677": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-apj-at-hibob-4453125338": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-m%c3%b8debooker-at-securefirst-4444666945": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-union-at-centromed-4459144538": 1
+    "https://www.linkedin.com/jobs/view/outreach-specialist-union-at-centromed-4459144538": 1,
+    "https://www.linkedin.com/jobs/view/specialist-geotechnical-at-rio-tinto-4457697845": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-engineer-at-omnivision-4410820640": 1,
+    "https://www.linkedin.com/jobs/view/gtm-lead-at-embedding-vc-4459146578": 1,
+    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-takka-4457229401": 1,
+    "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hired-4459090951": 1,
+    "https://www.linkedin.com/jobs/view/campagnemanager-at-intergamma-4459155781": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-all-genders-at-heydata-4457646989": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-izil-beauty-4456597998": 1,
+    "https://www.linkedin.com/jobs/view/business-developers-fluent-b2-c1-english-at-flairstech-4459152684": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%93-saas-egypt-gcc-market-at-brite-4459160077": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-blackline-4446664520": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-full-cycle-%e2%80%93-saas-fintech-at-timup-4457225782": 1,
+    "https://www.linkedin.com/jobs/view/named-account-executive-at-salesforce-4449423362": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3361,13 +3361,14 @@
     "gtm engineer, growth marketing|||stage 2 capital": "2026-08-26T06:04:17.109Z",
     "founding go-to-market engineer|||autopilot": "2026-08-26T07:56:47.628Z",
     "gtm engineer|||scooter": "2026-08-26T08:52:14.552Z",
-    "outreach specialist-union|||centromed": "2026-08-26T08:52:16.028Z"
+    "outreach specialist-union|||centromed": "2026-08-26T08:52:16.028Z",
+    "gtm lead|||embedding vc": "2026-08-26T09:44:27.478Z"
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 10,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 11,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
