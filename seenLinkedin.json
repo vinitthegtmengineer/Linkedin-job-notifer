@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/product-sales-engineer-openroads-designer-at-bentley-systems-4456285202": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-infoblox-4435990649": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-jobtrade-4456633493": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-turkayamjal-at-jobtrade-4456643411": 1,
-    "https://www.linkedin.com/jobs/view/senior-programmatic-advertising-manager-all-gender-at-ipg-mediabrands-4455035062": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-solvejet-4455027117": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-leo-marcom-pvt-ltd-4455023124": 1,
-    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4456623907": 1,
     "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4457805180": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-israel-at-datadog-4457517823": 1,
     "https://www.linkedin.com/jobs/view/designated-operator-environmental-tank-specialist-at-kleinfelder-4439353867": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/growth-business-development-specialist-at-gameaddik-4457640210": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-scaleforce-4456979681": 1,
     "https://www.linkedin.com/jobs/view/outreach-executive-at-oak-street-health-part-of-cvs-health-4459102444": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-astronomer-4459053566": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-astronomer-4459053566": 1,
+    "https://www.linkedin.com/jobs/view/mfg-sidewall-2-at-clayton-4459077313": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-personal-care-beauty-at-chro-consulting-4456981943": 1,
+    "https://www.linkedin.com/jobs/view/campaign-manager-user-acquisition-at-bit-official-4432326712": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-advertising-manager-at-the-smith-family-4459089807": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4456956548": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-remote-at-jiga-4457662694": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4457202005": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4456977971": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3354,13 +3354,14 @@
     "manager, cdss gtm|||palo alto networks": "2026-08-25T22:10:56.273Z",
     "outreach specialist-walzem|||centromed": "2026-08-26T02:09:23.378Z",
     "gtm engineer|||weave bio": "2026-08-26T03:18:05.689Z",
-    "worldwide specialist - ai, data & ai gtm|||amazon web services (aws)": "2026-08-26T03:18:07.188Z"
+    "worldwide specialist - ai, data & ai gtm|||amazon web services (aws)": "2026-08-26T03:18:07.188Z",
+    "mfg sidewall 2|||clayton": "2026-08-26T04:07:14.216Z"
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 3,
-    "matchedToday": 3,
-    "sentToday": 3,
+    "cyclesToday": 4,
+    "matchedToday": 4,
+    "sentToday": 4,
     "lastSummaryDate": ""
   }
 }
