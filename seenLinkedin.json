@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-konrad-4454667986": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4457356889": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-dach-m-w-d-public-sector-at-sosafe-4447081321": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-base-careers-4456647214": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4455358531": 1,
-    "https://www.linkedin.com/jobs/view/operator-in-de-scheidingsafdeling-5-ploegen-synsel-techniek-at-jobster-4456642666": 1,
-    "https://www.linkedin.com/jobs/view/operator-betoncentrale-synsel-techniek-at-jobster-4456633718": 1,
-    "https://www.linkedin.com/jobs/view/art-arth-studio-technician-%23003918-at-university-of-north-carolina-asheville-4457806599": 1,
-    "https://www.linkedin.com/jobs/view/%e2%80%8b%e2%80%8bfloor-specialist-museums-preservation-at-colonial-williamsburg-foundation-4389795990": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4437551519": 1,
-    "https://www.linkedin.com/jobs/view/customer-engineer-platform-startups-google-cloud-at-google-4456268875": 1,
-    "https://www.linkedin.com/jobs/view/sales-representative-opportunity-%e2%80%93-remote-full-time-at-pearl-home-solutions-4454660792": 1,
-    "https://www.linkedin.com/jobs/view/client-acquisition-growth-executive-at-careerkitai-4454678083": 1,
-    "https://www.linkedin.com/jobs/view/sales-professional-4455029496": 1,
-    "https://www.linkedin.com/jobs/view/sales-developer-representative-f-h-n-at-hublo-4447569489": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-carbolink-4456647914": 1,
     "https://www.linkedin.com/jobs/view/job-description-%e2%80%93-student-relationship-executive-at-jims-kalkaji-4455029235": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-industrial-sector-at-fieldai-4447708842": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/sales-executive-at-orange-designer-4457230553": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-yellow-ai-4459185115": 1,
     "https://www.linkedin.com/jobs/view/senior-executive-client-development-at-orgai-solutions-4457909291": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-activation-at-st-trinity-property-group-4457910388": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-activation-at-st-trinity-property-group-4457910388": 1,
+    "https://www.linkedin.com/jobs/view/cleanpack-chemist-cdl-b-at-clean-harbors-4459125288": 1,
+    "https://www.linkedin.com/jobs/view/construction-surface-water-manager-at-rsk-geosciences-4448520137": 1,
+    "https://www.linkedin.com/jobs/view/norconsult-i-troms%c3%b8-s%c3%b8ker-erfarne-geoteknikere-at-norconsult-sverige-4459070384": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-jetbrains-ai-at-jetbrains-4457225974": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-manager-jetbrains-ai-at-jetbrains-4457247043": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-cler-4459151457": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-alteox-4457226894": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-%e2%80%93-b2b-digital-marketing-agency-at-the-4p-solutions-4457241685": 1,
+    "https://www.linkedin.com/jobs/view/director-of-marketing-operations-at-rogo-4449056449": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-coordinator-at-phillips-edison-company-4449022534": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-h-f-%e2%80%93-fintech-en-forte-croissance-cdi-at-rocket4sales-4457915526": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-singapore-public-sector-at-elastic-4459183254": 1,
+    "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-%e2%80%93-saas-vantaa-finland-at-mapon-finland-oy-4457224881": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-fgs-recruitment-4457225937": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-at-siox-global-llc-4457230982": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3366,7 +3366,7 @@
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 11,
     "sentToday": 11,
     "lastSummaryDate": ""
