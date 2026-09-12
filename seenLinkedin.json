@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-customer-experience-lifecycle-at-equinix-4421175427": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-pipeline-and-revenue-generation-at-equinix-4421187336": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-pipeline-and-revenue-generation-at-equinix-4421190294": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-mygameplan-4464305298": 1,
-    "https://www.linkedin.com/jobs/view/growth-operations-senior-specialist-at-vipkid-4463322313": 1,
-    "https://www.linkedin.com/jobs/view/ai-operational-excellence-saas-startup-engineer-at-mongoose-gray-4464070069": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-operations-specialist-at-careem-4437537744": 1,
-    "https://www.linkedin.com/jobs/view/lead-platform-growth-and-operations-at-lalamove-4328958538": 1,
-    "https://www.linkedin.com/jobs/view/senior-analytics-engineer-marketing-at-paddle-4461891999": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-harness-4398831718": 1,
-    "https://www.linkedin.com/jobs/view/manager-global-product-solutions-future-of-search-at-google-4454257111": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-vyral24-4461885793": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-snapnfit-4461862768": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-from-apparel-industry-at-mg-4462913854": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-from-apparel-industry-at-mg-4462901952": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-adwerdo-4461888720": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-cao-jewellery-4461874840": 1,
     "https://www.linkedin.com/jobs/view/we%e2%80%99re-hiring-e-commerce-ads-executive-%e2%80%93-amazon-flipkart-ppc-at-ledure-4462934873": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/outreach-executive-1-at-oak-street-health-part-of-cvs-health-4457519359": 1,
     "https://www.linkedin.com/jobs/view/ejecutivo-de-cuentas-b2b-san-isidro-at-farenet-4466489599": 1,
     "https://www.linkedin.com/jobs/view/corporate-account-executive-bangalore-at-crowdstrike-4409240462": 1,
-    "https://www.linkedin.com/jobs/view/strategic-sdr-german-speaking-dach-at-opentext-4434879677": 1
+    "https://www.linkedin.com/jobs/view/strategic-sdr-german-speaking-dach-at-opentext-4434879677": 1,
+    "https://www.linkedin.com/jobs/view/adviseur-geohydrologie-at-sweco-4446775756": 1,
+    "https://www.linkedin.com/jobs/view/theater-technician-cosumnes-oaks-high-school-at-elk-grove-unified-school-district-4464286749": 1,
+    "https://www.linkedin.com/jobs/view/carpenter-helper-at-baker-construction-4466733087": 1,
+    "https://www.linkedin.com/jobs/view/concrete-finisher-at-shiftclicks-4466721053": 1,
+    "https://www.linkedin.com/jobs/view/concrete-finisher-at-brasfield-gorrie-llc-4388962690": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-greptile-4465181375": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-ai-platform-software-at-nvidia-4447404429": 1,
+    "https://www.linkedin.com/jobs/view/growth-operations-sr-analyst-at-didi-4443706845": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-future-nine-information-technologies-pvt-ltd-4465414842": 1,
+    "https://www.linkedin.com/jobs/view/manager-email-operations-and-execution-at-prudential-financial-4456277755": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-verkada-4447726180": 1,
+    "https://www.linkedin.com/jobs/view/sdr-b2b-remoto-prospecci%c3%b3n-y-generaci%c3%b3n-de-reuniones-at-b2b-compass-consultora-comercial-4464734102": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-german-speaking-at-harvey-4389573895": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-dach-m-w-d-at-sosafe-4447086321": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-microsoft-dynamics-bc-f-o-ce-at-velosio-4250826901": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3550,13 +3550,14 @@
     "gtm enablement & scale architect, product enablement|||databricks": "2026-09-11T18:28:09.025Z",
     "call center outreach specialist (initial contact person)|||vacatia": "2026-09-11T18:28:10.577Z",
     "physician liaison / field outreach specialist|||securigene": "2026-09-12T06:15:43.963Z",
-    "gtm engineer|||pigment": "2026-09-12T21:25:28.969Z"
+    "gtm engineer|||pigment": "2026-09-12T21:25:28.969Z",
+    "growth operations sr analyst|||didi": "2026-09-12T23:11:15.542Z"
   },
   "stats": {
     "date": "2026-09-12",
-    "cyclesToday": 7,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "cyclesToday": 8,
+    "matchedToday": 3,
+    "sentToday": 3,
     "lastSummaryDate": ""
   }
 }
