@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-b2b-at-gno-partners-4462236351": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-sme-growth-hk-at-airwallex-4462215639": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-aci-worldwide-4462945309": 1,
-    "https://www.linkedin.com/jobs/view/brand-awareness-cold-outreach-telecaller-at-jobgether-4462969770": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4462958962": 1,
-    "https://www.linkedin.com/jobs/view/brand-awareness-cold-outreach-telecaller-at-jobgether-4462958775": 1,
-    "https://www.linkedin.com/jobs/view/partner-development-representative-at-eab-4409024241": 1,
-    "https://www.linkedin.com/jobs/view/outbound-lead-generation-gtm-specialist-linkedin-reddit-founder-communities-behance-dribbble-at-legit-design-studio-4462231318": 1,
     "https://www.linkedin.com/jobs/view/partner-development-representative-accounting-at-ramp-4387483965": 1,
     "https://www.linkedin.com/jobs/view/patient-outreach-executive-at-avorcms-services-llc-rcm-4462245178": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-manager-executive-at-telepie-technology-4462248428": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-vietnam-at-opswat-4466783482": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-singapore-at-opswat-4467002306": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-m-f-d-at-voize-4466791310": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-m-f-d-at-voize-4466786441": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-m-f-d-at-voize-4466786441": 1,
+    "https://www.linkedin.com/jobs/view/water-technology-technician-at-cape-environmental-management-inc-4465482319": 1,
+    "https://www.linkedin.com/jobs/view/junior-collections-specialist-with-estonian-at-deloitte-4436660173": 1,
+    "https://www.linkedin.com/jobs/view/digital-activation-manager-search-programmatic-at-spark-foundry-australia-4465700187": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-stripe-4454554298": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-dach-at-fivetran-4439360504": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-salesjobs-4466793632": 1,
+    "https://www.linkedin.com/jobs/view/remote-outreach-specialist-at-primops-4465495238": 1,
+    "https://www.linkedin.com/jobs/view/remote-customer-outreach-associate-at-primops-4465479419": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3561,7 +3561,7 @@
   },
   "stats": {
     "date": "2026-09-13",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 6,
     "sentToday": 6,
     "lastSummaryDate": ""
