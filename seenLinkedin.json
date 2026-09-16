@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/demo-engineer-at-avepoint-4436866416": 1,
-    "https://www.linkedin.com/jobs/view/sr-gtm-spec-infra-mig-mod-latam-wwso-at-amazon-web-services-aws-4455920724": 1,
-    "https://www.linkedin.com/jobs/view/field-product-specialist-sal-hsinchu-taiwan-at-teradyne-4340403056": 1,
-    "https://www.linkedin.com/jobs/view/marketing-gtm-ops-specialist-at-coverflex-4463857338": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-growth-lead-b2b-electronics-hybrid-at-beetronics-4465015987": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-manager-at-docusign-4445151902": 1,
-    "https://www.linkedin.com/jobs/view/next-gen-search-global-product-lead-at-google-4454763688": 1,
     "https://www.linkedin.com/jobs/view/strategic-gtm-specialist-apjc-strategic-gtm-at-amazon-web-services-aws-4455914064": 1,
     "https://www.linkedin.com/jobs/view/senior-go-to-market-lead-namer-go-to-market-at-amazon-web-services-aws-4455913710": 1,
     "https://www.linkedin.com/jobs/view/staff-smc-revenue-growth-at-snap-inc-4437839831": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/outreach-specialist-i-at-harmonycares-4467111133": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-expert-remote-full-time-at-navigator-hr-consulting-solutions-4466222725": 1,
     "https://www.linkedin.com/jobs/view/account-executive-at-ku-creatives-unlimited-4466892917": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-pilot-4445161721": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-pilot-4445161721": 1,
+    "https://www.linkedin.com/jobs/view/arkhola-sand-plant-laborer-at-crh-4468311245": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-chemisch-recyclen-vapro-banen-at-jobster-4467128297": 1,
+    "https://www.linkedin.com/jobs/view/glaze-prep-operator-c-shift-at-dal-tile-llc-4468314175": 1,
+    "https://www.linkedin.com/jobs/view/concrete-restoration-specialist-concrete-finisher-at-bcr-buckeye-construction-restoration-4465913938": 1,
+    "https://www.linkedin.com/jobs/view/concrete-restoration-specialist-concrete-finisher-at-bcr-buckeye-construction-restoration-4467959325": 1,
+    "https://www.linkedin.com/jobs/view/restoration-technician-mason-tuck-pointer-at-bcr-buckeye-construction-restoration-4468218909": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-operations-manager-at-garner-health-4467116290": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3583,7 +3583,7 @@
   },
   "stats": {
     "date": "2026-09-16",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
