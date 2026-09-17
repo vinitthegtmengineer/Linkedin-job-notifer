@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/community-outreach-specialist-personal-care-services-home-health-at-abricare-4465317844": 1,
-    "https://www.linkedin.com/jobs/view/community-engagement-specialist-at-careers-%40evidence-based-associates-4465322534": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-officer-at-mbif-futurex-4463425172": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-boldage-pace-4464111051": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-3-at-university-of-miami-4446526554": 1,
-    "https://www.linkedin.com/jobs/view/executive-n-project-sales-at-asian-paints-4465072562": 1,
-    "https://www.linkedin.com/jobs/view/executive-n-aid-relationship-chennai-at-asian-paints-4465079583": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-12th-wonder-4463405861": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representatives-sdr-at-addmore-services-llc-4464167605": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-specialist-at-virtustant-4463092094": 1,
     "https://www.linkedin.com/jobs/view/hc-operator-loader-at-fluor-corporation-4465317713": 1,
     "https://www.linkedin.com/jobs/view/operator-water-transfer-at-select-water-solutions-4460037766": 1,
     "https://www.linkedin.com/jobs/view/entry-level-oilfield-operator-cementing-at-halliburton-4464146590": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4467592283": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-atera-4466295654": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-meritfirst-4467803124": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-talent-flare-4467123003": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-talent-flare-4467123003": 1,
+    "https://www.linkedin.com/jobs/view/membrane-development-technician-at-captura-4468801891": 1,
+    "https://www.linkedin.com/jobs/view/qa-qc-technician-at-crh-4468830634": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4468805596": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-pave-finance-4468825295": 1,
+    "https://www.linkedin.com/jobs/view/gtm-ai-analytics-engineer-at-blue-signal-search-4458423151": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-mx-at-jelou-ai-4467802566": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-serenity-healthcare-4467596639": 1,
+    "https://www.linkedin.com/jobs/view/outbound-bdr-msp-at-auvik-4468698964": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-hire-velocity-4466634174": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-austin-at-planful-4467806712": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3584,13 +3584,14 @@
     "gtm engineer|||energi.ai": "2026-09-17T12:13:43.179Z",
     "outbound outreach specialist|||mpro 9": "2026-09-17T12:13:44.658Z",
     "forward deployed gtm engineer|||bitscale": "2026-09-17T17:08:03.302Z",
-    "go-to-market engineer|||pave finance": "2026-09-17T20:19:52.590Z"
+    "go-to-market engineer|||pave finance": "2026-09-17T20:19:52.590Z",
+    "outreach specialist|||hire velocity": "2026-09-17T22:56:18.923Z"
   },
   "stats": {
     "date": "2026-09-17",
-    "cyclesToday": 5,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "cyclesToday": 6,
+    "matchedToday": 6,
+    "sentToday": 6,
     "lastSummaryDate": ""
   }
 }
