@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/hc-operator-loader-at-fluor-corporation-4465317713": 1,
-    "https://www.linkedin.com/jobs/view/operator-water-transfer-at-select-water-solutions-4460037766": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-oilfield-operator-cementing-at-halliburton-4464146590": 1,
-    "https://www.linkedin.com/jobs/view/trd-operator-at-republic-services-4453410649": 1,
-    "https://www.linkedin.com/jobs/view/bulk-plant-operator-no-housing-provided-at-american-cementing-llc-4465607408": 1,
-    "https://www.linkedin.com/jobs/view/fieldman-at-western-midstream-4465364697": 1,
-    "https://www.linkedin.com/jobs/view/u-s-rig-based-positions-at-h-p-4454971448": 1,
-    "https://www.linkedin.com/jobs/view/facility-technician-sulphur-at-phillips-66-4464112935": 1,
-    "https://www.linkedin.com/jobs/view/acid-equipment-operator-at-imperative-chemical-partners-4463429278": 1,
-    "https://www.linkedin.com/jobs/view/hc-survey-crew-instrument-at-fluor-corporation-4445224966": 1,
-    "https://www.linkedin.com/jobs/view/construction-material-testing-technician-at-ues-4456363902": 1,
-    "https://www.linkedin.com/jobs/view/quality-control-field-technician-at-calportland-4453812011": 1,
-    "https://www.linkedin.com/jobs/view/environmental-consultant-at-dalgleish-associates-ltd-4465646588": 1,
-    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-industrie-at-haskoning-4463441993": 1,
     "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4464144458": 1,
     "https://www.linkedin.com/jobs/view/aplinkosaugos-vyr-specialist%c4%97-as-at-sweco-4463893908": 1,
     "https://www.linkedin.com/jobs/view/water-wastewater-project-professional-at-kleinfelder-4456389428": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-serenity-healthcare-4467596639": 1,
     "https://www.linkedin.com/jobs/view/outbound-bdr-msp-at-auvik-4468698964": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-at-hire-velocity-4466634174": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-austin-at-planful-4467806712": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-austin-at-planful-4467806712": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-all-shifts-at-crh-4468823735": 1,
+    "https://www.linkedin.com/jobs/view/procesoperator-3-ploegen-at-umicore-4438707187": 1,
+    "https://www.linkedin.com/jobs/view/conservatrice-restauratrice-conservateur-restaurateur-at-kanton-bern-4467597846": 1,
+    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4467807825": 1,
+    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4467594912": 1,
+    "https://www.linkedin.com/jobs/view/bouwhulp-at-booston-io-4467512500": 1,
+    "https://www.linkedin.com/jobs/view/finisher-cement-mason-for-concrete-construction-nashville-tn-at-ceco-concrete-construction-l-l-c-4432253789": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-ringcentral-4467818432": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-%e2%80%93-network-automation-at-forward-4467838008": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-9826f1a-at-referment-4468854166": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-malaysia-at-sumsub-4467557873": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-w-m-d-at-tumodo-4457312254": 1,
+    "https://www.linkedin.com/jobs/view/bd-hunter-at-didi-4468864333": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-media-intelligence-at-muck-rack-4466540145": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3585,13 +3585,14 @@
     "outbound outreach specialist|||mpro 9": "2026-09-17T12:13:44.658Z",
     "forward deployed gtm engineer|||bitscale": "2026-09-17T17:08:03.302Z",
     "go-to-market engineer|||pave finance": "2026-09-17T20:19:52.590Z",
-    "outreach specialist|||hire velocity": "2026-09-17T22:56:18.923Z"
+    "outreach specialist|||hire velocity": "2026-09-17T22:56:18.923Z",
+    "go-to-market engineer|||ringcentral": "2026-09-18T01:08:43.040Z"
   },
   "stats": {
-    "date": "2026-09-17",
-    "cyclesToday": 6,
-    "matchedToday": 6,
-    "sentToday": 6,
+    "date": "2026-09-18",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
