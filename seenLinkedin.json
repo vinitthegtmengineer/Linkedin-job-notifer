@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-from-apparel-industry-at-mg-4464525527": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-from-apparel-industry-at-mg-4464525526": 1,
-    "https://www.linkedin.com/jobs/view/performance-at-upclick-media-4464170741": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-dermalist-skincare-4448973922": 1,
-    "https://www.linkedin.com/jobs/view/ads-executive-us-travel-process-at-assistara-4463451242": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-digital-aura-4464514335": 1,
-    "https://www.linkedin.com/jobs/view/associate-performance-marketing-at-gokwik-4464500121": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-campaign-manager-amazon-dsp-retail-media-at-sight-talents-4463486796": 1,
-    "https://www.linkedin.com/jobs/view/e-commerce-online-marketing-manager-sea-ads-performance-marketing-kampagnenmanagement-m-w-d-at-it-systemtreff-gmbh-4465633566": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-lead-barcelona-at-freightos-4465826391": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-at-earnest-4446852871": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-india-at-freightos-4465840261": 1,
     "https://www.linkedin.com/jobs/view/marketing-gtm-ops-specialist-at-jobgether-4464571142": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/account-executive-german-speaking-at-qogita-4450693627": 1,
     "https://www.linkedin.com/jobs/view/account-executive-f-h-at-m-work-4462422076": 1,
     "https://www.linkedin.com/jobs/view/b2b-account-executive-at-gofluent-4443867792": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-kahua-4468003632": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-kahua-4468003632": 1,
+    "https://www.linkedin.com/jobs/view/operador-de-produ%c3%a7%c3%a3o-i-vaga-exclusiva-pcd-at-lyondellbasell-4468035008": 1,
+    "https://www.linkedin.com/jobs/view/specialist-cleaning-technician-at-e-e-group-4469126796": 1,
+    "https://www.linkedin.com/jobs/view/environmental-specialist-at-smurfit-westrock-4469209637": 1,
+    "https://www.linkedin.com/jobs/view/senior-environmental-technician-at-geosyntec-consultants-4424015581": 1,
+    "https://www.linkedin.com/jobs/view/environmental-professional-ust-ast-at-kleinfelder-4469246407": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-vocca-4469234558": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-sterlo-4468025288": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-media-manager-at-tatari-4461349220": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-colombia-at-fullstack-4469255577": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-colombia-at-fullstack-4469259611": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3595,13 +3595,14 @@
     "clinical outreach specialist|||alis behavioral health": "2026-09-18T17:53:55.355Z",
     "outreach specialist|||the fedcap group": "2026-09-18T17:53:56.891Z",
     "gtm engineer, inbound|||sentinelone": "2026-09-18T20:36:10.611Z",
-    "gtm engineer, outbound|||sentinelone": "2026-09-18T20:36:12.151Z"
+    "gtm engineer, outbound|||sentinelone": "2026-09-18T20:36:12.151Z",
+    "gtm engineer|||vocca": "2026-09-18T22:48:44.812Z"
   },
   "stats": {
     "date": "2026-09-18",
-    "cyclesToday": 6,
-    "matchedToday": 10,
-    "sentToday": 10,
+    "cyclesToday": 7,
+    "matchedToday": 11,
+    "sentToday": 11,
     "lastSummaryDate": ""
   }
 }
