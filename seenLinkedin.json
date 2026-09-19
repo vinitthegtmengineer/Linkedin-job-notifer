@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-jobs4sports-4466058535": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4463961853": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-juzgo-holiday-worlde-llp-4464838783": 1,
-    "https://www.linkedin.com/jobs/view/smb-small-mid-market-campaign-manager-at-trimble-inc-4447031408": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-manager-f-h-at-younited-4462972670": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-digital-platforms-at-mobia-medical-4464833987": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-fieldwire-by-hilti-4437884352": 1,
-    "https://www.linkedin.com/jobs/view/mitarbeiter-telefonakquise-%e2%80%93-b2b-saas-m-w-d-full-remote-at-cendas-4464827658": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-quartex-4463946656": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-public-sector-at-salesforce-4429594064": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-h-f-%e2%80%93-fintech-en-forte-croissance-cdi-at-rocket4sales-4464845805": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-public-sector-at-salesforce-4429588373": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-bdr-%e2%80%93-solutions-cx-crm-centres-de-contact-ia-at-xpcloud-4466058736": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-sourcing-sh-4460192929": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-lead-generation-specialist-open-to-fresh-graduate-at-crif-4463950476": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/digital-performance-campaign-manager-czech-republic-m-f-d-x-at-shopfully-4415344883": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-flexiple-4469549673": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-representative-at-propstar-technologies-4467307054": 1,
-    "https://www.linkedin.com/jobs/view/client-development-executive-at-propstar-technologies-4445562272": 1
+    "https://www.linkedin.com/jobs/view/client-development-executive-at-propstar-technologies-4445562272": 1,
+    "https://www.linkedin.com/jobs/view/floor-care-specialist-at-king-city-gardens-4469563327": 1,
+    "https://www.linkedin.com/jobs/view/crm-operations-manager-at-myfitnesspal-4469571085": 1,
+    "https://www.linkedin.com/jobs/view/marketing-online-executive-at-gmo-z-com-runsystem-jsc-4468412481": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-executive-social-at-kyra-at-jack-jill-4458367672": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-e-commerce-m-w-d-at-weck-4468047955": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-elevenlabs-4441634468": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-operations-pittsburgh-pa-at-vetjobs-4468408440": 1,
+    "https://www.linkedin.com/jobs/view/business-development-rep-at-salesforce-4450743901": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-mid-market-at-jet-hr-4469548663": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-hybrid-at-jet-hr-4469549647": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4466915709": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4468403434": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3607,7 +3607,7 @@
   },
   "stats": {
     "date": "2026-09-19",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 7,
     "sentToday": 7,
     "lastSummaryDate": ""
