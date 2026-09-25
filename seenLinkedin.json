@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-sales-account-executive-at-tmc-middle-east-4465903225": 1,
-    "https://www.linkedin.com/jobs/view/shell-operator-day-shift-aluminum-ogden-ut-at-precision-castparts-4467931136": 1,
-    "https://www.linkedin.com/jobs/view/operator-3-ploegendienst-effect-personeelsdiensten-b-v-at-jobster-4466809142": 1,
-    "https://www.linkedin.com/jobs/view/histology-technician-specialist-at-sioux-center-health-4467790928": 1,
-    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4466807039": 1,
-    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4466802082": 1,
-    "https://www.linkedin.com/jobs/view/building-envelope-consultant-at-walker-consultants-4466583886": 1,
-    "https://www.linkedin.com/jobs/view/truss-outside-stacker-at-clayton-4467915135": 1,
-    "https://www.linkedin.com/jobs/view/sr-specialist-smc-gtm-architect-at-snap-inc-4467718429": 1,
-    "https://www.linkedin.com/jobs/view/campaign-management-associate-at-accenture-in-india-4465919473": 1,
-    "https://www.linkedin.com/jobs/view/manager-growth-marketing-at-factor-4458575820": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-night-shift-at-nopex-services-4465597380": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-bdr-uk-european-market-london-based-at-station-f-4466195779": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-wow-recruitment-4466595573": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-heidi-4465909482": 1,
     "https://www.linkedin.com/jobs/view/outside-business-development-specialist-rep-at-paramount-residential-mortgage-group-inc-prmg-inc-4466804285": 1,
     "https://www.linkedin.com/jobs/view/bilingual-community-outreach-representative-at-personal-touch-home-care-4466807322": 1,
     "https://www.linkedin.com/jobs/view/chemical-operator-at-saint-gobain-ceramics-sgp-4467754979": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-b2b-campaign-at-search-solution-pvt-ltd-4469783859": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-visa-4471804365": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-aco-growth-florida-georgia-at-astrana-health-4469786592": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-40-43k-%e2%82%ac-fix-60-65k%e2%82%ac-ote-at-hyrise-4470043513": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-40-43k-%e2%82%ac-fix-60-65k%e2%82%ac-ote-at-hyrise-4470043513": 1,
+    "https://www.linkedin.com/jobs/view/chemical-mixer-at-ecolab-4471836699": 1,
+    "https://www.linkedin.com/jobs/view/r-d-specialist-at-rangeview-inc-4471828703": 1,
+    "https://www.linkedin.com/jobs/view/concrete-finisher-4470043735": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4469797725": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-at-1password-4471692807": 1,
+    "https://www.linkedin.com/jobs/view/sr-technical-product-marketing-manager-at-couchbase-4452751659": 1,
+    "https://www.linkedin.com/jobs/view/growth-engineer-at-makers-fund-4470116682": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-engineer-at-turn-4470110187": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-ambitions-travel-recruitment-4469745517": 1,
+    "https://www.linkedin.com/jobs/view/programmatic-media-manager-at-tatari-4461355155": 1,
+    "https://www.linkedin.com/jobs/view/gestionnaire-des-op%c3%a9rations-marketing-hubspot-marketing-operations-manager-hubspot-at-revops-report-4470116518": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-development-representative-at-teleport-4471824750": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-techium-consulting-group-4470042953": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-pacific-time-11am-7pm-pt-at-firsthand-4471830591": 1,
+    "https://www.linkedin.com/jobs/view/community-impact-representative-bhp-at-broward-health-4453648103": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3644,13 +3644,14 @@
     "gtm engineer - india|||juniper square": "2026-09-24T15:14:39.014Z",
     "revops engineer / go to market systems analyst|||impossible cloud": "2026-09-24T15:14:40.573Z",
     "market development and outreach specialist - hybrid|||sentara health": "2026-09-24T15:14:42.125Z",
-    "forming machine operator - concrete, clay and stone products|||béton provincial": "2026-09-24T19:17:10.404Z"
+    "forming machine operator - concrete, clay and stone products|||béton provincial": "2026-09-24T19:17:10.404Z",
+    "outreach specialist (pacific time / 11am-7pm pt)|||firsthand": "2026-09-25T05:31:01.327Z"
   },
   "stats": {
     "date": "2026-09-25",
-    "cyclesToday": 1,
-    "matchedToday": 0,
-    "sentToday": 0,
+    "cyclesToday": 2,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
