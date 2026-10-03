@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-pt-bumi-cahaya-unggul-4458342083": 1,
-    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-robotics-china-at-nvidia-4469630086": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-presales-collective-4469369235": 1,
-    "https://www.linkedin.com/jobs/view/product-operations-manager-at-samsara-4441895065": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-ab361ea-at-referment-4471147811": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-qg-media-an-ismg-company-4471150169": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-amazon-digital-advertising-at-amazon-4471116798": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-gowitek-agentic-ai-%2b-digital-transformation-partner-4470981228": 1,
-    "https://www.linkedin.com/jobs/view/sale-development-representative-at-gallea-ai-4470941912": 1,
-    "https://www.linkedin.com/jobs/view/junior-sales-development-representative-at-world-courier-4458407020": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-drive-social-media-4470969904": 1,
-    "https://www.linkedin.com/jobs/view/sales-account-executive-at-zylu-at-zylu-4469487853": 1,
     "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-saas-b2b-at-regcheq-m%c3%a9xico-4469473332": 1,
     "https://www.linkedin.com/jobs/view/operador-de-esta%c3%a7%c3%a3o-de-tratamento-de-%c3%a1gua-at-copacol-4469626472": 1,
     "https://www.linkedin.com/jobs/view/colour-lab-technician-at-canpack-group-4471168210": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-remote-colombia-at-fullstack-4475045303": 1,
     "https://www.linkedin.com/jobs/view/outreach-specialist-at-mental-health-association-of-rochester-4473822147": 1,
     "https://www.linkedin.com/jobs/view/community-liaison-hospice-at-hospice-of-the-midwest-4473802227": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-smb-cdi-m-f-at-station-f-4473833022": 1
+    "https://www.linkedin.com/jobs/view/account-executive-smb-cdi-m-f-at-station-f-4473833022": 1,
+    "https://www.linkedin.com/jobs/view/medior-adviseur-bodem-kracht-recruitment-at-jobster-4473840525": 1,
+    "https://www.linkedin.com/jobs/view/bouwhulp-at-booston-io-4473305677": 1,
+    "https://www.linkedin.com/jobs/view/bouwprofessional-timmerman-metselaar-stukadoor-of-dakdekker-matchflow-at-jobster-4473304091": 1,
+    "https://www.linkedin.com/jobs/view/opperman-at-booston-io-4473321318": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-bh-empreendimentos-constru%c3%a7%c3%b5es-e-eletricidade-ltda-4472998200": 1,
+    "https://www.linkedin.com/jobs/view/trim-at-clayton-4475010096": 1,
+    "https://www.linkedin.com/jobs/view/%d1%82%d1%80%d0%b5%d0%b1%d1%83%d1%8e%d1%82%d1%81%d1%8f-%d0%b1%d0%b5%d1%82%d0%be%d0%bd%d1%89%d0%b8%d0%ba%d0%b8-%d0%b2-%d1%8f%d0%bd%d0%b3%d0%b8%d1%8e%d0%bb%d1%8c-at-bisyor-4475055048": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-flow-engineering-4473188851": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-agentic-identity-security-apono-at-1password-4475094204": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-factory-4475069985": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-otto-4475092330": 1,
+    "https://www.linkedin.com/jobs/view/bdr-pl-prospec%c3%a7%c3%a3o-ativa-de-patroc%c3%adnio-at-fito-ag-4473827283": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3695,7 +3695,7 @@
   },
   "stats": {
     "date": "2026-10-03",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 1,
     "sentToday": 1,
     "lastSummaryDate": ""
