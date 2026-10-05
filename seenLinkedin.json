@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/auxiliar-de-funda%c3%a7%c3%b5es-at-jobbol-4472070671": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-wellhub-4470399769": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-eon-io-4416915917": 1,
-    "https://www.linkedin.com/jobs/view/ai-operations-analyst-growth-at-reformation-4472070624": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-revenue-suite-at-stripe-4472073846": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-revenue-suite-at-stripe-4472087512": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-specialist-at-okta-4450160155": 1,
-    "https://www.linkedin.com/jobs/view/gestor-de-m%c3%addia-paga-at-bhf-branding-hub-franchising-4470199402": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-apphelp-by-appdirect-4470398884": 1,
-    "https://www.linkedin.com/jobs/view/responsable-des-op%c3%a9rations-marketing-at-apphelp-by-appdirect-4470711490": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-traction-complete-4470502583": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-australia-at-memoryblue-4472086634": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-dach-at-docker-inc-4472073927": 1,
     "https://www.linkedin.com/jobs/view/bdr-at-uber-for-business-4469930401": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-b2b-german-market-at-anteriad-4474219432": 1,
     "https://www.linkedin.com/jobs/view/deutsch-german-remote-program-business-development-representative-b2b-at-anteriad-4450338252": 1,
     "https://www.linkedin.com/jobs/view/teleoperador-con-italiano-generaci%c3%b3n-de-leads-b2b-sector-it-at-anteriad-4474224340": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-outbound-d-f-m-german-speaking-at-leapsome-4438308337": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-outbound-d-f-m-german-speaking-at-leapsome-4438308337": 1,
+    "https://www.linkedin.com/jobs/view/banco-de-talento-operario-a-de-producci%c3%b3n-con-licencia-de-montacargas-al-d%c3%ada-at-ecolab-4389911720": 1,
+    "https://www.linkedin.com/jobs/view/senior-bouwkundig-adviseur-kracht-recruitment-at-jobster-4474226335": 1,
+    "https://www.linkedin.com/jobs/view/agentic-gtm-operator-a2a5236-at-referment-4475525246": 1,
+    "https://www.linkedin.com/jobs/view/agentic-gtm-operator-a2a5236-at-referment-4475528077": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-specialist-lead-management-abm-technology-at-amazon-web-services-aws-4475513637": 1,
+    "https://www.linkedin.com/jobs/view/vollzeit-marketing-m-w-d-paid-ads-creatives-at-bootsschule1-4474210950": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representatives-night-shift-%e2%80%93-office-based-at-bpo-impact-4473607181": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-associate-at-the-aec-mug-4473491826": 1,
+    "https://www.linkedin.com/jobs/view/outbound-growth-associate-fashion-brands-at-polopan-4475521243": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-%e2%80%93-cmmc-microsoft-cloud-services-at-pandologic-4474216905": 1,
+    "https://www.linkedin.com/jobs/view/mid-market-account-executive-at-right-choice-resources-4475515563": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3694,13 +3694,14 @@
     "outreach specialist|||mental health association of rochester": "2026-10-03T01:02:33.824Z",
     "gtm engineering analyst|||1password": "2026-10-03T16:07:20.818Z",
     "gtm sales system engineer (python, sql required)|||emt groupe, llc": "2026-10-04T17:05:47.102Z",
-    "gtm & outbound executive|||onlylaw": "2026-10-04T17:05:48.597Z"
+    "gtm & outbound executive|||onlylaw": "2026-10-04T17:05:48.597Z",
+    "agentic gtm operator (a2a5236)|||referment": "2026-10-05T02:01:55.092Z"
   },
   "stats": {
-    "date": "2026-10-04",
-    "cyclesToday": 6,
-    "matchedToday": 2,
-    "sentToday": 2,
+    "date": "2026-10-05",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
