@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-director-lead-lifecycle-marketing-analytics-at-nvent-4469252310": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-horizon3-ai-4476885394": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-klaviyo-4468028051": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-saas-iot-us-canada-at-keycafe-4475264598": 1,
-    "https://www.linkedin.com/jobs/view/remote-sales-development-lead-generation-representative-%e2%80%93-b2b-outbound-calls-us-market-egypt-at-%23twiceasnice-recruiting-4476852706": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-event-solutions-at-cvent-4408694485": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-copado-4438718263": 1,
     "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-sdr-for-u-s-payment-solutions-at-paired-4476885113": 1,
     "https://www.linkedin.com/jobs/view/concrete-batcher-central-coast-at-hymix-australia-4478038630": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/go-to-market-engineer-data-only-at-the-gtm-company-4480915205": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-metroscope-4479932918": 1,
     "https://www.linkedin.com/jobs/view/cold-caller-appointment-setter-at-digital-hive-solutions-4477375763": 1,
-    "https://www.linkedin.com/jobs/view/telesales-sales-development-representative-%e2%80%93-sap-grow-at-pt-metrodata-electronics-tbk-4479928880": 1
+    "https://www.linkedin.com/jobs/view/telesales-sales-development-representative-%e2%80%93-sap-grow-at-pt-metrodata-electronics-tbk-4479928880": 1,
+    "https://www.linkedin.com/jobs/view/lims-consultant-at-clarkston-consulting-4476846768": 1,
+    "https://www.linkedin.com/jobs/view/research-development-chemist-at-duluxgroup-4478231719": 1,
+    "https://www.linkedin.com/jobs/view/leerling-dakdekker-apeldoorn-tot-%e2%82%ac3-300-attract-at-jobster-4479944510": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-hearst-uk-4479939563": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-better-staff-4479950167": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-4479923798": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3788,7 +3788,7 @@
   },
   "stats": {
     "date": "2026-10-18",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
