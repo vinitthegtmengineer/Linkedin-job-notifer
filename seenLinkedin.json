@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-diligent-os-4477224164": 1,
-    "https://www.linkedin.com/jobs/view/manager-programmatic-at-publicis-commerce-4458695096": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-shopback-4448423504": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-commerce-at-publicis-media-4468030289": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-crm-f-h-at-aigle-4477882322": 1,
-    "https://www.linkedin.com/jobs/view/sr-manager-marketing-systems-web-operations-at-lg-electronics-north-america-4469274491": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-director-lead-lifecycle-marketing-analytics-at-nvent-4469252310": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-horizon3-ai-4476885394": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-klaviyo-4468028051": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-mongodb-4445204780": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-representative-at-xe-com-4480910535": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-development-representative-remote-centurion-at-blacksmith-agency-4480921052": 1,
-    "https://www.linkedin.com/jobs/view/demand-generation-representative-remote-knysna-at-blacksmith-agency-4480921062": 1
+    "https://www.linkedin.com/jobs/view/demand-generation-representative-remote-knysna-at-blacksmith-agency-4480921062": 1,
+    "https://www.linkedin.com/jobs/view/water-production-plant-operator-i-at-city-of-lufkin-4480918250": 1,
+    "https://www.linkedin.com/jobs/view/machine-operator-2nd-shift-at-oldcastle-apg-4478238320": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-engineer-data-only-at-the-gtm-company-4480915205": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-metroscope-4479932918": 1,
+    "https://www.linkedin.com/jobs/view/cold-caller-appointment-setter-at-digital-hive-solutions-4477375763": 1,
+    "https://www.linkedin.com/jobs/view/telesales-sales-development-representative-%e2%80%93-sap-grow-at-pt-metrodata-electronics-tbk-4479928880": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3783,13 +3783,14 @@
     "growth strategist, strategic (deployement strategist)|||clay": "2026-10-18T11:34:46.224Z",
     "software engineer, applied ai|||clay": "2026-10-18T11:34:47.703Z",
     "legal operations & innovation|||clay": "2026-10-18T11:34:49.198Z",
-    "product marketing manager, gtm|||oblq": "2026-10-18T17:35:27.344Z"
+    "product marketing manager, gtm|||oblq": "2026-10-18T17:35:27.344Z",
+    "go to market engineer (data only)|||the gtm company": "2026-10-18T21:53:57.513Z"
   },
   "stats": {
     "date": "2026-10-18",
-    "cyclesToday": 6,
-    "matchedToday": 4,
-    "sentToday": 4,
+    "cyclesToday": 7,
+    "matchedToday": 5,
+    "sentToday": 5,
     "lastSummaryDate": ""
   }
 }
