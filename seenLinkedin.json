@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/programmatic-campaign-manager-at-diggo-digital-company-4478485401": 1,
-    "https://www.linkedin.com/jobs/view/campaign-manager-programmatic-at-zenith-4449980534": 1,
-    "https://www.linkedin.com/jobs/view/senior-activation-manager-programmatic-advertising-all-genders-at-publicis-media-germany-4460295925": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-65904406555-at-somewhere-4479583290": 1,
-    "https://www.linkedin.com/jobs/view/director-marketing-channel-strategy-operations-at-scotiabank-4469450883": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-lead-at-nexhealth-4451879556": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-mid-market-latam-at-deel-4476696101": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-mid-market-latam-at-deel-4476698132": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-alibaba-cloud-solutions-vietnam-at-sailglobal-4482442660": 1,
     "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-analista-de-vendas-at-tecnofit-4480094340": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-italian-at-zendesk-4480028673": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-dallas-houston-at-casa-pisano-4482429116": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-dallas-houston-at-casa-pisano-4482429116": 1,
+    "https://www.linkedin.com/jobs/view/senior-geotechnical-engineer-%e2%80%93-tailings-at-klohn-crippen-berger-4482701180": 1,
+    "https://www.linkedin.com/jobs/view/bouwmedewerker-%e2%80%93-betaald-een-vak-leren-at-unique-4481638241": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-ai-automation-at-eversports-4482493517": 1,
+    "https://www.linkedin.com/jobs/view/sdr-at-oligo-security-4481313169": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-shipmonk-4481627725": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3833,10 +3833,10 @@
     "gtm engineer|||koyfin": "2026-10-22T23:19:04.357Z"
   },
   "stats": {
-    "date": "2026-10-22",
-    "cyclesToday": 6,
-    "matchedToday": 8,
-    "sentToday": 8,
+    "date": "2026-10-23",
+    "cyclesToday": 1,
+    "matchedToday": 0,
+    "sentToday": 0,
     "lastSummaryDate": ""
   }
 }
