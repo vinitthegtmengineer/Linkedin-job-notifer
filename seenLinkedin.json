@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-influur-4479652621": 1,
-    "https://www.linkedin.com/jobs/view/outreach-specialist-at-ossols-private-limited-4477755153": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-representative-at-curaleaf-4480591899": 1,
-    "https://www.linkedin.com/jobs/view/clinical-outreach-representative-at-amfm-healthcare-4480583428": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-gtm-mid-market-at-lumion-4480396740": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-london-hybrid-at-astronomer-4459053566": 1,
     "https://www.linkedin.com/jobs/view/productiemedewerker-betonindustrie-olympia-at-jobster-4479662914": 1,
     "https://www.linkedin.com/jobs/view/betonelementveredler-m-w-d-at-aicheler-braun-gmbh-4477772417": 1,
     "https://www.linkedin.com/jobs/view/operator-betonproductie-2-ploegendienst-fulltime-olympia-at-jobster-4479684050": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/account-executive-full-cycle-at-jet-hr-4483387195": 1,
     "https://www.linkedin.com/jobs/view/account-executive-tech-saas-at-evlo-ai-4482900278": 1,
     "https://www.linkedin.com/jobs/view/account-executive-tech-saas-at-evlo-ai-4482698467": 1,
-    "https://www.linkedin.com/jobs/view/major-account-executive-coppell-tx-at-xerox-4409741503": 1
+    "https://www.linkedin.com/jobs/view/major-account-executive-coppell-tx-at-xerox-4409741503": 1,
+    "https://www.linkedin.com/jobs/view/operator-i-machine-at-westlake-royal-building-products-4456294425": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-bosforo-m%c3%bchendislik-4481099692": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-executive-at-nextjobz-4481404619": 1,
+    "https://www.linkedin.com/jobs/view/digital-advertising-manager-remote-durban-at-blacksmith-agency-4483397132": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-4482911161": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associates-u-s-market-exp-b2-c1-english-speakers-at-flairstech-4483392835": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3858,7 +3858,7 @@
   },
   "stats": {
     "date": "2026-10-25",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 5,
     "sentToday": 5,
     "lastSummaryDate": ""
