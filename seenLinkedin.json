@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/productiemedewerker-betonindustrie-olympia-at-jobster-4479662914": 1,
-    "https://www.linkedin.com/jobs/view/betonelementveredler-m-w-d-at-aicheler-braun-gmbh-4477772417": 1,
-    "https://www.linkedin.com/jobs/view/operator-betonproductie-2-ploegendienst-fulltime-olympia-at-jobster-4479684050": 1,
-    "https://www.linkedin.com/jobs/view/digital-content%e2%80%afproduction-artist-at-cricut-4470178719": 1,
-    "https://www.linkedin.com/jobs/view/public-procurement-specialist-in-lithuania-at-culligan-baltics-4477385382": 1,
-    "https://www.linkedin.com/jobs/view/kitting-at-clayton-4480541003": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-operations-at-venn%c2%ae-4479670466": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-operations-at-venn%c2%ae-4479675050": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-at-netapp-4461132836": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-of-campaigns-and-digital-at-cooley-llp-4477721963": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-representative-at-propstar-technologies-4477714856": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-doordash-4460764214": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-doordash-4460754275": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-forescout-technologies-inc-4435848565": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-salesforce-4454339508": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-outbound-at-oracle-4461412570": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-inbound-at-oracle-4461408813": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-specialist-executive-at-nextjobz-4481404619": 1,
     "https://www.linkedin.com/jobs/view/digital-advertising-manager-remote-durban-at-blacksmith-agency-4483397132": 1,
     "https://www.linkedin.com/jobs/view/operations-manager-4482911161": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associates-u-s-market-exp-b2-c1-english-speakers-at-flairstech-4483392835": 1
+    "https://www.linkedin.com/jobs/view/business-development-associates-u-s-market-exp-b2-c1-english-speakers-at-flairstech-4483392835": 1,
+    "https://www.linkedin.com/jobs/view/waste-water-operator-1-at-darling-ingredients-4483508459": 1,
+    "https://www.linkedin.com/jobs/view/foundry-production-operator-at-boulder-connect-4482699711": 1,
+    "https://www.linkedin.com/jobs/view/concreters-frp-specialists-at-city-concreting-act-4482696738": 1,
+    "https://www.linkedin.com/jobs/view/plaster-bord-4481409363": 1,
+    "https://www.linkedin.com/jobs/view/construction-laborer-apprentice-at-boulder-connect-4482698918": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-at-mamgo-talente-%f0%9f%94%97-jobs-4483509571": 1,
+    "https://www.linkedin.com/jobs/view/marketing-manager-neuromodulation-at-livanova-4481402708": 1,
+    "https://www.linkedin.com/jobs/view/manager-digital-marketing-provident-entertainment-at-sony-music-entertainment-4473866868": 1,
+    "https://www.linkedin.com/jobs/view/manager-marketing-operations-at-dollamur-4483503773": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-fulcrum-4482697437": 1,
+    "https://www.linkedin.com/jobs/view/junior-sdr-%e2%80%93-saudi-market-at-growaxis-commercial-growth-partner-4483390832": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-%e2%80%93-healthcare-at-virtustant-4481096536": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-techium-consulting-group-4482693724": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-energin-4482694712": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3854,13 +3854,14 @@
     "gtm engineer|||ap3": "2026-10-25T17:39:44.024Z",
     "gtm engineer|||flowgen labs": "2026-10-25T17:39:45.527Z",
     "service engineer-i&s (tap hole clay)|||calderys": "2026-10-25T19:58:11.477Z",
-    "dach partner manager (german speaking)|||clay": "2026-10-25T19:58:12.981Z"
+    "dach partner manager (german speaking)|||clay": "2026-10-25T19:58:12.981Z",
+    "gtm engineer (m/w/d)|||mamgo": "2026-10-26T00:36:37.346Z"
   },
   "stats": {
-    "date": "2026-10-25",
-    "cyclesToday": 7,
-    "matchedToday": 5,
-    "sentToday": 5,
+    "date": "2026-10-26",
+    "cyclesToday": 1,
+    "matchedToday": 1,
+    "sentToday": 1,
     "lastSummaryDate": ""
   }
 }
