@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/convergehealth-life-sciences-product-forward-deployed-engineer-products-platforms-at-deloitte-4463661898": 1,
-    "https://www.linkedin.com/jobs/view/field-sales-engineer-at-trio-group-4480877673": 1,
-    "https://www.linkedin.com/jobs/view/convergehealth-life-sciences-product-forward-deployed-engineer-products-platforms-at-deloitte-4463665896": 1,
-    "https://www.linkedin.com/jobs/view/%e7%8e%b0%e5%9c%ba%e5%ba%94%e7%94%a8%e5%b7%a5%e7%a8%8b%e5%b8%88-%e6%b7%b1%e5%9c%b3-at-%e6%88%90%e9%83%bd%e9%92%9b%e5%92%8c%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4478215058": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-engineer-at-monolithic-power-systems-inc-4454840098": 1,
-    "https://www.linkedin.com/jobs/view/convergehealth-life-sciences-product-forward-deployed-engineer-products-platforms-at-deloitte-4463676178": 1,
-    "https://www.linkedin.com/jobs/view/strategic-engineer-ceo-office-at-port-io-4454735881": 1,
-    "https://www.linkedin.com/jobs/view/technical-product-marketing-specialist-electrification-at-abb-4475856722": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-viavi-solutions-4479691498": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-basis-4461198680": 1,
-    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-lakewatch-agentic-apps-at-databricks-4461162939": 1,
-    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-lakewatch-agentic-apps-at-databricks-4461150983": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-payment-all-genders-at-hrs-group-4462321852": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-datadog-4472407068": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-fund-administration-at-juniper-square-4470745725": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-powerhouse-express-4478207589": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-warah-4478207581": 1,
     "https://www.linkedin.com/jobs/view/crm-executive-at-digital-zone-4480888224": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/junior-sales-sales-development-representative-at-scaffcalc-4483736028": 1,
     "https://www.linkedin.com/jobs/view/patient-growth-specialist-bilingual-at-oak-street-health-part-of-cvs-health-4483758303": 1,
     "https://www.linkedin.com/jobs/view/community-outreach-representative-%e2%80%93-home-care-at-elite-home-health-care-4483754419": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-uk-market-at-greenly-4483261580": 1
+    "https://www.linkedin.com/jobs/view/account-executive-uk-market-at-greenly-4483261580": 1,
+    "https://www.linkedin.com/jobs/view/ai-business-analyst-at-courser-4473158363": 1,
+    "https://www.linkedin.com/jobs/view/o-m-consultant-at-brown-and-caldwell-4483271276": 1,
+    "https://www.linkedin.com/jobs/view/pesquisador-a-em-materiais-avan%c3%a7ados-jr-pl-at-braskem-4483222446": 1,
+    "https://www.linkedin.com/jobs/view/ajudante-de-pedreiro-mt-at-laddo-obras-4481831243": 1,
+    "https://www.linkedin.com/jobs/view/founding-revops-lead-at-mintive-4483593291": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-lassana-group-of-companies-4483604189": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-rary-handicraft-4483280585": 1,
+    "https://www.linkedin.com/jobs/view/retail-marketing-executive-retail-marketing-specialist-retail-marketing-coordinator-at-bold-her-voice-4481833649": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-my-choice-food-products-4480652945": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-betashares-4476574142": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-%e2%80%93-marketo-campaigns-lead-flow-4-7-years-at-me-4481832871": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-strategic-accounts-benelux-at-undelucram-ro-4483291265": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-sales-grands-comptes-at-station-f-4483273607": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-saas-outbound-at-yuja-4481822107": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-firmable-4483796545": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3866,7 +3866,7 @@
   },
   "stats": {
     "date": "2026-10-27",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
