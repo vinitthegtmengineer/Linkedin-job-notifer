@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-sdr-at-hirelago-com-4481376879": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-%e2%80%93-us-b2b-construction-sales-lahore-at-bpo-impact-4480070377": 1,
-    "https://www.linkedin.com/jobs/view/account-development-representative-italian-speaking-at-mongodb-4446585352": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-singapore-at-rubrik-4465655126": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associate-at-corpay-4472399525": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-danish-speaking-at-flexport-4437032988": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-glocomms-4482718746": 1,
-    "https://www.linkedin.com/jobs/view/batch-operator-at-custom-building-products-4481631004": 1,
-    "https://www.linkedin.com/jobs/view/batch-operator-1st-shift-at-custom-building-products-4481634004": 1,
-    "https://www.linkedin.com/jobs/view/analista-de-innovaci%c3%b3n-puente-aranda-at-holcim-colombia-4482471758": 1,
-    "https://www.linkedin.com/jobs/view/allround-gevelmedewerker-at-booston-io-4481350358": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-exacare-ai-4481619203": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-zip-4474118209": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-japan-at-fde-times-4480001651": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-koyfin-4482485628": 1,
     "https://www.linkedin.com/jobs/view/senior-associate-growth-strategy-operations-experiments-campaigns-at-airwallex-4480077580": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-neuromodulation-at-livanova-4480082900": 1,
     "https://www.linkedin.com/jobs/view/staff-product-marketing-manager-confluent-at-ibm-4480060160": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/business-development-associates-u-s-market-exposure-fluent-english-speakers-at-flairstech-4485605775": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4485163710": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-c03765a-at-referment-4485906765": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4485169627": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4485169627": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-mixer-callao-at-holcim-per%c3%ba-4449682527": 1,
+    "https://www.linkedin.com/jobs/view/agronomy-assistant-at-cargill-4458410438": 1,
+    "https://www.linkedin.com/jobs/view/senior-floriculture-specialist-at-james-madison-university-4485606909": 1,
+    "https://www.linkedin.com/jobs/view/site-safety-manager-at-clayco-4485112128": 1,
+    "https://www.linkedin.com/jobs/view/chemical-application-engineer-at-ecolab-4441203674": 1,
+    "https://www.linkedin.com/jobs/view/ajudante-at-concrejato-engenharia-4483920116": 1,
+    "https://www.linkedin.com/jobs/view/graduate-sales-engineer-at-emerson-4469196358": 1,
+    "https://www.linkedin.com/jobs/view/ai-systems-engineer-at-swivel-4485174109": 1,
+    "https://www.linkedin.com/jobs/view/manager-media-tim-hortons-us-at-tim-hortons-4432128878": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-tines-4477855722": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-canonical-4433365782": 1,
+    "https://www.linkedin.com/jobs/view/international-lead-generation-executive-at-propstar-technologies-4483955399": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-remote-newcastle-at-blacksmith-agency-4485918413": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-100%25-remote-anz-at-hostaway-4485642811": 1,
+    "https://www.linkedin.com/jobs/view/representative-4485146174": 1
   },
   "sentTitles": {
     "gtm engineer - ecosystem|||clay": "2026-06-09T17:37:06.071Z",
@@ -3893,7 +3893,7 @@
   },
   "stats": {
     "date": "2026-10-31",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 2,
     "sentToday": 2,
     "lastSummaryDate": ""
